@@ -31,6 +31,7 @@ const loadingState = document.getElementById("loadingState");
 const initialState = document.getElementById("initialState");
 const noResultsState = document.getElementById("noResultsState");
 const resultCount = document.getElementById("resultCount");
+const statsDisplay = document.getElementById("statsDisplay");
 
 let expressions = [];
 let debounceTimer;
@@ -182,11 +183,21 @@ function renderEmptyState() {
   noResultsState.classList.add("hidden");
   
   if (expressions.length > 0) {
-    resultCount.textContent = `총 ${expressions.length}건`;
-    resultCount.classList.remove("hidden");
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    const formattedDate = `${year}/${month}/${day}`;
+    
+    statsDisplay.textContent = `(${formattedDate}, total number of expressions: ${expressions.length})`;
+    statsDisplay.classList.remove("hidden");
   } else {
-    resultCount.classList.add("hidden");
+    statsDisplay.classList.add("hidden");
   }
+  
+  // Ensure resultCount is hidden and empty
+  resultCount.textContent = "";
+  resultCount.classList.add("hidden");
 
   initialState.classList.remove("hidden");
 }
