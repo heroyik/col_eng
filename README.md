@@ -25,6 +25,7 @@ A premium, high-performance web application designed to search and discover auth
 ## 🔍 Search Logic & UI Architecture
 
 To provide a superior user experience with standard Firestore (which has limited partial search capabilities), this app uses a refined client-side filtering strategy:
+
 1. **Initial Load**: All expressions are fetched from the `EnglishExpressions` collection on page load.
 2. **Multi-Field Filtering**: The search query is matched against the following fields (case-insensitive):
     - `primary`: The title/main expression.
@@ -41,14 +42,15 @@ To provide a superior user experience with standard Firestore (which has limited
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
 - Documents should follow this schema:
-    - `primary` (string): The main English expression.
-    - `meaning` (string): The meaning or translation.
-    - `similar` (array): A list of synonyms.
-    - `example` (string): A usage example.
+  - `primary` (string): The main English expression.
+  - `meaning` (string): The meaning or translation.
+  - `similar` (array): A list of synonyms.
+  - `example` (string): A usage example.
 
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/heroyik/col_eng.git
    cd col_eng
@@ -59,6 +61,7 @@ To provide a superior user experience with standard Firestore (which has limited
 
 3. Run locally:
    You can use any static server. For example:
+
    ```bash
    npx serve .
    ```

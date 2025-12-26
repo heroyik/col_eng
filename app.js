@@ -55,6 +55,7 @@ async function fetchAllExpressions() {
 // Search function
 function performSearch(searchTerm) {
   if (searchTerm === "*") {
+    console.log("Wildcard search triggered");
     renderResults(expressions);
     return;
   }
@@ -98,7 +99,8 @@ function renderResults(results) {
     return;
   }
 
-  resultCount.textContent = `${results.length} results found`;
+  const suffix = results.length === 1 ? "result" : "results";
+  resultCount.textContent = `${results.length} ${suffix} found`;
   resultCount.classList.remove("hidden");
 
   noResultsState.classList.add("hidden");
