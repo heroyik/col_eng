@@ -58,13 +58,14 @@ function performSearch(searchTerm) {
     try {
         const lowerSearch = searchTerm.toLowerCase();
         
-        // Filter logic: Search in 'primary', 'meaning', and 'similar' (synonyms)
+        // Filter logic: Search in 'primary', 'meaning', 'similar' (synonyms), and 'example'
         const results = expressions.filter(item => {
             const inPrimary = item.primary?.toLowerCase().includes(lowerSearch);
             const inMeaning = item.meaning?.toLowerCase().includes(lowerSearch);
             const inSimilar = item.similar?.some(s => s.toLowerCase().includes(lowerSearch));
+            const inExample = item.example?.toLowerCase().includes(lowerSearch);
             
-            return inPrimary || inMeaning || inSimilar;
+            return inPrimary || inMeaning || inSimilar || inExample;
         });
 
         renderResults(results);
