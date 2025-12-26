@@ -5,17 +5,29 @@ A premium, high-performance web application designed to search and discover auth
 ## ✨ Features
 
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
-- **Real-time Search**: Instant search results with intelligent debouncing to optimize performance and Firestore query usage.
-- **Firestore Integration**: Seamlessly connected to a Firebase database for scalable and real-time data retrieval.
-- **Mobile Responsive**: Fully optimized for a seamless experience across desktop, tablet, and mobile devices.
+- **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
+- **Enter Key Trigger**: Immediate search results update on hitting "Enter" for a faster user experience.
+- **Real-time Loading**: All expressions are loaded once on initialization to provide instant, lag-free search results.
+- **Mobile Responsive**: Fully optimized for a seamless experience across desktop, tablet, and mobile devices (including Safari/iOS compatibility).
 - **High Typography**: Uses premium fonts (Outfit and Playfair Display) for a professional look and feel.
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: Vanilla HTML5, CSS3 (Custom Design System)
+- **Frontend**: Vanilla HTML5, CSS3 (Custom Design System with -webkit prefixes for glassmorphism)
 - **Logic**: JavaScript (ES6+ Modules)
 - **Backend/Database**: Firebase Firestore
 - **Hosting**: Firebase Hosting
+
+## 🔍 Search Logic
+
+To provide a superior user experience with standard Firestore (which has limited partial search capabilities), this app uses a refined client-side filtering strategy:
+1. **Initial Load**: All expressions are fetched from the `EnglishExpressions` collection on page load.
+2. **Multi-Field Filtering**: The search query is matched against the following fields (case-insensitive):
+    - `primary`: The title/main expression.
+    - `meaning`: The definition or Korean translation.
+    - `similar`: An array of synonyms or related phrases.
+    - `example`: The usage example or conversation snippet.
+3. **Trigger**: Search updates live as you type (300ms debounce) or instantly when you press **Enter**.
 
 ## 🚀 Getting Started
 
@@ -23,6 +35,11 @@ A premium, high-performance web application designed to search and discover auth
 
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
+- Documents should follow this schema:
+    - `primary` (string): The main English expression.
+    - `meaning` (string): The meaning or translation.
+    - `similar` (array): A list of synonyms.
+    - `example` (string): A usage example.
 
 ### Installation
 
