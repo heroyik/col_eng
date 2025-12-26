@@ -51,14 +51,23 @@
         </div>
       </section>
 
-      <section id="resultsContainer" class="results-grid">
-        <!-- Results will be injected here -->
-        <div class="loading-state hidden">
+      <section class="results-section">
+        <div id="resultsContainer" class="results-grid">
+          <!-- Result cards will be injected here -->
+        </div>
+
+        <!-- Static State Messages -->
+        <div id="loadingState" class="loading-state hidden">
           <div class="spinner"></div>
           <p>Searching the database...</p>
         </div>
-        <div class="empty-state">
+
+        <div id="initialState" class="empty-state">
           <p>Type something to start searching!</p>
+        </div>
+
+        <div id="noResultsState" class="empty-state hidden">
+          <p>No matching expressions found. Try a different keyword!</p>
         </div>
       </section>
     </main>

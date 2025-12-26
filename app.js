@@ -27,6 +27,9 @@ const expressionsRef = collection(db, "EnglishExpressions");
 
 const searchInput = document.getElementById("searchInput");
 const resultsContainer = document.getElementById("resultsContainer");
+const loadingState = document.getElementById("loadingState");
+const initialState = document.getElementById("initialState");
+const noResultsState = document.getElementById("noResultsState");
 
 let expressions = [];
 let debounceTimer;
@@ -71,17 +74,21 @@ function performSearch(searchTerm) {
         renderResults(results);
     } catch (error) {
         console.error("Search error:", error);
-        resultsContainer.innerHTML = `<div class="empty-state"><p>Error processing search. Please try again.</p></div>`;
     } finally {
         renderLoading(false);
     }
 }
 
 function renderResults(results) {
+    resultsContainer.innerHTML = "";
+    
     if (results.length === 0) {
-        resultsContainer.innerHTML = `<div class="empty-state"><p>No matching expressions found. Try a different keyword!</p></div>`;
+        noResultsState.classList.remove("hidden");
         return;
     }
+
+    noResultsState.classList.add("hidden");
+    initialState.classList.add("hidden");
 
     resultsContainer.innerHTML = results
         .map(
@@ -108,20 +115,21 @@ function renderResults(results) {
 }
 
 function renderLoading(isLoading) {
-    const loader = document.querySelector(".loading-state");
-    const empty = document.querySelector(".empty-state");
-
     if (isLoading) {
-        loader.classList.remove("hidden");
-        if (empty) empty.classList.add("hidden");
-        resultsContainer.querySelectorAll(".expression-card").forEach((el) => el.remove());
+        loadingState.classList.remove("hidden");
+        initialState.classList.add("hidden");
+        noResultsState.classList.add("hidden");
+        resultsContainer.innerHTML = "";
     } else {
-        loader.classList.add("hidden");
+        loadingState.classList.add("hidden");
     }
 }
 
 function renderEmptyState() {
-    resultsContainer.innerHTML = `<div class="empty-state"><p>Type at least 2 characters to start searching!</p></div>`;
+    resultsContainer.innerHTML = "";
+    loadingState.classList.add("hidden");
+    noResultsState.classList.add("hidden");
+    initialState.classList.remove("hidden");
 }
 
 // Event Listeners
