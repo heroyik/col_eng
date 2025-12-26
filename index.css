@@ -250,15 +250,104 @@ h1 {
 
 /* Mobile Adjustments */
 @media (max-width: 768px) {
-  h1 {
-    font-size: 2.5rem;
-  }
   .container {
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem;
+    min-height: 100dvh; /* Use dynamic viewport height */
+    display: flex;
+    flex-direction: column;
   }
+
+  /* Compact Hero */
+  .hero {
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .subtitle {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    padding: 0 1rem;
+  }
+
+  /* Compact Search Box */
+  .search-section {
+    margin-bottom: 2rem;
+  }
+
+  .search-box {
+    border-radius: 16px;
+  }
+
+  #searchInput {
+    padding: 0.8rem 1rem 0.8rem 3rem;
+    font-size: 1rem;
+  }
+
+  .search-icon {
+    left: 1rem;
+    width: 20px;
+    height: 20px;
+  }
+
+  /* Compact Results Grid */
   .results-grid {
     grid-template-columns: 1fr;
+    gap: 1rem;
   }
+}
+
+/* Footer Styling */
+footer {
+  margin-top: auto; /* Pushes footer to bottom in flex container */
+  padding: 2rem 1rem;
+  text-align: center;
+  border-top: 1px solid var(--glass-border);
+  background: rgba(15, 23, 42, 0.4);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+footer p {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+
+footer a {
+  color: var(--secondary);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  position: relative;
+  display: inline-block;
+}
+
+footer a::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  bottom: -2px;
+  left: 0;
+  background-color: var(--secondary);
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.3s ease-out;
+}
+
+footer a:hover {
+  color: var(--primary);
+  text-shadow: 0 0 10px var(--primary-glow);
+}
+
+footer a:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+  background-color: var(--primary);
 }
 
 /* Example Box Styles */
