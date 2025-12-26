@@ -54,6 +54,11 @@ async function fetchAllExpressions() {
 
 // Search function
 function performSearch(searchTerm) {
+  if (searchTerm === "*") {
+    renderResults(expressions);
+    return;
+  }
+
   if (!searchTerm || searchTerm.length < 2) {
     renderEmptyState();
     return;
