@@ -69,3 +69,8 @@ To provide a superior user experience with standard Firestore (which has limited
 ## 📄 License
 
 MIT License - feel free to use and modify for your own projects!
+
+## 📧 Contact & Maintenance
+
+This project is maintained by **heroyik**.
+For inquiries, please contact: [heroyik@gmail.com](mailto:heroyik@gmail.com)
