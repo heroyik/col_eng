@@ -105,6 +105,7 @@ function renderResults(results) {
             ` : ""}
             ${item.example ? `
                 <div class="example-box">
+                    <span class="example-label">Example Usage</span>
                     <p class="example-text">${item.example.replace(/\n/g, '<br>')}</p>
                 </div>
             ` : ""}

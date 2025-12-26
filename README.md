@@ -9,8 +9,9 @@ A premium, high-performance web application designed to search and discover auth
 - **Enter Key Trigger**: Immediate search results update on hitting "Enter" for a faster user experience.
 - **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results) to ensure reliable repeated searches.
 - **Real-time Loading**: All expressions are loaded once on initialization to provide instant, lag-free search results.
-- **Mobile Responsive**: Fully optimized for a seamless experience across desktop, tablet, and mobile devices (including Safari/iOS compatibility).
-- **High Typography**: Uses premium fonts (Outfit and Playfair Display) for a professional look and feel.
+- **Mobile Responsive**: Fully optimized with fluid typography (`clamp()`) for a seamless experience across desktop, tablet, and mobile devices.
+- **Improved Readability**: Enhanced text contrast and clearly labeled "Example Usage" blocks for better clarity.
+- **High Typography**: Uses premium fonts (Outfit and Playfair Display) with responsive scaling.
 
 ## 🛠️ Technology Stack
 
