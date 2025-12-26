@@ -45,6 +45,7 @@ async function fetchAllExpressions() {
       expressions.push({ id: doc.id, ...doc.data() });
     });
     console.log(`Loaded ${expressions.length} expressions.`);
+    renderEmptyState(); // Update UI with total count
   } catch (error) {
     console.error("Error fetching expressions:", error);
   }
@@ -179,7 +180,14 @@ function renderEmptyState() {
   resultsContainer.innerHTML = "";
   loadingState.classList.add("hidden");
   noResultsState.classList.add("hidden");
-  resultCount.classList.add("hidden");
+  
+  if (expressions.length > 0) {
+    resultCount.textContent = `총 ${expressions.length}건`;
+    resultCount.classList.remove("hidden");
+  } else {
+    resultCount.classList.add("hidden");
+  }
+
   initialState.classList.remove("hidden");
 }
 
