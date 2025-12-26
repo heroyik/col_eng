@@ -381,3 +381,8 @@ footer a:hover::after {
   display: block;
   content: "";
 }
+
+.highlight {
+  color: var(--primary);
+  font-weight: 700;
+}

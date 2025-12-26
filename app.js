@@ -36,118 +36,161 @@ let debounceTimer;
 
 // Fetch expressions once on load
 async function fetchAllExpressions() {
-    try {
-        const q = query(expressionsRef, orderBy("primary", "asc"));
-        const querySnapshot = await getDocs(q);
-        expressions = [];
-        querySnapshot.forEach((doc) => {
-            expressions.push({ id: doc.id, ...doc.data() });
-        });
-        console.log(`Loaded ${expressions.length} expressions.`);
-    } catch (error) {
-        console.error("Error fetching expressions:", error);
-    }
+  try {
+    const q = query(expressionsRef, orderBy("primary", "asc"));
+    const querySnapshot = await getDocs(q);
+    expressions = [];
+    querySnapshot.forEach((doc) => {
+      expressions.push({ id: doc.id, ...doc.data() });
+    });
+    console.log(`Loaded ${expressions.length} expressions.`);
+  } catch (error) {
+    console.error("Error fetching expressions:", error);
+  }
 }
 
 // Search function
 function performSearch(searchTerm) {
-    if (!searchTerm || searchTerm.length < 2) {
-        renderEmptyState();
-        return;
-    }
+  if (!searchTerm || searchTerm.length < 2) {
+    renderEmptyState();
+    return;
+  }
 
-    renderLoading(true);
+  renderLoading(true);
 
-    try {
-        const lowerSearch = searchTerm.toLowerCase();
-        
-        // Filter logic: Search in 'primary', 'meaning', 'similar' (synonyms), and 'example'
-        const results = expressions.filter(item => {
-            const inPrimary = item.primary?.toLowerCase().includes(lowerSearch);
-            const inMeaning = item.meaning?.toLowerCase().includes(lowerSearch);
-            const inSimilar = item.similar?.some(s => s.toLowerCase().includes(lowerSearch));
-            const inExample = item.example?.toLowerCase().includes(lowerSearch);
-            
-            return inPrimary || inMeaning || inSimilar || inExample;
-        });
+  try {
+    const lowerSearch = searchTerm.toLowerCase();
 
-        renderResults(results);
-    } catch (error) {
-        console.error("Search error:", error);
-    } finally {
-        renderLoading(false);
-    }
+    // Filter logic: Search in 'primary', 'meaning', 'similar' (synonyms), and 'example'
+    const results = expressions.filter((item) => {
+      const inPrimary = item.primary?.toLowerCase().includes(lowerSearch);
+      const inMeaning = item.meaning?.toLowerCase().includes(lowerSearch);
+      const inSimilar = item.similar?.some((s) =>
+        s.toLowerCase().includes(lowerSearch)
+      );
+      const inExample = item.example?.toLowerCase().includes(lowerSearch);
+
+      return inPrimary || inMeaning || inSimilar || inExample;
+    });
+
+    renderResults(results);
+  } catch (error) {
+    console.error("Search error:", error);
+  } finally {
+    renderLoading(false);
+  }
 }
 
 function renderResults(results) {
-    resultsContainer.innerHTML = "";
-    
-    if (results.length === 0) {
-        noResultsState.classList.remove("hidden");
-        return;
-    }
+  resultsContainer.innerHTML = "";
 
-    noResultsState.classList.add("hidden");
-    initialState.classList.add("hidden");
+  if (results.length === 0) {
+    noResultsState.classList.remove("hidden");
+    return;
+  }
 
-    resultsContainer.innerHTML = results
-        .map(
-            (item) => `
+  noResultsState.classList.add("hidden");
+  initialState.classList.add("hidden");
+
+  resultsContainer.innerHTML = results
+    .map(
+      (item) => `
         <article class="expression-card">
             <div class="card-header">
                 <h3 class="text">${item.primary}</h3>
-                ${item.meaning ? `<span class="meaning">${item.meaning}</span>` : ""}
+                ${
+                  item.meaning
+                    ? `<span class="meaning">${item.meaning}</span>`
+                    : ""
+                }
             </div>
-            ${item.similar && Array.isArray(item.similar) ? `
+            ${
+              item.similar && Array.isArray(item.similar)
+                ? `
                 <div class="synonyms-list">
-                    ${item.similar.map((syn) => `<span class="synonym-tag">${syn}</span>`).join("")}
+                    ${item.similar
+                      .map((syn) => `<span class="synonym-tag">${syn}</span>`)
+                      .join("")}
                 </div>
-            ` : ""}
-            ${item.example ? `
+            `
+                : ""
+            }
+            ${
+              item.example
+                ? `
                 <div class="example-box">
                     <span class="example-label">Example Usage</span>
-                    <p class="example-text">${item.example.replace(/\n/g, '<br>')}</p>
+                    <p class="example-text">${highlightKeywords(item.example, [
+                      item.primary,
+                      ...(item.similar || []),
+                    ])}</p>
                 </div>
-            ` : ""}
+            `
+                : ""
+            }
         </article>
     `
-        )
-        .join("");
+    )
+    .join("");
+}
+
+function highlightKeywords(text, keywords) {
+  if (!text || !keywords || keywords.length === 0)
+    return text ? text.replace(/\n/g, "<br>") : "";
+
+  // Sort keywords by length (longest first) to avoid partial matching issues
+  const sortedKeywords = keywords
+    .filter((k) => k && typeof k === "string")
+    .sort((a, b) => b.length - a.length);
+
+  // Escape regex special characters
+  const escapeRegExp = (string) =>
+    string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+  let processedText = text.replace(/\n/g, "<br>");
+
+  // Create a single regex for all keywords
+  const pattern = new RegExp(
+    `(${sortedKeywords.map(escapeRegExp).join("|")})`,
+    "gi"
+  );
+
+  return processedText.replace(pattern, '<span class="highlight">$1</span>');
 }
 
 function renderLoading(isLoading) {
-    if (isLoading) {
-        loadingState.classList.remove("hidden");
-        initialState.classList.add("hidden");
-        noResultsState.classList.add("hidden");
-        resultsContainer.innerHTML = "";
-    } else {
-        loadingState.classList.add("hidden");
-    }
+  if (isLoading) {
+    loadingState.classList.remove("hidden");
+    initialState.classList.add("hidden");
+    noResultsState.classList.add("hidden");
+    resultsContainer.innerHTML = "";
+  } else {
+    loadingState.classList.add("hidden");
+  }
 }
 
 function renderEmptyState() {
-    resultsContainer.innerHTML = "";
-    loadingState.classList.add("hidden");
-    noResultsState.classList.add("hidden");
-    initialState.classList.remove("hidden");
+  resultsContainer.innerHTML = "";
+  loadingState.classList.add("hidden");
+  noResultsState.classList.add("hidden");
+  initialState.classList.remove("hidden");
 }
 
 // Event Listeners
 searchInput.addEventListener("input", (e) => {
-    clearTimeout(debounceTimer);
-    const searchTerm = e.target.value.trim();
-    debounceTimer = setTimeout(() => {
-        performSearch(searchTerm);
-    }, 300);
+  clearTimeout(debounceTimer);
+  const searchTerm = e.target.value.trim();
+  debounceTimer = setTimeout(() => {
+    performSearch(searchTerm);
+  }, 300);
 });
 
 searchInput.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-        clearTimeout(debounceTimer);
-        const searchTerm = e.target.value.trim();
-        performSearch(searchTerm);
-    }
+  if (e.key === "Enter") {
+    clearTimeout(debounceTimer);
+    const searchTerm = e.target.value.trim();
+    performSearch(searchTerm);
+  }
 });
 
 // Initial Fetch
