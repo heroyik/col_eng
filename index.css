@@ -148,7 +148,8 @@ h1 {
 }
 
 #searchInput::placeholder {
-  color: var(--text-muted);
+  color: rgba(255, 255, 255, 0.5);
+  opacity: 1; /* Firefox default is lower */
 }
 
 .search-icon {

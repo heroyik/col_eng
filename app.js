@@ -98,7 +98,7 @@ function renderResults(results) {
     return;
   }
 
-  resultCount.textContent = `${results.length}건 검색`;
+  resultCount.textContent = `${results.length} results found`;
   resultCount.classList.remove("hidden");
 
   noResultsState.classList.add("hidden");
