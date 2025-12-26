@@ -161,6 +161,15 @@ h1 {
   height: 24px;
 }
 
+/* Result Count */
+.result-count {
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  text-align: right;
+  padding: 0 0.5rem;
+}
+
 /* Results Grid */
 .results-grid {
   display: grid;

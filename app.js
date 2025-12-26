@@ -30,6 +30,7 @@ const resultsContainer = document.getElementById("resultsContainer");
 const loadingState = document.getElementById("loadingState");
 const initialState = document.getElementById("initialState");
 const noResultsState = document.getElementById("noResultsState");
+const resultCount = document.getElementById("resultCount");
 
 let expressions = [];
 let debounceTimer;
@@ -85,9 +86,13 @@ function renderResults(results) {
   resultsContainer.innerHTML = "";
 
   if (results.length === 0) {
+    resultCount.classList.add("hidden");
     noResultsState.classList.remove("hidden");
     return;
   }
+
+  resultCount.textContent = `${results.length}건 검색`;
+  resultCount.classList.remove("hidden");
 
   noResultsState.classList.add("hidden");
   initialState.classList.add("hidden");
@@ -163,6 +168,7 @@ function renderLoading(isLoading) {
     loadingState.classList.remove("hidden");
     initialState.classList.add("hidden");
     noResultsState.classList.add("hidden");
+    resultCount.classList.add("hidden");
     resultsContainer.innerHTML = "";
   } else {
     loadingState.classList.add("hidden");
@@ -173,6 +179,7 @@ function renderEmptyState() {
   resultsContainer.innerHTML = "";
   loadingState.classList.add("hidden");
   noResultsState.classList.add("hidden");
+  resultCount.classList.add("hidden");
   initialState.classList.remove("hidden");
 }
 
