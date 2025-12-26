@@ -7,6 +7,7 @@ A premium, high-performance web application designed to search and discover auth
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
 - **Enter Key Trigger**: Immediate search results update on hitting "Enter" for a faster user experience.
+- **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results) to ensure reliable repeated searches.
 - **Real-time Loading**: All expressions are loaded once on initialization to provide instant, lag-free search results.
 - **Mobile Responsive**: Fully optimized for a seamless experience across desktop, tablet, and mobile devices (including Safari/iOS compatibility).
 - **High Typography**: Uses premium fonts (Outfit and Playfair Display) for a professional look and feel.
@@ -18,7 +19,7 @@ A premium, high-performance web application designed to search and discover auth
 - **Backend/Database**: Firebase Firestore
 - **Hosting**: Firebase Hosting
 
-## 🔍 Search Logic
+## 🔍 Search Logic & UI Architecture
 
 To provide a superior user experience with standard Firestore (which has limited partial search capabilities), this app uses a refined client-side filtering strategy:
 1. **Initial Load**: All expressions are fetched from the `EnglishExpressions` collection on page load.
@@ -27,7 +28,8 @@ To provide a superior user experience with standard Firestore (which has limited
     - `meaning`: The definition or Korean translation.
     - `similar`: An array of synonyms or related phrases.
     - `example`: The usage example or conversation snippet.
-3. **Trigger**: Search updates live as you type (300ms debounce) or instantly when you press **Enter**.
+3. **Persistent State**: The UI separates the results grid from status messages. This prevents search logic from breaking when results are cleared or updated repeatedly.
+4. **Trigger**: Search updates live as you type (300ms debounce) or instantly when you press **Enter**.
 
 ## 🚀 Getting Started
 
