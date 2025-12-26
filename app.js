@@ -133,5 +133,13 @@ searchInput.addEventListener("input", (e) => {
     }, 300);
 });
 
+searchInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+        clearTimeout(debounceTimer);
+        const searchTerm = e.target.value.trim();
+        performSearch(searchTerm);
+    }
+});
+
 // Initial Fetch
 fetchAllExpressions();
