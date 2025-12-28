@@ -1,0 +1,142 @@
+[
+  {
+    "id": 700,
+    "primary": "That's a blast from the past.",
+    "meaning": "와, 추억 돋네.",
+    "similar": [
+      "That brings back memories!",
+      "Wow, talk about a throwback.",
+      "I haven't seen that in ages!",
+      "That's so nostalgic.",
+      "A total trip down memory lane."
+    ],
+    "example": "A: Look what I found in my attic! It's our old high school yearbook.\nB: Whoa, that's a blast from the past! Look at our hairstyles!\nA: Right? I completely forgot I ever looked like that.\nB: We were so young and clueless back then.\nA: Honestly, it's kinda nice to see all these old faces.\nB: Definitely. Let's look through it while we have lunch.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 701,
+    "primary": "My lips are sealed.",
+    "meaning": "입 무거워.",
+    "similar": [
+      "I won't say a word.",
+      "Your secret is safe with me.",
+      "I'm taking it to the grave.",
+      "I'm keeping it on the down-low.",
+      "Trust me, I'm a vault."
+    ],
+    "example": "A: You can't tell anyone about the surprise party, okay?\nB: Don't worry, my lips are sealed. I won't breathe a word.\nA: I'm serious, if he finds out, it's ruined.\nB: I get it! I'm the most trustworthy person you know.\nA: Good. I'll text you the details later tonight.\nB: Perfect. Consider it a top-secret mission.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 702,
+    "primary": "Hit the books.",
+    "meaning": "열공하다.",
+    "similar": [
+      "Time to study hard.",
+      "I've got to cram for this exam.",
+      "Gonna be buried in books all night.",
+      "Time to get my head in the game.",
+      "I need to grind for this test."
+    ],
+    "example": "A: Want to grab some coffee later this afternoon?\nB: I wish, but I really need to hit the books for my final.\nA: Is it that hard? You usually ace everything.\nB: This one is a nightmare. I need all the time I can get.\nA: Fair enough. Good luck with the studying!\nB: Thanks, I'm gonna need all the luck I can find.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 703,
+    "primary": "I spaced out.",
+    "meaning": "멍 때렸어.",
+    "similar": [
+      "I was totally daydreaming.",
+      "My mind went blank for a second.",
+      "I lost track of what was happening.",
+      "I was in my own world.",
+      "I went into a trance there."
+    ],
+    "example": "A: Did you hear anything I just said about the project?\nB: Honestly? I spaced out for a bit. Can you repeat that?\nA: Come on! It's the most important part of the plan.\nB: My bad, I just got distracted by something outside.\nA: Focus, dude. We need to get this done today.\nB: You're right. I'm all ears now. Proceed.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 704,
+    "primary": "Do you guys carry Nike?",
+    "meaning": "나이키 제품 취급하나요?",
+    "similar": [
+      "Do you sell Nike shoes here?",
+      "Is Nike available in your store?",
+      "Do you have any Nike gear in stock?",
+      "Can I find Nike products at this location?",
+      "Are you an authorized Nike retailer?"
+    ],
+    "example": "A: Welcome! Is there anything specific you're looking for?\nB: Yeah, quick question: do you guys carry Nike?\nA: We do! They're right over in the athletic section.\nB: Awesome. I'm looking for the new running shoes.\nA: Follow me, I'll show you exactly where they are.\nB: Perfect, thanks for the help.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 705,
+    "primary": "Can you tell?",
+    "meaning": "티 나?",
+    "similar": [
+      "Is it obvious?",
+      "Can you see it clearly?",
+      "Does it stand out much?",
+      "Is it noticeable to everyone?",
+      "Can you pick up on it?"
+    ],
+    "example": "A: I tried a new self-tanner last night. Can you tell?\nB: Honestly? It looks totally natural. I wouldn't have known.\nA: Really? I was worried it looked too orange.\nB: Not at all. You just look like you spent a day at the beach.\nA: Phew, such a relief. I was stressing about it all morning.\nB: Don't sweat it, you look great!",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 706,
+    "primary": "He is full of himself.",
+    "meaning": "걔 너무 자아도취야.",
+    "similar": [
+      "He's got a huge ego.",
+      "He's totally stuck on himself.",
+      "He thinks he's the center of the universe.",
+      "He's incredibly arrogant.",
+      "He's always bragging about something."
+    ],
+    "example": "A: Have you talked to Mark lately? He's gotten so annoying.\nB: Tell me about it. He is so full of himself these days.\nA: All he talks about is his new car and his promotion.\nB: I know, it's like nobody else's life matters to him.\nA: I'm starting to avoid his calls altogether.\nB: Same here. I don't have time for that kind of energy.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 707,
+    "primary": "Do you happen to know?",
+    "meaning": "혹시 아세요?",
+    "similar": [
+      "By any chance, do you know?",
+      "Do you have any idea about...?",
+      "Would you happen to have information on...?",
+      "Is it something you're familiar with?",
+      "Could you tell me if...?"
+    ],
+    "example": "A: Excuse me, do you happen to know where the subway is?\nB: Yeah, it's just two blocks down that way on the left.\nA: Awesome, thanks! Is it usually crowded this time of day?\nB: Usually, yeah. It's rush hour right now.\nA: Got it. I'll probably just walk then. Thanks again!\nB: Any time. Have a safe one!",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 708,
+    "primary": "It's fattening.",
+    "meaning": "그거 살쪄.",
+    "similar": [
+      "That's high in calories.",
+      "It's not exactly diet-friendly.",
+      "That will definitely go to your hips.",
+      "It's pretty indulgent, isn't it?",
+      "It's a bit of a calorie bomb."
+    ],
+    "example": "A: This chocolate cake looks absolutely incredible.\nB: I know, but it's so fattening. We probably shouldn't.\nA: Come on, it's a special occasion! Just one slice?\nB: Fine, but we have to share it. No eating a whole one.\nA: Deal. I'll go grab two forks for us.\nB: You're a bad influence, you know that?",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  },
+  {
+    "id": 709,
+    "primary": "Give her my best.",
+    "meaning": "그녀에게 안부 전해줘.",
+    "similar": [
+      "Send her my regards.",
+      "Tell her I said hi.",
+      "Give her a big hug for me.",
+      "Wish her the best from me.",
+      "Tell her I'm thinking of her."
+    ],
+    "example": "A: I'm heading out to visit Sarah in the hospital now.\nB: Tell her I hope she feels better soon. Give her my best.\nA: I will. She'll be glad to hear from you.\nB: I'll try to stop by tomorrow if I can.\nA: That would be great. She needs some company.\nB: Alright, safe travels! Talk to you later.",
+    "updatedAt": "2025-12-28T09:37:00.000Z"
+  }
+]

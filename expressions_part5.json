@@ -1,0 +1,352 @@
+{
+  "expression_580": {
+    "id": 580,
+    "primary": "It's kind of bittersweet.",
+    "meaning": "시원섭섭하네요.",
+    "similar": ["It's a mix of happy and sad.", "It's bittersweet.", "I have conflicting feelings about this.", "It's a poignant moment.", "Glad it's over, but sad to see it end."],
+    "example": "A: Today is my last day at the firm after ten years.\nB: How are you feeling? It must be a big change.\nA: Honestly? It's kind of bittersweet. I'm excited for the new gig, but I'll miss everyone here.\nB: I bet. You've made some great friends over the years.\nA: Facts. We've been through a lot together.\nB: Well, at least we're throwing you a dope goodbye party tonight."
+  },
+  "expression_581": {
+    "id": 581,
+    "primary": "I'm at a loss for words.",
+    "meaning": "할 말을 잃었어요.",
+    "similar": ["I'm speechless.", "I don't know what to say.", "That left me stunned.", "I'm genuinely surprised.", "Words fail me right now."],
+    "example": "A: Surprise! We all pitched in to get you that guitar you've been eyeing!\nB: Oh my god... I'm at a loss for words right now. You guys are the best.\nA: We know how much you've been wanting to start playing again.\nB: This is incredible. I'm literally shaking.\nA: Just start practicing! We expect a concert by next month.\nB: Facts. I'm gonna get on that right away. Thank you so much!"
+  },
+  "expression_582": {
+    "id": 582,
+    "primary": "We went the extra mile.",
+    "meaning": "기대 이상으로 노력했어요.",
+    "similar": ["We put in extra effort.", "We exceeded expectations.", "We went above and beyond.", "We did more than what was required.", "We gave it 110 percent."],
+    "example": "A: The client was absolutely blown away by the final presentation.\nB: That's great! We really went the extra mile with those custom animations.\nA: For real. It took us all weekend, but it was totally worth it.\nB: Facts. Now we're definitely gonna get that contract extension.\nA: I'm just glad everyone's hard work paid off.\nB: Let's celebrate with a team dinner tonight."
+  },
+  "expression_583": {
+    "id": 583,
+    "primary": "I canceled them.",
+    "meaning": "손절했어요.",
+    "similar": ["I've stopped interacting with them.", "I cut them out of my life.", "I'm done with them.", "I ghosted them for good.", "They are no longer in my circle."],
+    "example": "A: Haven't seen you hanging out with that group lately. What happened?\nB: Honestly? I canceled them after that drama last weekend. I don't need that energy.\nA: Wow, that's a bold move. They were your main friends for a while.\nB: I know, but life is too short for toxic people. No cap.\nA: I feel you. Sometimes you just gotta protect your peace.\nB: Facts. I'm much happier already."
+  },
+  "expression_584": {
+    "id": 584,
+    "primary": "I was swamped with work.",
+    "meaning": "일에 파묻혀 지냈어요.",
+    "similar": ["I was overwhelmed with tasks.", "I had so much to do.", "I was buried in work.", "I was incredibly busy.", "My schedule was completely full."],
+    "example": "A: Sorry I didn't get back to your text yesterday.\nB: No worries! I figured you were swamped with work for the big launch.\nA: For real. I didn't even have time to eat lunch until 4 PM.\nB: That sounds intense. Hope things are calming down today.\nA: A little bit, but I still have a mountain of emails to get through.\nB: Facts. The grind never stops, huh?"
+  },
+  "expression_585": {
+    "id": 585,
+    "primary": "That's as cheap as chips.",
+    "meaning": "정말 싸요.",
+    "similar": ["That's a total bargain.", "It's incredibly inexpensive.", "It's dirt cheap.", "That's peanuts.", "You're getting it for next to nothing."],
+    "example": "A: I found this high-end blender at a garage sale for five dollars!\nB: No way! That's as cheap as chips. Those usually go for over a hundred.\nA: I know! I checked the price online as soon as I got home.\nB: You really scored big time today. Does it even work?\nA: Perfectly. I already made a smoothie this morning.\nB: Facts. What a lucky find!"
+  },
+  "expression_586": {
+    "id": 586,
+    "primary": "Make yourself at home.",
+    "meaning": "편히 계세요.",
+    "similar": ["Feel comfortable here.", "Treat this place like your own.", "Mi casa es su casa.", "Don't be shy, settle in.", "Relax and enjoy yourself."],
+    "example": "A: Thanks for letting me stay here while I look for an apartment.\nB: Of course! Make yourself at home. There's plenty of space in the fridge.\nA: You're a lifesaver. I'll try not to get in the way too much.\nB: Chill. We've been friends for years. Just do your thing.\nA: I really appreciate it, for real.\nB: Say less. Let's grab some takeout tonight."
+  },
+  "expression_587": {
+    "id": 587,
+    "primary": "Take it or leave it.",
+    "meaning": "싫으면 마세요.",
+    "similar": ["This is my final offer.", "Accept it or not.", "No further negotiations.", "Take the deal as it is.", "That's it, take it or walk away."],
+    "example": "A: I'll give you fifty bucks for that vintage jacket.\nB: No way, it's worth at least eighty. Sixty-five, take it or leave it.\nA: Sixty is the most I can do right now, honestly.\nB: Alright, fine. Take it or leave it, sixty is the final price.\nA: Okay, deal. I've been looking for this specific style for weeks.\nB: Facts. It's a classic piece."
+  },
+  "expression_588": {
+    "id": 588,
+    "primary": "I don't want to have egg on my face.",
+    "meaning": "창피당하고 싶지 않아요.",
+    "similar": ["I want to avoid embarrassment.", "I don't want to look foolish.", "I want to save face.", "I don't want to be humiliated.", "I'm trying to avoid a public fail."],
+    "example": "A: Are you sure about these statistics for the meeting?\nB: Definitely. I don't want to have egg on my face in front of the board.\nA: Good thinking. They can be pretty brutal with their questions.\nB: For real. I've double-checked everything three times already.\nA: Better safe than sorry when it comes to the executives.\nB: Facts. I'm ready for whatever they throw at me."
+  },
+  "expression_589": {
+    "id": 589,
+    "primary": "I'm at a crossroads.",
+    "meaning": "갈림길에 서 있어요.",
+    "similar": ["I'm at a turning point.", "I have a big decision to make.", "I'm faced with a difficult choice.", "My life is about to change direction.", "I'm uncertain about which path to take."],
+    "example": "A: I'm not sure if I should stay at this job or go back to grad school.\nB: It sounds like you're at a crossroads. What does your gut tell you?\nA: Honestly, it change every day. One minute I'm ready to quit, the next I'm fine.\nB: Maybe take a week off and clear your head?\nA: That's a good idea. I need to figure out what I really want long-term.\nB: Facts. Don't rush into anything you'll regret later."
+  },
+  "expression_590": {
+    "id": 590,
+    "primary": "I'm an open book.",
+    "meaning": "숨기는 게 없어요.",
+    "similar": ["I'm very transparent.", "I don't keep secrets.", "I'm easy to read.", "I'm honest about everything.", "You can ask me anything."],
+    "example": "A: You always seem so honest about everything in your life.\nB: Yeah, I'm an open book. I don't see the point in hiding things.\nA: I wish I could be more like that. I'm always worried about what people think.\nB: Life is much easier when you're just yourself. No cap.\nA: I guess it takes a lot of confidence to be that vulnerable.\nB: Facts. But it's totally worth it for the real connections you make."
+  },
+  "expression_591": {
+    "id": 591,
+    "primary": "There was a little bit of a kerfuffle.",
+    "meaning": "약간의 소동이 있었어요.",
+    "similar": ["There was a minor disturbance.", "There was a bit of a fuss.", "A small commotion occurred.", "Things got a little messy for a second.", "It was a slight disagreement."],
+    "example": "A: What was all that noise in the lobby earlier?\nB: Oh, there was a little bit of a kerfuffle over a missing delivery.\nA: Did they figure it out? Everyone sounded pretty heated.\nB: Yeah, turns out it was just at the wrong door. All good now.\nA: People really lose their cool over the smallest things sometimes.\nB: Facts. Delivery day brings out the crazy in everyone."
+  },
+  "expression_592": {
+    "id": 592,
+    "primary": "The boys didn't cut the mustard.",
+    "meaning": "기대에 미치지 못했어요.",
+    "similar": ["They weren't good enough.", "They failed to meet the standard.", "They didn't perform as expected.", "They were inadequate for the task.", "They fell short of the goal."],
+    "example": "A: How did the new interns do on their first assignment?\nB: Honestly? The boys didn't cut the mustard. I've had to redo most of it.\nA: That's disappointing. I thought they were supposed to be top-tier.\nB: They have the degrees, but no real-world experience. It shows.\nA: Maybe they just need a bit more time to adjust?\nB: Possibly, but right now, it's more work for me. Facts."
+  },
+  "expression_593": {
+    "id": 593,
+    "primary": "How thoughtful of you to say that.",
+    "meaning": "그렇게 말해주니 고맙네요.",
+    "similar": ["Thank you for being so kind.", "That's very nice of you to mention.", "I appreciate your kind words.", "You're so considerate.", "That means a lot coming from you."],
+    "example": "A: I really think your new project is going to change the industry.\nB: Wow, how thoughtful of you to say that. I've been working so hard on it.\nA: It really shows. Your dedication is inspiring, for real.\nB: I appreciate the support. It's been a long journey.\nA: You deserve all the success that's coming your way.\nB: Facts. Thank you so much for the encouragement."
+  },
+  "expression_594": {
+    "id": 594,
+    "primary": "There is a fat chance of you winning.",
+    "meaning": "이길 가능성이 거의 없어요.",
+    "similar": ["You have very little chance of winning.", "It's highly unlikely you'll succeed.", "Success is a long shot.", "Don't count on winning.", "Zero chance of you taking the W."],
+    "example": "A: I'm thinking about entering the city marathon next month.\nB: Honestly? There is a fat chance of you winning against those pros.\nA: Hey! I've been training for three months already!\nB: I know, but these guys train for years. Just being realistic.\nA: I'm still gonna do it for the experience though.\nB: Facts. That's a better mindset anyway. Just finish the race!"
+  },
+  "expression_595": {
+    "id": 595,
+    "primary": "He finally got the message.",
+    "meaning": "드디어 알아들었네요.",
+    "similar": ["He finally understood.", "He eventually caught on.", "He got the hint at last.", "He's finally on the same page.", "He finally realized what was going on."],
+    "example": "A: After three warnings, he finally stopped showing up late.\nB: Good. It took him long enough, but he finally got the message.\nA: I was about to let him go, honestly.\nB: I think the threat of losing the job really motivated him.\nA: Facts. Some people just need a wake-up call to change.\nB: Glad things are finally running smoothly in the office."
+  },
+  "expression_596": {
+    "id": 596,
+    "primary": "He's lying through his teeth.",
+    "meaning": "새빨간 거짓말을 하고 있어요.",
+    "similar": ["He's telling a total lie.", "He's being completely dishonest.", "He's lying boldly.", "He's full of it.", "He's absolutely capping right now."],
+    "example": "A: He told the boss he finished the entire report over the weekend.\nB: No way! I saw him at the beach on Saturday. He's lying through his teeth.\nA: I knew it! His version of the story didn't make any sense.\nB: For real. He thinks he can just fake his way through everything.\nA: I should probably mention what I saw to the manager then.\nB: Facts. Don't let him get away with that. It's not fair to the team."
+  },
+  "expression_597": {
+    "id": 597,
+    "primary": "This is news to me.",
+    "meaning": "처음 듣는 소식이네요.",
+    "similar": ["I didn't know about this.", "This is the first I'm hearing of it.", "I'm surprised by this information.", "I was completely unaware.", "That's a new one for me."],
+    "example": "A: Did you hear that the office is moving to Brooklyn next month?\nB: Wait, really? This is news to me! No one mentioned it to my team.\nA: They just announced it in the company newsletter this morning.\nB: I must have missed that email. That's a huge change for my commute.\nA: For real. You might want to check for more details ASAP.\nB: Facts. I'm going to talk to HR right now."
+  },
+  "expression_598": {
+    "id": 598,
+    "primary": "It's time to get moving.",
+    "meaning": "이제 움직일 시간이에요.",
+    "similar": ["Let's get started.", "We should head out now.", "Time to make a move.", "Let's push forward.", "Stop waiting and start doing."],
+    "example": "A: We've been sitting here for two hours talking about the plan.\nB: You're right. It's time to get moving and actually execute.\nA: Ready when you are. Let's head to the site.\nB: Grab your gear and let's go. We have a lot of work ahead.\nA: No more talking, just doing from now on.\nB: Facts. Let's show them what we're capable of."
+  },
+  "expression_599": {
+    "id": 599,
+    "primary": "That's the spirit!",
+    "meaning": "바로 그 기세야!",
+    "similar": ["That's a great attitude!", "Keep that positive energy going!", "Nice job staying motivated!", "I love the enthusiasm!", "Exactly, that's what I want to hear!"],
+    "example": "A: I'm not gonna let that setback stop me. I'm gonna try again tomorrow!\nB: That's the spirit! I knew you wouldn't give up that easily.\nA: For real. One failure doesn't define the whole project.\nB: Facts. Consistency is the key to winning anyway.\nA: I'm feeling more motivated than ever now.\nB: Let's get it! I'm right behind you."
+  },
+  "expression_600": {
+    "id": 600,
+    "primary": "I'm on the mend.",
+    "meaning": "회복 중이에요.",
+    "similar": ["I'm getting better.", "I'm recovering.", "I'm on the road to recovery.", "My health is improving.", "I'm feeling much better lately."],
+    "example": "A: How are you feeling after that flu you had last week?\nB: Much better, thanks. I'm on the mend and should be back in the office by Monday.\nA: That's great news! We've really missed having you around.\nB: I missed being there too. Staying in bed all day is so boring.\nA: Rest up for a few more days just to be safe though.\nB: Facts. I don't want to overdo it and get sick again."
+  },
+  "expression_601": {
+    "id": 601,
+    "primary": "You sold me.",
+    "meaning": "설득당했어요.",
+    "similar": ["I'm convinced.", "You've persuaded me.", "I'm on board with your idea.", "I agree with you now.", "You've won me over."],
+    "example": "A: Think about it: we'd have a pool, a private chef, and zero noise.\nB: Honestly? You sold me with the 'private chef' part. Let's book the villa.\nA: I knew that would be the game changer for you!\nB: For real. I'm tired of cooking every single day while on vacation.\nA: It's gonna be the most relaxing trip ever, I promise.\nB: Facts. I'm already counting down the days."
+  },
+  "expression_602": {
+    "id": 602,
+    "primary": "I can't wrap my head around that.",
+    "meaning": "도저히 이해가 안 가요.",
+    "similar": ["I don't understand it at all.", "It's incomprehensible to me.", "I'm struggling to grasp the concept.", "It makes no sense to me.", "It's totally beyond my understanding."],
+    "example": "A: They're saying the universe is constantly expanding into... what, exactly?\nB: Honestly, I can't wrap my head around that either. It's too abstract.\nA: My brain literally starts hurting when I think about it for too long.\nB: Same. Physics is just on a whole different level, no cap.\nA: Maybe we should just stick to talking about movies instead.\nB: Facts. That's much easier for my human brain to handle."
+  },
+  "expression_603": {
+    "id": 603,
+    "primary": "That's so sweet of you.",
+    "meaning": "정말 친절하시네요.",
+    "similar": ["That's very kind of you.", "You're so thoughtful.", "I appreciate your kindness.", "That's lovely of you to do.", "You're such a sweetheart."],
+    "example": "A: I brought you some homemade soup since I heard you were feeling under the weather.\nB: Aw, that's so sweet of you! I really needed this right now.\nA: It's my grandma's recipe, so it's guaranteed to make you feel better.\nB: You're a lifesaver, for real. I'm gonna eat it right away.\nA: Let me know if you need anything else from the store later.\nB: Facts. You're the best friend a person could ask for."
+  },
+  "expression_604": {
+    "id": 604,
+    "primary": "I'll figure it out.",
+    "meaning": "해결책을 찾을게요.",
+    "similar": ["I'll find a solution.", "I'll sort it out.", "I'll manage it.", "I'll handle the problem.", "Leave it to me, I'll solve it."],
+    "example": "A: We lost the keys to the storage unit and we need that gear by tomorrow morning!\nB: Chill. I'll figure it out. I think I know where they might be hidden.\nA: I've looked everywhere! I'm starting to panic, honestly.\nB: Just take a deep breath. I've got this under control.\nA: I hope so. We really can't afford any more delays.\nB: Facts. I'll hit you up as soon as I find them."
+  },
+  "expression_605": {
+    "id": 605,
+    "primary": "Mobile technology is taking center stage.",
+    "meaning": "모바일 기술이 중심이 되고 있어요.",
+    "similar": ["Mobile is becoming the priority.", "Everything is revolving around smartphones now.", "Mobile tech is dominant.", "Mobile is at the forefront.", "Mobile technology is the main focus."],
+    "example": "A: Why are we prioritizing the mobile app over the web version this year?\nB: Look at the data. Mobile technology is taking center stage for our users.\nA: True, over eighty percent of our traffic comes from phones now.\nB: Exactly. We need to go where our audience is already spending their time.\nA: It's a big shift, but it definitely makes sense for the brand.\nB: Facts. It's all about staying relevant in this market."
+  },
+  "expression_606": {
+    "id": 606,
+    "primary": "He will lay bare the ugly truth.",
+    "meaning": "추악한 진실을 밝힐 거예요.",
+    "similar": ["He will reveal the harsh reality.", "He'll expose everything that's wrong.", "He's going to tell the unfiltered truth.", "He'll uncover the hidden problems.", "He won't sugarcoat the situation."],
+    "example": "A: I heard the CEO is giving a state-of-the-company speech tomorrow.\nB: Yeah, and everyone's nervous because he said he will lay bare the ugly truth about our finances.\nA: No more corporate fluff then? That's actually kind of refreshing.\nB: In a way, yeah, but it might mean some serious layoffs are coming.\nA: That's the scary part. We've known things were bad for a while though.\nB: Facts. It's better to know the truth than to live in denial."
+  },
+  "expression_607": {
+    "id": 607,
+    "primary": "I will leave no stone unturned.",
+    "meaning": "온갖 수단을 다 쓸 거예요.",
+    "similar": ["I'll search everywhere.", "I'll try every possible option.", "I'll be thorough in my search.", "I won't stop until I find it.", "I'm going to look into every detail."],
+    "example": "A: We still haven't found the source of the leak in the database.\nB: Don't worry. I will leave no stone unturned until we identify the problem.\nA: We've checked the logs, the server, everything... it's like a ghost.\nB: I'm going to do a deep dive into the actual code structure tonight.\nA: I appreciate the dedication. This is a critical issue for us.\nB: Facts. I won't sleep until this is resolved."
+  },
+  "expression_608": {
+    "id": 608,
+    "primary": "I'm off to the gym.",
+    "meaning": "나 헬스장 가요.",
+    "similar": ["I'm heading to work out.", "I'm going to hit the gym.", "Time for my workout.", "I'm off for some exercise.", "Heading to the fitness center now."],
+    "example": "A: Hey, you wanna grab some pizza after work?\nB: I wish! But I'm off to the gym. I've been slacking lately.\nA: Respect. I should probably go too, but I'm just too lazy today.\nB: Come with me! You'll feel so much better after a good session.\nA: Maybe tomorrow. For now, it's just me and my sofa.\nB: Facts. Enjoy your rest then, I'll see you later!"
+  },
+  "expression_609": {
+    "id": 609,
+    "primary": "Here's the thing.",
+    "meaning": "실은 이래요.",
+    "similar": ["This is the situation.", "Actually, the point is this.", "Here's the main idea.", "Let me explain it plainly.", "Basically, this is what's happening."],
+    "example": "A: Why are you being so quiet today? Is everything okay?\nB: Look, here's the thing: I'm just really stressed about this move next week.\nA: Oh! I thought I did something to annoy you!\nB: No, not at all. It's just a lot to handle all by myself.\nA: I'm so sorry! I should have realized you needed some help.\nB: Facts. If you have any free time this weekend, let me know."
+  },
+  "expression_610": {
+    "id": 610,
+    "primary": "The day can't come soon enough.",
+    "meaning": "그날이 빨리 왔으면 좋겠어요.",
+    "similar": ["I'm so looking forward to it.", "I can't wait for that day.", "I'm counting down the days.", "I wish it were that day already.", "I'm incredibly excited about it."],
+    "example": "A: Only three more days until we leave for Europe!\nB: For real. The day can't come soon enough. I'm so ready to disconnect.\nA: Have you finished all your packing yet?\nB: Almost. I just need to grab a few travel-size toiletries today.\nA: I'm so jealous! Take lots of pictures for me.\nB: Facts. I'll be posting them all over my feed, don't worry."
+  },
+  "expression_611": {
+    "id": 611,
+    "primary": "He has clout.",
+    "meaning": "그는 영향력이 있어요.",
+    "similar": ["He's influential.", "He has a lot of power.", "He's a big deal in the industry.", "He has social capital.", "People listen to what he says."],
+    "example": "A: How did he manage to get a meeting with the investors so quickly?\nB: Honestly? He has serious clout in the tech world. One phone call and he's in.\nA: I wish I had that kind of influence. It would make things so much easier.\nB: It takes years to build that kind of reputation, for real.\nA: Facts. I guess I'll just have to keep grinding until I get there.\nB: That's the only way to do it. Keep pushing."
+  },
+  "expression_612": {
+    "id": 612,
+    "primary": "He vanished into thin air.",
+    "meaning": "감쪽같이 사라졌어요.",
+    "similar": ["He disappeared completely.", "He went missing without a trace.", "He's nowhere to be found.", "He just evaporated.", "It's like he never existed."],
+    "example": "A: Where did that guy go who was talking to us earlier?\nB: Man, I have no idea. He literally vanished into thin air as soon as I turned my back.\nA: That's so creepy! He didn't even say goodbye or anything.\nB: For real. It's like he just phased out of reality. This place is weird.\nA: Maybe he was just an NPC in our simulation?\nB: Facts. Let's get out of here before something else happens."
+  },
+  "expression_613": {
+    "id": 613,
+    "primary": "Don't change the subject.",
+    "meaning": "말 돌리지 마세요.",
+    "similar": ["Stay on topic.", "Don't try to distract me.", "Answer my question properly.", "Stop avoiding the issue.", "I'm still waiting for an answer on the original point."],
+    "example": "A: So, about the money you owe me from last month...\nB: Oh! Did you see that the new season of that show just dropped?\nA: Yo, don't change the subject. We were talking about the fifty bucks.\nB: Alright, alright. I'll Venmo you right now, chill out.\nA: Thank you. I've been asking you for weeks, man.\nB: Facts. My bad. It slipped my mind, I promise."
+  },
+  "expression_614": {
+    "id": 614,
+    "primary": "I'm a glass half full person.",
+    "meaning": "낙천적인 사람이에요.",
+    "similar": ["I'm an optimist.", "I try to look on the bright side.", "I have a positive outlook.", "I'm naturally hopeful.", "I focus on the good things."],
+    "example": "A: Everything is going wrong today! This project is a absolute disaster.\nB: Look, I'm a glass half full person. At least we found the problem early.\nA: How can you be so positive right now? We're literally three days behind schedule!\nB: Panicking won't help. Let's just focus on what we can fix today.\nA: I guess you're right. Your attitude is actually kind of helpful, for real.\nB: Facts. Let's just take it one step at a time and we'll get through it."
+  },
+  "expression_615": {
+    "id": 615,
+    "primary": "Money doesn't grow on trees.",
+    "meaning": "돈이 그냥 생기는 게 아니에요.",
+    "similar": ["Money isn't easy to come by.", "You have to work hard for your cash.", "Funds are limited.", "We need to be careful with our spending.", "Wealth doesn't just appear out of nowhere."],
+    "example": "A: Can I get those new three-hundred-dollar sneakers for my birthday?\nB: Listen, money doesn't grow on trees. You need to show me you're taking your chores seriously first.\nA: But all my friends already have them! I feel so left out.\nB: I understand, but that doesn't mean we can just blow our budget on shoes.\nA: Fine, I'll start helping out around the house more then.\nB: Facts. Show me some effort and we'll talk about it next month."
+  },
+  "expression_616": {
+    "id": 616,
+    "primary": "Let's get into the swing of things.",
+    "meaning": "흐름을 타봅시다 (익숙해집시다).",
+    "similar": ["Let's get accustomed to the routine.", "Time to get into the flow of work.", "Let's familiarize ourselves with the situation.", "Let's get into the rhythm.", "Time to start working at our usual pace."],
+    "example": "A: It's my first day back after a two-week vacation and my brain is totally fried.\nB: No worries. Let's just get into the swing of things slowly. No stress.\nA: I have three hundred unread emails! Where do I even start?\nB: Just pick one, handle it, and move to the next. You'll be back in the flow in no time.\nA: I hope so. I feel like I've forgotten how to do my basic job tasks.\nB: Facts. It happens to the best of us after a long break."
+  },
+  "expression_617": {
+    "id": 617,
+    "primary": "I'm working on it.",
+    "meaning": "노력 중이에요.",
+    "similar": ["I'm in the process of doing it.", "It's a work in progress.", "I'm tackling the task now.", "I haven't forgotten, I'm making progress.", "I'm currently addressing the issue."],
+    "example": "A: Have you finished the design for the new landing page yet?\nB: I'm working on it right now. It should be ready by the end of the day.\nA: Awesome. The client is really eager to see the initial concepts.\nB: For real. I'm just trying to make sure the color palette is perfect.\nA: Take your time, then. Quality over speed every single time.\nB: Facts. I'll send you a preview link in a couple of hours."
+  },
+  "expression_618": {
+    "id": 618,
+    "primary": "She dropped a bombshell.",
+    "meaning": "폭탄 선언을 했어요.",
+    "similar": ["She shared shocking news.", "She made a surprising announcement.", "She revealed something completely unexpected.", "She told us something that blew our minds.", "She gave us a huge surprise."],
+    "example": "A: Did you hear about Sarah at the meeting earlier?\nB: Yeah! She dropped a bombshell that she's moving to Japan next month!\nA: No way! I had no idea she was even thinking about leaving the country.\nB: For real. Everyone was just sitting there in total shock. It was wild.\nA: I wonder what prompted such a big change so suddenly?\nB: Facts. I'm definitely going to reach out and ask her about it tonight."
+  },
+  "expression_619": {
+    "id": 619,
+    "primary": "I was in a quandary.",
+    "meaning": "진퇴양난이었어요.",
+    "similar": ["I was in a difficult dilemma.", "I was faced with two equally tough choices.", "I didn't know which way to turn.", "I was stuck in a complex situation.", "I was in a real pickle."],
+    "example": "A: Why did you take so long to decide between the two job offers?\nB: Honestly? I was in a real quandary. Both had amazing benefits and great teams.\nA: That's a good problem to have, but I bet it was still stressful.\nB: 100%. I literally made a pro and con list that was three pages long.\nA: So what finally made you choose the startup over the big bank?\nB: Facts. The potential for growth and the creative freedom just felt more 'me'."
+  },
+  "expression_620": {
+    "id": 620,
+    "primary": "Keep a lid on it.",
+    "meaning": "비밀로 해주세요.",
+    "similar": ["Keep it a secret.", "Don't tell anyone.", "Stay quiet about this info.", "Keep this under wraps.", "Hush-hush, okay?"],
+    "example": "A: I'm planning a surprise party for Mike's thirtieth birthday next week.\nB: No way! He's gonna be so shocked. I won't say a word.\nA: Perfect. Keep a lid on it because he's really good at guessing surprises.\nB: Trust me, my lips are sealed. I won't even mention the date to anyone.\nA: Thanks. I want this to be the best party he's ever had.\nB: Facts. He's a great guy, he definitely deserves it."
+  },
+  "expression_621": {
+    "id": 621,
+    "primary": "I pulled an all-nighter.",
+    "meaning": "밤을 꼬박 새웠어요.",
+    "similar": ["I stayed up all night to work.", "I didn't sleep at all last night.", "I was awake through the entire night.", "I worked until the sun came up.", "I had zero sleep because of this project."],
+    "example": "A: You look absolutely exhausted today. What happened?\nB: Ugh, I pulled an all-nighter trying to finish that final report before the deadline.\nA: Wow! You really should have started on it earlier, man.\nB: I know, I know. I'm a terrible procrastinator. It finally caught up with me.\nA: Well, at least it's done now. Go home and crash for twelve hours.\nB: Facts. I'm gonna fall asleep as soon as my head hits the pillow."
+  },
+  "expression_622": {
+    "id": 622,
+    "primary": "He has a heart of gold.",
+    "meaning": "마음씨가 너무 착해요.",
+    "similar": ["He's incredibly kind-hearted.", "He's a truly good person.", "He's very compassionate.", "He would do anything for anyone.", "He's the sweetest person I know."],
+    "example": "A: I heard Jim spent his entire Saturday helping that new family move in.\nB: That doesn't surprise me. He really has a heart of gold.\nA: For real. He never asks for anything in return either. He's just naturally helpful.\nB: Exactly. We need more people like him in this world, honestly.\nA: Facts. He's a real gem of a human being.\nB: I'm glad he's part of our team, for sure."
+  },
+  "expression_623": {
+    "id": 623,
+    "primary": "Everything is up in the air.",
+    "meaning": "결정된 게 없어요.",
+    "similar": ["Nothing is finalized yet.", "The situation is uncertain.", "Plans are still fluctuating.", "It's all undecided.", "We're still waiting for a final decision."],
+    "example": "A: Are we still going to the conference in Vegas next month?\nB: Honestly? Everything is up in the air right now because of the budget cuts.\nA: Oh no! I was really looking forward to that trip.\nB: Same here, but we're just waiting for the final word from the management.\nA: I hope they don't cancel it at the last minute.\nB: Facts. It's frustrating not knowing what's going to happen."
+  },
+  "expression_624": {
+    "id": 624,
+    "primary": "I'm on the fence.",
+    "meaning": "고민 중이에요.",
+    "similar": ["I'm undecided.", "I haven't made up my mind yet.", "I'm torn between two options.", "I'm still thinking about it.", "I'm not sure which way to go."],
+    "example": "A: Do you want to join the company softball team this season?\nB: Honestly? I'm on the fence. I'm worried about the time commitment.\nA: It's only once a week! It's a great way to meet people from other departments.\nB: I know, but I also have that evening class on Thursdays...\nA: Just come to the first practice and see if you like the vibe.\nB: Facts. I'll think about it and let you know by tomorrow morning."
+  },
+  "expression_625": {
+    "id": 625,
+    "primary": "My heart skipped a beat.",
+    "meaning": "가슴이 철렁했어요.",
+    "similar": ["I was suddenly startled.", "I felt a shock of fear/excitement.", "My breath hitched for a second.", "I was genuinely surprised.", "I had a momentary heart attack from shock."],
+    "example": "A: Did you see that guy almost get hit by that taxi earlier?\nB: Oh man, my heart skipped a beat just watching it! That was so close.\nA: For real. He wasn't even looking at the road, just staring at his phone.\nB: People really need to be more careful in this city. It's dangerous out here.\nA: Facts. I'm still feeling a little shaky from seeing it, honestly.\nB: Glad he's okay though. That was almost a disaster."
+  },
+  "expression_626": {
+    "id": 626,
+    "primary": "This is a walk in the park.",
+    "meaning": "식은 죽 먹기죠.",
+    "similar": ["This is incredibly easy.", "It's a piece of cake.", "No problem at all.", "I can do this with my eyes closed.", "It's quite simple to accomplish."],
+    "example": "A: Wow, that coding challenge looks really intense. Are you gonna be okay?\nB: Honestly? This is a walk in the park for me. I've done way harder stuff than this.\nA: Respect. I would have no idea where to even start with that logic.\nB: Once you learn the fundamentals, it's just like solving a puzzle.\nA: I'll have to take your word for it. Good luck anyway!\nB: Facts. I'll have this finished in ten minutes, just watch."
+  },
+  "expression_627": {
+    "id": 627,
+    "primary": "Speak for yourself.",
+    "meaning": "네 생각일 뿐이야.",
+    "similar": ["That's just your opinion.", "I don't necessarily agree with that.", "Don't include me in your statement.", "I have a different perspective.", "That only applies to you."],
+    "example": "A: Everyone is so bored during these weekly meetings, right?\nB: Hey! Speak for yourself. I actually find the updates quite helpful.\nA: Seriously? It's just two hours of people talking about things that don't matter.\nB: Well, some of us actually like knowing what's going on in the rest of the firm.\nA: I guess I'm just more task-oriented than you are then.\nB: Facts. Different strokes for different folks, I guess."
+  },
+  "expression_628": {
+    "id": 628,
+    "primary": "Get your act together.",
+    "meaning": "정신 차려요.",
+    "similar": ["Start behaving more responsibly.", "Organize your life better.", "Improve your performance.", "Stop making mistakes.", "Focus and do a better job."],
+    "example": "A: I forgot my laptop at home again and I have a presentation in ten minutes!\nB: Seriously? You really need to get your act together. This is the third time this month.\nA: I know, I know. My morning routine is just so chaotic lately.\nB: Maybe try setting a checklist by the door or something. You're gonna get fired.\nA: You're right. I'm gonna make some serious changes starting tonight.\nB: Facts. Consistency and reliability are everything in this industry."
+  },
+  "expression_629": {
+    "id": 629,
+    "primary": "I'm not phased.",
+    "meaning": "당황하지 않아요.",
+    "similar": ["I'm not bothered by it.", "I'm staying calm.", "That doesn't upset me.", "I'm unfazed by the situation.", "It doesn't affect my composure."],
+    "example": "A: Aren't you worried about the major changes they announced for next year?\nB: Honestly? I'm not phased. I've been through plenty of corporate restructures before.\nA: I wish I had your confidence. I'm already looking for other job opportunities.\nB: Chill out. Change is part of life. Just adapt and keep moving forward.\nA: I guess you're right. Experience really does make a difference, huh?\nB: Facts. Once you've seen it all, nothing really surprises you anymore."
+  }
+}
