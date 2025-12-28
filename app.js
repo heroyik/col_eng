@@ -209,6 +209,13 @@ function renderEmptyState() {
     statsDisplay.textContent = `(${formattedDate}, total number of expressions: ${expressions.length})`;
     statsDisplay.classList.remove("hidden");
 
+    // Fallback: Pick a random expression if not already picked
+    if (!dailyExpression && expressions.length > 0) {
+        dailyExpression = expressions[Math.floor(Math.random() * expressions.length)];
+    }
+
+    console.log("Rendering Empty State. Daily Expression:", dailyExpression);
+
     if (dailyExpression) {
       initialStateMessage.classList.add("hidden");
       dailyExpressionContainer.innerHTML = `

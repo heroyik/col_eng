@@ -316,7 +316,7 @@ h1 {
 
   /* Compact Hero */
   .hero {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem; /* Reduced from 2rem */
   }
 
   h1 {
@@ -332,7 +332,7 @@ h1 {
 
   /* Compact Search Box */
   .search-section {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem; /* Reduced from 2rem to pull daily expression up */
   }
 
   .search-box {
@@ -354,6 +354,16 @@ h1 {
   .results-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
+  }
+
+  /* Reduce empty state padding on mobile to widen the card */
+  .empty-state {
+    padding: 1rem 0; /* Drastically reduced from 4rem */
+  }
+
+  /* Pull Expression of the Day higher up */
+  .daily-expression-container {
+    margin-top: 1rem;
   }
 }
 
