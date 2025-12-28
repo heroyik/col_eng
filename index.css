@@ -347,6 +347,7 @@ h1 {
     font-size: 1.25rem; /* Adjusted for hierarchy: smaller than card title (1.5rem) but clear */
     margin-bottom: 0.75rem; /* Slightly increased gap */
     gap: 0.5rem;
+    justify-content: center; /* Center align on mobile */
   }
   
   .daily-header svg {
