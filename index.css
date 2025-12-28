@@ -114,7 +114,7 @@ h1 {
 
 /* Search Box */
 .search-section {
-  margin-bottom: 4rem;
+  margin-bottom: 1.5rem; /* Reduced to ~1cm gap combined with daily container */
 }
 
 .search-box {
@@ -260,7 +260,7 @@ h1 {
 
 /* Expression of the Day */
 .daily-expression-container {
-  margin-top: 2rem;
+  margin-top: 1rem;
   text-align: left;
   animation: fadeIn 0.8s ease-out;
 }
@@ -321,7 +321,7 @@ h1 {
 
   /* Compact Search Box */
   .search-section {
-    margin-bottom: 0.5rem; /* Minimized gap to connect with daily expression */
+    margin-bottom: 1.5rem; /* Consistant 1cm gap */
   }
 
   .search-box {
@@ -351,9 +351,9 @@ h1 {
     margin-top: 0;
   }
 
-  /* Pull Expression of the Day tight to the top with negative margin */
+  /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    margin-top: -1.5rem;
+    margin-top: 1rem;
   }
 
   /* Reduce card padding on mobile to allow wider text content */
