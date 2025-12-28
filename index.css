@@ -255,7 +255,7 @@ h1 {
 }
 
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 /* Expression of the Day */
@@ -297,8 +297,8 @@ h1 {
 /* Mobile Adjustments */
 @media (max-width: 768px) {
   .container {
-    padding: 1rem 0.5rem; /* Reduced side padding to maximize width */
-    min-height: 100dvh; /* Use dynamic viewport height */
+    padding: 1rem 0; /* Zero side padding to strictly maximize width */
+    min-height: 100dvh;
     display: flex;
     flex-direction: column;
   }
@@ -321,14 +321,16 @@ h1 {
 
   /* Compact Search Box */
   .search-section {
-    margin-bottom: 0; /* Zero gap as requested */
+    padding: 0 1rem; /* Compensate for zero container padding */
+    margin-bottom: 0;
   }
 
   /* ... (lines 327-353 omitted for brevity, keeping existing styles) ... */
 
   /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    margin-top: 0;
+    padding: 0 0.5rem; /* Minimal side padding */
+    margin-top: -1rem; /* Negative margin to aggressively remove gap */
   }
 
   /* Reduce card padding on mobile to allow wider text content */
