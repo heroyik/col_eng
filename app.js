@@ -225,7 +225,6 @@ function renderEmptyState() {
               <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
             </svg>
             Expression of the Day
-            <span class="daily-badge">Premium</span>
           </h2>
           <article class="expression-card">
               <div class="card-header">

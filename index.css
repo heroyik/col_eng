@@ -281,18 +281,7 @@ h1 {
   height: 28px;
 }
 
-.daily-badge {
-  background: var(--accent-gradient);
-  color: #fff;
-  padding: 0.2rem 0.6rem;
-  border-radius: 6px;
-  font-size: 0.7rem;
-  font-family: "Outfit", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  vertical-align: middle;
-}
+
 
 @keyframes fadeIn {
   from {
@@ -362,9 +351,9 @@ h1 {
     margin-top: 0;
   }
 
-  /* Pull Expression of the Day tight to the top */
+  /* Pull Expression of the Day tight to the top with negative margin */
   .daily-expression-container {
-    margin-top: 0;
+    margin-top: -1.5rem;
   }
 
   /* Reduce card padding on mobile to allow wider text content */
