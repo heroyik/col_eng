@@ -4,13 +4,15 @@ A premium, high-performance web application designed to search and discover auth
 
 ## ✨ Features
 
+- **Expression of the Day**: A premium, daily-changing expression featured prominently on the home screen to encourage unparalleled discovery.
+- **NYC-Style Content**: A rich database of 850+ expressions, each enriched with 5 modern, context-aware synonyms and a 6-line realistic dialogue example.
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
 - **Enter Key Trigger**: Immediate search results update on hitting "Enter" for a faster user experience.
-- **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results) to ensure reliable repeated searches.
-- **Real-time Loading**: All expressions are loaded once on initialization to provide instant, lag-free search results.
-- **Compact Mobile Layout**: Optimized specifically for mobile screens with a single-view design (`100dvh`), reduced spacing, and fluid typography.
+- **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results).
+- **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue and maximizing content visibility.
 - **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
+- **Smart Deduplication**: The database is algorithmically curated to maintain zero duplicates for a clean learning experience.
 - **Wildcard Search**: Type `*` in the search box to view all expressions currently stored in the database.
 - **Cross-Browser Styling**: Safari-ready glassmorphism effects using `-webkit-backdrop-filter`.
 - **Improved Readability**: Enhanced text contrast, distinct example blocks, and refined typography (Outfit & Playfair Display).
@@ -74,6 +76,15 @@ To provide a superior user experience with standard Firestore (which has limited
 ## 📄 License
 
 MIT License - feel free to use and modify for your own projects!
+
+## 🛡️ Data Integrity & Management
+
+This project employs a suite of custom Node.js scripts to ensure a clean, high-quality database:
+
+- **Batch Upload**: REST API-based uploader for efficient handling of large datasets (500+ records).
+- **Automated Renaming**: Migrated legacy numeric IDs (e.g., `680`) to a standardized `expression_ID` format.
+- **Smart Deduplication**: Custom algorithm to detect and remove near-match duplicates using Levenshtein distance analysis.
+- **Enrichment Pipeline**: Automated enrichment process to add synonyms and dialogue examples to raw text inputs.
 
 ## 📧 Contact & Maintenance
 

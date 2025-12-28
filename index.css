@@ -332,7 +332,7 @@ h1 {
 
   /* Compact Search Box */
   .search-section {
-    margin-bottom: 1rem; /* Reduced from 2rem to pull daily expression up */
+    margin-bottom: 0.5rem; /* Minimized gap to connect with daily expression */
   }
 
   .search-box {
@@ -356,14 +356,20 @@ h1 {
     gap: 1rem;
   }
 
-  /* Reduce empty state padding on mobile to widen the card */
+  /* Remove padding to maximize space and connection */
   .empty-state {
-    padding: 1rem 0; /* Drastically reduced from 4rem */
+    padding: 0;
+    margin-top: 0;
   }
 
-  /* Pull Expression of the Day higher up */
+  /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    margin-top: 1rem;
+    margin-top: 0;
+  }
+
+  /* Reduce card padding on mobile to allow wider text content */
+  .expression-card {
+    padding: 1.25rem;
   }
 }
 
