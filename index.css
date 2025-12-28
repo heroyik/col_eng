@@ -329,7 +329,7 @@ h1 {
 
   /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    padding: 0 0.5rem; /* Minimal side padding */
+    padding: 0 1rem; /* Match search section padding for alignment */
     margin-top: -1rem; /* Negative margin to aggressively remove gap */
   }
 
