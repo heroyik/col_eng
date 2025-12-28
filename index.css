@@ -353,6 +353,17 @@ h1 {
     width: 20px;
     height: 20px;
   }
+
+  /* Reset default empty-state padding that constrains width */
+  .empty-state {
+    padding: 2rem 0;
+  }
+
+  /* Add padding back to text elements since container padding was removed */
+  .empty-state p,
+  .stats-text {
+    padding: 0 1rem;
+  }
 }
 
 /* Footer Styling */
