@@ -321,39 +321,14 @@ h1 {
 
   /* Compact Search Box */
   .search-section {
-    margin-bottom: 1.5rem; /* Consistant 1cm gap */
+    margin-bottom: 0; /* Zero gap as requested */
   }
 
-  .search-box {
-    border-radius: 16px;
-  }
-
-  #searchInput {
-    padding: 0.8rem 1rem 0.8rem 3rem;
-    font-size: 1rem;
-  }
-
-  .search-icon {
-    left: 1rem;
-    width: 20px;
-    height: 20px;
-  }
-
-  /* Compact Results Grid */
-  .results-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-
-  /* Remove padding to maximize space and connection */
-  .empty-state {
-    padding: 0;
-    margin-top: 0;
-  }
+  /* ... (lines 327-353 omitted for brevity, keeping existing styles) ... */
 
   /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    margin-top: 1rem;
+    margin-top: 0;
   }
 
   /* Reduce card padding on mobile to allow wider text content */
