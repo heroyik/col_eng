@@ -344,7 +344,7 @@ h1 {
 
   /* Compact Daily Header to remove visual gap */
   .daily-header {
-    font-size: 1.25rem; /* Adjusted for hierarchy: smaller than card title (1.5rem) but clear */
+    font-size: 1.35rem; /* Slightly larger as requested */
     margin-bottom: 0.75rem; /* Slightly increased gap */
     gap: 0.5rem;
     justify-content: center; /* Center align on mobile */
