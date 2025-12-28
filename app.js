@@ -112,6 +112,7 @@ function renderResults(results) {
   const suffix = results.length === 1 ? "result" : "results";
   resultCount.textContent = `${results.length} ${suffix} found`;
   resultCount.classList.remove("hidden");
+  resultsContainer.classList.remove("hidden"); // Show container when results exist
 
   noResultsState.classList.add("hidden");
   initialState.classList.add("hidden");
@@ -196,6 +197,7 @@ function renderLoading(isLoading) {
 
 function renderEmptyState() {
   resultsContainer.innerHTML = "";
+  resultsContainer.classList.add("hidden"); // Hide container to remove gap
   loadingState.classList.add("hidden");
   noResultsState.classList.add("hidden");
 
