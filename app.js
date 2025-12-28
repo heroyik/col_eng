@@ -32,8 +32,11 @@ const initialState = document.getElementById("initialState");
 const noResultsState = document.getElementById("noResultsState");
 const resultCount = document.getElementById("resultCount");
 const statsDisplay = document.getElementById("statsDisplay");
+const dailyExpressionContainer = document.getElementById("dailyExpressionContainer");
+const initialStateMessage = document.getElementById("initialStateMessage");
 
 let expressions = [];
+let dailyExpression = null;
 let debounceTimer;
 
 // Fetch expressions once on load
@@ -46,6 +49,13 @@ async function fetchAllExpressions() {
       expressions.push({ id: doc.id, ...doc.data() });
     });
     console.log(`Loaded ${expressions.length} expressions.`);
+
+    // Pick a random expression for the day
+    if (expressions.length > 0) {
+      dailyExpression =
+        expressions[Math.floor(Math.random() * expressions.length)];
+    }
+
     renderEmptyState(); // Update UI with total count
   } catch (error) {
     console.error("Error fetching expressions:", error);
@@ -188,20 +198,70 @@ function renderEmptyState() {
   resultsContainer.innerHTML = "";
   loadingState.classList.add("hidden");
   noResultsState.classList.add("hidden");
-  
+
   if (expressions.length > 0) {
     const now = new Date();
     const year = now.getFullYear();
     const month = String(now.getMonth() + 1).padStart(2, '0');
     const day = String(now.getDate()).padStart(2, '0');
     const formattedDate = `${year}/${month}/${day}`;
-    
+
     statsDisplay.textContent = `(${formattedDate}, total number of expressions: ${expressions.length})`;
     statsDisplay.classList.remove("hidden");
+
+    if (dailyExpression) {
+      initialStateMessage.classList.add("hidden");
+      dailyExpressionContainer.innerHTML = `
+        <div class="daily-expression-container">
+          <h2 class="daily-header">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+            </svg>
+            Expression of the Day
+            <span class="daily-badge">Premium</span>
+          </h2>
+          <article class="expression-card">
+              <div class="card-header">
+                  <h3 class="text">${dailyExpression.primary}</h3>
+                  <span class="meaning">${dailyExpression.meaning}</span>
+              </div>
+              ${
+                dailyExpression.similar && Array.isArray(dailyExpression.similar)
+                  ? `
+                  <div class="synonyms-list">
+                      ${dailyExpression.similar
+                        .map((syn) => `<span class="synonym-tag">${syn}</span>`)
+                        .join("")}
+                  </div>
+              `
+                  : ""
+              }
+              ${
+                dailyExpression.example
+                  ? `
+                  <div class="example-box">
+                      <span class="example-label">Example Usage</span>
+                      <p class="example-text">${highlightKeywords(
+                        dailyExpression.example,
+                        [
+                          dailyExpression.primary,
+                          ...(dailyExpression.similar || []),
+                        ]
+                      )}</p>
+                  </div>
+              `
+                  : ""
+              }
+          </article>
+        </div>
+      `;
+    }
   } else {
     statsDisplay.classList.add("hidden");
+    initialStateMessage.classList.remove("hidden");
+    dailyExpressionContainer.innerHTML = "";
   }
-  
+
   // Ensure resultCount is hidden and empty
   resultCount.textContent = "";
   resultCount.classList.add("hidden");

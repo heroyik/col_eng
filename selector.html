@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expression Selector Pro</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-light: #818cf8;
+            --bg: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --card-border: rgba(255, 255, 255, 0.1);
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --accent: #f472b6;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.15) 0, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(244, 114, 182, 0.1) 0, transparent 50%);
+            color: var(--text);
+            min-height: 100vh;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            position: sticky;
+            top: 1rem;
+            z-index: 100;
+            background: rgba(15, 23, 42, 0.8);
+            backdrop-filter: blur(12px);
+            padding: 1.5rem;
+            border-radius: 1rem;
+            border: 1px solid var(--card-border);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+        }
+
+        .logo h1 {
+            font-size: 1.5rem;
+            background: linear-gradient(to right, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 700;
+        }
+
+        .stats {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .actions {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .btn {
+            padding: 0.6rem 1.2rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-light);
+            transform: translateY(-1px);
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 1px solid var(--card-border);
+            color: var(--text);
+        }
+
+        .btn-outline:hover {
+            background: var(--card-border);
+        }
+
+        .search-nav {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 0.8rem 1rem;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 0.75rem;
+            color: white;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-box input:focus {
+            border-color: var(--primary);
+        }
+
+        .tabs {
+            display: flex;
+            background: var(--card-bg);
+            padding: 0.25rem;
+            border-radius: 0.75rem;
+            border: 1px solid var(--card-border);
+        }
+
+        .tab {
+            padding: 0.6rem 1.5rem;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-weight: 500;
+            color: var(--text-muted);
+            transition: all 0.2s;
+        }
+
+        .tab.active {
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--text);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 1rem;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .card:hover {
+            border-color: rgba(255, 255, 255, 0.2);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        }
+
+        .card.selected {
+            border-color: var(--primary);
+            background: rgba(99, 102, 241, 0.1);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .id-badge {
+            background: rgba(255,255,255,0.05);
+            padding: 0.2rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-family: monospace;
+        }
+
+        .primary-text {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        .meaning-text {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+        }
+
+        .checkbox {
+            width: 1.2rem;
+            height: 1.2rem;
+            border-radius: 0.25rem;
+            border: 2px solid var(--card-border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .selected .checkbox {
+            background: var(--primary);
+            border-color: var(--primary);
+        }
+
+        .selected .checkbox::after {
+            content: '✓';
+            color: white;
+            font-size: 0.8rem;
+        }
+
+        /* Toast notifications */
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            padding: 1rem 2rem;
+            background: var(--success);
+            color: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            transform: translateY(150%);
+            transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            z-index: 1000;
+        }
+
+        .toast.show {
+            transform: translateY(0);
+        }
+
+        @media (max-width: 768px) {
+            padding: 1rem;
+            header { flex-direction: column; gap: 1rem; align-items: stretch; text-align: center; }
+            .search-nav { flex-direction: column; align-items: stretch; }
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <h1>Mid-Expressions Selector</h1>
+                <div class="stats" id="selection-count">Selected: 0 / 200</div>
+            </div>
+            <div class="actions">
+                <button class="btn btn-outline" onclick="selectAll()">Select All</button>
+                <button class="btn btn-outline" onclick="deselectAll()">Clear All</button>
+                <button class="btn btn-primary" onclick="copyJSON()">Copy Selected JSON</button>
+            </div>
+        </header>
+
+        <nav class="search-nav">
+            <div class="tabs">
+                <div class="tab active" onclick="setTab(1)" id="tab-1">잉툰미드 1 (1-100)</div>
+                <div class="tab" onclick="setTab(2)" id="tab-2">잉툰미드 2 (101-200)</div>
+            </div>
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search expressions..." oninput="handleSearch()">
+            </div>
+        </nav>
+
+        <div class="grid" id="expression-grid">
+            <!-- Cards will be rendered here -->
+        </div>
+    </div>
+
+    <div id="toast" class="toast">JSON copied to clipboard!</div>
+
+    <script>
+        const data1 = [
+  { "id": 1, "english": "It's on the tip of my tongue.", "korean": "생각 날 듯 말 듯해." },
+  { "id": 2, "english": "What brings you here?", "korean": "어쩐 일로 오셨어요?" },
+  { "id": 3, "english": "Don't get any funny ideas.", "korean": "이상한 생각하지 마. / 오해하지 마." },
+  { "id": 4, "english": "I'm not much of a coffee person.", "korean": "난 커피 별로 안 좋아해." },
+  { "id": 5, "english": "I don't follow.", "korean": "무슨 말인지 모르겠어." },
+  { "id": 6, "english": "Are you wearing perfume?", "korean": "향수 뿌렸어?" },
+  { "id": 7, "english": "We have bigger fish to fry.", "korean": "더 중요한 일이 있어." },
+  { "id": 8, "english": "I have my hands full.", "korean": "엄청나게 바빠." },
+  { "id": 9, "english": "How can that be?", "korean": "어떻게 그럴 수 있지?" },
+  { "id": 10, "english": "Potato, potahto, tomato, tomahto.", "korean": "그게 그거지." },
+  { "id": 11, "english": "It's not my day.", "korean": "오늘 일진이 안 좋아." },
+  { "id": 12, "english": "Far from it.", "korean": "전혀 그렇지 않아." },
+  { "id": 13, "english": "Fancy meeting you here!", "korean": "여기서 너를 만날 줄이야!" },
+  { "id": 14, "english": "I never thought of that.", "korean": "그렇게 생각 안해봤어." },
+  { "id": 15, "english": "Are you gonna run some errands?", "korean": "볼일 보러 나갈 거야?" },
+  { "id": 16, "english": "I just did the best I could.", "korean": "최선을 다해 노력했어요." },
+  { "id": 17, "english": "Get to the point.", "korean": "요점만 말해." },
+  { "id": 18, "english": "Do I have to spell it out for you?", "korean": "내가 하나하나 다 설명해줘야 돼?" },
+  { "id": 19, "english": "I can't get through to her.", "korean": "걔를 이해시킬 수가 없어." },
+  { "id": 20, "english": "Take a wild guess.", "korean": "대충 맞춰봐." },
+  { "id": 21, "english": "No more wishy-washy.", "korean": "그만 우유분단하게 굴어." },
+  { "id": 22, "english": "Sue me!", "korean": "배째!" },
+  { "id": 23, "english": "Just making chit chat.", "korean": "그냥 수다 떠는 중이야." },
+  { "id": 24, "english": "We won by a nose.", "korean": "우리는 간발의 차로 이겼어." },
+  { "id": 25, "english": "That's on you.", "korean": "그건 네 책임이야." },
+  { "id": 26, "english": "I'm totally out of shape.", "korean": "몸 상태가 엉망이야." },
+  { "id": 27, "english": "Why are you dressed up?", "korean": "왜 이렇게 옷을 차려 입었어?" },
+  { "id": 28, "english": "I bought it for a song.", "korean": "나 이거 헐값에 샀어." },
+  { "id": 29, "english": "That was a close call!", "korean": "큰일 날 뻔했어!" },
+  { "id": 30, "english": "Likewise.", "korean": "마찬가지야." },
+  { "id": 31, "english": "You made my day.", "korean": "덕분에 기분 좋아졌어." },
+  { "id": 32, "english": "What a small world.", "korean": "세상 참 좁다." },
+  { "id": 33, "english": "I didn't see this coming.", "korean": "이렇게 될 줄 몰랐어." },
+  { "id": 34, "english": "Sorry about the mess.", "korean": "지저분해서 미안." },
+  { "id": 35, "english": "Everyone speaks highly of you.", "korean": "다들 너 칭찬하더라." },
+  { "id": 36, "english": "You have to put yourself in my shoes.", "korean": "내 입장에서 생각해 줘." },
+  { "id": 37, "english": "Where have you been?", "korean": "어디 있었어?" },
+  { "id": 38, "english": "Don't be a stranger.", "korean": "연락하고 지내자." },
+  { "id": 39, "english": "All sales are final.", "korean": "반품/환불 안됩니다." },
+  { "id": 40, "english": "I never meant to.", "korean": "고의로 그런 거 아니야." },
+  { "id": 41, "english": "Here's the deal.", "korean": "그럼 이렇게 하자." },
+  { "id": 42, "english": "Enough chit chat.", "korean": "잡담 그만해." },
+  { "id": 43, "english": "We can pull this off.", "korean": "우리 이거 해낼 수 있어." },
+  { "id": 44, "english": "You have my word.", "korean": "약속할 게 내 말 믿어." },
+  { "id": 45, "english": "Time's up.", "korean": "시간 다 됐습니다." },
+  { "id": 46, "english": "Do I know you from somewhere?", "korean": "우리 어디서 본 적 있죠?" },
+  { "id": 47, "english": "Fake it till you make it.", "korean": "될 때까지 해야지." },
+  { "id": 48, "english": "Don't take it personally.", "korean": "기분 나쁘게 받아들이지 마세요." },
+  { "id": 49, "english": "That's the way it is.", "korean": "원래 다 그런 거야." },
+  { "id": 50, "english": "Don't be ridiculous.", "korean": "바보같이 굴지 마." },
+  { "id": 51, "english": "I got dumped.", "korean": "(이성에게) 나 차였어." },
+  { "id": 52, "english": "Now it makes sense.", "korean": "이제야 이해가 되네요." },
+  { "id": 53, "english": "Let's get it over with.", "korean": "빨리하고 끝내버리죠." },
+  { "id": 54, "english": "What a shame.", "korean": "정말 아쉽네요." },
+  { "id": 55, "english": "She's obsessed with you.", "korean": "그녀는 당신에게 집착하고 있어요." },
+  { "id": 56, "english": "Are you with me?", "korean": "내 말 이해되나요?" },
+  { "id": 57, "english": "Mind your business.", "korean": "상관 마세요." },
+  { "id": 58, "english": "I overreacted.", "korean": "제가 과민 반응했어요." },
+  { "id": 59, "english": "I have nothing to do with that.", "korean": "저와 상관없는 일이에요." },
+  { "id": 60, "english": "I think I'll pass.", "korean": "사양할게요." },
+  { "id": 61, "english": "There's been a big mistake.", "korean": "뭔가 착오가 있었어요." },
+  { "id": 62, "english": "I gotta get some air.", "korean": "바람 좀 쐬어야겠어요." },
+  { "id": 63, "english": "Okay if we take a rain check?", "korean": "다음으로 미뤄도 될까요?" },
+  { "id": 64, "english": "Don't hold your breath.", "korean": "기대하지 마세요." },
+  { "id": 65, "english": "He's not with me.", "korean": "제 일행이 아닙니다." },
+  { "id": 66, "english": "I can't catch a break.", "korean": "되는 일이 없어요." },
+  { "id": 67, "english": "Beats me.", "korean": "나도 몰라 / 낸들 아냐." },
+  { "id": 68, "english": "Do me a favor.", "korean": "부탁 하나만 하자." },
+  { "id": 69, "english": "I knew it.", "korean": "그럴 줄 알았어." },
+  { "id": 70, "english": "I take it back.", "korean": "그 말은 취소할게." },
+  { "id": 71, "english": "Jinx!", "korean": "찌찌뽕!" },
+  { "id": 72, "english": "Not necessarily.", "korean": "꼭 그렇진 않아." },
+  { "id": 73, "english": "Ta-da!", "korean": "짜잔!" },
+  { "id": 74, "english": "We're on the same page.", "korean": "우리 같은 생각이야." },
+  { "id": 75, "english": "What do you say?", "korean": "어떻게 생각해?" },
+  { "id": 76, "english": "I warned you this would happen.", "korean": "이런 일이 일어날 거라고 내가 경고 했잖아." },
+  { "id": 77, "english": "It's water under the bridge.", "korean": "다 지난 일이네요." },
+  { "id": 78, "english": "I have a ballpark figure.", "korean": "대충은 알고 있어요." },
+  { "id": 79, "english": "Don't beat yourself up.", "korean": "자책하지 마세요." },
+  { "id": 80, "english": "He cheated on me.", "korean": "걔가 바람을 피웠어." },
+  { "id": 81, "english": "I'm so screwed.", "korean": "완전히 망했어요." },
+  { "id": 82, "english": "You're being so dramatic.", "korean": "오버가 심하시네." },
+  { "id": 83, "english": "You're out of your league.", "korean": "이것은 당신 능력 밖이에요." },
+  { "id": 84, "english": "I'm so relieved.", "korean": "너무 마음이 놓이네요." },
+  { "id": 85, "english": "He's crazy about you.", "korean": "그는 너에게 푹 빠져 있어." },
+  { "id": 86, "english": "How are we on time?", "korean": "우리 제시간에 도착한거야?" },
+  { "id": 87, "english": "Don't try to butter me up.", "korean": "나한테 아부하려고 하지 마." },
+  { "id": 88, "english": "I do have feelings for you.", "korean": "당신을 좋아해요." },
+  { "id": 89, "english": "He crossed the line.", "korean": "걔는 선을 넘었어 / 도가 지나쳤어." },
+  { "id": 90, "english": "Don't keep me waiting.", "korean": "저를 기다리게 하지 마세요." },
+  { "id": 91, "english": "You guys are so made for each other.", "korean": "너네 둘은 천생연분이야." },
+  { "id": 92, "english": "Suit yourself.", "korean": "마음대로 하세요." },
+  { "id": 93, "english": "That should do it.", "korean": "이거면 돼. / 이정도면 됐어." },
+  { "id": 94, "english": "I'm gonna go freshen up.", "korean": "나 씻으러 가야겠다." },
+  { "id": 95, "english": "You're wearing it backwards.", "korean": "너 옷 거꾸로 입었다." },
+  { "id": 96, "english": "Will you be home for dinner?", "korean": "집에 와서 저녁 먹을 거야?" },
+  { "id": 97, "english": "I'm afraid we're out of stock.", "korean": "안타깝지만 재고가 다 떨어졌어요." },
+  { "id": 98, "english": "Good call.", "korean": "좋은 생각이야. / 좋은 결정이야." },
+  { "id": 99, "english": "I'm in the same boat.", "korean": "나도 같은 처지야." },
+  { "id": 100, "english": "That's so touching.", "korean": "정말 감동이다." }
+];
+        const data2 = [
+  { "id": 101, "english": "I'm speechless.", "korean": "말문이 막히네, 할 말을 잃었어." },
+  { "id": 102, "english": "I don't know a thing.", "korean": "난 아무것도 몰라." },
+  { "id": 103, "english": "Where was I?", "korean": "내가 어디까지 이야기했지?" },
+  { "id": 104, "english": "Wanna grab some lunch?", "korean": "점심 먹을래?" },
+  { "id": 105, "english": "I had a rough night.", "korean": "밤잠을 설쳤어." },
+  { "id": 106, "english": "This can't be happening.", "korean": "이건 있을 수 없는 일이야." },
+  { "id": 107, "english": "Now you're talking.", "korean": "이제야 말이 통하네!" },
+  { "id": 108, "english": "You got that right.", "korean": "네 말이 맞아." },
+  { "id": 109, "english": "I don't see that happening.", "korean": "그렇게는 안될 걸." },
+  { "id": 110, "english": "Not that I know of.", "korean": "내가 알기로는 그렇지 않아." },
+  { "id": 111, "english": "Over my dead body.", "korean": "절.대.안.돼." },
+  { "id": 112, "english": "I'm hoping for the best.", "korean": "잘 되길 빌고 있어." },
+  { "id": 113, "english": "I'm down.", "korean": "난 찬성이야." },
+  { "id": 114, "english": "No way.", "korean": "말도 안돼. / 헐 대박." },
+  { "id": 115, "english": "Mind if I join you?", "korean": "내가 껴도 돼?" },
+  { "id": 116, "english": "Who cares?", "korean": "알게 뭐람? 무슨 상관이야?" },
+  { "id": 117, "english": "It's not my place.", "korean": "내가 나설 자리가 아냐." },
+  { "id": 118, "english": "Follow your heart.", "korean": "마음 가는대로 해." },
+  { "id": 119, "english": "I wouldn't if I were you.", "korean": "내가 너라면 그렇게 하지 않겠어." },
+  { "id": 120, "english": "Do your job.", "korean": "네 일이나 잘해." },
+  { "id": 121, "english": "It's all or nothing.", "korean": "모 아니면 도야." },
+  { "id": 122, "english": "Behave yourself.", "korean": "버릇없이 굴면 안돼. / 점잖게 행동해." },
+  { "id": 123, "english": "What's in it for me?", "korean": "내가 얻는 게 뭔데?" },
+  { "id": 124, "english": "Shame on you!", "korean": "부끄러운 줄 알아야지! 창피한 일이야!" },
+  { "id": 125, "english": "You're one to talk.", "korean": "사돈 남 말 하네." },
+  { "id": 126, "english": "You asked for it.", "korean": "자업자득이지." },
+  { "id": 127, "english": "It serves you right!", "korean": "꼴 좋다! 넌 그런 일 당해도 싸!" },
+  { "id": 128, "english": "You catch on quick.", "korean": "눈치가 빠르네. / 이해가 빠르네." },
+  { "id": 129, "english": "Don't blow it.", "korean": "기회를 날리지 마. / 망치지 마." },
+  { "id": 130, "english": "Then so be it.", "korean": "그럼 그렇게 해. / 어쩔 수 없지." },
+  { "id": 131, "english": "Watch your tongue!", "korean": "말 조심해!" },
+  { "id": 132, "english": "I want no part of it.", "korean": "난 그 일에 관여하고 싶지 않아." },
+  { "id": 133, "english": "Please don't butt in.", "korean": "끼어들지 마." },
+  { "id": 134, "english": "Brace yourself.", "korean": "마음 단단히 먹고 들어." },
+  { "id": 135, "english": "Let's just call it even.", "korean": "비긴 셈치자." },
+  { "id": 136, "english": "It's a guy thing.", "korean": "남자들 이야기야." },
+  { "id": 137, "english": "She's gonna mooch off us.", "korean": "걔는 우리에게 빌붙어살거야." },
+  { "id": 138, "english": "The same goes for you.", "korean": "너도 마찬가지야." },
+  { "id": 139, "english": "Pull over right here.", "korean": "바로 여기에 차를 세워요." },
+  { "id": 140, "english": "Hop in.", "korean": "어서 타." },
+  { "id": 141, "english": "Going my way?", "korean": "혹시 나랑 같은 방향으로 가니?" },
+  { "id": 142, "english": "You can't miss it.", "korean": "쉽게 찾을 수 있을 거야." },
+  { "id": 143, "english": "I'm stuck in traffic.", "korean": "차가 막혀." },
+  { "id": 144, "english": "I can't afford it.", "korean": "그럴 형편이 안돼." },
+  { "id": 145, "english": "Take it up with your boss.", "korean": "사장하고 이야기해봐." },
+  { "id": 146, "english": "Would you scoot a little?", "korean": "조금만 옆으로 가줄래요?" },
+  { "id": 147, "english": "I can hold my head high.", "korean": "난 떳떳할 수 있어." },
+  { "id": 148, "english": "That's all I need.", "korean": "내가 필요한 건 그게 다야." },
+  { "id": 149, "english": "I'm doing my hair.", "korean": "머리 손질 중이야." },
+  { "id": 150, "english": "Can you break a hundred?", "korean": "100불을 잔돈으로 바꿔주실래요?" },
+  { "id": 151, "english": "What an imagination you have.", "korean": "상상력도 풍부하군!" },
+  { "id": 152, "english": "We've grown apart.", "korean": "성장하면서 자연스레 멀어졌어." },
+  { "id": 153, "english": "I just feel drained.", "korean": "기운이 다 빠진 것 같아요." },
+  { "id": 154, "english": "Get a grip!", "korean": "정신 차려!" },
+  { "id": 155, "english": "Can I tag along?", "korean": "나도 따라가도 돼?" },
+  { "id": 156, "english": "It's a hassle.", "korean": "귀찮아. / 번거로워." },
+  { "id": 157, "english": "So far, so good.", "korean": "지금까지는 괜찮아." },
+  { "id": 158, "english": "You haven't changed a bit.", "korean": "너 정말 하나도 안 변했구나." },
+  { "id": 159, "english": "I'm laying low.", "korean": "혼자 조용히 지내고 있어." },
+  { "id": 160, "english": "Rock on!", "korean": "멋지군! 좋아!" },
+  { "id": 161, "english": "It's hard to keep up.", "korean": "따라잡기 어려워." },
+  { "id": 162, "english": "That makes two of us.", "korean": "나도 마찬가지야." },
+  { "id": 163, "english": "There, there.", "korean": "(위로할 때) 토닥토닥/괜찮아" },
+  { "id": 164, "english": "It was all for nothing.", "korean": "괜히 했어." },
+  { "id": 165, "english": "There wasn't time.", "korean": "시간 없었어." },
+  { "id": 166, "english": "I'm in a bind.", "korean": "난처한 상황에 처해있어." },
+  { "id": 167, "english": "He's always on the go.", "korean": "그는 늘 바쁘게 돌아다녀." },
+  { "id": 168, "english": "I smell a rat.", "korean": "수상해. 뭔가 냄새가 나." },
+  { "id": 169, "english": "I could eat a horse.", "korean": "(배가 고파서) 뭐든지 먹을 수 있어." },
+  { "id": 170, "english": "You're all missing my point.", "korean": "내 요점을 모르네." },
+  { "id": 171, "english": "Pardon my language.", "korean": "거친 표현 미안해." },
+  { "id": 172, "english": "Let's just talk turkey.", "korean": "본론으로 들어가죠." },
+  { "id": 173, "english": "I'll come to the point.", "korean": "단도직입적으로 말할 게." },
+  { "id": 174, "english": "It carries no weight.", "korean": "그건 전혀 중요하지 않아." },
+  { "id": 175, "english": "Put your feet up.", "korean": "푹 쉬어." },
+  { "id": 176, "english": "Drop the subject.", "korean": "그 얘긴 그만해." },
+  { "id": 177, "english": "Everything's up in the air.", "korean": "아직 모든 것이 미정이야." },
+  { "id": 178, "english": "Thanks for walking me home.", "korean": "집까지 같이 걸어와줘서 고마워." },
+  { "id": 179, "english": "Speak of the devil!", "korean": "호랑이도 제 말하면 온다더니!" },
+  { "id": 180, "english": "Heads or tails!", "korean": "(동전) 앞면일까 뒷면일까!" },
+  { "id": 181, "english": "Just kicking in.", "korean": "그냥 쉬고 있어." },
+  { "id": 182, "english": "Put yourself out there.", "korean": "당당하게 나서봐. 자신있게 시도해봐." },
+  { "id": 183, "english": "You're all I've got.", "korean": "나한텐 너뿐이야." },
+  { "id": 184, "english": "That figures.", "korean": "어쩐지. 그럴 줄 알았어." },
+  { "id": 185, "english": "What's there to think about?", "korean": "생각할 게 뭐있어? 뭘 고민해?" },
+  { "id": 186, "english": "It's out of my hands.", "korean": "나도 어쩔 수 없어." },
+  { "id": 187, "english": "Old habits die hard.", "korean": "세 살 버릇 여든까지 간다." },
+  { "id": 188, "english": "Is that what I think it is?", "korean": "이게 내가 생각하는 게 맞아?" },
+  { "id": 189, "english": "Just go with it.", "korean": "그냥 참고 지내." },
+  { "id": 190, "english": "In one ear and out the other.", "korean": "한 귀로 듣고 한 귀로 흘려버려." },
+  { "id": 191, "english": "Like father, like son.", "korean": "그 아버지에 그 아들이야." },
+  { "id": 192, "english": "We're not done here.", "korean": "아직 얘기 안 끝났어." },
+  { "id": 193, "english": "Here goes nothing.", "korean": "밑져야 본전이지." },
+  { "id": 194, "english": "It's now or never.", "korean": "지금이 절호의 기회야." },
+  { "id": 195, "english": "I didn't sleep a wink.", "korean": "한숨도 못 잤어." },
+  { "id": 196, "english": "I'm just having a bad day.", "korean": "오늘 일진이 좀 안 좋아." },
+  { "id": 197, "english": "You can't be serious.", "korean": "설마 진심은 아니겠지?" },
+  { "id": 198, "english": "Get the picture?", "korean": "이해가 돼?" },
+  { "id": 199, "english": "You look awful.", "korean": "꼴이 말이 아니네." },
+  { "id": 200, "english": "Don't fall for it.", "korean": "속지 마!" }
+];
+
+        let currentTab = 1;
+        let selectedIds = new Set();
+        let searchQuery = "";
+
+        function render() {
+            const grid = document.getElementById('expression-grid');
+            grid.innerHTML = '';
+            
+            const data = currentTab === 1 ? data1 : data2;
+            const filtered = data.filter(item => 
+                item.english.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                item.korean.toLowerCase().includes(searchQuery.toLowerCase())
+            );
+
+            filtered.forEach(item => {
+                const card = document.createElement('div');
+                card.className = `card ${selectedIds.has(item.id) ? 'selected' : ''}`;
+                card.onclick = () => toggleSelect(item.id);
+                
+                card.innerHTML = `
+                    <div class="card-header">
+                        <span class="id-badge">#${item.id}</span>
+                        <div class="checkbox"></div>
+                    </div>
+                    <div class="primary-text">${item.english}</div>
+                    <div class="meaning-text">${item.korean}</div>
+                `;
+                grid.appendChild(card);
+            });
+
+            updateStats();
+        }
+
+        function toggleSelect(id) {
+            if (selectedIds.has(id)) {
+                selectedIds.delete(id);
+            } else {
+                selectedIds.add(id);
+            }
+            render();
+        }
+
+        function setTab(tab) {
+            currentTab = tab;
+            document.getElementById('tab-1').classList.toggle('active', tab === 1);
+            document.getElementById('tab-2').classList.toggle('active', tab === 2);
+            render();
+        }
+
+        function handleSearch() {
+            searchQuery = document.getElementById('search').value;
+            render();
+        }
+
+        function selectAll() {
+            const data = currentTab === 1 ? data1 : data2;
+            data.forEach(item => selectedIds.add(item.id));
+            render();
+        }
+
+        function deselectAll() {
+            const data = currentTab === 1 ? data1 : data2;
+            data.forEach(item => selectedIds.delete(item.id));
+            render();
+        }
+
+        function updateStats() {
+            document.getElementById('selection-count').innerText = `Selected: ${selectedIds.size} / 200`;
+        }
+
+        function copyJSON() {
+            const allData = [...data1, ...data2];
+            const selected = allData.filter(item => selectedIds.has(item.id));
+            
+            if (selected.length === 0) {
+                alert("No items selected!");
+                return;
+            }
+
+            const json = JSON.stringify(selected, null, 2);
+            navigator.clipboard.writeText(json).then(() => {
+                showToast();
+            });
+        }
+
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 3000);
+        }
+
+        // Initial render
+        render();
+    </script>
+</body>
+</html>
