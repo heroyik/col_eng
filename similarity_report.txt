@@ -1,2 +1,0 @@
-Total documents in Firestore: 626
-No similar records found.

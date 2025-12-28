@@ -1,3 +1,0 @@
-JSON count: 300
-TXT line count: 300
-SUCCESS: 100% coverage and accuracy confirmed!
