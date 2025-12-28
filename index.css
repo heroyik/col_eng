@@ -297,7 +297,7 @@ h1 {
 /* Mobile Adjustments */
 @media (max-width: 768px) {
   .container {
-    padding: 1.5rem 1rem;
+    padding: 1rem 0.5rem; /* Reduced side padding to maximize width */
     min-height: 100dvh; /* Use dynamic viewport height */
     display: flex;
     flex-direction: column;
