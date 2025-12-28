@@ -322,7 +322,7 @@ h1 {
   /* Compact Search Box */
   .search-section {
     padding: 0 1rem; /* Compensate for zero container padding */
-    margin-bottom: 0;
+    margin-bottom: 2rem; /* Increased from 0 to add space */
   }
 
   /* Compact Results Grid */
@@ -334,7 +334,7 @@ h1 {
   /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
     padding: 0 1rem; /* Matched to results-grid logic */
-    margin-top: -1rem;
+    margin-top: 0; /* Removed negative margin to increase space */
   }
 
   /* Reduce card padding on mobile to allow wider text content */
@@ -344,8 +344,8 @@ h1 {
 
   /* Compact Daily Header to remove visual gap */
   .daily-header {
-    font-size: 1.1rem; /* Smaller text */
-    margin-bottom: 0.5rem; /* Reduced gap */
+    font-size: 1.5rem; /* Increased from 1.1rem to match card text */
+    margin-bottom: 0.75rem; /* Slightly increased gap */
     gap: 0.5rem;
   }
   
