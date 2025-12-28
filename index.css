@@ -325,12 +325,16 @@ h1 {
     margin-bottom: 0;
   }
 
-  /* ... (lines 327-353 omitted for brevity, keeping existing styles) ... */
+  /* Compact Results Grid */
+  .results-grid {
+    padding: 0 1rem;
+    gap: 1rem;
+  }
 
   /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    padding: 0; /* Full width as requested */
-    margin-top: -1rem; /* Negative margin to aggressively remove gap */
+    padding: 0 1rem; /* Matched to results-grid logic */
+    margin-top: -1rem;
   }
 
   /* Reduce card padding on mobile to allow wider text content */
