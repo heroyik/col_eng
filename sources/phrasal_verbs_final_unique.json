@@ -1,0 +1,362 @@
+[
+  {
+    "primary": "Hit the hay",
+    "meaning": "잠자러 가.",
+    "similar": [
+      "Go to bed.",
+      "Go to sleep.",
+      "Hit the sack.",
+      "Turn in.",
+      "Catch some Z's."
+    ],
+    "examples": [
+      "I'm exhausted; I think I'll hit the hay early tonight.",
+      "After a long day, she's ready to hit the sack.",
+      "He's hitting the hay because he has an early meeting tomorrow.",
+      "Let's turn in early tonight and catch some Z's.",
+      "It's late; time to go to bed and get some sleep."
+    ]
+  },
+  {
+    "primary": "Ring me up",
+    "meaning": "계산해 주세요.",
+    "similar": [
+      "Check me out.",
+      "I'd like to pay.",
+      "Can you tally this up?",
+      "Can you bill me for this?",
+      "Can you complete the transaction?"
+    ],
+    "examples": [
+      "I have all my items ready, could you ring me up, please?",
+      "She brought her groceries to the counter and said, \"Check me out, please.\"",
+      "After choosing his books, he asked the cashier, \"I'd like to pay for these.\"",
+      "She handed the clerk her selections and said, \"Can you tally this up for me?\"",
+      "Once he picked his clothes, he asked the salesperson, \"Can you bill me for this?\""
+    ]
+  },
+  {
+    "primary": "Do you have something going with her",
+    "meaning": "너 그녀와 썸타고 있어?",
+    "similar": [
+      "Are you seeing her?",
+      "Are you involved with her?",
+      "Is there something between you two?",
+      "Are you two an item?",
+      "Are you dating her?"
+    ],
+    "examples": [
+      "I've noticed you two together a lot lately. Do you have something going with her?",
+      "Are you seeing her, or is it just friendship?",
+      "I've heard rumors. Are you involved with her?",
+      "It looks like there's something between you two. Is there?",
+      "Are you dating her, or is it just a casual thing?"
+    ]
+  },
+  {
+    "primary": "Put me through",
+    "meaning": "전화 연결해 주세요.",
+    "similar": [
+      "Connect me, please.",
+      "Can you transfer me?",
+      "Patch me through.",
+      "Can you put me on with (someone)?",
+      "Can you connect me to (someone)?"
+    ],
+    "examples": [
+      "Could you put me through to the manager, please?",
+      "I need to speak with the doctor; can you connect me, please?",
+      "Can you transfer me to the customer service department?",
+      "Please patch me through to Mr. Kim's office.",
+      "Can you put me on with the HR department?"
+    ]
+  },
+  {
+    "primary": "Go back to square one",
+    "meaning": "원점으로 돌아가다.",
+    "similar": [
+      "Start over.",
+      "Begin again.",
+      "Return to the beginning.",
+      "Go back to the drawing board.",
+      "Start from scratch."
+    ],
+    "examples": [
+      "After the project failed, we had to go back to square one.",
+      "The plan didn’t work out, so we need to start over.",
+      "We have to begin again and figure out a new strategy.",
+      "Our initial approach failed, so we must return to the beginning.",
+      "The experiment was unsuccessful, so it's back to the drawing board."
+    ]
+  },
+  {
+    "primary": "Give up on",
+    "meaning": "포기하다.",
+    "similar": [
+      "Abandon.",
+      "Quit.",
+      "Stop trying.",
+      "Surrender.",
+      "Lose hope in."
+    ],
+    "examples": [
+      "I will never give up on my dreams.",
+      "He decided to abandon the project after several failures.",
+      "She quit trying to fix the old car.",
+      "Don’t stop trying; you’re almost there!",
+      "They surrendered after realizing it was impossible to continue."
+    ]
+  },
+  {
+    "primary": "Throw something in",
+    "meaning": "무언가를 추가하다.",
+    "similar": [
+      "Add something extra.",
+      "Include something.",
+      "Toss in an extra item.",
+      "Add a bonus.",
+      "Put in something additional."
+    ],
+    "examples": [
+      "If you buy the laptop today, we'll throw in a free mouse.",
+      "She decided to throw in a few extra ingredients to the recipe.",
+      "The salesman offered to throw in a free car wash with the purchase.",
+      "They threw in a complimentary dessert with our meal.",
+      "He always throws in a joke to lighten the mood during meetings."
+    ]
+  },
+  {
+    "primary": "Bring your SO",
+    "meaning": "애인을 데리고 와.",
+    "similar": [
+      "Bring your significant other.",
+      "Bring your partner.",
+      "Bring your other half.",
+      "Bring your boyfriend/girlfriend.",
+      "Bring your spouse."
+    ],
+    "examples": [
+      "We're having a party this weekend; feel free to bring your SO.",
+      "The invitation says to bring your significant other to the event.",
+      "Don't forget to bring your partner to the dinner.",
+      "It would be great if you could bring your other half to the gathering.",
+      "You are welcome to bring your boyfriend/girlfriend to the picnic."
+    ]
+  },
+  {
+    "primary": "Call off",
+    "meaning": "취소하다.",
+    "similar": [
+      "Cancel",
+      "Abort",
+      "Terminate",
+      "Halt",
+      "Stop"
+    ],
+    "examples": [
+      "We had to call off the meeting due to bad weather.",
+      "The event was called off at the last minute.",
+      "They decided to call off the project after the budget cuts.",
+      "The strike was called off after negotiations.",
+      "We called off the trip because of the illness."
+    ]
+  },
+  {
+    "primary": "Seal the deal",
+    "meaning": "계약을 성사시키다.",
+    "similar": [
+      "Finalize the agreement,",
+      "Close the deal,",
+      "Complete the transaction,",
+      "Secure the agreement,",
+      "Sign the contract,"
+    ],
+    "examples": [
+      "We need to seal the deal by the end of the week.",
+      "They finalized the agreement after weeks of negotiation.",
+      "She managed to close the deal with the new client.",
+      "The transaction was completed successfully.",
+      "They signed the contract to seal the deal."
+    ]
+  },
+  {
+    "primary": "Shoot the breeze",
+    "meaning": "잡담하다.",
+    "similar": [
+      "Chat",
+      "Gossip",
+      "Talk casually",
+      "Have a casual conversation",
+      "Chit-chat"
+    ],
+    "examples": [
+      "We sat on the porch and shot the breeze all afternoon. (우리는 현관에 앉아 오후 내내 잡담을 나눴어.)",
+      "Let's grab a coffee and shoot the breeze for a while. (커피 한 잔 하면서 잠시 잡담하자.)",
+      "They often meet up after work to shoot the breeze. (그들은 종종 퇴근 후에 만나서 잡담을 해.)",
+      "We spent the evening shooting the breeze and catching up. (우리는 저녁을 잡담하며 보내며 서로의 소식을 나눴어.)",
+      "It's nice to shoot the breeze with old friends. (오랜 친구들과 잡담하는 것은 즐거워.)"
+    ]
+  },
+  {
+    "primary": "See who's talking",
+    "meaning": "누가 할 소리인지 봐라?",
+    "similar": [
+      "Look who's talking.",
+      "You’re one to talk.",
+      "Pot calling the kettle black.",
+      "You're no different.",
+      "You're just as bad."
+    ],
+    "examples": [
+      "You're criticizing me for being late? See who's talking! (네가 나한테 늦었다고 비판한다고? 누가 할 소리인지 봐라!)",
+      "Look who's talking, you're always on your phone too. (누가 할 소린지 봐라, 너도 항상 전화하고 있잖아.)",
+      "You’re one to talk about being messy; your room is a disaster! (너도 방이 엉망인데 어지럽다고 말하는구나!)",
+      "Pot calling the kettle black, you're no different when it comes to bad habits. (똥 묻은 개가 겨 묻은 개 나무라다, 나쁜 습관에 관해서는 너도 다르지 않아.)",
+      "You're telling me to save money? You're just as bad with your spending. (나한테 돈을 아끼라고 말하는구나? 너도 돈을 똑같이 써.)"
+    ]
+  },
+  {
+    "primary": "Go easy on",
+    "meaning": "적당히 하다.",
+    "similar": [
+      "Take it easy on",
+      "Be gentle with",
+      "Don't overdo",
+      "Use sparingly",
+      "Be lenient with"
+    ],
+    "examples": [
+      "Go easy on the salt when you cook. (요리할 때 소금을 적당히 넣어.)",
+      "Take it easy on him; he's just a kid. (그에게 너무 심하게 하지 마; 그는 아직 아이야.)",
+      "Be gentle with the new equipment. (새로운 장비를 살살 다뤄.)",
+      "Don't overdo it at the gym; you don't want to hurt yourself. (체육관에서 너무 과하게 하지 마; 다치지 않도록 해.)",
+      "Use the paint sparingly; we don't have much left. (페인트를 조금만 사용해; 많이 남지 않았어.)"
+    ]
+  },
+  {
+    "primary": "Please spread the word",
+    "meaning": "소문 좀 퍼뜨려 줘.",
+    "similar": [
+      "Please share the news.",
+      "Help get the word out.",
+      "Tell others about it.",
+      "Let everyone know.",
+      "Pass the information along."
+    ],
+    "examples": [
+      "Please spread the word about the charity event next weekend. (다음 주말 자선 행사에 대해 소문 좀 퍼뜨려 줘.)",
+      "Help get the word out about the new store opening. (새 가게 개업에 대해 소문 좀 퍼뜨려 줘.)",
+      "Tell others about the meeting change. (회의 변경에 대해 다른 사람들에게 좀 알려 줘.)",
+      "Let everyone know that the concert has been rescheduled. (콘서트가 재조정되었다는 것을 모두에게 좀 알려 줘.)",
+      "Pass the information along to anyone who might be interested. (관심 있을 만한 사람에게 정보를 좀 전달해 줘.)"
+    ]
+  },
+  {
+    "primary": "Keep your head",
+    "meaning": "침착해.",
+    "similar": [
+      "Stay calm.",
+      "Remain composed.",
+      "Keep cool.",
+      "Don't lose your composure.",
+      "Stay level-headed."
+    ],
+    "examples": [
+      "When things get tough, remember to keep your head. (상황이 어려워질 때, 침착해.)",
+      "Stay calm and keep your head during the meeting. (회의 중에 진정하고 침착하게 있어.)",
+      "No matter what happens, keep cool and keep your head. (무슨 일이 있어도 차분하게 침착해.)",
+      "In stressful situations, it's important to keep your head. (스트레스가 많은 상황에서는 평정을 잃지 않는 것이 중요해.)",
+      "Even in the face of adversity, he managed to keep his head. (역경 속에서도 그는 침착하게 대처했어.)"
+    ]
+  },
+  {
+    "primary": "Pull an all-nighter",
+    "meaning": "밤을 새다.",
+    "similar": [
+      "Stay up all night",
+      "Burn the midnight oil",
+      "Work through the night",
+      "Stay up late",
+      "Work around the clock"
+    ],
+    "examples": [
+      "I had to pull an all-nighter to finish the project on time. (나는 프로젝트를 제시간에 끝내기 위해 밤을 새야 했어.)",
+      "She stayed up all night studying for the exam. (그녀는 시험 공부를 하느라 밤을 샜어.)",
+      "We burned the midnight oil to prepare for the presentation. (우리는 발표 준비를 위해 밤을 새웠어.)",
+      "He had to work through the night to meet the deadline. (그는 마감일을 맞추기 위해 밤새 일해야 했어.)",
+      "The team worked around the clock to complete the task. (팀은 작업을 완료하기 위해 밤낮없이 일했어.)"
+    ]
+  },
+  {
+    "primary": "Do you have beef with him",
+    "meaning": "그와 갈등이 있니?",
+    "similar": [
+      "Do you have a problem with him?",
+      "Are you in conflict with him?",
+      "Do you have an issue with him?",
+      "Are you on bad terms with him?",
+      "Do you have a dispute with him?"
+    ],
+    "examples": [
+      "Why did you ignore him? Do you have beef with him? (왜 그를 무시했어? 그와 갈등이 있니?)",
+      "They used to be friends, but now they have beef with each other. (그들은 친구였지만 이제 서로 갈등이 있어.)",
+      "If you have beef with him, you should talk it out. (그와 갈등이 있다면 이야기해 보는 게 좋겠어.)",
+      "She asked me if I have beef with my coworker. (그녀는 내가 동료와 갈등이 있는지 물어봤어.)",
+      "There's no reason to have beef with someone over a small misunderstanding. (작은 오해 때문에 누구와 갈등을 가질 필요는 없어.)"
+    ]
+  },
+  {
+    "primary": "Hit or miss",
+    "meaning": "좋을 때도 있고 나쁠 때도 있다.",
+    "similar": [
+      "Sometimes good, sometimes bad",
+      "Unpredictable",
+      "A gamble",
+      "A toss-up",
+      "Touch and go"
+    ],
+    "examples": [
+      "The quality of service at that restaurant is hit or miss. (그 식당의 서비스 품질은 좋을 때도 있고 나쁠 때도 있어.)",
+      "His performance can be hit or miss depending on his mood. (그의 공연은 그의 기분에 따라 좋을 때도 있고 나쁠 때도 있어.)",
+      "Buying electronics online can be a hit or miss experience. (온라인으로 전자제품을 사는 것은 좋을 때도 있고 나쁠 때도 있는 경험이 될 수 있어.)",
+      "The weather in this region is hit or miss; it can change rapidly. (이 지역의 날씨는 좋을 때도 있고 나쁠 때도 있어; 빨리 변할 수 있어.)",
+      "The new product's success was hit or miss, with some customers loving it and others not so much. (그 신제품의 성공은 좋을 때도 있고 나쁠 때도 있어, 어떤 고객들은 좋아하고 다른 고객들은 별로 좋아하지 않았어.)"
+    ]
+  },
+  {
+    "primary": "Take it from me",
+    "meaning": "내 말을 믿어봐.",
+    "similar": [
+      "Trust me",
+      "Believe me",
+      "Take my word for it",
+      "You can count on my experience",
+      "I'm telling you"
+    ],
+    "examples": [
+      "Take it from me, this restaurant is the best in town. (내 말을 믿어봐, 이 식당이 이 동네에서 최고야.)",
+      "Trust me, you'll love this movie. (나를 믿어, 넌 이 영화를 좋아하게 될 거야.)",
+      "Take my word for it, he is a reliable person. (내 말을 믿어, 그는 신뢰할 수 있는 사람이야.)",
+      "You can count on my experience, this method works. (내 경험을 믿어도 돼, 이 방법은 효과가 있어.)",
+      "I'm telling you, this is the best decision you'll ever make. (내가 말하는 걸 믿어, 이건 네가 내릴 최고의 결정이야.)"
+    ]
+  },
+  {
+    "primary": "Stay strong",
+    "meaning": "힘내세요.",
+    "similar": [
+      "Keep your chin up",
+      "Hang in there",
+      "Don't give up",
+      "Keep going",
+      "Be strong"
+    ],
+    "examples": [
+      "I know it's tough, but stay strong. (힘든 거 알아요, 하지만 힘내세요.)",
+      "Keep your chin up; things will get better. (고개를 들고 힘내세요; 상황은 좋아질 거예요.)",
+      "Hang in there; you're doing great. (버티세요; 잘하고 있어요.)",
+      "Don't give up; you've come this far. (포기하지 마세요; 여기까지 잘 왔잖아요.)",
+      "Be strong, and remember you're not alone. (강해지세요, 당신은 혼자가 아니라는 것을 기억하세요.)"
+    ]
+  }
+]
