@@ -32,8 +32,11 @@ const initialState = document.getElementById("initialState");
 const noResultsState = document.getElementById("noResultsState");
 const resultCount = document.getElementById("resultCount");
 const statsDisplay = document.getElementById("statsDisplay");
-const dailyExpressionContainer = document.getElementById("dailyExpressionContainer");
+const dailyExpressionContainer = document.getElementById(
+  "dailyExpressionContainer"
+);
 const initialStateMessage = document.getElementById("initialStateMessage");
+const errorState = document.getElementById("errorState");
 
 let expressions = [];
 let dailyExpression = null;
@@ -50,6 +53,10 @@ async function fetchAllExpressions() {
     });
     console.log(`Loaded ${expressions.length} expressions.`);
 
+    if (expressions.length === 0) {
+      console.warn("Database returned 0 expressions.");
+    }
+
     // Pick a random expression for the day
     if (expressions.length > 0) {
       dailyExpression =
@@ -59,6 +66,21 @@ async function fetchAllExpressions() {
     renderEmptyState(); // Update UI with total count
   } catch (error) {
     console.error("Error fetching expressions:", error);
+    renderErrorState(error);
+  }
+}
+
+function renderErrorState(error) {
+  loadingState.classList.add("hidden");
+  initialState.classList.add("hidden");
+  resultsContainer.classList.add("hidden");
+  errorState.classList.remove("hidden");
+
+  // Log specific error for debugging (visible in console)
+  if (error.code === "unavailable") {
+    console.error("Firestore offline or unreachable.");
+  } else if (error.code === "permission-denied") {
+    console.error("Firestore permission denied.");
   }
 }
 
@@ -204,8 +226,8 @@ function renderEmptyState() {
   if (expressions.length > 0) {
     const now = new Date();
     const year = now.getFullYear();
-    const month = String(now.getMonth() + 1).padStart(2, '0');
-    const day = String(now.getDate()).padStart(2, '0');
+    const month = String(now.getMonth() + 1).padStart(2, "0");
+    const day = String(now.getDate()).padStart(2, "0");
     const formattedDate = `${year}/${month}/${day}`;
 
     statsDisplay.textContent = `(${formattedDate}, total number of expressions: ${expressions.length})`;
@@ -213,7 +235,8 @@ function renderEmptyState() {
 
     // Fallback: Pick a random expression if not already picked
     if (!dailyExpression && expressions.length > 0) {
-        dailyExpression = expressions[Math.floor(Math.random() * expressions.length)];
+      dailyExpression =
+        expressions[Math.floor(Math.random() * expressions.length)];
     }
 
     console.log("Rendering Empty State. Daily Expression:", dailyExpression);
@@ -234,7 +257,8 @@ function renderEmptyState() {
                   <span class="meaning">${dailyExpression.meaning}</span>
               </div>
               ${
-                dailyExpression.similar && Array.isArray(dailyExpression.similar)
+                dailyExpression.similar &&
+                Array.isArray(dailyExpression.similar)
                   ? `
                   <div class="synonyms-list">
                       ${dailyExpression.similar

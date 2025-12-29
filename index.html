@@ -58,6 +58,31 @@
         </div>
 
         <!-- Static State Messages -->
+        <div id="errorState" class="error-state hidden">
+          <div class="error-icon">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="12" y1="8" x2="12" y2="12"></line>
+              <line x1="12" y1="16" x2="12.01" y2="16"></line>
+            </svg>
+          </div>
+          <h3>Connection Issue</h3>
+          <p>
+            Unable to load expressions. Please check your internet connection or
+            try refreshing the page.
+          </p>
+          <button onclick="window.location.reload()" class="retry-btn">
+            Try Again
+          </button>
+        </div>
+
         <div id="loadingState" class="loading-state hidden">
           <div class="spinner"></div>
           <p>Searching the database...</p>
@@ -76,7 +101,9 @@
     </main>
 
     <footer>
-      <p>Maintained by <a href="mailto:heroyik@gmail.com">heroyik@gmail.com</a></p>
+      <p>
+        Maintained by <a href="mailto:heroyik@gmail.com">heroyik@gmail.com</a>
+      </p>
     </footer>
 
     <!-- Firebase SDKs -->
