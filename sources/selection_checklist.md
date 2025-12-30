@@ -1,0 +1,380 @@
+# OPIC AL Selection Checklist
+
+**INSTRUCTIONS**:
+1. This file lists all expressions from `OPIC_AL_LEVEL_ONLY.json`.
+2. Mark an item with `[x]` to **DELETE** it from the final set.
+3. Leave an item as `[ ]` to **KEEP** it.
+4. Save this file when you are done.
+
+---
+
+- [ ] How’s it going?
+- [ ] I’m down for that
+- [ ] I can’t make it
+- [ ] I’ll take a rain check
+- [ ] It’s up to you
+- [ ] When is boarding?
+- [ ] Is the flight on time?
+- [ ] Can I get a window seat?
+- [ ] How long is the flight?
+- [ ] Where is the nearest restroom?
+- [ ] I'm waiting to board
+- [ ] I'm waiting to board
+- [ ] What did you do last weekend?
+- [ ] Charge it to my room
+- [ ] Put it on my card
+- [ ] Put it on my room
+- [ ] Roomy
+- [ ] Homie
+- [ ] You have great taste
+- [ ] Impeccable
+- [ ] You know the drill
+- [ ] May I be excused?
+- [ ] In the clouds
+- [ ] Dodge a bullet
+- [ ] Hit the books
+- [ ] Cramming
+- [ ] I'm down
+- [ ] Way to go
+- [ ] Dibs
+- [ ] I'll sit in the front
+- [ ] Shotgun
+- [ ] Hit the jackpot
+- [ ] My eyes were bigger than my stomach
+- [ ] I have too much on my plate
+- [ ] Let's hit it
+- [ ] Through thick and thin
+- [ ] Let's dish
+- [ ] Throw someone under the bus
+- [ ] Under my belt
+- [ ] I could listen to this all day
+- [ ] Hear me out
+- [ ] Super yummy
+- [ ] No one
+- [ ] Just out of curiosity
+- [ ] For what it's worth
+- [ ] Here you are
+- [ ] Here it is
+- [ ] It's worth every bite
+- [ ] It's worth every cent
+- [ ] Knockoff
+- [ ] Knock it off
+- [ ] Cut me some slack
+- [ ] Get a load of this
+- [ ] Deal-breaker
+- [ ] It's down to you
+- [ ] I'm game
+- [ ] I taught myself
+- [ ] Whatever it takes
+- [ ] I've been tanning all week
+- [ ] Couch potato
+- [ ] Don't let it get to you
+- [ ] Find yourself in
+- [ ] Skim through
+- [ ] Camera-shy
+- [ ] That's a steal
+- [ ] Made for each other
+- [ ] Well begun is half done
+- [ ] Butter someone up
+- [ ] Taken in by the ad
+- [ ] By any chance
+- [ ] I have a weak stomach
+- [ ] Down it
+- [ ] Don't rub it in
+- [ ] He has feelings for you
+- [ ] Fall for
+- [ ] Behold
+- [ ] Lo and behold
+- [ ] All sales are final
+- [ ] Dean's list
+- [ ] Can you tell?
+- [ ] Don't try to pull a fast one
+- [ ] Got pranked
+- [ ] Step on it
+- [ ] Gold digger
+- [ ] You're all talk
+- [ ] I go along with that
+- [ ] My hands are full
+- [ ] Fender bender
+- [ ] Play it by ear
+- [ ] Listen to yourself
+- [ ] Takes one to know one
+- [ ] May I be excused?
+- [ ] By word of mouth
+- [ ] I feel nauseous
+- [ ] Catch my breath
+- [ ] Breaking in new shoes
+- [ ] Take your mind off anything
+- [ ] Give the cold shoulder
+- [ ] Better yet
+- [ ] None taken
+- [ ] Penny for your thoughts
+- [ ] Should've thought that through
+- [ ] Pull a Tom Sawyer
+- [ ] Here goes nothing
+- [ ] Nothing to lose
+- [ ] Eyes are bigger than your stomach
+- [ ] Talk is cheap
+- [ ] The whole package
+- [ ] To a T
+- [ ] Follow your gut
+- [ ] My heart is fluttering
+- [ ] Feelings fade
+- [ ] Stop rubbing it in
+- [ ] It just goes to show
+- [ ] Bounce ideas off you
+- [ ] Off you go
+- [ ] Sense of belonging
+- [ ] Pamper myself
+- [ ] Indulge myself
+- [ ] It's too shabby
+- [ ] Not too shabby
+- [ ] It sounds corny
+- [ ] It might sound obvious
+- [ ] Look who's talking
+- [ ] Can't hack it
+- [ ] Pressed for time
+- [ ] The clock is ticking
+- [ ] Your best bet
+- [ ] I'm not myself today
+- [ ] Get it together
+- [ ] Come back down to earth
+- [ ] You're one to talk
+- [ ] Deadlines are looming
+- [ ] Juggling a lot
+- [ ] Outdoorsy
+- [ ] Just because
+- [ ] Catch my drift?
+- [ ] Family function
+- [ ] Keep it together
+- [ ] Keep your cool
+- [ ] It's beautiful out
+- [ ] Bittersweet
+- [ ] Don't flatter yourself
+- [ ] Stop pestering me
+- [ ] Knock yourself out
+- [ ] Hands down
+- [ ] Run it by you
+- [ ] Drafting
+- [ ] No wonder
+- [ ] Same difference
+- [ ] Why bother?
+- [ ] Don't make a scene
+- [ ] So petty
+- [ ] Good things are coming
+- [ ] You're killing it
+- [ ] You crushed it
+- [ ] Mind-blowing
+- [ ] Doormat
+- [ ] Caught me off guard
+- [ ] Ex-wife
+- [ ] I still have a long way to go
+- [ ] Long way to go
+- [ ] Face the music
+- [ ] I can't even
+- [ ] Autumn blues
+- [ ] Delulu is the solulu
+- [ ] Bring it on
+- [ ] I'm on the clock
+- [ ] Out of the question
+- [ ] Touch grass
+- [ ] Fake it 'til you make it
+- [ ] Sipping on coffee
+- [ ] Cut me dead
+- [ ] Don't push your luck
+- [ ] I'm speechless
+- [ ] Don't kill the vibe
+- [ ] Have you lost weight?
+- [ ] It's too greasy
+- [ ] It is what it is
+- [ ] We bonded so quickly
+- [ ] I called in sick
+- [ ] Cut back
+- [ ] Sneak out of
+- [ ] By any chance?
+- [ ] Set someone up with
+- [ ] Here we go again
+- [ ] I don't want to twist your arm
+- [ ] Now we're talking
+- [ ] What's the occasion?
+- [ ] Don't count your chickens before they hatch
+- [ ] How do you like it?
+- [ ] Throw a party
+- [ ] Don't read too much into it
+- [ ] Put in a good word for me
+- [ ] It doesn't hurt to ask
+- [ ] It cracks me up
+- [ ] I'd rather not
+- [ ] Picky
+- [ ] I care about you
+- [ ] Handful
+- [ ] How shall I put it?
+- [ ] I'm game
+- [ ] Put my dog down
+- [ ] Kiss up, kick down
+- [ ] White elephant
+- [ ] Crispy on the outside, tender on the inside
+- [ ] What are the odds?
+- [ ] He came out of nowhere
+- [ ] Scarlet
+- [ ] Catch me up
+- [ ] I got mugged
+- [ ] Iconic
+- [ ] Drafty
+- [ ] Masseur / Masseuse
+- [ ] It's frustrating
+- [ ] Low-key
+- [ ] Don't stand out
+- [ ] Safe haven
+- [ ] Don't be so extra
+- [ ] I feel drained
+- [ ] Serves you right
+- [ ] That's a bummer
+- [ ] She's got a big mouth
+- [ ] Yapper
+- [ ] Stop being nosy
+- [ ] Ham-fisted
+- [ ] One thing led to another
+- [ ] What on earth are you doing?
+- [ ] Beforehand
+- [ ] Without further ado
+- [ ] Soak up the sun
+- [ ] I caught him red-handed
+- [ ] I can't resist a draft beer on a hot day like this
+- [ ] How about you?
+- [ ] Apples and oranges
+- [ ] Don't read too much into it
+- [ ] I got carried away
+- [ ] That's what I need
+- [ ] Suck up
+- [ ] Good husband material
+- [ ] I mix things up
+- [ ] It's growing on me
+- [ ] Who would've thought?
+- [ ] Artful Dodger
+- [ ] Captivating
+- [ ] BFF
+- [ ] Stab in the back
+- [ ] Take a stab at
+- [ ] Went ghost
+- [ ] Without a doubt
+- [ ] Apparently
+- [ ] On my own
+- [ ] Dumpster fire
+- [ ] Chaperone
+- [ ] Break free
+- [ ] Sounds very rehearsed
+- [ ] Why bother?
+- [ ] Severance pay
+- [ ] Cry me a river
+- [ ] Low profile
+- [ ] The noodles are soggy
+- [ ] I won an award at the art contest
+- [ ] Apple of my eye
+- [ ] My leg fell asleep
+- [ ] I didn't pick it
+- [ ] I have a lot on my plate
+- [ ] Don't rub it in
+- [ ] We'll start from there
+- [ ] Your fly is open
+- [ ] Pizza doesn't judge
+- [ ] You can't just leave
+- [ ] Think it through
+- [ ] Little did I know
+- [ ] Post-credit scene
+- [ ] Intact
+- [ ] In one piece
+- [ ] That's so random
+- [ ] Newlyweds
+- [ ] Left-wing
+- [ ] Technically speaking
+- [ ] I hate to admit it
+- [ ] Why couldn't I bring myself to say it?
+- [ ] Eat your fill
+- [ ] Touch and go
+- [ ] Nothing to lose
+- [ ] I felt so troubled
+- [ ] Say what? I'm lost
+- [ ] Out of the blue
+- [ ] I wish
+- [ ] Not happening
+- [ ] Pregame
+- [ ] Born and raised
+- [ ] In one ear and out the other
+- [ ] Music to my ears
+- [ ] That's the spirit
+- [ ] I'm running 20 minutes late
+- [ ] Get busted
+- [ ] Walk me through that day
+- [ ] What's the angle?
+- [ ] Snapped
+- [ ] Accomplice
+- [ ] Visit someone
+- [ ] I don't have it on me
+- [ ] The line starts back there
+- [ ] Sever
+- [ ] I was rash
+- [ ] You seem gaunt
+- [ ] Sing like a canary
+- [ ] No wonder
+- [ ] Eat someone out of house and home
+- [ ] Eating him up inside
+- [ ] It figures
+- [ ] Hit it off
+- [ ] Curse someone out
+- [ ] Out of the question
+- [ ] One way or the other
+- [ ] Twists and turns
+- [ ] Reward someone handsomely
+- [ ] At all costs
+- [ ] A bolt from the blue
+- [ ] Falling apart
+- [ ] Think straight
+- [ ] Migraine
+- [ ] Leave someone out
+- [ ] Snap out of it
+- [ ] I wouldn't know
+- [ ] Don't get worked up
+- [ ] Will you take it to my room?
+- [ ] Charge it to my room
+- [ ] I'll have the same
+- [ ] Touch grass
+- [ ] Care for another?
+- [ ] Feel for
+- [ ] Come to your senses
+- [ ] How long has it been?
+- [ ] How have you been?
+- [ ] Outlier
+- [ ] I could use some
+- [ ] Put in a good word for me
+- [ ] Have a way with
+- [ ] You're a natural
+- [ ] You have a way with words
+- [ ] It just came naturally to me
+- [ ] You're very disciplined
+- [ ] Beats me
+- [ ] It hits the spot
+- [ ] It goes without saying
+- [ ] It gives me chills
+- [ ] I got in the habit of
+- [ ] Let me make it up to you
+- [ ] It Figures
+- [ ] I'm feeling under the weather
+- [ ] Blow up
+- [ ] As good as it gets
+- [ ] Quit cold turkey
+- [ ] Legit
+- [ ] He's no match for me
+- [ ] Okie dokie
+- [ ] Meh
+- [ ] It makes sense
+- [ ] The air quality is bad
+- [ ] Chill guy
+- [ ] This will do the trick
+- [ ] The whole shebang
+- [ ] Easy peasy
+- [ ] Chip on his shoulder
+- [ ] Prickly attitude
+- [ ] Take it vertically
+- [ ] Troll
+- [ ] I'm freaking out
