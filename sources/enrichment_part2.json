@@ -1,0 +1,722 @@
+[
+  {
+    "primary": "I have a gut feeling",
+    "similar": ["My intuition says", "I just know", "Vibes are telling me", "Sixth sense", "Something tells me"],
+    "examples": [
+      "A: You think he's lying?",
+      "B: Yeah, I have a gut feeling.",
+      "A: Why did you turn left?",
+      "B: I have a gut feeling this is a shortcut.",
+      "A: Don't trust that deal.",
+      "B: Same, I have a gut feeling it's a scam."
+    ]
+  },
+  {
+    "primary": "Busybody",
+    "similar": ["Nosy", "All up in my business", "Snoop", "Gossip", "Karen vibes"],
+    "examples": [
+      "A: Why is she asking so many questions?",
+      "B: She's such a busybody, ignore her.",
+      "A: Don't be a busybody, let them live.",
+      "B: I'm just curious!",
+      "A: Our neighbor is a total busybody.",
+      "B: Always watching from the window, right?"
+    ]
+  },
+  {
+    "primary": "Don't get me started on her boyfriend",
+    "similar": ["Don't even ask", "Let's not go there", "He's a whole mess", "Subject closed", "Ugh, him"],
+    "examples": [
+      "A: Is she still with that guy?",
+      "B: Don't get me started on her boyfriend, he's the worst.",
+      "A: I heard they fought.",
+      "B: Don't get me started on her boyfriend, drama 24/7.",
+      "A: Is he nice?",
+      "B: Girl, don't get me started on her boyfriend."
+    ]
+  },
+  {
+    "primary": "It can't be helped",
+    "similar": ["It is what it is", "Nothing we can do", "Out of our hands", "Just gotta deal", "No choice"],
+    "examples": [
+      "A: It's raining on our beach day.",
+      "B: It can't be helped, let's go to a museum.",
+      "A: The flight is delayed.",
+      "B: It can't be helped, grab a beer?",
+      "A: I wish I could fix it.",
+      "B: It can't be helped, don't stress."
+    ]
+  },
+  {
+    "primary": "Out of necessity:",
+    "similar": ["Had to do it", "No other option", "Survival mode", "Needs must", "Forced into it"],
+    "examples": [
+      "A: Why did you take that job?",
+      "B: Out of necessity, bills were piling up.",
+      "A: She learned to cook out of necessity.",
+      "B: Yeah, takeout gets expensive.",
+      "A: We moved here out of necessity.",
+      "B: Gotta go where the work is."
+    ]
+  },
+  {
+    "primary": "No other choice:",
+    "similar": ["Hands were tied", "Only option", "Backed into a corner", "Do or die", "Had to"],
+    "examples": [
+      "A: You really sold your car?",
+      "B: I had no other choice, needed the cash.",
+      "A: Why did you agree?",
+      "B: No other choice, they pressured me.",
+      "A: We have no other choice but to walk.",
+      "B: Ugh, my feet already hurt."
+    ]
+  },
+  {
+    "primary": "Since you bring it up",
+    "similar": ["Speaking of which", "Now that you mention it", "Funny you say that", "On that note", "While we're on the topic"],
+    "examples": [
+      "A: This room is messy.",
+      "B: Since you bring it up, you never clean either.",
+      "A: We need to save money.",
+      "B: Since you bring it up, stop buying coffee.",
+      "A: He seems distracted.",
+      "B: Since you bring it up, I noticed that too."
+    ]
+  },
+  {
+    "primary": "While at it",
+    "similar": ["Might as well", "Two birds one stone", "Since you're there", "Kill two birds", "Add that to the list"],
+    "examples": [
+      "A: I'm going to the store.",
+      "B: While at it, grab some milk?",
+      "A: I'm fixing the sink.",
+      "B: While at it, can you check the toilet too?",
+      "A: Deleting old emails.",
+      "B: While at it, clear your trash folder."
+    ]
+  },
+  {
+    "primary": "I'm just going through motion.",
+    "similar": ["Robot mode", "Autopilot", "Zombie mode", "Checking boxes", "Not feeling it"],
+    "examples": [
+      "A: You like your job?",
+      "B: Nah, I'm just going through the motions.",
+      "A: You seem checked out.",
+      "B: Yeah, I'm just going through the motions lately.",
+      "A: Is he serious about her?",
+      "B: Doesn't look like it, he's just going through the motions."
+    ]
+  },
+  {
+    "primary": "Here goes nothing.",
+    "similar": ["Full send", "Leap of faith", "Let's do this", "Wish me luck", "YOLO"],
+    "examples": [
+      "A: You gonna jump?",
+      "B: Here goes nothing! *Jumps*",
+      "A: Time to ask for that raise.",
+      "B: Here goes nothing. Fingers crossed.",
+      "A: Trying this spicy noodle challenge.",
+      "B: Here goes nothing. RIP my stomach."
+    ]
+  },
+  {
+    "primary": "I'm not the type to regret things easily",
+    "similar": ["I don't look back", "No regrets here", "Keep it moving", "I own my choices", "What's done is done"],
+    "examples": [
+      "A: Do you regret dating him?",
+      "B: Nah, I'm not the type to regret things easily.",
+      "A: You spent a lot on that bag.",
+      "B: Worth it. I'm not the type to regret things easily.",
+      "A: That was a risky move.",
+      "B: I live for it. I'm not the type to regret things easily."
+    ]
+  },
+  {
+    "primary": "conveyor belt sushi",
+    "similar": ["Sushi train", "Revolving sushi", "Sushi-go-round", "Belt sushi", "Robot sushi"],
+    "examples": [
+      "A: Wanna get dinner?",
+      "B: Let's hit that conveyor belt sushi spot.",
+      "A: Conveyor belt sushi is fun but dangerous.",
+      "B: Yeah, I stack up plates without noticing.",
+      "A: Is the fish fresh at conveyor belt sushi?",
+      "B: Hit or miss, but it's cheap."
+    ]
+  },
+  {
+    "primary": "Yapper",
+    "similar": ["Chatterbox", "Talks too much", "Never shuts up", "Mouth runs 24/7", "Loudmouth"],
+    "examples": [
+      "A: He's such a yapper.",
+      "B: Fr, I couldn't get a word in.",
+      "A: The Uber driver was a total yapper.",
+      "B: Did you give him 5 stars though?",
+      "A: Stop being a yapper and listen.",
+      "B: I'm just expressing myself!"
+    ]
+  },
+  {
+    "primary": "Cilantro",
+    "similar": ["Soap weed", "Coriander (UK)", "Herb", "Love it or hate it", "Taco garnish"],
+    "examples": [
+      "A: No cilantro on my tacos, please.",
+      "B: It tastes like soap to you?",
+      "A: I love cilantro, pile it on.",
+      "B: You're lucky, I can't stand it.",
+      "A: This salsa has too much cilantro.",
+      "B: Perfect for me, pass it here."
+    ]
+  },
+  {
+    "primary": "Out of blue",
+    "similar": ["Randomly", "Unexpectedly", "Just like that", "No warning", "Surprise attack"],
+    "examples": [
+      "A: He texted me out of the blue.",
+      "B: After ghosting you? The audacity.",
+      "A: It started raining out of the blue.",
+      "B: NYC weather is bipolar.",
+      "A: She quit her job out of the blue.",
+      "B: Must have been fed up."
+    ]
+  },
+  {
+    "primary": "I'll get out of your hair.",
+    "similar": ["I'll leave you alone", "I'm bouncing", "Leaving you to it", "Peace out", "Getting out of your way"],
+    "examples": [
+      "A: Thanks for the help, I'm busy now.",
+      "B: Cool, I'll get out of your hair.",
+      "A: I need to finish this report.",
+      "B: Alright, I'll get out of your hair then.",
+      "A: Stay for dinner?",
+      "B: Nah, I'll get out of your hair, you look tired."
+    ]
+  },
+  {
+    "primary": "Give a big round of applause to ~",
+    "similar": ["Make some noise for", "Give it up for", "Clap for", "Show some love to", "Hands together for"],
+    "examples": [
+      "A: Give a big round of applause to our guest!",
+      "B: *Clapping loudly*",
+      "A: Next up, give a big round of applause to DJ Khalid!",
+      "B: Another one!",
+      "A: Let's give a big round of applause to the chef.",
+      "B: The food was fire, he deserves it."
+    ]
+  },
+  {
+    "primary": "I have something to discuss",
+    "similar": ["We need to talk", "Got a topic", "Need to chat", "Business to handle", "Heads up about something"],
+    "examples": [
+      "A: Can we meet? I have something to discuss.",
+      "B: Sounds serious. What's up?",
+      "A: I have something to discuss regarding the lease.",
+      "B: Ugh, they raising the rent?",
+      "A: Hey, I have something to discuss about last night.",
+      "B: Oh no, was I embarrassing?"
+    ]
+  },
+  {
+    "primary": "Let's clear up any misunderstandings before we go",
+    "similar": ["Set the record straight", "Get on the same page", "Squash the beef", "Fix the confusion", "Clarify things"],
+    "examples": [
+      "A: Let's clear up any misunderstandings before we go.",
+      "B: Agreed, I don't want weird vibes.",
+      "A: I think you took that the wrong way.",
+      "B: Let's clear up any misunderstandings before we go then.",
+      "A: We good?",
+      "B: Yeah, glad we cleared up any misunderstandings before we go."
+    ]
+  },
+  {
+    "primary": "Put in a good word for me.",
+    "similar": ["Vouch for me", "Talk me up", "Hype me up", "Mention my name", "Put me on"],
+    "examples": [
+      "A: I'm applying to your company.",
+      "B: Send me your resume.",
+      "A: Can you put in a good word for me?",
+      "B: Say less, I got you.",
+      "A: She likes you, put in a good word for me with her friend.",
+      "B: I'll try, but no promises."
+    ]
+  },
+  {
+    "primary": "That's my two cents.",
+    "similar": ["Just my opinion", "Take it or leave it", "For what it's worth", "Just saying", "My take"],
+    "examples": [
+      "A: You shouldn't text him effectively.",
+      "B: You think?",
+      "A: Yeah, he's playing games. That's my two cents.",
+      "B: I hate that you're right.",
+      "A: Sell the stock now. That's my two cents.",
+      "B: I'll think about it."
+    ]
+  },
+  {
+    "primary": "No knee jerk reaction",
+    "similar": ["Don't snap", "Think before acting", "Stay calm", "Don't trigger", "Pause first"],
+    "examples": [
+      "A: I have bad news. No knee jerk reaction, okay?",
+      "B: Okay, I'm listening.",
+      "A: He quit.",
+      "B: What?! ...Okay, no knee jerk reaction. We can fix this.",
+      "A: When you see the dent, no knee jerk reaction please.",
+      "B: You crashed my car?!"
+    ]
+  },
+  {
+    "primary": "I'm just saying",
+    "similar": ["Just keeping it real", "No offense but", "Real talk", "Just observation", "Don't shoot the messenger"],
+    "examples": [
+      "A: That shirt is... bright.",
+      "B: You don't like it?",
+      "A: I'm just saying, it's loud.",
+      "B: Hater.",
+      "A: He's not gonna change. I'm just saying.",
+      "B: I know, but I love him."
+    ]
+  },
+  {
+    "primary": "I'm very moody",
+    "similar": ["Up and down", "Emotional roller coaster", "Vibe shifts quick", "Temperamental", "In my feels"],
+    "examples": [
+      "A: You were happy five minutes ago.",
+      "B: I know, I'm very moody.",
+      "A: Don't take it personal, she's very moody.",
+      "B: Hard to keep up with her.",
+      "A: I need chocolate when I'm very moody.",
+      "B: Note taken."
+    ]
+  },
+  {
+    "primary": "Acting up.",
+    "similar": ["Glitching", "Bugging out", "Being difficult", "Misbehaving", "Tripping"],
+    "examples": [
+      "A: My phone is acting up.",
+      "B: Did you try turning it off and on?",
+      "A: My knee is acting up again.",
+      "B: Getting old, huh?",
+      "A: The car is acting up.",
+      "B: Mechanic time, prepare your wallet."
+    ]
+  },
+  {
+    "primary": "That's really inconvenient",
+    "similar": ["Such a hassle", "Pain in the neck", "Annoying", "Not the vibe", "Bad timing"],
+    "examples": [
+      "A: The elevator is broken.",
+      "B: That's really inconvenient, we live on the 10th floor.",
+      "A: Cash only?",
+      "B: Yeah, that's really inconvenient.",
+      "A: They rescheduled the meeting to Friday at 6pm.",
+      "B: That's really inconvenient for my weekend plans."
+    ]
+  },
+  {
+    "primary": "Live life to the fullest",
+    "similar": ["Live your best life", "Max out life", "No wasted days", "Carpe diem", "Go hard"],
+    "examples": [
+      "A: She travels every month.",
+      "B: She really lives life to the fullest.",
+      "A: Why save it for a special occasion?",
+      "B: Exactly, live life to the fullest.",
+      "A: I want to live life to the fullest, no regrets.",
+      "B: Start by booking that ticket."
+    ]
+  },
+  {
+    "primary": "Live a little",
+    "similar": ["Have fun", "Don't be boring", "Treat yourself", "Loosen up", "Enjoy the ride"],
+    "examples": [
+      "A: I shouldn't eat the cake.",
+      "B: Come on, live a little!",
+      "A: Should we go to the afterparty?",
+      "B: Yeah, live a little, sleep when you're dead.",
+      "A: It's expensive.",
+      "B: Live a little, you work hard."
+    ]
+  },
+  {
+    "primary": "Let's take a rain check.",
+    "similar": ["Reschedule", "Next time", "Push it back", "Another day", "Skip for now"],
+    "examples": [
+      "A: Still on for tonight?",
+      "B: I'm swamped, let's take a rain check.",
+      "A: Can we take a rain check on lunch?",
+      "B: No worries, next week?",
+      "A: It's pouring rain.",
+      "B: Literally let's take a rain check."
+    ]
+  },
+  {
+    "primary": "In a food a coma",
+    "similar": ["Itis", "Stuffed", "About to pass out", "Food drunk", "Full to the brim"],
+    "examples": [
+      "A: You okay?",
+      "B: Don't talk to me, I'm in a food coma.",
+      "A: That thanksgiving dinner put me in a food coma.",
+      "B: Same, napping immediately.",
+      "A: I can't work, I'm in a food coma.",
+      "B: The post-lunch slump is real."
+    ]
+  },
+  {
+    "primary": "Sounds like a plan.",
+    "similar": ["Bet", "Let's do it", "Sold", "Valid", "I'm down"],
+    "examples": [
+      "A: Dinner at 8?",
+      "B: Sounds like a plan.",
+      "A: We finish this, then we drink.",
+      "B: Sounds like a plan to me.",
+      "A: Meet at the park.",
+      "B: Sounds like a plan, see you there."
+    ]
+  },
+  {
+    "primary": "This is not a knee-jerk reaction.",
+    "similar": ["I thought this through", "Calculated move", "Not impulsive", "Planned response", "Rational decision"],
+    "examples": [
+      "A: Are you sure you want to quit?",
+      "B: Yes, this is not a knee-jerk reaction. I've been unhappy for months.",
+      "A: You're breaking up with him?",
+      "B: It's verified. This is not a knee-jerk reaction.",
+      "A: Selling the house seems sudden.",
+      "B: It's not. This is not a knee-jerk reaction."
+    ]
+  },
+  {
+    "primary": "Its not going through the motions",
+    "similar": ["It's genuine", "For real", "With feeling", "Intentional", "Meaningful"],
+    "examples": [
+      "A: Does he really love her?",
+      "B: Yeah, it's not going through the motions with them.",
+      "A: You practice hard.",
+      "B: I want to win, it's not going through the motions.",
+      "A: This apology feels real.",
+      "B: It is, it's not going through the motions."
+    ]
+  },
+  {
+    "primary": "Are you up for the dinner?",
+    "similar": ["Down to eat?", "Wanna grab food?", "Dinner moves?", "Hungry?", "Join for dinner?"],
+    "examples": [
+      "A: We're going to K-town.",
+      "B: Nice.",
+      "A: Are you up for the dinner?",
+      "B: Always down for K-BBQ.",
+      "A: Are you up for the dinner later?",
+      "B: Depends on where we going."
+    ]
+  },
+  {
+    "primary": "I wish I could.",
+    "similar": ["If only", "I'm stuck", "Can't make it", "FOMO is real", "Sad pass"],
+    "examples": [
+      "A: Come to fast!",
+      "B: I wish I could, but I have work.",
+      "A: Be there in 10?",
+      "B: I wish I could, traffic is crazy.",
+      "A: Buy the shoes!",
+      "B: I wish I could, but my bank account says no."
+    ]
+  },
+  {
+    "primary": "Significant others",
+    "similar": ["Partners", "Boos", "Plus ones", "Better halves", "Spouses"],
+    "examples": [
+      "A: Is the party for everyone?",
+      "B: Yeah, bring your significant others.",
+      "A: No significant others allowed on boys' night.",
+      "B: Fair rule.",
+      "A: Do you have a significant other?",
+      "B: Nope, riding solo."
+    ]
+  },
+  {
+    "primary": "Sure thing",
+    "similar": ["No doubt", "For sure", "Easy", "Got it", "Say less"],
+    "examples": [
+      "A: Can you pass the salt?",
+      "B: Sure thing.",
+      "A: Thanks for the ride.",
+      "B: Sure thing, anytime.",
+      "A: Watch my bag?",
+      "B: Sure thing, go ahead."
+    ]
+  },
+  {
+    "primary": "I got you",
+    "similar": ["I'm listenin'", "Understood", "No worries", "Covered", "Say less"],
+    "examples": [
+      "A: I forgot my wallet.",
+      "B: Don't stress, I got you.",
+      "A: I need a ride home.",
+      "B: I got you, hop in.",
+      "A: Keep this a secret.",
+      "B: I got you, lips sealed."
+    ]
+  },
+  {
+    "primary": "Here you are",
+    "similar": ["There you go", "Served", "Voila", "All yours", "Take it"],
+    "examples": [
+      "A: Can I get a napkins?",
+      "B: Here you are.",
+      "A: Where's my phone?",
+      "B: Here you are, you left it on the table.",
+      "A: One iced coffee please.",
+      "B: Here you are, enjoy."
+    ]
+  },
+  {
+    "primary": "Applaud",
+    "similar": ["Clap", "Cheer", "Give props", "Respect", "Salute"],
+    "examples": [
+      "A: We should applaud her effort.",
+      "B: Yeah, she tried hard.",
+      "A: I applaud your honesty.",
+      "B: Truth hurts, but needed to be said.",
+      "A: Everyone stood up to applaud.",
+      "B: Standing ovation vibes."
+    ]
+  },
+  {
+    "primary": "Hero goes nothing",
+    "similar": ["Here goes nothing (typo fix)", "Taking the plunge", "Risking it", "Shooting my shot", "Jumping in"],
+    "examples": [
+      "A: You spelled it 'Hero'?",
+      "B: Oops, meant 'Here goes nothing'.",
+      "A: You ready to text him?",
+      "B: Hero goes nothing... wait, Here goes nothing!",
+      "A: Trying the hot sauce.",
+      "B: Hero goes nothing! Good luck."
+    ]
+  },
+  {
+    "primary": "Read my lips",
+    "similar": ["Listen close", "I'm being clear", "Understand me", "Get this straight", "No stuttering"],
+    "examples": [
+      "A: Can I borrow money?",
+      "B: Read my lips: No.",
+      "A: Are you sure?",
+      "B: Read my lips, I am not going.",
+      "A: Maybe next time?",
+      "B: Read my lips: Never."
+    ]
+  },
+  {
+    "primary": "I didnt see this coming",
+    "similar": ["Blindsided", "Shocked", "Curveball", "Out of left field", "Plot twist"],
+    "examples": [
+      "A: They broke up.",
+      "B: Wow, I didn't see this coming.",
+      "A: I got fired.",
+      "B: Damn, I didn't see this coming. You were the best one there.",
+      "A: Surprise party!",
+      "B: You got me, I didn't see this coming."
+    ]
+  },
+  {
+    "primary": "Im and young at heart",
+    "similar": ["Young soul", "Ageless vibe", "Still a kid", "Spiritually 21", "Youthful energy"],
+    "examples": [
+      "A: You still play video games?",
+      "B: Yeah, I'm young at heart.",
+      "A: Grandpa is on the dance floor!",
+      "B: He's young at heart, gotta love it.",
+      "A: Growing old is mandatory, growing up is optional.",
+      "B: Facts, young at heart forever."
+    ]
+  },
+  {
+    "primary": "Meet me halfway",
+    "similar": ["Compromise", "Work with me", "Find middle ground", "Give a little", "Split the difference"],
+    "examples": [
+      "A: I can't pay full price.",
+      "B: Can you meet me halfway?",
+      "A: I want pizza, you want sushi.",
+      "B: Meet me halfway? Fusion place?",
+      "A: Stop being so stubborn.",
+      "B: I'm trying, meet me halfway here."
+    ]
+  },
+  {
+    "primary": "Cat got your tongue?",
+    "similar": ["Why so quiet?", "Speak up", "Silent treatment?", "Lost for words?", "Shy all of sudden?"],
+    "examples": [
+      "A: You usually talk so much. Cat got your tongue?",
+      "B: Just thinking.",
+      "A: Answer the question.",
+      "B: ...",
+      "A: Cat got your tongue? Or you just guilty?",
+      "B: I plead the fifth."
+    ]
+  },
+  {
+    "primary": "I cant shake yhe feeling",
+    "similar": ["Feeling won't go away", "Stuck in my head", "Gut instinct", "Nagging thought", "Can't drop it"],
+    "examples": [
+      "A: You checked the lock?",
+      "B: Yeah, but I can't shake the feeling I left it open.",
+      "A: He seems nice.",
+      "B: I can't shake the feeling he's hiding something.",
+      "A: Relax, it's fine.",
+      "B: I can't shake the feeling something is wrong."
+    ]
+  },
+  {
+    "primary": "I highly recommend it",
+    "similar": ["10/10", "Must try", "Vouch for it", "It's fire", "Go for it"],
+    "examples": [
+      "A: Is that show good?",
+      "B: I highly recommend it, binged it in a day.",
+      "A: Should I get the steak?",
+      "B: I highly recommend it, best in the city.",
+      "A: Thinking about therapy.",
+      "B: I highly recommend it, game changer."
+    ]
+  },
+  {
+    "primary": "I got carried away",
+    "similar": ["Went overboard", "Did too much", "Lost control", "Wylin'", "Too excessive"],
+    "examples": [
+      "A: You bought 10 pairs of shoes?",
+      "B: I got carried away at the sale.",
+      "A: You were screaming at the TV.",
+      "B: Sorry, I got carried away with the game.",
+      "A: The prank went too far.",
+      "B: Yeah, we got carried away."
+    ]
+  },
+  {
+    "primary": "Put your cell phone on silent",
+    "similar": ["Mute your phone", "Kill the ringer", "Silence mode", "No noise", "Quiet mode"],
+    "examples": [
+      "A: Movie is starting. Put your cell phone on silent.",
+      "B: Done.",
+      "A: Dad is sleeping.",
+      "B: Put your cell phone on silent so you don't wake him.",
+      "A: Meeting is about to start.",
+      "B: Everyone, put your cell phone on silent please."
+    ]
+  },
+  {
+    "primary": "The buck stop here",
+    "similar": ["I take responsibility", "It's on me", "My call", "End of the line", "I'm the boss"],
+    "examples": [
+      "A: Who's in charge if this fails?",
+      "B: The buck stops here. I'll take the heat.",
+      "A: Don't blame the intern.",
+      "B: I know, the buck stops here.",
+      "A: You sure you want to sign this?",
+      "B: Yes, the buck stops here."
+    ]
+  },
+  {
+    "primary": "My book is solid",
+    "similar": ["Fully booked", "Schedule packed", "No openings", "Busy af", "Slammed"],
+    "examples": [
+      "A: Can you squeeze me in?",
+      "B: Sorry, my book is solid this week.",
+      "A: Business is good?",
+      "B: Yeah, my book is solid for months.",
+      "A: I need an appointment.",
+      "B: My book is solid, try next month."
+    ]
+  },
+  {
+    "primary": "My schedule is solid today",
+    "similar": ["Back to back", "No free time", "Packed", "Crazy busy", "Full slate"],
+    "examples": [
+      "A: Lunch?",
+      "B: Can't, my schedule is solid today.",
+      "A: You look stressed.",
+      "B: My schedule is solid today, no breaks.",
+      "A: Can we meet for 5 mins?",
+      "B: Impossible, my schedule is solid today."
+    ]
+  },
+  {
+    "primary": "I was booked solid",
+    "similar": ["Totally full", "No vacancy", "Maxed out", "Sold out", "Couldn't fit anyone in"],
+    "examples": [
+      "A: Why didn't you answer?",
+      "B: I was booked solid all day.",
+      "A: Did you get a table?",
+      "B: No, the restaurant was booked solid.",
+      "A: You tired?",
+      "B: Exhausted, I was booked solid this week."
+    ]
+  },
+  {
+    "primary": "neighborhood friend",
+    "similar": ["Local buddy", "Block friend", "Neighbor", "Someone from the ends", "Homie from the block"],
+    "examples": [
+      "A: Who is that?",
+      "B: Just a neighborhood friend.",
+      "A: You hang out often?",
+      "B: Yeah, he's a neighborhood friend, lives two doors down.",
+      "A: It's good to have a neighborhood friend.",
+      "B: Definitely, good for emergencies."
+    ]
+  },
+  {
+    "primary": "I'm young at heart",
+    "similar": ["Big kid", "Youthful spirit", "Ageless", "Kid at heart", "Forever young"],
+    "examples": [
+      "A: You're jumping in the bouncy castle?",
+      "B: I'm young at heart!",
+      "A: Act your age.",
+      "B: Boring. I'm young at heart.",
+      "A: She dresses so colorful.",
+      "B: She's young at heart."
+    ]
+  },
+  {
+    "primary": "Even a monkey can fall from a tree",
+    "similar": ["Everyone makes mistakes", "Nobody's perfect", "Happens to the best of us", "We all slip up", "Even pros fail"],
+    "examples": [
+      "A: I failed the test and I studied so hard.",
+      "B: Even a monkey can fall from a tree. You'll get it next time.",
+      "A: The expert got it wrong?",
+      "B: Even a monkey can fall from a tree.",
+      "A: I burnt the toast.",
+      "B: Even a monkey can fall from a tree, chef."
+    ]
+  },
+  {
+    "primary": "Pound a pavement, legwork",
+    "similar": ["Hit the streets", "Grind", "Door to door", "Hustle", "Put in the miles"],
+    "examples": [
+      "A: How did you find this apartment?",
+      "B: Had to pound the pavement, looked at 20 places.",
+      "A: Sales is tough.",
+      "B: Yeah, lots of legwork and pounding the pavement.",
+      "A: Can't just sit online, gotta pound the pavement.",
+      "B: True, go see people in person."
+    ]
+  },
+  {
+    "primary": "Ciming through, get by",
+    "similar": ["Moving through", "Excuse me", "Watch out", "Passing by", "Make way"],
+    "examples": [
+      "A: Coming through! Hot coffee!",
+      "B: Whoa, watch out.",
+      "A: It's so crowded.",
+      "B: Just say 'Coming through' and push.",
+      "A: Need to get by.",
+      "B: Go ahead."
+    ]
+  },
+  {
+    "primary": "Now what?",
+    "similar": ["What's the move?", "What next?", "Then what?", "Game plan?", "What's the play?"],
+    "examples": [
+      "A: We missed the bus. Now what?",
+      "B: Uber?",
+      "A: I finished the task. Now what?",
+      "B: You can go home.",
+      "A: The plan failed. Now what?",
+      "B: We improvise."
+    ]
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "primary": "stutter",
+    "similar": ["Fumble over words", "Memory lapse", "Brain fart", "Trip over my tongue", "Get tongue-tied"],
+    "examples": [
+      "A: Yo, why you stuttering? Just spit it out.",
+      "B: My bad, I'm just nervous being around her.",
+      "A: Did you see him trying to explain that? Straight stuttering.",
+      "B: Yeah, he was definitely fumbling over his words.",
+      "A: Stop stuttering and tell me what really went down.",
+      "B: Okay, chill! I'm trying to get it out."
+    ]
+  },
+  {
+    "primary": "cervical disc stenosis",
+    "similar": ["Neck issues", "Bad neck", "Spinal drama", "Neck's wrecked", "Pinched nerve vibe"],
+    "examples": [
+      "A: My neck is killing me, doc says it's some stenosis thing.",
+      "B: Damn, better take it easy with the gym then.",
+      "A: I can't even turn my head, this cervical stuff is no joke.",
+      "B: You need to see a chiro or something, for real.",
+      "A: My cervical disc stenosis is acting up again.",
+      "B: Sounds fancy for 'my neck is jacked up'."
+    ]
+  },
+  {
+    "primary": "Social butterfly",
+    "similar": ["People person", "Life of the party", "Extrovert on 10", "Networker", "Everyone's bestie"],
+    "examples": [
+      "A: Jessica is such a social butterfly, she knows literally everyone here.",
+      "B: Fr, she can't walk five feet without dapping someone up.",
+      "A: I'm trying to be more of a social butterfly this year.",
+      "B: Good luck, you love staying in too much though.",
+      "A: Invite Mike, he's a total social butterfly.",
+      "B: True, he'll keep the vibe alive."
+    ]
+  },
+  {
+    "primary": "Social network",
+    "similar": ["The squad", "Connections", "My circle", "People I know", "Inner circle"],
+    "examples": [
+      "A: You gotta expand your social network if you want that job.",
+      "B: I know, I need to start hitting up more events.",
+      "A: His social network is insane, he knows all the promoters.",
+      "B: Yeah, he's definitely plugged in.",
+      "A: It's not about what you know, it's about your social network.",
+      "B: Facts, connections are everything in this city."
+    ]
+  },
+  {
+    "primary": "Social skills",
+    "similar": ["Rizz", "Charisma", "People skills", "Gift of gab", "Vibes"],
+    "examples": [
+      "A: That guy has zero social skills, it was so awkward.",
+      "B: I noticed, he just stared at me when I said hi.",
+      "A: You need mad social skills to work in PR.",
+      "B: for sure, you gotta know how to talk to anyone.",
+      "A: Her social skills are on point, she charmed the whole room.",
+      "B: She's got that natural rizz."
+    ]
+  },
+  {
+    "primary": "Social responsibility",
+    "similar": ["Doing the right thing", "Giving back", "Being woke", "Community vibes", "Conscious living"],
+    "examples": [
+      "A: Companies act like they care about social responsibility just for clout.",
+      "B: Big facts, it's all just marketing usually.",
+      "A: We gotta have some social responsibility and clean this park up.",
+      "B: I'm down, let's do it for the neighborhood.",
+      "A: Social responsibility is huge for Gen Z consumers.",
+      "B: Yeah, they don't mess with brands that are shady."
+    ]
+  },
+  {
+    "primary": "Societal norms",
+    "similar": ["The status quo", "What's expected", "The standard", "Basic rules", "How it goes"],
+    "examples": [
+      "A: He really doesn't care about societal norms, does he?",
+      "B: Nope, he marches to the beat of his own drum.",
+      "A: Following societal norms is so boring sometimes.",
+      "B: I feel you, sometimes you gotta break the mold.",
+      "A: Societal norms say we should settle down, but I'm just living.",
+      "B: Do you, don't worry about what people expect."
+    ]
+  },
+  {
+    "primary": "Go the extra mile",
+    "similar": ["Above and beyond", "Do the most", "Put in work", "Hustle hard", "Give 110%"],
+    "examples": [
+      "A: She always goes the extra mile for her clients.",
+      "B: That's why she's the top earner in the office.",
+      "A: I'm gonna go the extra mile on this project to impress the boss.",
+      "B: Secure that promotion, I see you.",
+      "A: You didn't have to get me a gift too, you really went the extra mile.",
+      "B: You know I got you, gotta treat my friends right."
+    ]
+  },
+  {
+    "primary": "Get the ball rolling",
+    "similar": ["Kick things off", "Get it started", "Make moves", "Launch it", "Set it off"],
+    "examples": [
+      "A: Let's get the ball rolling on this trip planning.",
+      "B: bet, I'll start looking at flights tonight.",
+      "A: We need to get the ball rolling if we want to finish by Friday.",
+      "B: Alright, I'm opening the doc right now.",
+      "A: Who's gonna get the ball rolling on the group chat?",
+      "B: I got it, I'll add everyone now."
+    ]
+  },
+  {
+    "primary": "Give it a shot",
+    "similar": ["Shoot your shot", "Give it a go", "Try it out", "Run it", "Test the waters"],
+    "examples": [
+      "A: I've never had oyster, but I'll give it a shot.",
+      "B: You might like it, just put some hot sauce on it.",
+      "A: You think I should apply? I'm not qualified.",
+      "B: Just give it a shot, you never know.",
+      "A: I'm gonna give it a shot and ask for her number.",
+      "B: Do it, bro! Shoot your shot."
+    ]
+  },
+  {
+    "primary": "Go out of one's way",
+    "similar": ["Bend over backward", "Make an effort", "Do too much", "Go hard for", "Put yourself out there"],
+    "examples": [
+      "A: He went out of his way to drive me to the airport.",
+      "B: That's a real friend right there.",
+      "A: Don't go out of your way if it's too much trouble.",
+      "B: Nah, it's cool, I'm headed that way anyway.",
+      "A: She really went out of her way to make me feel welcome.",
+      "B: She's sweet like that, always looking out."
+    ]
+  },
+  {
+    "primary": "Get off the ground",
+    "similar": ["Take off", "Launch", "Start up", " Gain traction", "Pop off"],
+    "examples": [
+      "A: We're trying to get this startup off the ground.",
+      "B: The beginning is always the hardest grind.",
+      "A: Once this project gets off the ground, it's gonna be huge.",
+      "B: Facts, I can see the potential.",
+      "A: It's hard to get a music career off the ground in this city.",
+      "B: Too much competition, everyone's a rapper."
+    ]
+  },
+  {
+    "primary": "For the sake of",
+    "similar": ["Because of", "In the name of", "Just for", "Doing it for", "On behalf of"],
+    "examples": [
+      "A: I'm just creating peace for the sake of the family.",
+      "B: I feel that, gotta keep the drama low at Thanksgiving.",
+      "A: Let's just agree for the sake of finishing this meeting.",
+      "B: Please, I wanna go home already.",
+      "A: He quit smoking for the sake of his health.",
+      "B: Good for him, that stuff is bad news."
+    ]
+  },
+  {
+    "primary": "For the time being",
+    "similar": ["For now", "Temporarily", "In the meantime", "Right now", "Just for a minute"],
+    "examples": [
+      "A: I'm crashing on my friend's couch for the time being.",
+      "B: Until you find a new spot? That's decent of him.",
+      "A: Let's stick to this plan for the time being.",
+      "B: Cool, we can switch it up later if we need to.",
+      "A: The shop is closed for the time being.",
+      "B: Dang, I really wanted a bagel."
+    ]
+  },
+  {
+    "primary": "For a change",
+    "similar": ["Switch it up", "Do something different", "Flip the script", "New vibes", "Break the routine"],
+    "examples": [
+      "A: Let's eat something healthy for a change.",
+      "B: You mean not pizza? Who are you?",
+      "A: It's nice to see you smiling for a change.",
+      "B: Shut up, I smile sometimes!",
+      "A: We decided to go upstate for a change.",
+      "B: Nice, get some fresh air away from the city."
+    ]
+  },
+  {
+    "primary": "From time to time",
+    "similar": ["Every now and then", "Sometimes", "Once in a blue moon", "Occasionally", "Here and there"],
+    "examples": [
+      "A: Do you still talk to him?",
+      "B: From time to time, but not like before.",
+      "A: I like to treat myself to a spa day from time to time.",
+      "B: Self-care is important, I gotta do that more.",
+      "A: It gets really loud here from time to time.",
+      "B: Yeah, that's city living for you."
+    ]
+  },
+  {
+    "primary": "Through thick and thin",
+    "similar": ["Ride or die", "No matter what", "Day one vibes", "Through the storm", "Down for whatever"],
+    "examples": [
+      "A: They've been together through thick and thin.",
+      "B: That's real love, staying through the hard times.",
+      "A: My best friend has been with me through thick and thin.",
+      "B: Keep those people close, they're rare.",
+      "A: We gotta stick together through thick and thin.",
+      "B: Fo sho, squad for life."
+    ]
+  },
+  {
+    "primary": "Force of nature",
+    "similar": ["Powerhouse", "Unstoppable", "Beast", "Hurricane", "Wild card"],
+    "examples": [
+      "A: Beyonce is a straight-up force of nature.",
+      "B: Absolutely, nobody does it like her.",
+      "A: When he gets mad, he's like a force of nature.",
+      "B: Yeah, I stay out of his way when he's heated.",
+      "A: That storm was a force of nature, so scary.",
+      "B: Mother Nature doesn't play."
+    ]
+  },
+  {
+    "primary": "Force of habit",
+    "similar": ["Autopilot", "Muscle memory", "Can't help it", "Routine", "Just instinct"],
+    "examples": [
+      "A: Why did you drive to your old house?",
+      "B: Force of habit, I lived there for 10 years!",
+      "A: I checked my phone again, force of habit.",
+      "B: You're addicted, put it down.",
+      "A: Sorry I ordered regular milk, force of habit.",
+      "B: It's cool, I'll drink it."
+    ]
+  },
+  {
+    "primary": "Force of will",
+    "similar": ["Determination", "Grindset", "Iron will", "Pure grit", "Mindset"],
+    "examples": [
+      "A: He quit smoking by sheer force of will.",
+      "B: That's tough, respect to him.",
+      "A: You need strong force of will to finish a marathon.",
+      "B: For real, my legs would give out at mile 2.",
+      "A: Her force of will is scary proficient.",
+      "B: She gets what she wants, period."
+    ]
+  },
+  {
+    "primary": "Force of personality",
+    "similar": ["Big energy", "Main character energy", "Presence", "Charisma", "Aura"],
+    "examples": [
+      "A: He won the room over just by force of personality.",
+      "B: Yeah, he walks in and owns the place.",
+      "A: You can't ignore her, she has such a force of personality.",
+      "B: She definitely commands attention.",
+      "A: It takes a certain force of personality to lead like that.",
+      "B: Born leader vibes."
+    ]
+  },
+  {
+    "primary": "Force of impact",
+    "similar": ["Hit different", "Heavy hitter", "Punch", "Intensity", "The blow"],
+    "examples": [
+      "A: The force of impact totaled the car.",
+      "B: Damn, everyone okay though?",
+      "A: You could feel the force of impact from the bass.",
+      "B: That concert was shaking the whole block.",
+      "A: The news hit with the force of impact of a bomb.",
+      "B: Everyone was shook."
+    ]
+  },
+  {
+    "primary": "My allergies are acting up.",
+    "similar": ["Allergies are killing me", "Pollen is attacking", "Sinuses going crazy", "Sneeze fest", "Dying from pollen"],
+    "examples": [
+      "A: *Sneezes* Ugh, my allergies are acting up.",
+      "B: Bless you! The pollen count is high today.",
+      "A: I can't breathe, my allergies are acting up so bad.",
+      "B: Did you take a Zyrtec?",
+      "A: My eyes are so itchy, allergies are acting up.",
+      "B: You look high, go wash your face."
+    ]
+  },
+  {
+    "primary": "Get off my back",
+    "similar": ["Chill out", "Give me a break", "Stop nagging", "Hop off", "Let me breathe"],
+    "examples": [
+      "A: Did you finish the report yet?",
+      "B: Get off my back! I'm doing it right now.",
+      "A: I'm just asking! You don't have to snap.",
+      "B: You've asked me five times, just chill.",
+      "A: Mom just won't get off my back about getting married.",
+      "B: Parents stay stressing us out."
+    ]
+  },
+  {
+    "primary": "Lets pick up where we left off",
+    "similar": ["Run it back", "Continue", "Keep it going", "Back to business", "Resume"],
+    "examples": [
+      "A: Sorry I had to take that call. Where were we?",
+      "B: Let's pick up where we left off, discussing the budget.",
+      "A: We ran out of time yesterday, let's pick up where we left off.",
+      "B: Cool, pull up the slide deck.",
+      "A: I wanna pick up where we left off on our date.",
+      "B: Smooth... drinks at 8?"
+    ]
+  },
+  {
+    "primary": "I just bumped my elbow on the doorframe",
+    "similar": ["Funny bone hit", "Hit my crazy bone", "Elbow check", "Clumsy moment", "Ouch moment"],
+    "examples": [
+      "A: Oww! I just bumped my elbow on the doorframe.",
+      "B: That funny bone pain is the worst!",
+      "A: You okay? You winced hard.",
+      "B: Yeah, just bumped my elbow on the doorframe. My arm is tingling.",
+      "A: Watch out for that doorframe.",
+      "B: Too late, just bumped my elbow. RIP my arm."
+    ]
+  },
+  {
+    "primary": "You have grit",
+    "similar": ["You got heart", "You're a grinder", "Tough cookie", "Resilient", "Don't quit"],
+    "examples": [
+      "A: You didn't give up even when it got hard. You have grit.",
+      "B: Momma raised a fighter.",
+      "A: I respect how you handled that loss. You have grit.",
+      "B: Fall down seven times, stand up eight.",
+      "A: To make it in NYC, you gotta have grit.",
+      "B: Facts, this city will chew you up otherwise."
+    ]
+  },
+  {
+    "primary": "You have guts",
+    "similar": ["You got balls", "Bold move", "Fearless", "Daring", "Savage"],
+    "examples": [
+      "A: You really talked back to the boss? You have guts.",
+      "B: Someone had to say it.",
+      "A: I can't believe you jumped off that cliff. You have guts.",
+      "B: It was a rush!",
+      "A: Asking for a raise on your first day? You have guts.",
+      "B: Know your worth, add tax."
+    ]
+  },
+  {
+    "primary": "Im a foodie",
+    "similar": ["Live to eat", "Food lover", "Gourmet vibes", "Culinary fan", "Snack queen/king"],
+    "examples": [
+      "A: You want to try that new fusion spot?",
+      "B: Always down, I'm a foodie.",
+      "A: She posts food pics all day.",
+      "B: Yeah, she claims 'I'm a foodie' in her bio.",
+      "A: Since I'm a foodie, NYC is paradise.",
+      "B: Too many options, not enough stomach space."
+    ]
+  },
+  {
+    "primary": "Its the last straw",
+    "similar": ["I'm done", "That's it", "Reached my limit", "Over it", "Final warning needed"],
+    "examples": [
+      "A: He flaked on plans again.",
+      "B: That's the last straw, block his number.",
+      "A: If my boss yells one more time, it's the last straw.",
+      "B: Don't quit without a backup plan though.",
+      "A: The wifi cut out during the game. It's the last straw.",
+      "B: Time to switch providers."
+    ]
+  },
+  {
+    "primary": "Wanna catch a movie later?",
+    "similar": ["Movie night?", "Hit the cinema?", "See a flick?", "Watch something?", "Go to the movies?"],
+    "examples": [
+      "A: I'm bored. Wanna catch a movie later?",
+      "B: Sure, what's playing?",
+      "A: Work was stress. Wanna catch a movie later to unwind?",
+      "B: I'm down, let's get popcorn too.",
+      "A: Wanna catch a movie later?",
+      "B: Nah, let's just Netflix and chill."
+    ]
+  },
+  {
+    "primary": "It seems a bit likely",
+    "similar": ["Probably", "Valid", "Could be", "Odds are good", "Fair chance"],
+    "examples": [
+      "A: You think it's gonna rain?",
+      "B: With those clouds? It seems a bit likely.",
+      "A: Is he gonna get the promotion?",
+      "B: It seems a bit likely, the boss loves him.",
+      "A: She might flake.",
+      "B: Knowing her? It seems a bit likely."
+    ]
+  },
+  {
+    "primary": "It seemed a bit exaggerated",
+    "similar": ["Doing too much", "Reaching", "Dragging it", "Extra", "Capping"],
+    "examples": [
+      "A: Did you believe his story?",
+      "B: Nah, it seemed a bit exaggerated.",
+      "A: Her reaction was wild.",
+      "B: Yeah, it seemed a bit exaggerated for just a spilled drink.",
+      "A: The news report made it sound like a war zone.",
+      "B: Clickbait, bro. It seemed a bit exaggerated."
+    ]
+  },
+  {
+    "primary": "Wish washy",
+    "similar": ["Flaky", "Indecisive", "Flip-flopper", "Can't make up their mind", "Weak sauce"],
+    "examples": [
+      "A: Is he coming or not?",
+      "B: I don't know, he's being so wishy washy.",
+      "A: Don't be wishy washy, pick a restaurant!",
+      "B: Everything sounds good though!",
+      "A: I hate dealing with wishy washy clients.",
+      "B: Same, just sign the contract already."
+    ]
+  },
+  {
+    "primary": "Keep a lid on it",
+    "similar": ["Keep it DL", "Hush hush", "Don't spill the tea", "Zip it", "Keep it lowkey"],
+    "examples": [
+      "A: I'm planning a surprise party for her.",
+      "B: details? And keep a lid on it.",
+      "A: Did you hear about the merger?",
+      "B: Yeah, but keep a lid on it until it's official.",
+      "A: I don't want everyone knowing my business.",
+      "B: Don't worry, I'll keep a lid on it."
+    ]
+  },
+  {
+    "primary": "What do you take me for?",
+    "similar": ["Do I look stupid?", "Try again", "You got me messed up", "Seriously?", "Am I a joke to you?"],
+    "examples": [
+      "A: I'll pay you back next year.",
+      "B: What do you take me for? An idiot?",
+      "A: You think I did this for money?",
+      "B: What do you take me for? I did it for us.",
+      "A: Just sign it without reading.",
+      "B: What do you take me for? I'm reading every word."
+    ]
+  },
+  {
+    "primary": "I'm not the type to regret things",
+    "similar": ["No regrets", "YOLO", "Move forward", "Don't look back", "Own it"],
+    "examples": [
+      "A: Do you wish you hadn't moved here?",
+      "B: Nah, I'm not the type to regret things.",
+      "A: That tattoo is wild.",
+      "B: Whatever, I'm not the type to regret things.",
+      "A: You burnt a bridge there.",
+      "B: It is what it is. I'm not the type to regret things."
+    ]
+  },
+  {
+    "primary": "I am at a loss for words",
+    "similar": ["Speechless", "Shook", "No words", "Floored", "Gagged"],
+    "examples": [
+      "A: Did you see that outfit?",
+      "B: I am at a loss for words. It was... interesting.",
+      "A: The view from here is insane.",
+      "B: Wow, I am at a loss for words. So beautiful.",
+      "A: He actually said that?",
+      "B: Yes, I am at a loss for words. The audacity."
+    ]
+  },
+  {
+    "primary": "In one ear, out the other",
+    "similar": ["Not listening", "Tuning out", "Ignored", "Didn't register", "Zoned out"],
+    "examples": [
+      "A: Did you tell him to take out the trash?",
+      "B: Yeah, but it went in one ear, out the other.",
+      "A: She never listens to advice.",
+      "B: Literally, in one ear, out the other.",
+      "A: I feel like I'm talking to a wall.",
+      "B: Same, everything goes in one ear, out the other with him."
+    ]
+  },
+  {
+    "primary": "Cut me some slack",
+    "similar": ["Give me a break", "Ease up", "Chill", "Let me live", "Back off"],
+    "examples": [
+      "A: You're late again.",
+      "B: Cut me some slack, the train was delayed!",
+      "A: This isn't your best work.",
+      "B: I'm running on two hours of sleep, cut me some slack.",
+      "A: Why is your room messy?",
+      "B: Cut me some slack, I've been working all week."
+    ]
+  },
+  {
+    "primary": "Is something bothering you?",
+    "similar": ["You good?", "What's wrong?", "What's the vibe?", "Something up?", "You seem off"],
+    "examples": [
+      "A: You've been quiet all night. Is something bothering you?",
+      "B: just tired, honestly.",
+      "A: Is something bothering you? You keep checking your phone.",
+      "B: Waiting for a text, that's all.",
+      "A: You seem annoyed. Is something bothering you?",
+      "B: Yeah, actually, we need to talk."
+    ]
+  },
+  {
+    "primary": "It's nothing. Don't worry about it.",
+    "similar": ["It's chill", "No biggie", "All good", "Forget it", "Nevermind"],
+    "examples": [
+      "A: What did you say?",
+      "B: It's nothing. Don't worry about it.",
+      "A: Are you mad?",
+      "B: Nah, it's nothing. Don't worry about it.",
+      "A: Sorry I broke your pen.",
+      "B: It's nothing. Don't worry about it, I have ten more."
+    ]
+  },
+  {
+    "primary": "I'd rather die than suffer",
+    "similar": ["Kill me now", "Over it", "Can't deal", "Not doing this", "Hard pass"],
+    "examples": [
+      "A: We have to walk 20 blocks in the rain.",
+      "B: I'd rather die than suffer through that. Uber?",
+      "A: You want to watch that 4-hour documentary?",
+      "B: I'd rather die than suffer that boredom.",
+      "A: Drama with the ex again?",
+      "B: Ugh, I'd rather die than suffer his nonsense."
+    ]
+  },
+  {
+    "primary": "Nerve racking",
+    "similar": ["Stressful", "Anxiety-inducing", "Tense", "Sweating bullets", "High pressure"],
+    "examples": [
+      "A: How was the interview?",
+      "B: It was so nerve racking, I was shaking.",
+      "A: Waiting for the results is nerve racking.",
+      "B: Tell me about it, my heart is pounding.",
+      "A: First dates are always nerve racking.",
+      "B: Just be yourself, you got this."
+    ]
+  },
+  {
+    "primary": "Butter up",
+    "similar": ["Sweet talk", "Kiss up", "Suck up", "Flatter", "Charm"],
+    "examples": [
+      "A: Why are you being so nice to Dad?",
+      "B: Trying to butter him up so I can borrow the car.",
+      "A: She's totally trying to butter up the boss.",
+      "B: Yeah, she wants that promotion bad.",
+      "A: Don't try to butter me up, you're still grounded.",
+      "B: Worth a shot though, right?"
+    ]
+  },
+  {
+    "primary": "Brown nose",
+    "similar": ["Kiss ass", "Teacher's pet", "Suck up", "Yes man", "Bootlicker"],
+    "examples": [
+      "A: Look at him bringing coffee for everyone.",
+      "B: Total brown nose move.",
+      "A: Nobody likes a brown nose.",
+      "B: But the boss loves him, so who's winning?",
+      "A: Stop being a brown nose and have an opinion.",
+      "B: I'm just being a team player!"
+    ]
+  },
+  {
+    "primary": "Bumped into:",
+    "similar": ["Ran into", "Saw", "Linked accidentally", "Crossed paths", "Spotted"],
+    "examples": [
+      "A: You'll never guess who I bumped into today.",
+      "B: Who? Your ex?",
+      "A: I bumped into Sarah at the bodega.",
+      "B: No way, how is she doing?",
+      "A: Always awkward when you bump into a coworker on the weekend.",
+      "B: Pretend you didn't see them. Valid strategy."
+    ]
+  },
+  {
+    "primary": "Bumped against:",
+    "similar": ["Hit", "Knocked", "Brushed", "Crashed", "Smacked"],
+    "examples": [
+      "A: Sorry, I think I bumped against your table.",
+      "B: It's cool, no water spilled.",
+      "A: The subway was so crowded, I bumped against like ten people.",
+      "B: Rush hour vibes, gotta love it.",
+      "A: I bumped against the wall in the dark.",
+      "B: Ouch, you okay?"
+    ]
+  },
+  {
+    "primary": "I hot.my toe bumped on yhe doorframe",
+    "similar": ["Stubbed my toe", "Toe disaster", "Kicked the wall", "Foot pain", "Clumsy vibes"],
+    "examples": [
+      "A: Why are you hopping around?",
+      "B: I bumped my toe on the doorframe! It hurts so bad!",
+      "A: Ouch, did you break it?",
+      "B: Feels like it! Why do I keep doing this?",
+      "A: Watch where you're walking.",
+      "B: I swear the doorframe moved."
+    ]
+  },
+  {
+    "primary": "I bumped my toes on the doorframe",
+    "similar": ["Stubbed my toe", "Toe jam", "Kicked the frame", "Pain level 100", "Trip hazard"],
+    "examples": [
+      "A: *Screams silently*",
+      "B: What happened? You look in pain.",
+      "A: I bumped my toes on the doorframe.",
+      "B: The worst pain known to man. RIP.",
+      "A: I need steel-toed boots in this house.",
+      "B: Clumsy much?"
+    ]
+  },
+  {
+    "primary": "Pushover",
+    "similar": ["Softie", "Doormat", "Easy target", "Too nice", "Walkover"],
+    "examples": [
+      "A: He let her cancel again?",
+      "B: Yeah, he's such a pushover.",
+      "A: Don't be a pushover, tell them no.",
+      "B: It's hard, I hate conflict.",
+      "A: They treat the substitute teacher like a pushover.",
+      "B: Kids can be ruthless."
+    ]
+  },
+  {
+    "primary": "Are you spoken for?",
+    "similar": ["You single?", "Taken?", "Off the market?", "Seeing anyone?", "Got a boo?"],
+    "examples": [
+      "A: That guy is cute. Is he spoken for?",
+      "B: I think he has a girlfriend.",
+      "A: Are you spoken for, or can I buy you a drink?",
+      "B: I'm spoken for, but thanks for the offer.",
+      "A: Everyone at this party is spoken for.",
+      "B: Single life is rough out here."
+    ]
+  },
+  {
+    "primary": "He is pretty camera shy",
+    "similar": ["Hates photos", "Lowkey", "No pictures please", "Media shy", "Ghosts the camera"],
+    "examples": [
+      "A: Let's take a selfie!",
+      "B: Don't ask Mike, he is pretty camera shy.",
+      "A: Why are there no photos of him online?",
+      "B: He is pretty camera shy, likes his privacy.",
+      "A: He hid his face again.",
+      "B: Yeah, he is pretty camera shy."
+    ]
+  },
+  {
+    "primary": "He was three years above me",
+    "similar": ["Senior to me", "Older classman", "Ahead of me", "Upperclassman", "Big bro vibes"],
+    "examples": [
+      "A: You know Dave?",
+      "B: Yeah, he was three years above me in high school.",
+      "A: Did you guys hang out?",
+      "B: Not really, since he was three years above me.",
+      "A: He seems older.",
+      "B: He is, he was three years above me in college."
+    ]
+  },
+  {
+    "primary": "She was three years below me",
+    "similar": ["Junior to me", "Younger class", "Behind me", "Underclassman", "Little sis vibes"],
+    "examples": [
+      "A: Who's that girl?",
+      "B: Emily. She was three years below me in school.",
+      "A: So she's younger?",
+      "B: Yeah, she was three years below me.",
+      "A: I barely knew anyone who was three years below me.",
+      "B: Different crowds, makes sense."
+    ]
+  },
+  {
+    "primary": "Give or take",
+    "similar": ["Approximately", "Around", "About", "Plus or minus", "Roughly"],
+    "examples": [
+      "A: How long will it take?",
+      "B: An hour, give or take.",
+      "A: How much was the bill?",
+      "B: Like 50 bucks, give or take.",
+      "A: He's like 6 feet tall, give or take.",
+      "B: Probably 5'11\" on a good day."
+    ]
+  },
+  {
+    "primary": "Way off",
+    "similar": ["Not even close", "Dead wrong", "Missed the mark", "Tripping", "Delusional"],
+    "examples": [
+      "A: I guessed she was 25.",
+      "B: You are way off, she's 40.",
+      "A: Is the answer 100?",
+      "B: Way off. Try 1000.",
+      "A: His estimate for the project was way off.",
+      "B: Yeah, we're over budget now."
+    ]
+  },
+  {
+    "primary": "Save my seat",
+    "similar": ["Hold it down", "Watch my spot", "Keep it warm", "Guard this", "Don't let anyone sit"],
+    "examples": [
+      "A: I gotta use the bathroom. Save my seat.",
+      "B: Got you, be quick though.",
+      "A: Can you save my seat while I grab a drink?",
+      "B: Sure, but if Beyonce walks in, she gets it.",
+      "A: Did you save my seat?",
+      "B: I tried, but some guy just sat down."
+    ]
+  },
+  {
+    "primary": "Pasture raised egg",
+    "similar": ["Fancy eggs", "Organic vibes", "Happy chickens", "Expensive eggs", "Quality yolk"],
+    "examples": [
+      "A: Why are these eggs 8 dollars?",
+      "B: They're pasture raised eggs, top tier.",
+      "A: I only buy pasture raised eggs now.",
+      "B: Boujee! But do they taste better?",
+      "A: Pasture raised eggs have orange yolks, it's wild.",
+      "B: Nutrient density, fam."
+    ]
+  }
+]
