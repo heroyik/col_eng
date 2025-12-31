@@ -1836,159 +1836,315 @@
   },
   {
     "primary": "Don't get me wrong.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "오해는 하지 마. (내 말 본뜻은 그게 아냐)",
+    "similar": [
+      "Don't misunderstand.",
+      "Let me clarify.",
+      "Hear me out.",
+      "Not tryna be mean.",
+      "No disrespect."
+    ],
+    "example": "A: You don't like the new design?\nB: Don't get me wrong, deadass, it's nice, but it's just not the right vibe for this client.\nA: No cap? I thought they'd love the neon colors.\nB: For real, they're more into that minimalist aesthetic.\nA: Facts, I'll tone it down then.\nB: Best move, no cap."
   },
   {
     "primary": "No hard feelings.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "악정은 없어. (뒤끝 없기로 하자)",
+    "similar": [
+      "We're good.",
+      "No grudge.",
+      "It's all love.",
+      "All square.",
+      "No beef."
+    ],
+    "example": "A: Sorry I couldn't make it to your party.\nB: No hard feelings, deadass. I know you were swamped with work.\nA: Preciate that, man. I lowkey felt bad about it.\nB: For real, don't even trip. We'll link up next week.\nA: Say less, I'm down.\nB: Bet."
   },
   {
     "primary": "I'm not in the mood.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "그럴 기분 아냐. (지금 좀 그래)",
+    "similar": [
+      "Not feeling it.",
+      "Catch me later.",
+      "Feeling lowkey gray.",
+      "Not today.",
+      "Off vibes."
+    ],
+    "example": "A: Yo, tryna go to the club tonight?\nB: Honestly? I'm not in the mood, deadass. Just wanna stay in.\nA: No cap? You're usually the first one out.\nB: For real, work just drained my whole energy today.\nA: Facts, I feel that. Get some rest, man.\nB: Word, catch you tomorrow."
   },
   {
     "primary": "I can't help it.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "어쩔 수 없어. (나도 나를 못 말려)",
+    "similar": [
+      "Out of my control.",
+      "It's just me.",
+      "Can't stop.",
+      "Natural habit.",
+      "No choice."
+    ],
+    "example": "A: You're always checking your phone, man.\nB: I can't help it, deadass. I'm waiting for that important email.\nA: No cap, but you're missing the whole vibe of the park.\nB: For real, I'm tryna be more present, but it's hard.\nA: Facts, technology really got us locked in.\nB: Word, putting it away now."
   },
   {
     "primary": "Let's call it a day.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "오늘은 여기까지 하자. (마치자)",
+    "similar": [
+      "Wrap it up.",
+      "Finish for today.",
+      "Head out.",
+      "Done for now.",
+      "Peace out."
+    ],
+    "example": "A: It's already 8 PM and we still haven't fixed the bug.\nB: Facts, let's call it a day, deadass. We're both too tired to think straight.\nA: No cap, my brain is fried.\nB: For real, we'll hammer it out in the morning with fresh eyes.\nA: Word, let's grab some food and bail.\nB: Bet."
   },
   {
     "primary": "Suit yourself.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "네 마음대로 해. (그 뜻이 정 그렇다면야)",
+    "similar": [
+      "Whatever you want.",
+      "Do what you like.",
+      "Your choice.",
+      "No skin off my back.",
+      "Go ahead."
+    ],
+    "example": "A: I'm not gonna eat at that spot, I heard it's straight garbage.\nB: Well, suit yourself, deadass. I'm still going because the tacos are fire.\nA: For real? I'll just find a bagel place then.\nB: All good, man. We'll meet up after.\nA: Facts, catch you in a bit.\nB: Word."
   },
   {
     "primary": "The more, the merrier.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "사람이 많을수록 더 즐겁지. (다다익선)",
+    "similar": [
+      "All invited.",
+      "Big crowd vibes.",
+      "Everyone's welcome.",
+      "More folks, more fun.",
+      "Join the squad."
+    ],
+    "example": "A: Can I bring my roommate to the party?\nB: For sure! The more, the merrier, deadass.\nA: No cap? He's a whole vibe, you'll love him.\nB: Facts, we're tryna have a massive turnout tonight.\nA: Say less, I'll tell him to pull up.\nB: Bet."
   },
   {
     "primary": "So far, so good.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "지금까지는 아주 좋아.",
+    "similar": [
+      "All good currently.",
+      "No issues yet.",
+      "Vibing well.",
+      "On track.",
+      "Smooth sailing."
+    ],
+    "example": "A: How's the new job treating you?\nB: So far, so good, deadass. The team is actually cool.\nA: No cap? I heard that office was highkey toxic.\nB: For real, maybe I just haven't seen that side yet.\nA: Facts, just keep your head down and stay fly.\nB: Word, I'm on it."
   },
   {
     "primary": "I'll take care of it.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "내가 처리할게. (걱정 마)",
+    "similar": [
+      "Handled.",
+      "I'm across it.",
+      "I got this.",
+      "Covered.",
+      "Starting now."
+    ],
+    "example": "A: Someone needs to call the landlord about the leaks.\nB: I'll take care of it, deadass. He's been dodgin' my calls lately anyway.\nA: No cap? Tell him we're not paying rent until it's fixed.\nB: For real, I'm bringing that same energy, deadass.\nA: Preciate the hustle, man.\nB: You already know."
   },
   {
     "primary": "I'm all ears.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "경청하고 있어. (말해봐)",
+    "similar": [
+      "Listening.",
+      "Tell me more.",
+      "What's the tea?",
+      "I'm focused.",
+      "Go ahead."
+    ],
+    "example": "A: Yo, I got some crazy news about what happened at the club.\nB: No cap? I'm all ears, spill everything, deadass.\nA: So basically, Mike tried to jump the VIP line and got kicked out.\nB: For real? He's such a clown, no cap.\nA: Facts, everyone was recordin' it on their phones.\nB: Deadass? I gotta see those videos."
   },
   {
     "primary": "I can't wait.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "정말 기대돼! (못 기다리겠어)",
+    "similar": [
+      "So hyped.",
+      "Can't wait!",
+      "Stoked.",
+      "Buzzing.",
+      "Ready for it."
+    ],
+    "example": "A: The new season of that show drops tomorrow night.\nB: I can't wait, deadass! I've been waiting for a whole year.\nA: No cap, the trailer looked insane.\nB: For real, I'm ordering pizza and staying in all night.\nA: Facts, that's the only way to watch it.\nB: Word."
   },
   {
     "primary": "It was a close call.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "큰일 날 뻔했어. (아슬아슬했어)",
+    "similar": [
+      "Narrow escape.",
+      "Barely made it.",
+      "Close one.",
+      "Tense moment.",
+      "Almost caught."
+    ],
+    "example": "A: Did you see that car almost hit us?\nB: Facts, it was a close call, deadass. I'm lowkey shaking.\nA: No cap, he didn't even slow down at the light.\nB: For real, people in this city drive like they're trippin'.\nA: Stay safe, man. Stay alert.\nB: Word, you too."
   },
   {
     "primary": "There you go.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "자, 여기 있어. (그렇지, 바로 그거야)",
+    "similar": [
+      "Here it is.",
+      "Exactly.",
+      "You got it.",
+      "That's the move.",
+      "Nailed it."
+    ],
+    "example": "A: I finally figured out how to fix the layout issue.\nB: There you go, deadass! I knew you'd get it, no cap.\nA: Facts, I just needed to change one line of CSS.\nB: For real, it's always the simplest things that trip you up.\nA: Word, looking fresh now.\nB: Bet."
   },
   {
     "primary": "Here we go.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "또 시작이네. (자, 해보자구)",
+    "similar": [
+      "Round two.",
+      "Starting now.",
+      "Again?",
+      "Let's get it.",
+      "Brace yourself."
+    ],
+    "example": "A: Is the subway delayed again?\nB: Here we go! No cap, it's the third time this week.\nA: Deadass? I'm just gonna walk at this point.\nB: For real, the MTA is straight garbage today.\nA: Facts, let's just get some fresh air.\nB: Word."
   },
   {
     "primary": "ASAP",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "가능한 한 빨리. (급해)",
+    "similar": [
+      "Immediately.",
+      "Right now.",
+      "On the double.",
+      "Fast track.",
+      "Stat."
+    ],
+    "example": "A: Yo, I need that report ASAP, deadass.\nB: No cap, I'm just finishing the last slide right now.\nA: For real, the client is highkey pressed about the deadline.\nB: Say less, I'm hitting send in two minutes.\nA: Preciate the hustle, man.\nB: You already know."
   },
   {
     "primary": "I have no idea.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "전혀 모르겠어.",
+    "similar": [
+      "No clue.",
+      "IDK.",
+      "Trippin' over it.",
+      "Beyond me.",
+      "Blanking."
+    ],
+    "example": "A: Where did my keys go? I just had them.\nB: Honestly? I have no idea, deadass. You were just by the kitchen though.\nA: No cap, I checked there three times already.\nB: For real, this apartment is a whole black hole sometimes.\nA: Facts, I'm losing my mind.\nB: Word, keep looking."
   },
   {
     "primary": "It's not my thing.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "내 취향 아냐. (관심 없어)",
+    "similar": [
+      "Not for me.",
+      "Pass.",
+      "No vibe.",
+      "Different strokes.",
+      "Improper fit."
+    ],
+    "example": "A: You tryna go to that EDM festival this weekend?\nB: Nah, it's not my thing, deadass. Too many people and too loud.\nA: No cap? I thought you'd love the energy.\nB: For real, I'm more into that lowkey house vibe, no cap.\nA: Facts, different vibes for different folks.\nB: Word."
   },
   {
     "primary": "Let's get to the point.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "본론만 말하자. (요점이 뭐야?)",
+    "similar": [
+      "Cut to the chase.",
+      "Straight talk.",
+      "Moving on.",
+      "Focus.",
+      "What's the core?"
+    ],
+    "example": "A: So basically, what I was tryna say before the phone rang was...\nB: Yo, let's get to the point, deadass. Are you coming or not?\nA: Facts, sorry for rambling. Yes, I'm down.\nB: For real, we're already running late, no cap.\nA: Say less, I'm heading out now.\nB: Bet."
   },
   {
     "primary": "You name it.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "말씀만 하세요. (뭐든 다 있어)",
+    "similar": [
+      "Everything.",
+      "Whatever you want.",
+      "All options available.",
+      "Pick anything.",
+      "Fully stocked."
+    ],
+    "example": "A: Does this bodega have everything we need for the BBQ?\nB: Facts, you name it, they got it, deadass.\nA: No cap? Even the charcoal and the good buns?\nB: For real, this spot is legendary for and it's 24 hours too.\nA: Say less, let's go stock up.\nB: Bet."
   },
   {
     "primary": "I'm running late.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "나 늦고 있어. (거의 다 왔어)",
+    "similar": [
+      "Behind schedule.",
+      "Coming through.",
+      "Delayed.",
+      "Trippin' on time.",
+      "Almost there."
+    ],
+    "example": "A: Where you at? The movie starts in 5 minutes.\nB: I'm running late, no cap. The subway is straight garbage today.\nA: Deadass? You better be here for the previews at least.\nB: For real, I'm one stop away. Don't leave without me.\nA: Say less, I'm waiting in the lobby.\nB: Word."
   },
   {
     "primary": "It slipped my mind.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "깜빡했어. (잊어버렸네)",
+    "similar": [
+      "Forgot.",
+      "Blanked.",
+      "Escaped me.",
+      "Mistake.",
+      "Memory fail."
+    ],
+    "example": "A: Did you remember to buy the milk?\nB: Man, it slipped my mind, deadass. I was so focused on the meeting.\nA: No cap? Now I can't have my cereal, man.\nB: For real, my bad. I'll head out right now and grab it.\nA: Preciate that, I'm highkey hungry.\nB: You already know, stay right there."
   },
   {
     "primary": "I'm starving.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "배고파 죽겠어.",
+    "similar": [
+      "So hungry.",
+      "Famished.",
+      "Need food ASAP.",
+      "Gutted.",
+      "Belly trippin'."
+    ],
+    "example": "A: Yo, when is dinner gonna be ready?\nB: Another 15 minutes, deadass. Chill out.\nA: I can't, man, I'm starving, no cap.\nB: For real, have a snack while you wait.\nA: Straight brick move, I'm doing it now.\nB: Word."
   },
   {
     "primary": "I'm stuffed.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "배불러. (더 못 먹겠어)",
+    "similar": [
+      "Full.",
+      "Satisfied.",
+      "Eaten too much.",
+      "Bloated.",
+      "Can't move."
+    ],
+    "example": "A: You want another slice of pizza?\nB: Nah, I'm stuffed, deadass. I already had three.\nA: No cap? You usually crush a whole pie.\nB: For real, those toppings were highkey heavy though.\nA: Facts, they didn't hold back on the cheese.\nB: Word, I need to nap now."
   },
   {
     "primary": "Let's grab a bite.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "뭐 좀 먹으러 가자.",
+    "similar": [
+      "Get food.",
+      "Eat out.",
+      "Snack time.",
+      "Find a spot.",
+      "Feed the beast."
+    ],
+    "example": "A: I'm lowkey hungry after that walk.\nB: Facts, let's grab a bite. I know this fire taco truck nearby.\nA: No cap? I'm always down for tacos.\nB: For real, it's the best secret in the city, deadass.\nA: Say less, let's hit it.\nB: Bet."
   },
   {
     "primary": "Give me a break.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "좀 봐줘. (적당히 해, 말도 안 돼)",
+    "similar": [
+      "Stop it.",
+      "Seriously?",
+      "Come on.",
+      "Fair play.",
+      "Peace out."
+    ],
+    "example": "A: I expect you to finish this project by tomorrow at 9 AM.\nB: Yo, give me a break, deadass! I just started an hour ago.\nA: No cap, but the client is really pressed for time.\nB: For real, tell them to chill out. I'm only one person, no cap.\nA: I'll try to push it back, but no promises.\nB: Word, preciate it."
   },
   {
     "primary": "I knew it.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "내 이럴 줄 알았어! (거봐, 내가 그랬잖아)",
+    "similar": [
+      "Called it.",
+      "Expected.",
+      "Figures.",
+      "Saw it coming.",
+      "I told you so."
+    ],
+    "example": "A: Jay and Sarah just got back together.\nB: I knew it! No cap, they can't stay apart for more than a week.\nA: Deadass! I saw them vibing at the coffee shop today.\nB: For real, it's a whole cycle with those two, deadass.\nA: Facts, let's see how long it lasts this time.\nB: Word."
   },
   {
     "primary": "Not a chance.",
