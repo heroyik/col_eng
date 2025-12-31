@@ -1,4 +1,4 @@
-console.info("COL_ENG App Version: 20251231.1");
+console.info("COL_ENG App Version: 20251231.2");
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import {
   getFirestore,
@@ -210,7 +210,7 @@ function renderResults(results) {
 
 function highlightKeywords(text, keywords) {
   if (!text || !keywords || keywords.length === 0)
-    return text ? text.replace(/\n/g, "<br>") : "";
+    return text || "";
 
   // Sort keywords by length (longest first) to avoid partial matching issues
   const sortedKeywords = keywords
@@ -221,7 +221,7 @@ function highlightKeywords(text, keywords) {
   const escapeRegExp = (string) =>
     string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-  let processedText = text.replace(/\n/g, "<br>");
+  let processedText = text;
 
   // Create a single regex for all keywords
   const pattern = new RegExp(

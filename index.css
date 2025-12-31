@@ -281,8 +281,6 @@ h1 {
   height: 28px;
 }
 
-
-
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -349,7 +347,7 @@ h1 {
     gap: 0.5rem;
     justify-content: center; /* Center align on mobile */
   }
-  
+
   .daily-header svg {
     width: 20px;
     height: 20px;
@@ -474,17 +472,15 @@ footer a:hover::after {
   color: #e2e8f0;
   line-height: 1.8;
   font-family: inherit;
+  white-space: pre-line; /* Naturally handles newlines without needing br styling */
 }
 
-.example-text br {
-  margin-bottom: 0.75rem;
-  display: block;
-  content: "";
-}
+/* Removed problematic br styling that caused unnecessary breaks */
 
 .highlight {
   color: var(--primary);
   font-weight: 700;
+  display: inline;
 }
 
 /* Error State */
@@ -543,5 +539,5 @@ input[type="search"] {
 
 /* Force border radius on our specific search input that was reset above */
 #searchInput {
-  border-radius: 20px; 
+  border-radius: 20px;
 }
