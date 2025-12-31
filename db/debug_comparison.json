@@ -1,0 +1,7417 @@
+[
+  {
+    "id": 1,
+    "primary": "He was three years above me",
+    "japanese": "彼（かれ）は三（さん）学年（がくねん）上（うえ）でした。／先輩（せんぱい）なんだ。"
+  },
+  {
+    "id": 2,
+    "primary": "She was three years below me",
+    "japanese": "彼女（かのじょ）は三（さん）学年（가くねん）下（した）でした。／後輩（こうはい）なんだ。"
+  },
+  {
+    "id": 3,
+    "primary": "Way off",
+    "japanese": "全然（ぜんぜん）違（ちが）うよ。／検討（けんとう）外（はず）れ。"
+  },
+  {
+    "id": 4,
+    "primary": "Save my seat",
+    "japanese": "席（せき）取（と）っておいて。／場所（ばしょ）を確保（かくほ）して。"
+  },
+  {
+    "id": 5,
+    "primary": "Pasture raised egg",
+    "japanese": "放牧（ほうぼく）卵（たまご）。／こだわりの卵（たまご）。"
+  },
+  {
+    "id": 6,
+    "primary": "I have a gut feeling",
+    "japanese": "直感（ちょっかん）で分（わ）かる。／ピンときた。"
+  },
+  {
+    "id": 7,
+    "primary": "Busybody",
+    "japanese": "お節介（せっかい）な人（ひと）。／お節介（せっかい）焼（や）き。"
+  },
+  {
+    "id": 8,
+    "primary": "Don't get me started on her boyfriend",
+    "japanese": "彼（かれ）のことは言い（い）出（だ）したらきりがない。／彼（かれ）の話（はなし）はやめて。"
+  },
+  {
+    "id": 9,
+    "primary": "It can't be helped",
+    "japanese": "仕方（しかた）がない。／しょうがないね。"
+  },
+  {
+    "id": 10,
+    "primary": "Out of necessity:",
+    "japanese": "必要（ひつよう）に迫（せま）られて。／仕方（しかた）なく。"
+  },
+  {
+    "id": 11,
+    "primary": "No other choice:",
+    "japanese": "他（ほか）に選（えら）びようがない。／これしかない。"
+  },
+  {
+    "id": 12,
+    "primary": "Since you bring it up",
+    "japanese": "せっかく話（はなし）が出（で）たから。／ついでに言（い）うと。"
+  },
+  {
+    "id": 13,
+    "primary": "I'm just going through motion.",
+    "japanese": "ただ流（なが）しているだけ。／身（み）が入（はい）らない。"
+  },
+  {
+    "id": 14,
+    "primary": "I'm not the type to regret things easily",
+    "japanese": "すぐ後悔（こうかい）するタイプじゃない。／前（まえ）を向（む）くほうだ。"
+  },
+  {
+    "id": 15,
+    "primary": "conveyor belt sushi",
+    "japanese": "回転（かいてん）寿司（ずし）。／お寿司（すし）のトレイン。"
+  },
+  {
+    "id": 16,
+    "primary": "Cilantro",
+    "japanese": "パクチー。／コリアンダー。"
+  },
+  {
+    "id": 17,
+    "primary": "Out of blue",
+    "japanese": "突然（とつぜん）に。／前触（まえぶ）れもなく。"
+  },
+  {
+    "id": 18,
+    "primary": "I'll get out of your hair.",
+    "japanese": "邪魔（じゃま）しないようにする。／もう行（い）くね。"
+  },
+  {
+    "id": 19,
+    "primary": "Give a big round of applause to ~",
+    "japanese": "大（おお）きな拍手（はくしゅ）を送（おく）ってください。／盛大（せいだい）に。"
+  },
+  {
+    "id": 20,
+    "primary": "I have something to discuss",
+    "japanese": "あんたにそんなこと言（い）われる筋合（すじあ）いはない。／どの口（くち）が言（い）う？"
+  },
+  {
+    "id": 21,
+    "primary": "Who are you to say that",
+    "japanese": "行（い）く前（まえ）に誤解（ごかい）を解（と）いておこう。／スッキリさせたい。"
+  },
+  {
+    "id": 22,
+    "primary": "Let's clear up any misunderstandings before we go",
+    "japanese": "ただそう言（い）いたいだけ。／独（ひと）り言（ごと）だよ。"
+  },
+  {
+    "id": 23,
+    "primary": "I'm just saying",
+    "japanese": "気分（きぶん）屋（や）なんだ。／感情（かんじょう）の起伏（きふく）が激（はげ）しい。"
+  },
+  {
+    "id": 24,
+    "primary": "I'm very moody",
+    "japanese": "調子（ちょうし）が悪（わる）い。／また始まった（はじまった）。"
+  },
+  {
+    "id": 25,
+    "primary": "Acting up.",
+    "japanese": "それは不便（ふべん）だね。／面倒（めんどう）くさい。"
+  },
+  {
+    "id": 26,
+    "primary": "That's really inconvenient",
+    "japanese": "人生（じんせい）を謳歌（おうか）する。／精一杯（せいいっぱい）生（い）きる。"
+  },
+  {
+    "id": 27,
+    "primary": "Live life to the fullest",
+    "japanese": "食（た）べすぎて動（うご）けない。／食（く）い倒（だお）れ。"
+  },
+  {
+    "id": 28,
+    "primary": "In a food a coma",
+    "japanese": "いいプランだね。／それでいこう。"
+  },
+  {
+    "id": 29,
+    "primary": "Sounds like a plan.",
+    "japanese": "一過（いっか）性（せい）の反応（はんのう）じゃない。／慎重（しんちょう）に考（かんが）えたんだ。"
+  },
+  {
+    "id": 30,
+    "primary": "This is not a knee-jerk reaction.",
+    "japanese": "適当（てきとう）にやってるわけじゃない。／本気（ほんき）だよ."
+  },
+  {
+    "id": 31,
+    "primary": "Its not going through the motions",
+    "japanese": "本気（ほんき）だよ。／冗談（じょうだん）じゃない。"
+  },
+  {
+    "id": 32,
+    "primary": "I mean business",
+    "japanese": "夕食（ゆうしょく）どう？／一緒（いっしょ）に食（た）べる？"
+  },
+  {
+    "id": 33,
+    "primary": "Are you up for the dinner?",
+    "japanese": "夕食（ゆうしょく）どう？／一緒（いっしょ）に食（た）べる？"
+  },
+  {
+    "id": 34,
+    "primary": "I wish I could.",
+    "japanese": "そうしたいのは山々（やまやま）だけど。／残念（ざんねん）ながら。"
+  },
+  {
+    "id": 35,
+    "primary": "Significant others",
+    "japanese": "大切（たいせつ）なパートナー。／相棒（あいぼう）。"
+  },
+  {
+    "id": 36,
+    "primary": "Sure thing",
+    "japanese": "もちろんだよ。／了解（りょうかい）。"
+  },
+  {
+    "id": 37,
+    "primary": "I got you",
+    "japanese": "任（まか）せて。／分（わ）かった。"
+  },
+  {
+    "id": 38,
+    "primary": "Here you are",
+    "japanese": "はい、どうぞ。／ここにあります。"
+  },
+  {
+    "id": 39,
+    "primary": "Applaud",
+    "japanese": "拍手（はくしゅ）。／称賛（しょうさん）する。"
+  },
+  {
+    "id": 40,
+    "primary": "Read my lips",
+    "japanese": "よーく聞（き）いて。／はっきり言（い）うよ。"
+  },
+  {
+    "id": 41,
+    "primary": "Im and young at heart",
+    "japanese": "気（き）持（も）ちは若（わか）い。／心（こころ）は青春（せいしゅん）。"
+  },
+  {
+    "id": 42,
+    "primary": "Go south",
+    "japanese": "悪（わる）くなる。／ダメになる。"
+  },
+  {
+    "id": 43,
+    "primary": "Cat got your tongue?",
+    "japanese": "どうしたの？／黙（だま）り込（こ）んじゃって。"
+  },
+  {
+    "id": 44,
+    "primary": "I cant shake yhe feeling",
+    "japanese": "この嫌（いや）な予感（よかん）が消（き）えない。／胸（むね）騒（ざわ）ぎがする。"
+  },
+  {
+    "id": 45,
+    "primary": "I highly recommend it",
+    "japanese": "超（ちょう）おすすめ。／激（げき）推（お）し。"
+  },
+  {
+    "id": 46,
+    "primary": "Put your cell phone on silent",
+    "japanese": "携帯（けいたい）はマナーモードに。／静（しず）かにして。"
+  },
+  {
+    "id": 47,
+    "primary": "The buck stop here",
+    "japanese": "責任（せきにん）は私（わたし）が取（と）る。／ここが最後（さいご）だ。"
+  },
+  {
+    "id": 48,
+    "primary": "My book is solid",
+    "japanese": "予約（よやく）がいっぱい。／動（うご）けない。"
+  },
+  {
+    "id": 49,
+    "primary": "My schedule is solid today",
+    "japanese": "今日（きょう）は予定（よてい）が詰（つ）まってる。／余裕（よゆう）がない。"
+  },
+  {
+    "id": 50,
+    "primary": "I was booked solid",
+    "japanese": "予定（よてい）が一杯（いっぱい）だった。／多忙（たぼう）だった。"
+  },
+  {
+    "id": 51,
+    "primary": "neighborhood friend",
+    "japanese": "ご近所（きんじょ）付（づ）き合（あ）いの友達（ともだち）。／近（ちか）くの友人（ゆうじん）。"
+  },
+  {
+    "id": 52,
+    "primary": "I'm young at heart",
+    "japanese": "心（こころ）はいつまでも若（わか）い。／若（わか）々（わか）しい。"
+  },
+  {
+    "id": 53,
+    "primary": "Fire away",
+    "japanese": "どんどん話（はな）して。／どうぞ。"
+  },
+  {
+    "id": 54,
+    "primary": "Even a monkey can fall from a tree",
+    "japanese": "猿（さる）も木（き）から落（お）ちる。／誰（だれ）にでも失敗（しっぱい）はある。"
+  },
+  {
+    "id": 55,
+    "primary": "Pound a pavement, legwork",
+    "japanese": "足（あし）を使（つか）う仕事（しごと）。／地道（じみち）な努力（どりょく）。"
+  },
+  {
+    "id": 56,
+    "primary": "Now what?",
+    "japanese": "さあ、どうする？／次（つぎ）は何（なに）？"
+  },
+  {
+    "id": 57,
+    "primary": "Where am i from? This is our land",
+    "japanese": "ここが我（わ）が家（や）だ。／故郷（ふるさと）なんだ。"
+  },
+  {
+    "id": 58,
+    "primary": "This is bananas",
+    "japanese": "あり得（え）ない。／めちゃくちゃだ。"
+  },
+  {
+    "id": 59,
+    "primary": "Outrageous",
+    "japanese": "とんでもない。／非常識（ひじょうしき）だ。"
+  },
+  {
+    "id": 60,
+    "primary": "I will give you that",
+    "japanese": "それは認（みと）めるよ。／一理（いちり）ある。"
+  },
+  {
+    "id": 61,
+    "primary": "I got carried away with works",
+    "japanese": "仕事（しごと）に夢中（むちゅう）だった。／没頭（ぼっとう）していた。"
+  },
+  {
+    "id": 62,
+    "primary": "I could use some coffee",
+    "japanese": "コーヒーを入（い）れたいな。／飲（の）みたいな。"
+  },
+  {
+    "id": 63,
+    "primary": "My brain is fried",
+    "japanese": "頭（あたま）がパンクした。／疲（つか）れ果（は）てた。"
+  },
+  {
+    "id": 64,
+    "primary": "Why bother?",
+    "japanese": "わざわざどうして？／無駄（むだ）だよ。"
+  },
+  {
+    "id": 65,
+    "primary": "Unwind",
+    "japanese": "リラックスする。／くつろぐ。"
+  },
+  {
+    "id": 66,
+    "primary": "Guess what?",
+    "japanese": "当（あ）ててみて。／なんだと思（おも）う？"
+  },
+  {
+    "id": 67,
+    "primary": "Beforehand",
+    "japanese": "事前（じぜん）に。／あらかじめ。"
+  },
+  {
+    "id": 68,
+    "primary": "Come across too strong",
+    "japanese": "押（お）しが強（つよ）すぎる。／威圧（いあつ）的（てき）だ。"
+  },
+  {
+    "id": 69,
+    "primary": "Blown away",
+    "japanese": "圧倒（あっとう）された。／感動（かんどう）した。"
+  },
+  {
+    "id": 70,
+    "primary": "I have been a pain lately",
+    "japanese": "最近（さいきん）厄介（やっかい）者（もの）だったね。／迷惑（めいわく）かけた。"
+  },
+  {
+    "id": 71,
+    "primary": "Go through",
+    "japanese": "目（め）を通（とお）す。／経（へ）る。"
+  },
+  {
+    "id": 72,
+    "primary": "It goes without saying",
+    "japanese": "言（い）うまでもない。／当然（とうぜん）だ。"
+  },
+  {
+    "id": 73,
+    "primary": "I like the fact that",
+    "japanese": "〜という点（てん）が好（す）きだ。／いいと思（おモ）う。"
+  },
+  {
+    "id": 74,
+    "primary": "No matter what",
+    "japanese": "何（なに）があっても。／どうしても。"
+  },
+  {
+    "id": 75,
+    "primary": "Given my experience",
+    "japanese": "経験（けいけん）から言（い）えば。／私（わたし）が見（み）てきた限（かぎ）り。"
+  },
+  {
+    "id": 76,
+    "primary": "Eat my word",
+    "japanese": "前言（ぜんげん）を撤回（てっかい）する。／悪（わる）かった。"
+  },
+  {
+    "id": 77,
+    "primary": "Live up to my expectation",
+    "japanese": "期待（きたい）に応（こた）える。／満足（まんぞく）させる。"
+  },
+  {
+    "id": 78,
+    "primary": "Moreish",
+    "japanese": "食（た）べだしたら止（と）まらない。／病（や）みつきになる。"
+  },
+  {
+    "id": 79,
+    "primary": "I never stood a chance",
+    "japanese": "最初（さいしょ）から勝ち（かち）目（め）はなかった。／勝負（しょうぶ）にならなかった。"
+  },
+  {
+    "id": 80,
+    "primary": "I guess i should have seen it coming",
+    "japanese": "こうなることは分（わ）かっていたはずだ。／予想（よそう）できた。"
+  },
+  {
+    "id": 81,
+    "primary": "How are you feeling today?",
+    "japanese": "今日（きょう）の気分（きぶん）はどう？／調子（ちょうし）はどうだい？"
+  },
+  {
+    "id": 82,
+    "primary": "Tick off at",
+    "japanese": "〜に腹（はら）が立（た）つ。／イラつかせる。"
+  },
+  {
+    "id": 83,
+    "primary": "Vet",
+    "japanese": "精査（せいさ）する。／確（たし）かめる。"
+  },
+  {
+    "id": 84,
+    "primary": "What's the catch?",
+    "japanese": "裏（うら）に何（なに）かあるの？／落（お）とし穴（あな）は？"
+  },
+  {
+    "id": 85,
+    "primary": "You don't need to get me anything",
+    "japanese": "手ぶらで来（き）て。／気（き）を使（つか）わないで。"
+  },
+  {
+    "id": 86,
+    "primary": "I'm currently getting treatment for my shoulder",
+    "japanese": "肩（かた）の治療（ちりょう）を受（う）けている。／リハビリ中（ちゅう）だ。"
+  },
+  {
+    "id": 87,
+    "primary": "Crown of the head",
+    "japanese": "頭（あたま）のてっぺん。／正（しょう）頭（とう）部（ぶ）。"
+  },
+  {
+    "id": 88,
+    "primary": "Im so torn",
+    "japanese": "迷（まよ）っている。／板（いた）挟（ばさ）みだ。"
+  },
+  {
+    "id": 89,
+    "primary": "In limbo",
+    "japanese": "宙（ちゅう）ぶらりんな状態（じょうたい）。／不安定（ふあんてい）だ。"
+  },
+  {
+    "id": 90,
+    "primary": "He is legit",
+    "japanese": "本物（ほんもの）だ。／信頼（しんらい）できる。"
+  },
+  {
+    "id": 91,
+    "primary": "He is a catch",
+    "japanese": "すごいいい男（おとこ）。／逃（に）してはいけない人（ひと）。"
+  },
+  {
+    "id": 92,
+    "primary": "Don't get bent out of shape",
+    "japanese": "へそを曲（ま）げないで。／怒（おこ）らないで。"
+  },
+  {
+    "id": 93,
+    "primary": "I don't regret that much",
+    "japanese": "そんなに後悔（こうかい）していない。／前（まえ）を向（む）いている。"
+  },
+  {
+    "id": 94,
+    "primary": "midlife crisis",
+    "japanese": "中（ちゅう）年（ねん）の危機（きき）。／人生（じんせい）の曲（ま）がり角（かど）。"
+  },
+  {
+    "id": 95,
+    "primary": "Don't be so dramatic",
+    "japanese": "大（おお）げさにしないで。／騒（さわ）ぎすぎ。"
+  },
+  {
+    "id": 96,
+    "primary": "Don't cry me a river",
+    "japanese": "泣（な）き言（ごと）を言（い）わないで。／甘（あま）えるな。"
+  },
+  {
+    "id": 97,
+    "primary": "I am at loss for words",
+    "japanese": "言葉（ことば）を失（うしな）う。／呆然（ぼうぜん）とする。"
+  },
+  {
+    "id": 98,
+    "primary": "Did you catch on that?",
+    "japanese": "気づい（きづい）た？／分か（わか）った？"
+  },
+  {
+    "id": 99,
+    "primary": "Social cues",
+    "japanese": "空気（くうき）を読（よ）む。／社会的（しゃかいてき）合図（あいず）。"
+  },
+  {
+    "id": 100,
+    "primary": "Did you pick upon that?",
+    "japanese": "気づい（きづい）た？／感じ取っ（かんじとっ）た？"
+  },
+  {
+    "id": 101,
+    "primary": "Did you hear Mark's new job offer?",
+    "japanese": "マークのオファー、聞（き）いた？／転職（てんしょく）するんだって。"
+  },
+  {
+    "id": 102,
+    "primary": "Benefits package",
+    "japanese": "福利（ふくり）厚生（こうせい）。／待遇（たいぐう）パッケージ。"
+  },
+  {
+    "id": 103,
+    "primary": "hard to say",
+    "japanese": "何（なん）とも言（い）えない。／判断（はんだん）が難（むずか）しい。"
+  },
+  {
+    "id": 104,
+    "primary": "If you are in my shoes",
+    "japanese": "もしあなたが私（わたし）の立場（たちば）なら。／私（わたし）になって考（かんが）えてみて。"
+  },
+  {
+    "id": 105,
+    "primary": "This must come first",
+    "japanese": "これが最（さい）優先（ゆうせん）だ。／まずこれから。"
+  },
+  {
+    "id": 106,
+    "primary": "Does it ring a bell?",
+    "japanese": "ピンとくる？／聞き（き）覚（おぼ）えがある？"
+  },
+  {
+    "id": 107,
+    "primary": "It is long overdue",
+    "japanese": "やっとだね。／もっと早（はや）くすべきだった。"
+  },
+  {
+    "id": 108,
+    "primary": "Heyday",
+    "japanese": "全盛（ぜんせい）期（き）。／一番（いちばん）輝（かがや）いていた頃（ころ）。"
+  },
+  {
+    "id": 109,
+    "primary": "No apologies necessary",
+    "japanese": "謝（あやま）らなくていいよ。／気（き）にしないで。"
+  },
+  {
+    "id": 110,
+    "primary": "Grow up",
+    "japanese": "大人（おとな）になれよ。／しっかりしろ。"
+  },
+  {
+    "id": 111,
+    "primary": "He is usually on top of responses",
+    "japanese": "返信（へんしん）が早（はや）い。／レスポンスがいい。"
+  },
+  {
+    "id": 112,
+    "primary": "Benefit of doubts",
+    "japanese": "善意（ぜんい）に解釈（かいしゃく）する。／信（しん）じてみる。"
+  },
+  {
+    "id": 113,
+    "primary": "Take your mind off",
+    "japanese": "気（き）分（ぶん）転換（てんかん）する。／忘（わす）れさせる。"
+  },
+  {
+    "id": 114,
+    "primary": "Put yourself into my shoe",
+    "japanese": "私（わたし）の立場（たちば）になってみて。／代（か）わってみてよ。"
+  },
+  {
+    "id": 115,
+    "primary": "Keep a low profile",
+    "japanese": "目（め）立（だ）たないようにする。／低（ひく）い姿勢（しせい）を保（たも）つ。"
+  },
+  {
+    "id": 116,
+    "primary": "You should focus on what you should do",
+    "japanese": "自分（じぶん）のことに集中（しゅうちゅう）しろ。／余計（よけい）なことはするな。"
+  },
+  {
+    "id": 117,
+    "primary": "Been there, done that",
+    "japanese": "経験（けいけん）済（ず）みだよ。／分（わ）かってる。"
+  },
+  {
+    "id": 118,
+    "primary": "For the craic",
+    "japanese": "楽（たの）しみのために。／面白（おもしろ）半分（はんぶん）で。"
+  },
+  {
+    "id": 119,
+    "primary": "Thingamajig",
+    "japanese": "あれ、何（なん）だっけ。／例（れい）のブツ。"
+  },
+  {
+    "id": 120,
+    "primary": "Walk me through",
+    "japanese": "順（じゅん）を追（お）って説明（せつめい）して。／ガイドして。"
+  },
+  {
+    "id": 121,
+    "primary": "Turn over",
+    "japanese": "ひっくり返（かえ）す。／引き（ひき）渡（わた）す。"
+  },
+  {
+    "id": 122,
+    "primary": "Keep at it",
+    "japanese": "そのまま続けて（つづけて）。／頑張（がんば）って。"
+  },
+  {
+    "id": 123,
+    "primary": "I got my hair done",
+    "japanese": "髪（かみ）を切（き）った。／ヘアスタイルを変（か）えた。"
+  },
+  {
+    "id": 124,
+    "primary": "Its been a minute",
+    "japanese": "久し（ひさし）ぶり。／しばらく会（あ）ってなかったね。"
+  },
+  {
+    "id": 125,
+    "primary": "Its been ages",
+    "japanese": "何（なん）年（ねん）ぶりだろう。／本当（ほんとう）に久し（ひさし）ぶり。"
+  },
+  {
+    "id": 126,
+    "primary": "Let someone down",
+    "japanese": "がっかりさせる。／失望（しつぼう）させる。"
+  },
+  {
+    "id": 127,
+    "primary": "you skipped too much, don't forget I am going to punish you if you ignore what I said",
+    "japanese": "サボりすぎだよ。／言（い）うことを聞（き）け。"
+  },
+  {
+    "id": 128,
+    "primary": "Set this position to \"&&&now&&&&\"",
+    "japanese": "ここを「今（いま）」に設定（せってい）して。／現在（げんざい）時刻（じこく）。"
+  },
+  {
+    "id": 129,
+    "primary": "Sort out",
+    "japanese": "片付（かたづ）ける。／解決（かいけつ）する。"
+  },
+  {
+    "id": 130,
+    "primary": "Take my mind off things",
+    "japanese": "忘（わす）れさせてくれる。／気（き）晴（は）らしになる。"
+  },
+  {
+    "id": 131,
+    "primary": "You went over my head",
+    "japanese": "私（わたし）を飛（と）び越（こ）えて。／上（うえ）に報告（ほうこく）したね。"
+  },
+  {
+    "id": 132,
+    "primary": "Over my head",
+    "japanese": "私（わたし）には難（むずか）しすぎる。／理解（りかい）不能（ふのう）だ。"
+  },
+  {
+    "id": 133,
+    "primary": "Tied or even",
+    "japanese": "引き分け（ひきわけ）。／お互（たが）い様（さま）。"
+  },
+  {
+    "id": 134,
+    "primary": "Even Steven",
+    "japanese": "きっかり。／計算（けいさん）通（どお）り。"
+  },
+  {
+    "id": 135,
+    "primary": "Lay it on me",
+    "japanese": "全部（ぜんぶ）言（い）って。／話（はな）して。"
+  },
+  {
+    "id": 136,
+    "primary": "Ring me up",
+    "japanese": "お会計（かいけい）して。／打（う）って。"
+  },
+  {
+    "id": 137,
+    "primary": "Out of our league",
+    "japanese": "高嶺（たかね）の花（はな）。／私（わたし）たちには無理（むり）だ。"
+  },
+  {
+    "id": 138,
+    "primary": "I have mental breakdown",
+    "japanese": "パニック。／メンタルがおかしくなる。"
+  },
+  {
+    "id": 139,
+    "primary": "Procrastinate",
+    "japanese": "先延ばし（さきのばし）にする。／ぐずぐずする。"
+  },
+  {
+    "id": 140,
+    "primary": "Its been on mind",
+    "japanese": "ずっと気（き）になっていた。／頭（あたま）から離（はな）れない。"
+  },
+  {
+    "id": 141,
+    "primary": "Weigh the pros and cons",
+    "japanese": "善（ぜん）し悪（あ）しを考（かんが）える。／比較（ひかえつ）する。"
+  },
+  {
+    "id": 142,
+    "primary": "Get things back on track",
+    "japanese": "軌道（きどう）に戻（もど）す。／やり直（なお）す。"
+  },
+  {
+    "id": 143,
+    "primary": "What's eating you",
+    "japanese": "どうしたの？／何（なに）に悩（なや）んでいるの？"
+  },
+  {
+    "id": 144,
+    "primary": "Give her a big hand",
+    "japanese": "彼女（かのじょ）に盛大（せいだい）な拍手（はくしゅ）を。／称賛（しょうさん）しよう。"
+  },
+  {
+    "id": 145,
+    "primary": "How’s it going?",
+    "japanese": "調子（ちょうし）はどう？／元気（げんき）？"
+  },
+  {
+    "id": 146,
+    "primary": "I’m down for that",
+    "japanese": "賛成（さんせい）。／喜（よろこ）んで。"
+  },
+  {
+    "id": 147,
+    "primary": "I can’t make it",
+    "japanese": "行（い）けない。／都合（つごう）が悪（わる）い。"
+  },
+  {
+    "id": 148,
+    "primary": "Blessing in disguise",
+    "japanese": "不幸（ふこう）中（ちゅう）の幸（さいわ）い。／結果（けっか）オーライ。"
+  },
+  {
+    "id": 149,
+    "primary": "I’ll take a rain check",
+    "japanese": "また今度（こんど）にして。／延期（えんき）しよう。"
+  },
+  {
+    "id": 150,
+    "primary": "It’s up to you",
+    "japanese": "あなた次第（しだい）だ。／任（まか）せるよ。"
+  },
+  {
+    "id": 151,
+    "primary": "When is boarding?",
+    "japanese": "搭乗（とうじょう）は何（なん）時（じ）からですか？／いつから乗（の）れますか？"
+  },
+  {
+    "id": 152,
+    "primary": "Is the flight on time?",
+    "japanese": "予定（よてい）通（どお）りですか？／遅（おく）れはないですか？"
+  },
+  {
+    "id": 153,
+    "primary": "Can I get a window seat?",
+    "japanese": "いい考え（かんがえ）があるよ。／こうしよう。"
+  },
+  {
+    "id": 154,
+    "primary": "How long is the flight?",
+    "japanese": "よろしければ。／お好（この）みなら。"
+  },
+  {
+    "id": 155,
+    "primary": "Where is the nearest restroom?",
+    "japanese": "ある意味（いみ）では。／見方（みかた）によっては。"
+  },
+  {
+    "id": 156,
+    "primary": "I'm waiting to board",
+    "japanese": "いくつかの点（てん）で。／部分（ぶぶん）的（てき）には。"
+  },
+  {
+    "id": 157,
+    "primary": "What did you do last weekend?",
+    "japanese": "言い換えれば（いいかえれば）。／つまり。"
+  },
+  {
+    "id": 158,
+    "primary": "Charge it to my room",
+    "japanese": "すなわち。／要（よう）するに。"
+  },
+  {
+    "id": 159,
+    "primary": "On the fence",
+    "japanese": "いわば。／例（たと）えて言（い）えば。"
+  },
+  {
+    "id": 160,
+    "primary": "Put it on my card",
+    "japanese": "厳密（げんみつ）に言（い）えば。／正確（せいかく）には。"
+  },
+  {
+    "id": 161,
+    "primary": "Put it on my room",
+    "japanese": "実（じつ）は。／実際（じっさい）のところ。"
+  },
+  {
+    "id": 162,
+    "primary": "Roomy",
+    "japanese": "そういえば。／考（かんが）えてみると。"
+  },
+  {
+    "id": 163,
+    "primary": "You have great taste",
+    "japanese": "回想（かいそう）すると。／あの時（とき）を思（おも）い出（だ）すと。"
+  },
+  {
+    "id": 164,
+    "primary": "Impeccable",
+    "japanese": "振り返って（ふりかえって）みると。／過去（かこ）を想（おも）う。"
+  },
+  {
+    "id": 165,
+    "primary": "May I be excused?",
+    "japanese": "やっぱり。／考（かんが）え直（なお）すと。"
+  },
+  {
+    "id": 166,
+    "primary": "In the clouds",
+    "japanese": "総合（そうごう）的（てき）に判断（はんだん）すると。／全（ぜん）体（たい）を通（とお）して。"
+  },
+  {
+    "id": 167,
+    "primary": "Dodge a bullet",
+    "japanese": "あらゆる要素（ようそ）を考慮（こうりょ）して。／全（ぜん）部（ぶ）含（ふく）めて。"
+  },
+  {
+    "id": 168,
+    "primary": "Cramming",
+    "japanese": "結局（けっきょく）のところ。／最後（さいご）には。"
+  },
+  {
+    "id": 169,
+    "primary": "Way to go",
+    "japanese": "最後（さいご）の最後（さいご）には。／詰（つ）まるところ。"
+  },
+  {
+    "id": 170,
+    "primary": "Get wasted",
+    "japanese": "私（わたし）に言（い）わせれば。／私（わたし）としては。"
+  },
+  {
+    "id": 171,
+    "primary": "Dibs",
+    "japanese": "私（わたし）の意見（いけん）では。／私（わたし）の考（かんが）え。"
+  },
+  {
+    "id": 172,
+    "primary": "I'll sit in the front",
+    "japanese": "私（わたし）の知（し）る限（かぎ）り。／知（し）っていること。"
+  },
+  {
+    "id": 173,
+    "primary": "Shotgun",
+    "japanese": "私（わたし）が把握（はあく）している範囲（はんい）では。／わかっているのは。"
+  },
+  {
+    "id": 174,
+    "primary": "Hit the jackpot",
+    "japanese": "知（し）り得（え）る限（かぎ）り。／おそらく。"
+  },
+  {
+    "id": 175,
+    "primary": "My eyes were bigger than my stomach",
+    "japanese": "間違っ（まちがっ）ていたら指摘（してき）して。／正（ただ）してほしいんだけど。"
+  },
+  {
+    "id": 176,
+    "primary": "I have too much on my plate",
+    "japanese": "もし勘違（かんちが）いでなければ。／正（ただ）しければ。"
+  },
+  {
+    "id": 177,
+    "primary": "Let's hit it",
+    "japanese": "間違っ（まちがっ）ているかもしれないけど。／自信（じしん）はないけど。"
+  },
+  {
+    "id": 178,
+    "primary": "Let's dish",
+    "japanese": "そんな予感（よかん）がする。／気（き）がする。"
+  },
+  {
+    "id": 179,
+    "primary": "Throw someone under the bus",
+    "japanese": "私（わたし）の推測（すいそく）では。／たぶん。"
+  },
+  {
+    "id": 180,
+    "primary": "Under my belt",
+    "japanese": "十中八九（じゅっちゅうはっく）。／おそらく。"
+  },
+  {
+    "id": 181,
+    "primary": "Stop being nosy",
+    "japanese": "高（たか）い確率（かくりつ）で。／まず間違（まちが）いなく。"
+  },
+  {
+    "id": 182,
+    "primary": "I could listen to this all day",
+    "japanese": "十中八九（じゅっちゅうはっく）。／まず大体（だいたい）。"
+  },
+  {
+    "id": 183,
+    "primary": "Hear me out",
+    "japanese": "かなり見込（みこ）みがある。／いい線（せん）いってる。"
+  },
+  {
+    "id": 184,
+    "primary": "Super yummy",
+    "japanese": "まず間違（まちが）いない。／確実（かくじつ）だ。"
+  },
+  {
+    "id": 185,
+    "primary": "No one",
+    "japanese": "驚（おどろ）かないよ。／あり得（え）る話（はなし）だ。"
+  },
+  {
+    "id": 186,
+    "primary": "Just out of curiosity",
+    "japanese": "驚（おどろ）くには当たらない（あたらない）。／当然（とうぜん）だ。"
+  },
+  {
+    "id": 187,
+    "primary": "Here it is",
+    "japanese": "道理（どうり）で。／なるほど。"
+  },
+  {
+    "id": 188,
+    "primary": "It's worth every bite",
+    "japanese": "不思議（ふしぎ）ではない。／わずかな驚（おどろ）きもない。"
+  },
+  {
+    "id": 189,
+    "primary": "It's worth every cent",
+    "japanese": "間違い（まちがい）なく。／疑（うたが）いようがない。"
+  },
+  {
+    "id": 190,
+    "primary": "Knockoff",
+    "japanese": "疑（うたが）いもなく。／絶対（ぜったい）に。"
+  },
+  {
+    "id": 191,
+    "primary": "Get a load of this",
+    "japanese": "一片（いっぺん）の疑（うたが）いもない。／完璧（かんぺき）だ。"
+  },
+  {
+    "id": 192,
+    "primary": "Cut the crap",
+    "japanese": "勘違（かんちが）いしないで。／はっきりさせておくよ。"
+  },
+  {
+    "id": 193,
+    "primary": "Deal-breaker",
+    "japanese": "それはそれとして。／たとえそうであっても。"
+  },
+  {
+    "id": 194,
+    "primary": "It's down to you",
+    "japanese": "そうは言（い）っても。／とはいえ。"
+  },
+  {
+    "id": 195,
+    "primary": "I'm game",
+    "japanese": "と言（い）うものの。／前（まえ）の言葉（ことば）を受（う）けて。"
+  },
+  {
+    "id": 196,
+    "primary": "I taught myself",
+    "japanese": "それでも。／やはり。"
+  },
+  {
+    "id": 197,
+    "primary": "Whatever it takes",
+    "japanese": "それでもやはり。／同様（どうよう）に。"
+  },
+  {
+    "id": 198,
+    "primary": "I've been tanning all week",
+    "japanese": "全く（まったく）同（おな）じだ。／変（か）わらない。"
+  },
+  {
+    "id": 199,
+    "primary": "Couch potato",
+    "japanese": "それにもかかわらず。／全（ぜん）てを考慮（こうりょ）しても。"
+  },
+  {
+    "id": 200,
+    "primary": "Don't let it get to you",
+    "japanese": "それにもかかわらず。／依然（いぜん）として。"
+  },
+  {
+    "id": 201,
+    "primary": "Find yourself in",
+    "japanese": "対照（たいしょう）的（てき）に。／逆（ぎゃく）に。"
+  },
+  {
+    "id": 202,
+    "primary": "Skim through",
+    "japanese": "逆（ぎゃく）に。／あべこべに。"
+  },
+  {
+    "id": 203,
+    "primary": "So be it",
+    "japanese": "その反面（はんめん）。／一方で（いっぽうで）。"
+  },
+  {
+    "id": 204,
+    "primary": "Made for each other",
+    "japanese": "それどころか。／むしろ。"
+  },
+  {
+    "id": 205,
+    "primary": "Well begun is half done",
+    "japanese": "〜とは違っ（ちがっ）て。／似（に）ていない。"
+  },
+  {
+    "id": 206,
+    "primary": "Butter someone up",
+    "japanese": "〜に反対（はんたい）して。／対立（たいりつ）して。"
+  },
+  {
+    "id": 207,
+    "primary": "Taken in by the ad",
+    "japanese": "〜というよりは。／むしろ。"
+  },
+  {
+    "id": 208,
+    "primary": "By any chance",
+    "japanese": "〜の代わりに（かわりに）。／〜ではなく。"
+  },
+  {
+    "id": 209,
+    "primary": "I have a weak stomach",
+    "japanese": "あるいは。／代案（だいあん）としては。"
+  },
+  {
+    "id": 210,
+    "primary": "Down it",
+    "japanese": "さもなければ。／別（べつ）の方法（ほうほう）で。"
+  },
+  {
+    "id": 211,
+    "primary": "Don't rub it in",
+    "japanese": "〜はさておき。／〜を除（のぞ）いて。"
+  },
+  {
+    "id": 212,
+    "primary": "He has feelings for you",
+    "japanese": "〜は別（べつ）として。／離（はな）れて。"
+  },
+  {
+    "id": 213,
+    "primary": "Fall for",
+    "japanese": "〜を除（のぞ）いては。／以外（いがい）は。"
+  },
+  {
+    "id": 214,
+    "primary": "Iffy",
+    "japanese": "〜を超（こ）えて。／〜の先（さき）に。"
+  },
+  {
+    "id": 215,
+    "primary": "Behold",
+    "japanese": "〜以外（いがい）の。／〜を除（のぞ）く。"
+  },
+  {
+    "id": 216,
+    "primary": "Dean's list",
+    "japanese": "〜に加えて（くわえて）。／さらに。"
+  },
+  {
+    "id": 217,
+    "primary": "Don't try to pull a fast one",
+    "japanese": "〜と一緒に（いっしょに）。／〜を伴っ（ともなっ）て。"
+  },
+  {
+    "id": 218,
+    "primary": "Got pranked",
+    "japanese": "〜と共に（ともに）。／一緒（いっしょ）に。"
+  },
+  {
+    "id": 219,
+    "primary": "Step on it",
+    "japanese": "〜と相（あい）まって。／〜と結（むす）びついて。"
+  },
+  {
+    "id": 220,
+    "primary": "Gold digger",
+    "japanese": "言うまでもなく（いうまでもなく）。／さらには。"
+  },
+  {
+    "id": 221,
+    "primary": "You're all talk",
+    "japanese": "〜について言（い）えば。／〜は言うまでもなし（いうまでもなし）。"
+  },
+  {
+    "id": 222,
+    "primary": "I go along with that",
+    "japanese": "ましてや。／〜どころか。"
+  },
+  {
+    "id": 223,
+    "primary": "My hands are full",
+    "japanese": "同様（どうよう）に。／〜もまた。"
+  },
+  {
+    "id": 224,
+    "primary": "Fender bender",
+    "japanese": "さらに。／その上（うえ）。"
+  },
+  {
+    "id": 225,
+    "primary": "I can’t afford to slack off",
+    "japanese": "さらに。／また。"
+  },
+  {
+    "id": 226,
+    "primary": "Play it by ear",
+    "japanese": "なお。／さらに言（い）えば。"
+  },
+  {
+    "id": 227,
+    "primary": "Takes one to know one",
+    "japanese": "プラス。／おまけに。"
+  },
+  {
+    "id": 228,
+    "primary": "By word of mouth",
+    "japanese": "また。／同様（どうよう）に。"
+  },
+  {
+    "id": 229,
+    "primary": "I feel nauseous",
+    "japanese": "同様（どうよう）に。／同（おな）じように。"
+  },
+  {
+    "id": 230,
+    "primary": "Catch my breath",
+    "japanese": "似（に）たように。／同様（どうよう）に。"
+  },
+  {
+    "id": 231,
+    "primary": "Breaking in new shoes",
+    "japanese": "同様（どうよう）の理由（りゆう）で。／同（おな）じく。"
+  },
+  {
+    "id": 232,
+    "primary": "Take your mind off anything",
+    "japanese": "同じ（おなじ）やり方（かた）で。／同（おな）じように。"
+  },
+  {
+    "id": 233,
+    "primary": "Give the cold shoulder",
+    "japanese": "例えば（たとえば）。／例（れい）を挙げ（あげ）れば。"
+  },
+  {
+    "id": 234,
+    "primary": "None taken",
+    "japanese": "例（れい）を挙（あ）げると。／例えば（たとえば）。"
+  },
+  {
+    "id": 235,
+    "primary": "Should've thought that through",
+    "japanese": "〜といった。／例えば（たとえば）〜など。"
+  },
+  {
+    "id": 236,
+    "primary": "I don’t want to pry",
+    "japanese": "〜を含（ふく）む。／〜など。"
+  },
+  {
+    "id": 237,
+    "primary": "Pull a Tom Sawyer",
+    "japanese": "すなわち。／つまり。"
+  },
+  {
+    "id": 238,
+    "primary": "Nothing to lose",
+    "japanese": "特（とく）に。／とりわけ。"
+  },
+  {
+    "id": 239,
+    "primary": "Eyes are bigger than your stomach",
+    "japanese": "特（とく）に。／著（いちじる）しく。"
+  },
+  {
+    "id": 240,
+    "primary": "Talk is cheap",
+    "japanese": "具体（ぐたい）的（てき）には。／明確（めいかく）に言（い）えば。"
+  },
+  {
+    "id": 241,
+    "primary": "The whole package",
+    "japanese": "具体（ぐたい）的（てき）に言（い）うと。／はっきり言（い）えば。"
+  },
+  {
+    "id": 242,
+    "primary": "Follow your gut",
+    "japanese": "好（こう）例（れい）。／典型（てんけい）的（てき）な例（れい）。"
+  },
+  {
+    "id": 243,
+    "primary": "My heart is fluttering",
+    "japanese": "例示（れいじ）として。／説明（せつめい）すると。"
+  },
+  {
+    "id": 244,
+    "primary": "Feelings fade",
+    "japanese": "例えば（たとえば）〜してみて。／一例（いちれい）を挙げ（あげ）る。"
+  },
+  {
+    "id": 245,
+    "primary": "Stop rubbing it in",
+    "japanese": "〜などを含（ふく）むが、これらに限定（げんてい）されない。／幅広（はばひろ）い。"
+  },
+  {
+    "id": 246,
+    "primary": "It just goes to show",
+    "japanese": "特（とく）に。／格別（かくべつ）に。"
+  },
+  {
+    "id": 247,
+    "primary": "Mind over matter",
+    "japanese": "主（おも）に。／とりわけ。"
+  },
+  {
+    "id": 248,
+    "primary": "Bounce ideas off you",
+    "japanese": "主（おも）に。／大半（たいはん）は。"
+  },
+  {
+    "id": 249,
+    "primary": "Sense of belonging",
+    "japanese": "主（おも）に。／第一（だいいち）に。"
+  },
+  {
+    "id": 250,
+    "primary": "Pamper myself",
+    "japanese": "ほとんど。／大体（だいたい）。"
+  },
+  {
+    "id": 251,
+    "primary": "Indulge myself",
+    "japanese": "ともかく。／いずれにしても。"
+  },
+  {
+    "id": 252,
+    "primary": "It's too shabby",
+    "japanese": "どっちにしろ。／どんな場合（ばあい）でも。"
+  },
+  {
+    "id": 253,
+    "primary": "Not too shabby",
+    "japanese": "どうであれ。／事情（じじょう）がどうなろうと。"
+  },
+  {
+    "id": 254,
+    "primary": "It sounds corny",
+    "japanese": "何（なに）が何（なん）でも。／是（ぜ）が非（ひ）でも。"
+  },
+  {
+    "id": 255,
+    "primary": "It might sound obvious",
+    "japanese": "〜に関（かか）わらず。／不問（ふもん）にして。"
+  },
+  {
+    "id": 256,
+    "primary": "Look who's talking",
+    "japanese": "とにかく。／何（なん）とかして。"
+  },
+  {
+    "id": 257,
+    "primary": "Pressed for time",
+    "japanese": "とにかく。／それより。"
+  },
+  {
+    "id": 258,
+    "primary": "Matter of time",
+    "japanese": "ところで。／ついでに言（い）えば。"
+  },
+  {
+    "id": 259,
+    "primary": "The clock is ticking",
+    "japanese": "ついでながら。／ちなみに。"
+  },
+  {
+    "id": 260,
+    "primary": "Your best bet",
+    "japanese": "話（はなし）は変わり（かわり）ますが。／別（べつ）の視点（してん）で。"
+  },
+  {
+    "id": 261,
+    "primary": "I'm not myself today",
+    "japanese": "話題（わだい）を変え（かえ）て。／話（はなし）をそらして。"
+  },
+  {
+    "id": 262,
+    "primary": "Get it together",
+    "japanese": "そう言（い）えば。／それに関（かん）して。"
+  },
+  {
+    "id": 263,
+    "primary": "Come back down to earth",
+    "japanese": "思い出し（おもいだし）ているうちに。／忘れ（わすれ）ないうちに。"
+  },
+  {
+    "id": 264,
+    "primary": "Deadlines are looming",
+    "japanese": "忘れ（わすれ）ないうちに。／とりあえず言（い）っておくよ。"
+  },
+  {
+    "id": 265,
+    "primary": "Juggling a lot",
+    "japanese": "補足（ほそく）ですが。／余談（よだん）ですが。"
+  },
+  {
+    "id": 266,
+    "primary": "Outdoorsy",
+    "japanese": "（括弧（かっこ）書き（がき）的に）／ちなみに。"
+  },
+  {
+    "id": 267,
+    "primary": "Catch my drift?",
+    "japanese": "補足（ほそく）として。／ついでに。"
+  },
+  {
+    "id": 268,
+    "primary": "Family function",
+    "japanese": "話（はなし）が逸れ（それ）ますが。／脱線（だっせん）して。"
+  },
+  {
+    "id": 269,
+    "primary": "Scoot over",
+    "japanese": "本題（ほんだい）に戻る（もどる）と。／要（よう）するに。"
+  },
+  {
+    "id": 270,
+    "primary": "Keep it together",
+    "japanese": "本題（ほんだい）に戻っ（もどっ）て。／やり直（なお）して。"
+  },
+  {
+    "id": 271,
+    "primary": "Keep your cool",
+    "japanese": "とにかく、さっきの続き（つづき）だけど。／話（はなし）を戻（もど）すと。"
+  },
+  {
+    "id": 272,
+    "primary": "It's beautiful out",
+    "japanese": "話（はなし）を戻（もど）すけど。／さっき言（い）った通（どお）り。"
+  },
+  {
+    "id": 273,
+    "primary": "Don't flatter yourself",
+    "japanese": "再開（さいかい）する。／続き（つづき）から。"
+  },
+  {
+    "id": 274,
+    "primary": "Stop pestering me",
+    "japanese": "中断（ちゅうだん）したところから始（はじ）める。／続き（つづき）を。"
+  },
+  {
+    "id": 275,
+    "primary": "Knock yourself out",
+    "japanese": "どこまで話（はな）したっけ？／何（なに）言（い）ってた？"
+  },
+  {
+    "id": 276,
+    "primary": "Run it by you",
+    "japanese": "前（まえ）に言（い）ったように。／さっき触（ふ）れた通（どお）り。"
+  },
+  {
+    "id": 277,
+    "primary": "Drafting",
+    "japanese": "既（すで）に述（の）べた通（どお）り。／前述（ぜんじゅつ）のよう。"
+  },
+  {
+    "id": 278,
+    "primary": "Same difference",
+    "japanese": "前（まえ）にも言（い）った通（どお）り。／私（わたし）が言（い）ったように。"
+  },
+  {
+    "id": 279,
+    "primary": "Don't make a scene",
+    "japanese": "上（うえ）に書い（かい）た通（どお）り。／記述（きじゅつ）の通（どお）り。"
+  },
+  {
+    "id": 280,
+    "primary": "Don’t take it out on me",
+    "japanese": "繰り（くり）返（かえ）しになるけど。／もう一度（いちど）言（い）うよ。"
+  },
+  {
+    "id": 281,
+    "primary": "So petty",
+    "japanese": "結論（けつろん）として。／最後（さいご）に。"
+  },
+  {
+    "id": 282,
+    "primary": "Good things are coming",
+    "japanese": "締めくくり（しめくくり）に。／最後（さいご）に言（い）えば。"
+  },
+  {
+    "id": 283,
+    "primary": "You're killing it",
+    "japanese": "要約（ようやく）すると。／まとめると。"
+  },
+  {
+    "id": 284,
+    "primary": "You crushed it",
+    "japanese": "要約（ようやく）すると。／手短（てみじか）に言（い）えば。"
+  },
+  {
+    "id": 285,
+    "primary": "Mind-blowing",
+    "japanese": "まとめると。／締め（しめ）に。"
+  },
+  {
+    "id": 286,
+    "primary": "Doormat",
+    "japanese": "手短（てみじか）に言（い）うと。／簡潔（かんけつ）に。"
+  },
+  {
+    "id": 287,
+    "primary": "Caught me off guard",
+    "japanese": "手短（てみじか）に。／要点（ようてん）だけ言（い）うと。"
+  },
+  {
+    "id": 288,
+    "primary": "Ex-wife",
+    "japanese": "要（よう）するに。／ひと言（こと）で言（い）えば。"
+  },
+  {
+    "id": 289,
+    "primary": "I still have a long way to go",
+    "japanese": "かいつまんで言（い）うと。／手短（てみじか）な話（はなし）。"
+  },
+  {
+    "id": 290,
+    "primary": "Long way to go",
+    "japanese": "基本（きほん）的（てき）には。／要（よう）は。"
+  },
+  {
+    "id": 291,
+    "primary": "Listen to yourself",
+    "japanese": "全体（ぜんたい）的（てき）に。／総括（そうかつ）して。"
+  },
+  {
+    "id": 292,
+    "primary": "Face the music",
+    "japanese": "一般（いっぱん）的（てき）に言（い）えば。／概（おおむ）ね。"
+  },
+  {
+    "id": 293,
+    "primary": "I can't even",
+    "japanese": "概（おおむ）ね。／全（ぜん）般（ぱん）的（てき）に。"
+  },
+  {
+    "id": 294,
+    "primary": "Autumn blues",
+    "japanese": "大部分（だいぶぶん）は。／ほとんどの場合（ばあい）。"
+  },
+  {
+    "id": 295,
+    "primary": "Delulu is the solulu",
+    "japanese": "全（ぜん）体（たい）を通（とお）して。／概（おおむ）ね。"
+  },
+  {
+    "id": 296,
+    "primary": "Bring it on",
+    "japanese": "一般（いっぱん）に。／世（よ）間（けん）一般（いっぱん）では。"
+  },
+  {
+    "id": 297,
+    "primary": "Out of the question",
+    "japanese": "全体（ぜんたい）一丸（いちがん）となって。／ひとまとめに。"
+  },
+  {
+    "id": 298,
+    "primary": "Touch grass",
+    "japanese": "結局（けっきょく）。／色々（いろいろ）あったけど。"
+  },
+  {
+    "id": 299,
+    "primary": "Fake it 'til you make it",
+    "japanese": "締めくくる（しめくくる）と。／まとめとして。"
+  },
+  {
+    "id": 300,
+    "primary": "Sipping on coffee",
+    "japanese": "最後（さいご）に。／いよいよ。"
+  },
+  {
+    "id": 301,
+    "primary": "Cut me dead",
+    "japanese": "要約（ようやく）すると。／まとめ。"
+  },
+  {
+    "id": 302,
+    "primary": "Take ones to know one",
+    "japanese": "手短（てみじか）に。／簡単に（かんたんに）。"
+  },
+  {
+    "id": 303,
+    "primary": "Don't kill the vibe",
+    "japanese": "手短（てみじか）に言（い）えば。／簡潔（かんけつ）に。"
+  },
+  {
+    "id": 304,
+    "primary": "Have you lost weight?",
+    "japanese": "詰（つ）まるところ。／単刀直入（たんとうちょくにゅう）に。"
+  },
+  {
+    "id": 305,
+    "primary": "It's too greasy",
+    "japanese": "話（はなし）を端折（はしょ）って言（い）うと。／手短（てみじか）に言（い）えば。"
+  },
+  {
+    "id": 306,
+    "primary": "We bonded so quickly",
+    "japanese": "基本（きほん）的（てき）には。／大体（だいたい）。"
+  },
+  {
+    "id": 307,
+    "primary": "I called in sick",
+    "japanese": "全体（ぜんたい）的（てき）な印象（いんしょう）として。／総じて（そうじて）。"
+  },
+  {
+    "id": 308,
+    "primary": "Cut back",
+    "japanese": "一般的（いっぱんてき）に言（い）えば。／概（おおむ）ね。"
+  },
+  {
+    "id": 309,
+    "primary": "Sneak out of",
+    "japanese": "全（ぜん）般（ぱん）的（てき）に。／概（おおむ）ね。"
+  },
+  {
+    "id": 310,
+    "primary": "Set someone up with",
+    "japanese": "大部分（だいぶぶん）は。／ほとんどは。"
+  },
+  {
+    "id": 311,
+    "primary": "Here we go again",
+    "japanese": "全体（ぜんたい）を通（とお）して。／概（おおむ）ね。"
+  },
+  {
+    "id": 312,
+    "primary": "I don't want to twist your arm",
+    "japanese": "一般（いっぱん）に。／世（よ）間（けん）並（な）み。"
+  },
+  {
+    "id": 313,
+    "primary": "That’s rich coming from you",
+    "japanese": "全体（ぜんたい）として。／ひとまとまり。"
+  },
+  {
+    "id": 314,
+    "primary": "Now we're talking",
+    "japanese": "結局（けっきょく）。／総合（そうごう）的（てき）に。"
+  },
+  {
+    "id": 315,
+    "primary": "Don't count your chickens before they hatch",
+    "japanese": "締めくくり（しめくくり）に。／最後（さいご）に。"
+  },
+  {
+    "id": 316,
+    "primary": "How do you like it?",
+    "japanese": "最後（さいご）に。／ついに。"
+  },
+  {
+    "id": 317,
+    "primary": "Throw a party",
+    "japanese": "まず初めに（はじめに）。／第一（だいいち）に。"
+  },
+  {
+    "id": 318,
+    "primary": "Don't read too much into it",
+    "japanese": "まずはここから。／手始め（てはじめ）に。"
+  },
+  {
+    "id": 319,
+    "primary": "It doesn't hurt to ask",
+    "japanese": "最初（さいしょ）は。／暫定的（ざんていてき）に。"
+  },
+  {
+    "id": 320,
+    "primary": "It cracks me up",
+    "japanese": "何（なに）よりまず。／最（さい）優先（ゆうせん）。"
+  },
+  {
+    "id": 321,
+    "primary": "I'd rather not",
+    "japanese": "まずは。／口開（くちあ）けに。"
+  },
+  {
+    "id": 322,
+    "primary": "Picky",
+    "japanese": "真っ先に（まっさきに）。／そもそも。"
+  },
+  {
+    "id": 323,
+    "primary": "I care about you",
+    "japanese": "手始め（てはじめ）に。／導入（どうにゅう）として。"
+  },
+  {
+    "id": 324,
+    "primary": "Don’t get your hopes up",
+    "japanese": "第一（だいいち）に。／まず。"
+  },
+  {
+    "id": 325,
+    "primary": "Handful",
+    "japanese": "第二（だいに）に。／次（つぎ）に。"
+  },
+  {
+    "id": 326,
+    "primary": "How shall I put it?",
+    "japanese": "第三（だいさん）に。／さらに。"
+  },
+  {
+    "id": 327,
+    "primary": "Put my dog down",
+    "japanese": "次（つぎ）に。／続い（つづい）て。"
+  },
+  {
+    "id": 328,
+    "primary": "Kiss up, kick down",
+    "japanese": "その後（ご）。／それから。"
+  },
+  {
+    "id": 329,
+    "primary": "White elephant",
+    "japanese": "その後（ご）。／結果（けっか）として。"
+  },
+  {
+    "id": 330,
+    "primary": "Crispy on the outside, tender on the inside",
+    "japanese": "事後（じご）に。／後々（のちのち）。"
+  },
+  {
+    "id": 331,
+    "primary": "He came out of nowhere",
+    "japanese": "後で（あとで）。／いずれ。"
+  },
+  {
+    "id": 332,
+    "primary": "Scarlet",
+    "japanese": "それに続い（つづい）て。／二の足（にのあし）。"
+  },
+  {
+    "id": 333,
+    "primary": "Catch me up",
+    "japanese": "その後（ご）。／次（つぎ）は。"
+  },
+  {
+    "id": 334,
+    "primary": "I got mugged",
+    "japanese": "その間（あいだ）に。／一方で（いっぽうで）。"
+  },
+  {
+    "id": 335,
+    "primary": "Don’t get me wrong / hear me out",
+    "japanese": "同時（どうじ）に。／合わせ（あわせ）て。"
+  },
+  {
+    "id": 336,
+    "primary": "Iconic",
+    "japanese": "一斉（いっせい）に。／同時（どうじ）並行（へいこう）で。"
+  },
+  {
+    "id": 337,
+    "primary": "Drafty",
+    "japanese": "当座（とうざ）の間（あいだ）。／暫定（ざんてい）的（てき）に。"
+  },
+  {
+    "id": 338,
+    "primary": "Masseur / Masseuse",
+    "japanese": "同時（どうじ）に行（おこな）われる。／並行（へいこう）して。"
+  },
+  {
+    "id": 339,
+    "primary": "It's frustrating",
+    "japanese": "同時（どうじ）に。／一斉（いっせい）に。"
+  },
+  {
+    "id": 340,
+    "primary": "Low-key",
+    "japanese": "現（げん）段階（だんかい）では。／ここに来（き）て。"
+  },
+  {
+    "id": 341,
+    "primary": "Don't stand out",
+    "japanese": "あの時（とき）。／その昔（むかし）。"
+  },
+  {
+    "id": 342,
+    "primary": "Safe haven",
+    "japanese": "当時（とうじ）。／その時（とき）。"
+  },
+  {
+    "id": 343,
+    "primary": "Don't be so extra",
+    "japanese": "古（ふる）き良（よ）き時代（じだい）。／当（とう）時（じ）。"
+  },
+  {
+    "id": 344,
+    "primary": "I feel drained",
+    "japanese": "以前（いぜん）は。／かつては。"
+  },
+  {
+    "id": 345,
+    "primary": "Serves you right",
+    "japanese": "以前（いぜん）に。／前（まえ）もって。"
+  },
+  {
+    "id": 346,
+    "primary": "I’m up for it / I’m down",
+    "japanese": "早い（はやい）段階（だんかい）で。／さっき。"
+  },
+  {
+    "id": 347,
+    "primary": "That's a bummer",
+    "japanese": "今（いま）まで。／ここまでは。"
+  },
+  {
+    "id": 348,
+    "primary": "She's got a big mouth",
+    "japanese": "これまでのところ。／今（いま）のところ。"
+  },
+  {
+    "id": 349,
+    "primary": "Ham-fisted",
+    "japanese": "これまでは。／今（いま）に至（いた）るまで。"
+  },
+  {
+    "id": 350,
+    "primary": "One thing led to another",
+    "japanese": "まだ。／現（げん）時点（じてん）では。"
+  },
+  {
+    "id": 351,
+    "primary": "What on earth are you doing?",
+    "japanese": "これからは。／今（いま）後（ご）。"
+  },
+  {
+    "id": 352,
+    "primary": "Soak up the sun",
+    "japanese": "以後（いご）。／これからずっと。"
+  },
+  {
+    "id": 353,
+    "primary": "I caught him red-handed",
+    "japanese": "今後（こんご）。／これ以降（いこう）。"
+  },
+  {
+    "id": 354,
+    "primary": "I can't resist a draft beer on a hot day like this",
+    "japanese": "将来（しょうらい）。／これからの時代（じだい）。"
+  },
+  {
+    "id": 355,
+    "primary": "How about you?",
+    "japanese": "いずれ。／結局（けっきょく）は。"
+  },
+  {
+    "id": 356,
+    "primary": "That's what I need",
+    "japanese": "究極（きゅうきょく）的（てき）には。／最後（さいご）には。"
+  },
+  {
+    "id": 357,
+    "primary": "life stages and transitions",
+    "japanese": "すぐに。／間もなく（まもなく）。"
+  },
+  {
+    "id": 358,
+    "primary": "Suck up",
+    "japanese": "手短（てみじか）に。／すぐに。"
+  },
+  {
+    "id": 359,
+    "primary": "Good husband material",
+    "japanese": "そのうち。／近（ちか）いうちに。"
+  },
+  {
+    "id": 360,
+    "primary": "I mix things up",
+    "japanese": "今（いま）すぐ。／一瞬（いっしゅん）で。"
+  },
+  {
+    "id": 361,
+    "primary": "It's growing on me",
+    "japanese": "しばらくしたら。／後で（あとで）。"
+  },
+  {
+    "id": 362,
+    "primary": "Who would've thought?",
+    "japanese": "今（いま）にも。／すぐそこ。"
+  },
+  {
+    "id": 363,
+    "primary": "Artful Dodger",
+    "japanese": "迅速（じんそく）に。／即座（そくざ）に。"
+  },
+  {
+    "id": 364,
+    "primary": "Captivating",
+    "japanese": "即座（そくざ）に。／直ちに（ただちに）。"
+  },
+  {
+    "id": 365,
+    "primary": "BFF",
+    "japanese": "一斉（いっせい）に。／すぐ。"
+  },
+  {
+    "id": 366,
+    "primary": "Stab in the back",
+    "japanese": "今（いま）すぐ。／即座（そくざ）に。"
+  },
+  {
+    "id": 367,
+    "primary": "Take a stab at",
+    "japanese": "直ちに（ただちに）。／真っ（まっ）すぐ。"
+  },
+  {
+    "id": 368,
+    "primary": "That’s my thing not yours",
+    "japanese": "瞬時（しゅんじ）に。／即座（そくざ）に。"
+  },
+  {
+    "id": 369,
+    "primary": "Went ghost",
+    "japanese": "遅滞（ちたい）なく。／すぐに。"
+  },
+  {
+    "id": 370,
+    "primary": "Without a doubt",
+    "japanese": "やがて。／そのうち。"
+  },
+  {
+    "id": 371,
+    "primary": "Apparently",
+    "japanese": "間に合っ（まにあっ）て。／やがて。"
+  },
+  {
+    "id": 372,
+    "primary": "On my own",
+    "japanese": "不意に（ふいに）。／出し抜け（だしぬけ）に。"
+  },
+  {
+    "id": 373,
+    "primary": "Dumpster fire",
+    "japanese": "急（きゅう）に。／突如（とつじょ）。"
+  },
+  {
+    "id": 374,
+    "primary": "Chaperone",
+    "japanese": "藪（やぶ）から棒（ぼう）に。／いきなり。"
+  },
+  {
+    "id": 375,
+    "primary": "Break free",
+    "japanese": "心当（こころあ）たりなく。／意外（いがい）にも。"
+  },
+  {
+    "id": 376,
+    "primary": "Sounds very rehearsed",
+    "japanese": "ぶっきらぼうに。／急（きゅう）に。"
+  },
+  {
+    "id": 377,
+    "primary": "Severance pay",
+    "japanese": "徐々（じょじょ）に。／段階（だんかい）的（てき）に。"
+  },
+  {
+    "id": 378,
+    "primary": "Cry me a river",
+    "japanese": "一（いち）歩（ぽ）一（いち）歩（ぽ）。／着実（ちゃくじつ）に。"
+  },
+  {
+    "id": 379,
+    "primary": "Don’t play dumb / innocent",
+    "japanese": "少し（すこし）ずつ。／徐々（じょじょ）に。"
+  },
+  {
+    "id": 380,
+    "primary": "Low profile",
+    "japanese": "少し（すこし）ずつ。／断片（だんぺん）的（てき）に。"
+  },
+  {
+    "id": 381,
+    "primary": "The noodles are soggy",
+    "japanese": "じわじわと。／少し（すこし）ずつ。"
+  },
+  {
+    "id": 382,
+    "primary": "I won an award at the art contest",
+    "japanese": "時（とき）が経つ（たつ）につれて。／月日（つきひ）とともに。"
+  },
+  {
+    "id": 383,
+    "primary": "Apple of my eye",
+    "japanese": "着実（ちゃくじつ）に。／絶（た）えず。"
+  },
+  {
+    "id": 384,
+    "primary": "My leg fell asleep",
+    "japanese": "絶（た）えず。／いつも。"
+  },
+  {
+    "id": 385,
+    "primary": "I didn't pick it",
+    "japanese": "継続（けいぞく）的（てき）に。／ぶっ通（とお）しで。"
+  },
+  {
+    "id": 386,
+    "primary": "I have a lot on my plate",
+    "japanese": "永遠（えいえん）に。／絶（た）えることなく。"
+  },
+  {
+    "id": 387,
+    "primary": "We'll start from there",
+    "japanese": "ひっきりなしに。／絶（た）え間（ま）なく。"
+  },
+  {
+    "id": 388,
+    "primary": "Your fly is open",
+    "japanese": "定期的（ていきてき）に。／規則（きそく）的（てき）に。"
+  },
+  {
+    "id": 389,
+    "primary": "Pizza doesn't judge",
+    "japanese": "周期（しゅうき）的（てき）に。／節目（ふしめ）ごとに。"
+  },
+  {
+    "id": 390,
+    "primary": "I better be off",
+    "japanese": "頻繁（ひんぱん）に。／しょっちゅう。"
+  },
+  {
+    "id": 391,
+    "primary": "You can't just leave",
+    "japanese": "よく。／しばしば。"
+  },
+  {
+    "id": 392,
+    "primary": "Think it through",
+    "japanese": "時々（ときどき）。／たまに。"
+  },
+  {
+    "id": 393,
+    "primary": "Little did I know",
+    "japanese": "いつか。／ある時（とき）。"
+  },
+  {
+    "id": 394,
+    "primary": "Post-credit scene",
+    "japanese": "たまに。／時々（ときどき）。"
+  },
+  {
+    "id": 395,
+    "primary": "Intact",
+    "japanese": "折（おり）りに触（ふ）れて。／たまに。"
+  },
+  {
+    "id": 396,
+    "primary": "That's so random",
+    "japanese": "ちょくちょく。／たまに。"
+  },
+  {
+    "id": 397,
+    "primary": "Newlyweds",
+    "japanese": "ごくたまに。／忘（わす）れた頃（ころ）に。"
+  },
+  {
+    "id": 398,
+    "primary": "Left-wing",
+    "japanese": "めったに〜ない。／稀（まれ）だ。"
+  },
+  {
+    "id": 399,
+    "primary": "Technically speaking",
+    "japanese": "稀（まれ）に。／珍（めずら）しい。"
+  },
+  {
+    "id": 400,
+    "primary": "I hate to admit it",
+    "japanese": "ほとんど〜ない。／かろうじて。"
+  },
+  {
+    "id": 401,
+    "primary": "Off you go",
+    "japanese": "ほとんど〜ない。／およそ〜ない。"
+  },
+  {
+    "id": 402,
+    "primary": "Why couldn't I bring myself to say it?",
+    "japanese": "滅多に（めったに）〜ない。／稀（まれ）にしか〜ない。"
+  },
+  {
+    "id": 403,
+    "primary": "Eat your fill",
+    "japanese": "かろうじて。／やっと。"
+  },
+  {
+    "id": 404,
+    "primary": "Touch and go",
+    "japanese": "ただ〜だけ。／ちょうど。"
+  },
+  {
+    "id": 405,
+    "primary": "I felt so troubled",
+    "japanese": "ほとんど〜ない。／僅か（わずか）に。"
+  },
+  {
+    "id": 406,
+    "primary": "Say what? I'm lost",
+    "japanese": "決して（けっして）〜ない。／一度（いちど）も〜ない。"
+  },
+  {
+    "id": 407,
+    "primary": "I wish",
+    "japanese": "どうしても〜ない。／決して（けっして）そうではない。"
+  },
+  {
+    "id": 408,
+    "primary": "Not happening",
+    "japanese": "どんな理由（りゆう）があっても〜ない。／断固（だんこ）拒否（きょひ）。"
+  },
+  {
+    "id": 409,
+    "primary": "Pregame",
+    "japanese": "いかなる点（てん）でも〜ない。／全く（まったく）ない。"
+  },
+  {
+    "id": 410,
+    "primary": "Born and raised",
+    "japanese": "全く（まったく）〜ない。／少し（すこし）も〜ない。"
+  },
+  {
+    "id": 411,
+    "primary": "Music to my ears",
+    "japanese": "微塵（みじん）も〜ない。／ちっとも。"
+  },
+  {
+    "id": 412,
+    "primary": "Cut to the chase / get to the point",
+    "japanese": "それどころか。／程（ほど）遠（とお）い。"
+  },
+  {
+    "id": 413,
+    "primary": "I'm running 20 minutes late",
+    "japanese": "冗談（じょうだん）じゃない。／無理（むり）だ。"
+  },
+  {
+    "id": 414,
+    "primary": "Get busted",
+    "japanese": "どんな状況（じょうきょう）でも〜ない。／絶対（ぜったい）禁止（きんし）。"
+  },
+  {
+    "id": 415,
+    "primary": "Walk me through that day",
+    "japanese": "命（いのち）に代（か）えても〜ない。／断（ことわ）る。"
+  },
+  {
+    "id": 416,
+    "primary": "What's the angle?",
+    "japanese": "絶対（ぜったい）に〜ない。／断言（だんげん）する。"
+  },
+  {
+    "id": 417,
+    "primary": "Snapped",
+    "japanese": "断固（だんこ）として拒否（きょひ）。／全然（ぜんぜん）だめ。"
+  },
+  {
+    "id": 418,
+    "primary": "Accomplice",
+    "japanese": "見込（みこ）みなし。／可能性（かのうせい）ゼロ。"
+  },
+  {
+    "id": 419,
+    "primary": "Visit someone",
+    "japanese": "論外（ろんがい）だ。／話し（はなし）にならない。"
+  },
+  {
+    "id": 420,
+    "primary": "I don't have it on me",
+    "japanese": "残念（ざんねん）ながら〜ない。／期待（きたい）に沿（そ）えない。"
+  },
+  {
+    "id": 421,
+    "primary": "The line starts back there",
+    "japanese": "そうは思（おも）わない。／否定的（ひていてき）だ。"
+  },
+  {
+    "id": 422,
+    "primary": "Sever",
+    "japanese": "疑（うたが）わしい。／怪（あや）しいな。"
+  },
+  {
+    "id": 423,
+    "primary": "Go big or go home",
+    "japanese": "私（わたし）が知（し）る限（かぎ）りではない。／聞（き）いてないな。"
+  },
+  {
+    "id": 424,
+    "primary": "I was rash",
+    "japanese": "心当（こころあ）たりがない。／知（し）らない。"
+  },
+  {
+    "id": 425,
+    "primary": "You seem gaunt",
+    "japanese": "いや、特（とく）に。／そうでもないよ。"
+  },
+  {
+    "id": 426,
+    "primary": "Sing like a canary",
+    "japanese": "そうとは言（い）い切（き）れない。／言い過ぎ（いいすぎ）だ。"
+  },
+  {
+    "id": 427,
+    "primary": "Eat someone out of house and home",
+    "japanese": "全然（ぜんぜん）違う（ちがう）。／かけ離（はな）れている。"
+  },
+  {
+    "id": 428,
+    "primary": "Eating him up inside",
+    "japanese": "正反対（せいはんたい）だ。／逆（ぎゃく）だよ。"
+  },
+  {
+    "id": 429,
+    "primary": "It figures",
+    "japanese": "〜以外（いがい）なら何（なに）でも。／決して（けっして）〜ではない。"
+  },
+  {
+    "id": 430,
+    "primary": "Curse someone out",
+    "japanese": "概（おおむ）ね。／全（ぜん）般（ぱん）的（てき）に。"
+  },
+  {
+    "id": 431,
+    "primary": "One way or the other",
+    "japanese": "一般（いっぱん）的（てき）に言（い）えば。／通常（つうじょう）。"
+  },
+  {
+    "id": 432,
+    "primary": "Twists and turns",
+    "japanese": "全体（ぜんたい）を通（とお）して見（み）れば。／概（おおむ）ね。"
+  },
+  {
+    "id": 433,
+    "primary": "Reward someone handsomely",
+    "japanese": "一般（いっぱん）に。／普遍（ふへん）的（てき）に。"
+  },
+  {
+    "id": 434,
+    "primary": "Bite the bullet",
+    "japanese": "大部分（だいぶぶん）は。／ほとんど。"
+  },
+  {
+    "id": 435,
+    "primary": "At all costs",
+    "japanese": "主（おも）に。／第一（だいいち）に。"
+  },
+  {
+    "id": 436,
+    "primary": "A bolt from the blue",
+    "japanese": "ほとんど。／大半（たいはん）。"
+  },
+  {
+    "id": 437,
+    "primary": "Falling apart",
+    "japanese": "圧倒（あっとう）的（てき）に。／優勢（ゆうせい）だ。"
+  },
+  {
+    "id": 438,
+    "primary": "Think straight",
+    "japanese": "主（おも）に。／特（とく）に。"
+  },
+  {
+    "id": 439,
+    "primary": "Migraine",
+    "japanese": "主（おも）に。／根本（こんぽん）的（てき）に。"
+  },
+  {
+    "id": 440,
+    "primary": "Leave someone out",
+    "japanese": "本質（ほんしつ）的（てき）な。／実質（じっしつ）的に（てきに）。"
+  },
+  {
+    "id": 441,
+    "primary": "I wouldn't know",
+    "japanese": "根本（こんぽん）的（てき）に。／基本的（きほんてき）。"
+  },
+  {
+    "id": 442,
+    "primary": "Don't get worked up",
+    "japanese": "基本（きほん）的（てき）には。／要（よう）は。"
+  },
+  {
+    "id": 443,
+    "primary": "Will you take it to my room?",
+    "japanese": "要（よう）するに。／実質（じっしつ）的（てき）には。"
+  },
+  {
+    "id": 444,
+    "primary": "I'll have the same",
+    "japanese": "本心（ほんしん）では。／根（ね）は。"
+  },
+  {
+    "id": 445,
+    "primary": "I've been meaning to tell you",
+    "japanese": "原則（げんそく）として。／理念（りねん）的（てき）には。"
+  },
+  {
+    "id": 446,
+    "primary": "Care for another?",
+    "japanese": "理論（りろん）上（じょう）は。／理屈（りくつ）では。"
+  },
+  {
+    "id": 447,
+    "primary": "Feel for",
+    "japanese": "仮定（かてい）の話（はなし）では。／もしもの場合（ばあい）。"
+  },
+  {
+    "id": 448,
+    "primary": "How long has it been?",
+    "japanese": "厳密（げんみつ）に言（い）えば。／正確（せいかく）には。"
+  },
+  {
+    "id": 449,
+    "primary": "How have you been?",
+    "japanese": "技術（ぎじゅつ）的（てき）には。／専門（せんもん）的（てき）には。"
+  },
+  {
+    "id": 450,
+    "primary": "Outlier",
+    "japanese": "法律（ほうりつ）的（てき）には。／法（ほう）に則っ（のっとっ）て。"
+  },
+  {
+    "id": 451,
+    "primary": "I could use some",
+    "japanese": "事実（じじつ）上（じょう）。／実質（じっしつ）的（てき）には。"
+  },
+  {
+    "id": 452,
+    "primary": "Have a way with",
+    "japanese": "現実（げんじつ）的（てき）には。／ほとんど。"
+  },
+  {
+    "id": 453,
+    "primary": "You're a natural",
+    "japanese": "ほとんど。／もう少し（すこし）で。"
+  },
+  {
+    "id": 454,
+    "primary": "You have a way with words",
+    "japanese": "ほとんど。／ほぼ。"
+  },
+  {
+    "id": 455,
+    "primary": "It just came naturally to me",
+    "japanese": "〜も同然（どうぜん）だ。／ほとんど全（ぜん）て。"
+  },
+  {
+    "id": 456,
+    "primary": "Ballpark it",
+    "japanese": "多かれ（おおかれ）少なかれ（すくなかれ）。／大体（だいたい）。"
+  },
+  {
+    "id": 457,
+    "primary": "You're very disciplined",
+    "japanese": "多少（たしょう）。／やや。"
+  },
+  {
+    "id": 458,
+    "primary": "It gives me chills",
+    "japanese": "わずかに。／少し（すこし）だけ。"
+  },
+  {
+    "id": 459,
+    "primary": "I got in the habit of",
+    "japanese": "ある程度（ていど）。／ある点（てん）までは。"
+  },
+  {
+    "id": 460,
+    "primary": "Let me make it up to you",
+    "japanese": "ある程度（ていど）まで。／部分（ぶぶん）的（てき）には。"
+  },
+  {
+    "id": 461,
+    "primary": "I'm feeling under the weather",
+    "japanese": "いくらか。／ある程度（ていど）。"
+  },
+  {
+    "id": 462,
+    "primary": "Blow up",
+    "japanese": "部分（ぶぶん）的（てき）に。／不（ふ）完全（かんぜん）ながら。"
+  },
+  {
+    "id": 463,
+    "primary": "As good as it gets",
+    "japanese": "限定（げんてい）的（てき）な範囲（はんい）で。／わずかに。"
+  },
+  {
+    "id": 464,
+    "primary": "Quit cold turkey",
+    "japanese": "比例（ひれい）して。／バランスよく。"
+  },
+  {
+    "id": 465,
+    "primary": "Legit",
+    "japanese": "比較的（ひかくてき）。／相対（そうたい）的に（てきに）。"
+  },
+  {
+    "id": 466,
+    "primary": "He's no match for me",
+    "japanese": "比較（ひかく）すると。／相対（そうたい）的（てき）に。"
+  },
+  {
+    "id": 467,
+    "primary": "Easy does it",
+    "japanese": "適度（てきど）に。／控えめ（ひかえめ）に。"
+  },
+  {
+    "id": 468,
+    "primary": "Okie dokie",
+    "japanese": "合理（ごうり）的（てき）に。／それなりに。"
+  },
+  {
+    "id": 469,
+    "primary": "Meh",
+    "japanese": "かなり。／それなりに。"
+  },
+  {
+    "id": 470,
+    "primary": "It makes sense",
+    "japanese": "かなり。／相当（そうとう）に。"
+  },
+  {
+    "id": 471,
+    "primary": "The air quality is bad",
+    "japanese": "かなり。／結構（けっこう）。"
+  },
+  {
+    "id": 472,
+    "primary": "Chill guy",
+    "japanese": "むしろ。／かなりの程度（ていど）。"
+  },
+  {
+    "id": 473,
+    "primary": "This will do the trick",
+    "japanese": "とても。／非常（ひじょう）に。"
+  },
+  {
+    "id": 474,
+    "primary": "The whole shebang",
+    "japanese": "極めて（きわめて）。／極端（きょくたん）に。"
+  },
+  {
+    "id": 475,
+    "primary": "Easy peasy",
+    "japanese": "高度（こうど）に。／非常（ひじょう）に。"
+  },
+  {
+    "id": 476,
+    "primary": "Chip on his shoulder",
+    "japanese": "非常（ひじょう）に。／度（ど）を越（こ）して。"
+  },
+  {
+    "id": 477,
+    "primary": "Prickly attitude",
+    "japanese": "特（とく）に。／とりわけ。"
+  },
+  {
+    "id": 478,
+    "primary": "I get that a lot",
+    "japanese": "特（とく）に。／格別（かくべつ）に。"
+  },
+  {
+    "id": 479,
+    "primary": "Take it vertically",
+    "japanese": "異常（いじょう）に。／並（なみ）外（はず）れて。"
+  },
+  {
+    "id": 480,
+    "primary": "Troll",
+    "japanese": "例外（れいがい）的（てき）に。／非常（ひじょう）に。"
+  },
+  {
+    "id": 481,
+    "primary": "I'm freaking out",
+    "japanese": "並（なみ）外（はず）れて。／驚（おどろ）くほど。"
+  },
+  {
+    "id": 482,
+    "primary": "Is this place open today?",
+    "japanese": "注目（ちゅうもく）すべき。／素晴らしい（すばらしい）。"
+  },
+  {
+    "id": 483,
+    "primary": "Going through a phase",
+    "japanese": "驚（おどろ）くほど。／意外（いがい）にも。"
+  },
+  {
+    "id": 484,
+    "primary": "Grow out of it",
+    "japanese": "驚（おどろ）くほど。／見事（みごと）に。"
+  },
+  {
+    "id": 485,
+    "primary": "Audience",
+    "japanese": "信（しん）じられないほど。／とてつもなく。"
+  },
+  {
+    "id": 486,
+    "primary": "Leech",
+    "japanese": "ひどく。／猛烈（もうれつ）に。"
+  },
+  {
+    "id": 487,
+    "primary": "It’s freezing out!",
+    "japanese": "ひどく。／大変（たいへん）に。"
+  },
+  {
+    "id": 488,
+    "primary": "Thought provoking",
+    "japanese": "明らかに（あきらかに）。／断固（だんこ）として。"
+  },
+  {
+    "id": 489,
+    "primary": "Spill the beans or keep silent",
+    "japanese": "間違い（まちがい）なく。／確実（かくじつ）に。"
+  },
+  {
+    "id": 490,
+    "primary": "He called off the project.",
+    "japanese": "絶対（ぜったい）に。／断固（だんこ）として。"
+  },
+  {
+    "id": 491,
+    "primary": "It's my cheat day",
+    "japanese": "完全に（かんぜんに）。／全く（まったく）。"
+  },
+  {
+    "id": 492,
+    "primary": "I had trouble sleeping",
+    "japanese": "完全に（かんぜんに）。／そっくり。"
+  },
+  {
+    "id": 493,
+    "primary": "I had a blast",
+    "japanese": "全（ぜん）て。／すっかり。"
+  },
+  {
+    "id": 494,
+    "primary": "Dunno",
+    "japanese": "純粋（じゅんすい）に。／単（たん）に。"
+  },
+  {
+    "id": 495,
+    "primary": "Girls...",
+    "japanese": "丸（まる）ごと。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 496,
+    "primary": "It's on me",
+    "japanese": "徹底（てってい）的（てき）に。／漏（も）れなく。"
+  },
+  {
+    "id": 497,
+    "primary": "It's warm for November",
+    "japanese": "全く（まったく）もって。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 498,
+    "primary": "Good for the price",
+    "japanese": "絶対（ぜったい）に。／無（む）条件（じょうけん）に。"
+  },
+  {
+    "id": 499,
+    "primary": "I'm just thinking out loud",
+    "japanese": "完璧（かんぺき）に。／申し分（もうしぶん）なく。"
+  },
+  {
+    "id": 500,
+    "primary": "Don’t read into that much",
+    "japanese": "十分に（じゅうぶんに）。／全（ぜん）て。"
+  },
+  {
+    "id": 501,
+    "primary": "entertain an idea",
+    "japanese": "主（おも）に。／何（なに）よりも。"
+  },
+  {
+    "id": 502,
+    "primary": "Bang for your buck",
+    "japanese": "主（おも）に。／とりわけ。"
+  },
+  {
+    "id": 503,
+    "primary": "This build up is crazy",
+    "japanese": "大体（だいたい）は。／主要（しゅよう）な。"
+  },
+  {
+    "id": 504,
+    "primary": "It's penny for your thought",
+    "japanese": "ほとんど。／大抵（たいてい）。"
+  },
+  {
+    "id": 505,
+    "primary": "Get worked up",
+    "japanese": "主要（しゅよう）に。／主（おも）な目的（もくてき）で。"
+  },
+  {
+    "id": 506,
+    "primary": "What's the hurry?",
+    "japanese": "独占（どくせん）的（てき）に。／専用（せんよう）の。"
+  },
+  {
+    "id": 507,
+    "primary": "What's the holdup?",
+    "japanese": "〜だけ。／ただ一つの。"
+  },
+  {
+    "id": 508,
+    "primary": "You pull it off",
+    "japanese": "単独（たんどく）で。／唯一（ゆいいつ）の理由（りゆう）で。"
+  },
+  {
+    "id": 509,
+    "primary": "Could be worse",
+    "japanese": "単（たん）に。／〜にすぎない。"
+  },
+  {
+    "id": 510,
+    "primary": "Hit me with it",
+    "japanese": "ちょうど。／ただ。"
+  },
+  {
+    "id": 511,
+    "primary": "I am committed to Poland",
+    "japanese": "単純（たんじゅん）に。／簡単に（かんたんに）。"
+  },
+  {
+    "id": 512,
+    "primary": "Silver lining is",
+    "japanese": "正確（せいかく）に。／きっかり。"
+  },
+  {
+    "id": 513,
+    "primary": "I'm on a roll",
+    "japanese": "まさに。／そのまま。"
+  },
+  {
+    "id": 514,
+    "primary": "I've already incorporated your suggestions",
+    "japanese": "文字（もじ）通り（どおり）。／誇張（こちょう）なしに。"
+  },
+  {
+    "id": 515,
+    "primary": "Jerk off",
+    "japanese": "一（いち）言（ごん）一（いち）句（く）そのまま。／逐語（ちくご）的（てき）に。"
+  },
+  {
+    "id": 516,
+    "primary": "He will jerk you off",
+    "japanese": "一（いち）言（ごん）一（いち）句（く）。／逐語（ちくご）訳（やく）。"
+  },
+  {
+    "id": 517,
+    "primary": "I'm around",
+    "japanese": "忠実（ちゅうじつ）に。／規則（きそく）通り（どおり）に。"
+  },
+  {
+    "id": 518,
+    "primary": "IMO",
+    "japanese": "厳格（げんかく）に。／厳（きび）しく。"
+  },
+  {
+    "id": 519,
+    "primary": "Keep warm",
+    "japanese": "徹底（てってい）的（てき）に。／妥協（だきょう）なく。"
+  },
+  {
+    "id": 520,
+    "primary": "Refreshingly cool",
+    "japanese": "詳細（しょうさい）に。／詳しく（くわしく）。"
+  },
+  {
+    "id": 521,
+    "primary": "Step on your toes",
+    "japanese": "徹底（てってい）的（てき）に。／漏（も）れなく。"
+  },
+  {
+    "id": 522,
+    "primary": "Vertical drink",
+    "japanese": "包括（ほうかつ）的（てき）に。／総合（そうごう）的（てき）に。"
+  },
+  {
+    "id": 523,
+    "primary": "It speaks volumes",
+    "japanese": "網羅（もうら）的（てき）に。／余（よ）すところなく。"
+  },
+  {
+    "id": 524,
+    "primary": "Speak for itself",
+    "japanese": "広範（こうはん）に。／幅広（はばひろ）く。"
+  },
+  {
+    "id": 525,
+    "primary": "It was a steal",
+    "japanese": "大まかに（おおまかに）。／幅広（はばひろ）く。"
+  },
+  {
+    "id": 526,
+    "primary": "We should stock up it's a steal",
+    "japanese": "広く（ひろく）。／あちこちで。"
+  },
+  {
+    "id": 527,
+    "primary": "What's good here",
+    "japanese": "普遍（ふへん）的（てき）に。／例外（れいがい）なく。"
+  },
+  {
+    "id": 528,
+    "primary": "plot charts",
+    "japanese": "至（いた）る所（ところ）で。／どこにでも。"
+  },
+  {
+    "id": 529,
+    "primary": "install packages",
+    "japanese": "世界（せかい）的（てき）に。／地球（ちきゅう）規模（きぼ）で。"
+  },
+  {
+    "id": 530,
+    "primary": "save images",
+    "japanese": "地元（じもと）で。／局所（きょくしょ）的（てき）に。"
+  },
+  {
+    "id": 531,
+    "primary": "access images",
+    "japanese": "国内（こくない）で。／家庭（かてい）内（ない）で。"
+  },
+  {
+    "id": 532,
+    "primary": "Never even crossed my mind",
+    "japanese": "内部（ないぶ）で。／中（なか）で。"
+  },
+  {
+    "id": 533,
+    "primary": "(be) disabled",
+    "japanese": "外部（がいぶ）で。／外側（そとがわ）に。"
+  },
+  {
+    "id": 534,
+    "primary": "will not work",
+    "japanese": "公（おおやけ）に。／人前（ひとまえ）で。"
+  },
+  {
+    "id": 535,
+    "primary": "do not attempt",
+    "japanese": "ひそかに。／個人的（こじんてき）に。"
+  },
+  {
+    "id": 536,
+    "primary": "desired output format",
+    "japanese": "秘密（ひみつ）裏（り）に。／こっそりと。"
+  },
+  {
+    "id": 537,
+    "primary": "take precedence",
+    "japanese": "極秘（ごくひ）に。／内密（ないみつ）に。"
+  },
+  {
+    "id": 538,
+    "primary": "ignore (the) guidelines",
+    "japanese": "公然（こうぜん）と。／隠（かく）さずに。"
+  },
+  {
+    "id": 539,
+    "primary": "clear and logical headings",
+    "japanese": "相互（そうご）に。／お互（たが）いに。"
+  },
+  {
+    "id": 540,
+    "primary": "keep paragraphs short",
+    "japanese": "共同（きょうどう）で。／連名（れんめい）で。"
+  },
+  {
+    "id": 541,
+    "primary": "dense text blocks",
+    "japanese": "集団（しゅうだん）で。／まとめて。"
+  },
+  {
+    "id": 542,
+    "primary": "bullet points",
+    "japanese": "別々（べつべつ）に。／離（はな）れて。"
+  },
+  {
+    "id": 543,
+    "primary": "Condescending",
+    "japanese": "個々（ここ）に。／一人（ひとり）ずつ。"
+  },
+  {
+    "id": 544,
+    "primary": "numbered lists",
+    "japanese": "それぞれ。／各々（おのおの）。"
+  },
+  {
+    "id": 545,
+    "primary": "key takeaways",
+    "japanese": "連続（れんぞく）して。／次（つぎ）から次（つぎ）へと。"
+  },
+  {
+    "id": 546,
+    "primary": "grouped ideas",
+    "japanese": "交互（こうご）に。／交代（こうたい）で。"
+  },
+  {
+    "id": 547,
+    "primary": "unordered lists",
+    "japanese": "無（む）作為（さくい）に。／出（で）たらめに。"
+  },
+  {
+    "id": 548,
+    "primary": "ordered lists",
+    "japanese": "独断（どくだん）で。／勝手（かって）に。"
+  },
+  {
+    "id": 549,
+    "primary": "flow logically",
+    "japanese": "意図（いと）的（てき）に。／わざと。"
+  },
+  {
+    "id": 550,
+    "primary": "scan and understand key points quickly",
+    "japanese": "故意（こい）に。／狙（ねら）って。"
+  },
+  {
+    "id": 551,
+    "primary": "readability",
+    "japanese": "目的（もくてき）意識（いしき）を持って。／毅然（きぜん）と。"
+  },
+  {
+    "id": 552,
+    "primary": "preserve any and all citations",
+    "japanese": "わざと。／意図（いと）的に（てきに）。"
+  },
+  {
+    "id": 553,
+    "primary": "embed citations",
+    "japanese": "偶然（ぐぜん）に。／たまたま。"
+  },
+  {
+    "id": 554,
+    "primary": "Patronizing",
+    "japanese": "誤っ（あやまっ）て。／うっかり。"
+  },
+  {
+    "id": 555,
+    "primary": "at the beginning of paragraphs",
+    "japanese": "意図（いと）せず。／知（し）らず知（し）らず。"
+  },
+  {
+    "id": 556,
+    "primary": "mention the sources",
+    "japanese": "不注意（ふちゅうい）から。／うっかりと。"
+  },
+  {
+    "id": 557,
+    "primary": "in front of headers",
+    "japanese": "無意識（むいしき）に。／知（し）らずに。"
+  },
+  {
+    "id": 558,
+    "primary": "What's up?",
+    "japanese": "本能（ほんのう）的（てき）に。／直感（ちょっかん）で。"
+  },
+  {
+    "id": 559,
+    "primary": "Long time no see.",
+    "japanese": "自発（じはつ）的（てき）に。／自然（しぜん）と。"
+  },
+  {
+    "id": 560,
+    "primary": "No worries.",
+    "japanese": "自動（じどう）的（てき）に。／勝手（かって）に。"
+  },
+  {
+    "id": 561,
+    "primary": "Take your time.",
+    "japanese": "機械（きかい）的（てき）に。／無（む）機質（きしつ）に。"
+  },
+  {
+    "id": 562,
+    "primary": "I got it.",
+    "japanese": "体系（たいけい）的（てき）に。／整然（せいぜん）と。"
+  },
+  {
+    "id": 563,
+    "primary": "I'm not sure.",
+    "japanese": "几帳面（きちょうめん）に。／論理（ろんり）的（てき）に。"
+  },
+  {
+    "id": 564,
+    "primary": "Let me check.",
+    "japanese": "論理（ろんり）的（てき）に。／理屈（りくつ）で。"
+  },
+  {
+    "id": 565,
+    "primary": "Cocky",
+    "japanese": "合理的（ごうりてき）に。／冷静（れいせい）に。"
+  },
+  {
+    "id": 566,
+    "primary": "Sounds good.",
+    "japanese": "直感（ちょっかん）的（てき）に。／なんとなく。"
+  },
+  {
+    "id": 567,
+    "primary": "Hang on a sec.",
+    "japanese": "主観（しゅかん）的（てき）に。／自分（じぶん）なりに。"
+  },
+  {
+    "id": 568,
+    "primary": "I'll be right back.",
+    "japanese": "客観（きゃっかん）的（てき）に。／公平（こうへい）に。"
+  },
+  {
+    "id": 569,
+    "primary": "Gotta go.",
+    "japanese": "正式（せいしき）に。／改（あらた）まって。"
+  },
+  {
+    "id": 570,
+    "primary": "I'm on my way.",
+    "japanese": "非（ひ）公式（こうしき）に。／ざっくばらんに。"
+  },
+  {
+    "id": 571,
+    "primary": "By the way...",
+    "japanese": "公式（こうしき）に。／公（おおやけ）のものとして。"
+  },
+  {
+    "id": 572,
+    "primary": "As far as I know.",
+    "japanese": "非（ひ）公式（こうしき）に。／内密（ないみつ）に。"
+  },
+  {
+    "id": 573,
+    "primary": "I mean...",
+    "japanese": "実際（じっさい）に。／現実（げんじつ）的（てき）に。"
+  },
+  {
+    "id": 574,
+    "primary": "I guess so.",
+    "japanese": "実際（じっさい）に。／効果（こうか）的（てき）に。"
+  },
+  {
+    "id": 575,
+    "primary": "I'm fine with that.",
+    "japanese": "効率（こうりつ）的（てき）に。／無駄（むだ）なく。"
+  },
+  {
+    "id": 576,
+    "primary": "spiritual awakening (monk-like mindset)",
+    "japanese": "生産（せいさん）的（てき）に。／実り（みのり）多い（おおい）。"
+  },
+  {
+    "id": 577,
+    "primary": "Why not?",
+    "japanese": "建設（けんせつ）的（てき）に。／前（まえ）向き（むき）に。"
+  },
+  {
+    "id": 578,
+    "primary": "That's awesome!",
+    "japanese": "肯定（こうてい）的（てき）に。／積極（せっきょく）的に。"
+  },
+  {
+    "id": 579,
+    "primary": "That's too bad.",
+    "japanese": "否定（ひてい）的（てき）に。／消極（しょうきょく）的に。"
+  },
+  {
+    "id": 580,
+    "primary": "Are you kidding me?",
+    "japanese": "楽観（らっかん）的（てき）に。／能天気（のうてんき）に。"
+  },
+  {
+    "id": 581,
+    "primary": "I'm just kidding.",
+    "japanese": "悲観（ひかん）的（てき）に。／暗（くら）く考（かんが）える。"
+  },
+  {
+    "id": 582,
+    "primary": "Just in case.",
+    "japanese": "現実（げんじつ）的（てき）に。／シビアに。"
+  },
+  {
+    "id": 583,
+    "primary": "Never mind.",
+    "japanese": "正確（せいかく）に。／間違い（まちがい）なく。"
+  },
+  {
+    "id": 584,
+    "primary": "It's up to you.",
+    "japanese": "正しく（ただしく）。／適切（てきせつ）に。"
+  },
+  {
+    "id": 585,
+    "primary": "I'll pass.",
+    "japanese": "緻密（ちみつ）に。／詳細（しょうさい）に。"
+  },
+  {
+    "id": 586,
+    "primary": "It's not a big deal.",
+    "japanese": "ミスなく。／完璧（かんぺき）に。"
+  },
+  {
+    "id": 587,
+    "primary": "Better late than never",
+    "japanese": "欠点（けってん）なく。／鮮やか（あざやか）に。"
+  },
+  {
+    "id": 588,
+    "primary": "Keep in touch.",
+    "japanese": "大体（だいたい）。／大ざっぱに。"
+  },
+  {
+    "id": 589,
+    "primary": "Take it easy.",
+    "japanese": "およそ。／大凡（おおよそ）。"
+  },
+  {
+    "id": 590,
+    "primary": "It's been a while.",
+    "japanese": "大体（だいたい）。／ほぼ。"
+  },
+  {
+    "id": 591,
+    "primary": "Fingers crossed.",
+    "japanese": "〜（の）あたり。／だいたい。"
+  },
+  {
+    "id": 592,
+    "primary": "Good for you!",
+    "japanese": "〜について。／およそ。"
+  },
+  {
+    "id": 593,
+    "primary": "Lucky you.",
+    "japanese": "（年代（ねんだい）などが）およそ。／〜頃（ごろ）。"
+  },
+  {
+    "id": 594,
+    "primary": "Good to know.",
+    "japanese": "推定（すいてい）で。／推（お）し量（はか）るに。"
+  },
+  {
+    "id": 595,
+    "primary": "Thanks anyway.",
+    "japanese": "たくましく。／無骨（ぶこつ）に。"
+  },
+  {
+    "id": 596,
+    "primary": "What do you mean?",
+    "japanese": "激しく（はげしく）。／暴力（ぼうりょく）的に（てきに）。"
+  },
+  {
+    "id": 597,
+    "primary": "What are you talking about?",
+    "japanese": "猛烈（もうれつ）に。／激（はげ）しく。"
+  },
+  {
+    "id": 598,
+    "primary": "What’s the hold up?",
+    "japanese": "精力（せいりょく）的（てき）に。／力強く（ちからづよく）。"
+  },
+  {
+    "id": 599,
+    "primary": "Don't get me wrong.",
+    "japanese": "活発（かっぱつ）に。／エネルギッシュに。"
+  },
+  {
+    "id": 600,
+    "primary": "No hard feelings.",
+    "japanese": "情熱（じょうねつ）を込（こ）めて。／熱心（ねっしん）に。"
+  },
+  {
+    "id": 601,
+    "primary": "I'm not in the mood.",
+    "japanese": "熱心（ねっしん）に。／やる気（き）満々（まんまん）で。"
+  },
+  {
+    "id": 602,
+    "primary": "I can't help it.",
+    "japanese": "熱狂（ねっきょう）的に（てきに）。／熱（あつ）く。"
+  },
+  {
+    "id": 603,
+    "primary": "The more, the merrier.",
+    "japanese": "切熱（せつねつ）に。／今（いま）か今（いま）かと。"
+  },
+  {
+    "id": 604,
+    "primary": "I'll take care of it.",
+    "japanese": "喜んで（よろこんで）。／快（こころよ）く。"
+  },
+  {
+    "id": 605,
+    "primary": "I'm all ears.",
+    "japanese": "快（こころよ）く。／二（に）つ返知（へんじ）で。"
+  },
+  {
+    "id": 606,
+    "primary": "I can't wait.",
+    "japanese": "喜んで（よろこんで）。／嬉（うれ）しそうに。"
+  },
+  {
+    "id": 607,
+    "primary": "It was a close call.",
+    "japanese": "幸せ（しあわせ）に。／満足（まんぞく）そうに。"
+  },
+  {
+    "id": 608,
+    "primary": "There you go.",
+    "japanese": "喜ば（よろこば）しいことに。／嬉（うれ）しさ全開（ぜんかい）で。"
+  },
+  {
+    "id": 609,
+    "primary": "Barking up the wrong tree",
+    "japanese": "機嫌（きげん）よく。／楽し（たのし）げに。"
+  },
+  {
+    "id": 610,
+    "primary": "Here we go.",
+    "japanese": "陽気（ようき）に。／楽し（たのし）く。"
+  },
+  {
+    "id": 611,
+    "primary": "ASAP",
+    "japanese": "気楽（きらく）に。／朗（ほが）らかに。"
+  },
+  {
+    "id": 612,
+    "primary": "I have no idea.",
+    "japanese": "嬉（うれ）々（きき）として。／大（だい）喜び（よろこび）で。"
+  },
+  {
+    "id": 613,
+    "primary": "It's not my thing.",
+    "japanese": "至福（しふく）の面持ち（おももち）で。／この上（うえ）なく。"
+  },
+  {
+    "id": 614,
+    "primary": "Let's get to the point.",
+    "japanese": "心地（ここち）よく。／感じ（かんじ）よく。"
+  },
+  {
+    "id": 615,
+    "primary": "I'm running late.",
+    "japanese": "快（こころよ）く。／納得（なっとく）のいくように。"
+  },
+  {
+    "id": 616,
+    "primary": "It slipped my mind.",
+    "japanese": "満足（まんぞく）げに。／甘んじ（あまんじ）て。"
+  },
+  {
+    "id": 617,
+    "primary": "I'm starving.",
+    "japanese": "満足（まんぞく）のいくように。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 618,
+    "primary": "I'm stuffed.",
+    "japanese": "優雅（ゆうが）に。／しとやかに。"
+  },
+  {
+    "id": 619,
+    "primary": "Let's grab a bite.",
+    "japanese": "上品（じょうひん）に。／粋（いき）に。"
+  },
+  {
+    "id": 620,
+    "primary": "It’s worth the wait",
+    "japanese": "美しく（うつくしく）。／見事（みごと）に。"
+  },
+  {
+    "id": 621,
+    "primary": "Give me a break.",
+    "japanese": "華やか（はなやか）に。／立派（りっぱ）に。"
+  },
+  {
+    "id": 622,
+    "primary": "Not a chance.",
+    "japanese": "壮大（そうだい）に。／堂々（どうどう）と。"
+  },
+  {
+    "id": 623,
+    "primary": "It depends.",
+    "japanese": "盛大（せいだい）に。／立派（りっぱ）に。"
+  },
+  {
+    "id": 624,
+    "primary": "You never know.",
+    "japanese": "最高（さいこう）に。／素晴らしく（すばらしく）。"
+  },
+  {
+    "id": 625,
+    "primary": "I'll let you know.",
+    "japanese": "素晴らしく（すばらしく）。／驚（おどろ）くほど。"
+  },
+  {
+    "id": 626,
+    "primary": "Hope that helps.",
+    "japanese": "驚（おどろ）くほど素晴らしく（すばらしく）。／驚異（きょうい）的（てき）に。"
+  },
+  {
+    "id": 627,
+    "primary": "I appreciate it.",
+    "japanese": "優秀（ゆうしゅう）に。／抜きん出（ぬきんで）て。"
+  },
+  {
+    "id": 628,
+    "primary": "That's the plan.",
+    "japanese": "完璧（かんぺき）に。／理想（りそう）的（てき）に。"
+  },
+  {
+    "id": 629,
+    "primary": "Time will tell.",
+    "japanese": "非（ひ）の打ち（うち）どころなく。／鮮やか（あざやか）に。"
+  },
+  {
+    "id": 630,
+    "primary": "It's worth a try.",
+    "japanese": "申し分（もうしぶん）なく。／端正（たんせい）に。"
+  },
+  {
+    "id": 631,
+    "primary": "Whole shebang",
+    "japanese": "適切（てきせつ）に。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 632,
+    "primary": "Let's get started.",
+    "japanese": "十分（じゅうぶん）に。／余裕（よゆう）を持って。"
+  },
+  {
+    "id": 633,
+    "primary": "That reminds me...",
+    "japanese": "有能（ゆうのう）に。／そつなく。"
+  },
+  {
+    "id": 634,
+    "primary": "I'll get back to you.",
+    "japanese": "効果（こうか）的（てき）に。／有効（ゆうこう）に。"
+  },
+  {
+    "id": 635,
+    "primary": "Keep me posted.",
+    "japanese": "効率（こうりつ）的（てき）に。／手際（てぎわ）よく。"
+  },
+  {
+    "id": 636,
+    "primary": "Let me know.",
+    "japanese": "実力（じつりょく）。／能力（のうりょく）。"
+  },
+  {
+    "id": 637,
+    "primary": "No doubt about it.",
+    "japanese": "強力（きょうりょく）に。／力強く（ちからづよく）。"
+  },
+  {
+    "id": 638,
+    "primary": "LOL",
+    "japanese": "強く（つよく）。／猛烈（もうれつ）に。"
+  },
+  {
+    "id": 639,
+    "primary": "OMG",
+    "japanese": "凄まじく（すさまじく）。／力（ちから）任（まか）せに。"
+  },
+  {
+    "id": 640,
+    "primary": "BRB",
+    "japanese": "強制的（きょうせいてき）に。／力（ちから）を込め（こめ）て。"
+  },
+  {
+    "id": 641,
+    "primary": "TTYL",
+    "japanese": "強烈（きょうれつ）に。／激（はげ）しく。"
+  },
+  {
+    "id": 642,
+    "primary": "Nailed it",
+    "japanese": "厳（きび）しく。／ひどく。"
+  },
+  {
+    "id": 643,
+    "primary": "IDK",
+    "japanese": "厳（きび）しく。／辛辣（しんらつ）に。"
+  },
+  {
+    "id": 644,
+    "primary": "FYI",
+    "japanese": "雑（ざつ）に。／荒っぽく（あらっぽく）。"
+  },
+  {
+    "id": 645,
+    "primary": "My bad.",
+    "japanese": "失礼（しつれい）に。／無（む）作法（さほう）に。"
+  },
+  {
+    "id": 646,
+    "primary": "That sucks.",
+    "japanese": "丁寧（ていねい）に。／礼儀（れいぎ）正しく（ただしく）。"
+  },
+  {
+    "id": 647,
+    "primary": "Cont",
+    "japanese": "丁重（ていちょう）に。／礼儀（れいぎ）正しく（ただしく）。"
+  },
+  {
+    "id": 648,
+    "primary": "Walk in the park",
+    "japanese": "敬意（けいい）を払っ（はらっ）て。／うやうやしく。"
+  },
+  {
+    "id": 649,
+    "primary": "Same here.",
+    "japanese": "謙虚（けんきょ）に。／卑下（ひげ）して。"
+  },
+  {
+    "id": 650,
+    "primary": "All ears",
+    "japanese": "控えめ（ひかえめ）に。／気（き）どらずに。"
+  },
+  {
+    "id": 651,
+    "primary": "Chin up",
+    "japanese": "恥ずかし（はずかし）そうに。／内気（うちき）に。"
+  },
+  {
+    "id": 652,
+    "primary": "Ham-fisted, clumsy ",
+    "japanese": "おどおどと。／臆病（おくびょう）に。"
+  },
+  {
+    "id": 653,
+    "primary": "I stand by it",
+    "japanese": "恐る（おそる）恐る（おそる）。／びくびくしながら。"
+  },
+  {
+    "id": 654,
+    "primary": "Cut corners",
+    "japanese": "心配（しんぱい）そうに。／切実（せつじつ）に。"
+  },
+  {
+    "id": 655,
+    "primary": "Don’t bring it up",
+    "japanese": "緊張（きんちょう）して。／落ち着か（おちつか）ない様子（ようす）で。"
+  },
+  {
+    "id": 656,
+    "primary": "I am on the edge",
+    "japanese": "冷静（れいせい）に。／落ち着い（おちつい）て。"
+  },
+  {
+    "id": 657,
+    "primary": "Walk on the eggshell",
+    "japanese": "静か（しずか）に。／ひっそりと。"
+  },
+  {
+    "id": 658,
+    "primary": "Fizzle out",
+    "japanese": "平和（へいわ）に。／穏やか（おだやか）に。"
+  },
+  {
+    "id": 659,
+    "primary": "Drift apart",
+    "japanese": "穏やか（おだやか）に。／清らか（きよらか）に。"
+  },
+  {
+    "id": 660,
+    "primary": "You of all people",
+    "japanese": "辛抱強く（しんぼうづよく）。／じっと。"
+  },
+  {
+    "id": 661,
+    "primary": "Way ahead of you",
+    "japanese": "泰然（たいぜん）自若（じじゃく）として。／揺るぎな（ゆるぎな）く。"
+  },
+  {
+    "id": 662,
+    "primary": "What are the odds?",
+    "japanese": "毅然（きぜん）として。／決然（けつぜん）と。"
+  },
+  {
+    "id": 663,
+    "primary": "Respectful of time",
+    "japanese": "固い（かたい）決意（けつい）を持って。／断固（だんこ）として。"
+  },
+  {
+    "id": 664,
+    "primary": "Scratch that",
+    "japanese": "勇敢（ゆうかん）に。／勇ましく（いさましく）。"
+  },
+  {
+    "id": 665,
+    "primary": "Can’t take a hint",
+    "japanese": "勇気（ゆうき）を持って。／果敢（かかん）に。"
+  },
+  {
+    "id": 666,
+    "primary": "For what it’s worth",
+    "japanese": "恐れ（おそれ）を知ら（しら）ず。／大胆（だいたん）に。"
+  },
+  {
+    "id": 667,
+    "primary": "Snap at",
+    "japanese": "大胆（だいたん）に。／不敵（ふてき）に。"
+  },
+  {
+    "id": 668,
+    "primary": "Put me on the spot",
+    "japanese": "思い切っ（おもいきっ）て。／危険（きけん）を顧み（かえりみ）ず。"
+  },
+  {
+    "id": 669,
+    "primary": "Comfort food",
+    "japanese": "英雄（えいゆう）的に（てきに）。／華々しく（はなばなしく）。"
+  },
+  {
+    "id": 670,
+    "primary": "It’s on me",
+    "japanese": "勇ましく（いさましく）。／堂々（どうどう）と。"
+  },
+  {
+    "id": 671,
+    "primary": "Split the bill",
+    "japanese": "気高く（けだかく）。／崇高（すうこう）に。"
+  },
+  {
+    "id": 672,
+    "primary": "Cliquey",
+    "japanese": "優しく（やさしく）。／穏やか（おだやか）に。"
+  },
+  {
+    "id": 673,
+    "primary": "cured mackerel",
+    "japanese": "そっと。／柔らか（やわらか）に。"
+  },
+  {
+    "id": 674,
+    "primary": "Sleep in",
+    "japanese": "穏やか（おだやか）に。／控えめ（ひかえめ）に。"
+  },
+  {
+    "id": 675,
+    "primary": "Overslept",
+    "japanese": "優しく（やさしく）。／慈しみ（いつくしみ）を持って。"
+  },
+  {
+    "id": 676,
+    "primary": "Underestimate",
+    "japanese": "愛（あい）を込め（こめ）て。／深い（ふかい）愛情（あいじょう）で。"
+  },
+  {
+    "id": 677,
+    "primary": "Gullible",
+    "japanese": "慈しみ（いつくしみ）深く（ぶかく）。／懐かし（なつかし）そうに。"
+  },
+  {
+    "id": 678,
+    "primary": "Annoying, irritating, pissed off, fed up with ",
+    "japanese": "心（こころ）から。／真心（まごころ）を込め（こめ）て。"
+  },
+  {
+    "id": 679,
+    "primary": "Tick off, salty ",
+    "japanese": "心（こころ）底（そこ）から。／たっぷり。"
+  },
+  {
+    "id": 680,
+    "primary": "Sorry doesn’t cut it",
+    "japanese": "暖かく（あたたかく）。／親身（しんみ）になって。"
+  },
+  {
+    "id": 681,
+    "primary": "She's all grown up",
+    "japanese": "慈愛（じあい）に満ち（みち）て。／優しく（やさしく）。"
+  },
+  {
+    "id": 682,
+    "primary": "Take it with a grain of salt",
+    "japanese": "親しみ（したしみ）やすく。／仲良く（なかよく）。"
+  },
+  {
+    "id": 683,
+    "primary": "Thinking out loud",
+    "japanese": "親切（しんせつ）に。／思いやり（おもいやり）を持って。"
+  },
+  {
+    "id": 684,
+    "primary": "Ditto",
+    "japanese": "親切（しんせつ）に。／快（こころよ）く。"
+  },
+  {
+    "id": 685,
+    "primary": "I didn’t sign up for this",
+    "japanese": "気前（きまえ）よく。／惜しみ（おしみ）なく。"
+  },
+  {
+    "id": 686,
+    "primary": "I’m not cut out for",
+    "japanese": "寛大（かんだい）に。／太腹（ふとっぱら）に。"
+  },
+  {
+    "id": 687,
+    "primary": "What a bummer",
+    "japanese": "無欲（むよく）に。／自分（じぶん）を後回し（あとまわし）にして。"
+  },
+  {
+    "id": 688,
+    "primary": "Get on my nerve",
+    "japanese": "利他（りた）的に（てきに）。／社会（しゃかい）貢献（こうけん）の心（こころ）で。"
+  },
+  {
+    "id": 689,
+    "primary": "Give me some credit",
+    "japanese": "慈悲（じひ）深く（ぶかく）。／慈善（じぜん）のために。"
+  },
+  {
+    "id": 690,
+    "primary": "Find myself in",
+    "japanese": "感謝（かんしゃ）の気持ち（きもち）で。／有難（ありがた）く。"
+  },
+  {
+    "id": 691,
+    "primary": "If you ever feel like ~",
+    "japanese": "有難（ありがた）いことに。／感謝（かんしゃ）して。"
+  },
+  {
+    "id": 692,
+    "primary": "Keep thing on track",
+    "japanese": "ありがたく。／価値（かち）を認めて（みとめて）。"
+  },
+  {
+    "id": 693,
+    "primary": "Stop complaining / don't be so dramatic / cry me a river",
+    "japanese": "心（こころ）から。／誠実（せいじつ）に。"
+  },
+  {
+    "id": 694,
+    "primary": "I'll take the heat",
+    "japanese": "正直（しょうじき）に。／ありのままに。"
+  },
+  {
+    "id": 695,
+    "primary": "I'm stuck between A and B.",
+    "japanese": "真実（しんじつ）を告（つ）げて。／正確（せいかく）に。"
+  },
+  {
+    "id": 696,
+    "primary": "sleep on it",
+    "japanese": "遠慮（えんりょ）なく。／腹（はら）を割っ（わっ）て。"
+  },
+  {
+    "id": 697,
+    "primary": "You are quite bold / You've got some nerve",
+    "japanese": "率直（そっちょく）に。／包み隠さ（つつみかくさ）ず。"
+  },
+  {
+    "id": 698,
+    "primary": "Keep it to yourself / Keep a lid on it",
+    "japanese": "明白（めいはく）に。／ありのままに。"
+  },
+  {
+    "id": 699,
+    "primary": "If you are clued in, you'll get it / If you know, you know ",
+    "japanese": "単純（たんじゅん）に。／ありのままに。"
+  },
+  {
+    "id": 700,
+    "primary": "I'm just browsing",
+    "japanese": "謙虚（けんきょ）に。／地味（じみ）に。"
+  },
+  {
+    "id": 701,
+    "primary": "Mind your tongue / Watch your language",
+    "japanese": "大胆（だいたん）に。／不敵（ふてき）に。"
+  },
+  {
+    "id": 702,
+    "primary": "Getting cold feet",
+    "japanese": "誇らしげ（ほこらしげ）に。／堂々（どうどう）と。"
+  },
+  {
+    "id": 703,
+    "primary": "Apples and oranges",
+    "japanese": "傲慢（ごうまん）に。／横柄（おうへい）に。"
+  },
+  {
+    "id": 704,
+    "primary": "Get a life",
+    "japanese": "高飛車（たかびしゃ）に。／見下し（みくだし）て。"
+  },
+  {
+    "id": 705,
+    "primary": "Don't dwell on it / Move on / Don't linger on it",
+    "japanese": "軽蔑（けいべつ）して。／鼻（はな）であしらって。"
+  },
+  {
+    "id": 706,
+    "primary": "People never change",
+    "japanese": "あざけるように。／馬鹿（ばか）にして。"
+  },
+  {
+    "id": 707,
+    "primary": "That's my jam",
+    "japanese": "皮肉（ひにく）たっぷりに。／あてこすり。"
+  },
+  {
+    "id": 708,
+    "primary": "Live vicariously through",
+    "japanese": "皮肉（ひにく）にも。／反語（はんご）的（てき）に。"
+  },
+  {
+    "id": 709,
+    "primary": "What's the damage?",
+    "japanese": "冷笑（れいしょう）的（てき）に。／ひねくれて。"
+  },
+  {
+    "id": 710,
+    "primary": "I was born this way",
+    "japanese": "懐疑（かいぎ）的（てき）に。／疑っ（うたがっ）て。"
+  },
+  {
+    "id": 711,
+    "primary": "The bottom line is",
+    "japanese": "疑（うたが）わしげに。／不確実（ふかくじつ）に。"
+  },
+  {
+    "id": 712,
+    "primary": "Don't poke the bear",
+    "japanese": "疑わし（うたがわし）げに。／怪（あや）しんで。"
+  },
+  {
+    "id": 713,
+    "primary": "Let's see how it goes",
+    "japanese": "用心深く（ようじんぶかく）。／警戒（けいかい）して。"
+  },
+  {
+    "id": 714,
+    "primary": "No brainer",
+    "japanese": "慎重（しんちょう）に。／用心（ようじん）して。"
+  },
+  {
+    "id": 715,
+    "primary": "Come to think of it",
+    "japanese": "注意（ちゅうい）深く（ぶかく）。／丹念（たんねん）に。"
+  },
+  {
+    "id": 716,
+    "primary": "Put in a good word for me",
+    "japanese": "賢明（けんめい）に。／慎重（しんちょう）に。"
+  },
+  {
+    "id": 717,
+    "primary": "I'm wiped out",
+    "japanese": "慎み（つつしみ）深く（ぶかく）。／目立た（めだた）ないように。"
+  },
+  {
+    "id": 718,
+    "primary": "She walked all over me",
+    "japanese": "賢く（かしこく）。／知恵（ちえ）を絞（しぼ）って。"
+  },
+  {
+    "id": 719,
+    "primary": "Don't be so hard on yourself",
+    "japanese": "思慮（しりょ）深く（ぶかく）。／思いやり（おもいやり）を持って。"
+  },
+  {
+    "id": 720,
+    "primary": "He's moody when he's starving",
+    "japanese": "深く（ふかく）。／心（こころ）の底（そこ）から。"
+  },
+  {
+    "id": 721,
+    "primary": "it just popped up in my mind / It just occurred to me",
+    "japanese": "心（こころ）から深く（ふかく）。／重大（じゅうだい）に。"
+  },
+  {
+    "id": 722,
+    "primary": "Long legs run in the family",
+    "japanese": "実質（じっしつ）的（てき）に。／かなり。"
+  },
+  {
+    "id": 723,
+    "primary": "Apple doesn't fall far from the tree",
+    "japanese": "かなり。／意味深（いみしん）に。"
+  },
+  {
+    "id": 724,
+    "primary": "out of the blue",
+    "japanese": "かなり。／相当（そうとう）に。"
+  },
+  {
+    "id": 725,
+    "primary": "Once in a blue moon",
+    "japanese": "目（め）に見（み）えて。／著しく（いちじるしく）。"
+  },
+  {
+    "id": 726,
+    "primary": "He has an audacity to show up here",
+    "japanese": "著しく（いちじるしく）。／際立っ（きわだっ）て。"
+  },
+  {
+    "id": 727,
+    "primary": "that being said, be cautious ",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 728,
+    "primary": "It gives me a chill",
+    "japanese": "明らかに（あきらかに）。／当然（とうぜん）。"
+  },
+  {
+    "id": 729,
+    "primary": "You seemed a little far fetched",
+    "japanese": "明白（めいはく）に。／証拠（しょうこ）から見て。"
+  },
+  {
+    "id": 730,
+    "primary": "I'm a second away from buying that",
+    "japanese": "一目（いちもく）瞭然（りょうぜん）で。／明白（めいはく）に。"
+  },
+  {
+    "id": 731,
+    "primary": "What do you take me for?",
+    "japanese": "疑（うたが）いなく。／確実（かくじつ）に。"
+  },
+  {
+    "id": 732,
+    "primary": "I got carried away",
+    "japanese": "紛（まぎ）れもなく。／異論（いろん）の余地（よち）なく。"
+  },
+  {
+    "id": 733,
+    "primary": "I'm not big on holding things with regret.",
+    "japanese": "間違い（まちがい）なく。／絶対（ぜったい）に。"
+  },
+  {
+    "id": 734,
+    "primary": "In one ear, out the other ",
+    "japanese": "疑（うたが）う余地（よち）なく。／確信（かくしん）を持って。"
+  },
+  {
+    "id": 735,
+    "primary": "best quote",
+    "japanese": "確かに（たしかに）。／間違い（まちがい）なく。"
+  },
+  {
+    "id": 736,
+    "primary": "I wasn't born yesterday",
+    "japanese": "確かに（たしかに）。／もちろん。"
+  },
+  {
+    "id": 737,
+    "primary": "Let's take a raincheck",
+    "japanese": "実（じつ）は。／実際（じっさい）には。"
+  },
+  {
+    "id": 738,
+    "primary": "There he goes again, acting up again ",
+    "japanese": "事実（じじつ）上（じょう）。／実情（じつじょう）を言（い）えば。"
+  },
+  {
+    "id": 739,
+    "primary": "That's my two cents",
+    "japanese": "現実（げんじつ）には。／実際（じっさい）のところ。"
+  },
+  {
+    "id": 740,
+    "primary": "Hear me out, read my lips ",
+    "japanese": "実際（じっさい）に。／本当は（ほんとうは）。"
+  },
+  {
+    "id": 741,
+    "primary": "I didn't see this coming / I couldn't expect this",
+    "japanese": "本当（ほんとう）に。／全（まった）く。"
+  },
+  {
+    "id": 742,
+    "primary": "I'm still green at heart / I'm young at heart",
+    "japanese": "真実（しんじつ）。／誠（まこと）に。"
+  },
+  {
+    "id": 743,
+    "primary": "I can't shake the feeling",
+    "japanese": "誠（まこと）に。／間違い（まちがい）なく。"
+  },
+  {
+    "id": 744,
+    "primary": "Read the room",
+    "japanese": "嘘（うそ）偽り（いつわり）なく。／正直（しょうじき）に。"
+  },
+  {
+    "id": 745,
+    "primary": "I can't recommend it enough",
+    "japanese": "正直（しょうじき）に。／ありのままに。"
+  },
+  {
+    "id": 746,
+    "primary": "Pick up on that / catch on to that / take a hint",
+    "japanese": "本当（ほんとう）に。／マジで。"
+  },
+  {
+    "id": 747,
+    "primary": "kitchenware",
+    "japanese": "本気（ほんき）で。／真剣（しんけん）に。"
+  },
+  {
+    "id": 748,
+    "primary": "Yapper",
+    "japanese": "厳か（おごそか）に。／真摯（しんし）に。"
+  },
+  {
+    "id": 749,
+    "primary": "give or take",
+    "japanese": "真面目（まじめ）に。／心（こころ）から。"
+  },
+  {
+    "id": 750,
+    "primary": "Hit it off",
+    "japanese": "厳（おごそ）かに。／重大（じゅうだい）に。"
+  },
+  {
+    "id": 751,
+    "primary": "He is a legit, catch ",
+    "japanese": "厳格（げんかく）に。／厳（きび）しく。"
+  },
+  {
+    "id": 752,
+    "primary": "Swallow your pride",
+    "japanese": "厳（きび）しく。／ひどく。"
+  },
+  {
+    "id": 753,
+    "primary": "Go bananas",
+    "japanese": "ひどく。／重大（じゅうだい）に。"
+  },
+  {
+    "id": 754,
+    "primary": "Cagey",
+    "japanese": "厳（きび）しく。／緻密（ちみつ）に。"
+  },
+  {
+    "id": 755,
+    "primary": "First things first",
+    "japanese": "厳格（げんかく）に。／いかめしく。"
+  },
+  {
+    "id": 756,
+    "primary": "best friend",
+    "japanese": "質素（しっそ）に。／厳（きび）しく。"
+  },
+  {
+    "id": 757,
+    "primary": "Off day",
+    "japanese": "思い切っ（おもいきっ）て。／抜本（ばっぽん）的に（てきに）。"
+  },
+  {
+    "id": 758,
+    "primary": "buyer's remorse",
+    "japanese": "劇（げき）的（てき）に。／劇的（げきてき）に。"
+  },
+  {
+    "id": 759,
+    "primary": "While at it",
+    "japanese": "根本（こんぽん）的に（てきに）。／過激（かげき）に。"
+  },
+  {
+    "id": 760,
+    "primary": "Live a little",
+    "japanese": "完全に（かんぜんに）。／全（まった）く。"
+  },
+  {
+    "id": 761,
+    "primary": "Lo and behold",
+    "japanese": "すっかり。／そっくりそのまま。"
+  },
+  {
+    "id": 762,
+    "primary": "To a t",
+    "japanese": "全（ぜん）て。／丸（まる）ごと。"
+  },
+  {
+    "id": 763,
+    "primary": "Spitting image",
+    "japanese": "全く（まったく）。／すっかり。"
+  },
+  {
+    "id": 764,
+    "primary": "Ill at ease",
+    "japanese": "全く（まったく）もって。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 765,
+    "primary": "Over the moon",
+    "japanese": "絶対（ぜったい）に。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 766,
+    "primary": "Double standard",
+    "japanese": "完璧（かんぺき）に。／申し分（もうしぶん）なく。"
+  },
+  {
+    "id": 767,
+    "primary": "Cost an arm and a leg",
+    "japanese": "完全に（かんぜんに）。／十分に（じゅうぶんに）。"
+  },
+  {
+    "id": 768,
+    "primary": "In one piece",
+    "japanese": "徹底（てってい）的（てき）に。／細部（さいぶ）まで。"
+  },
+  {
+    "id": 769,
+    "primary": "Got stood up",
+    "japanese": "網羅（もうら）的（てき）に。／出し切（だしき）って。"
+  },
+  {
+    "id": 770,
+    "primary": "Wishy washy",
+    "japanese": "包括（ほうかつ）的（てき）に。／全部（ぜんぶ）まとめて。"
+  },
+  {
+    "id": 771,
+    "primary": "Force of habit",
+    "japanese": "広範囲（こうはんい）に。／広く（ひろく）。"
+  },
+  {
+    "id": 772,
+    "primary": "At a loss for words, speechless ",
+    "japanese": "幅広（はばひろ）く。／いたる所（ところ）で。"
+  },
+  {
+    "id": 773,
+    "primary": "In a food coma",
+    "japanese": "大まかに（おおまかに）。／幅広（はばひろ）く。"
+  },
+  {
+    "id": 774,
+    "primary": "You dig?",
+    "japanese": "普遍（ふへん）的（てき）に。／宇宙（うちゅう）レベルで。"
+  },
+  {
+    "id": 775,
+    "primary": "Dig in",
+    "japanese": "至（いた）る所（ところ）に。／どこにでも。"
+  },
+  {
+    "id": 776,
+    "primary": "No knee jerk reaction",
+    "japanese": "地球（ちゅうきゅう）規模（きぼ）で。／世界（せかい）的（てき）に。"
+  },
+  {
+    "id": 777,
+    "primary": "Meet me half way",
+    "japanese": "地域（ちいき）的（てき）に。／地方（ちほう）ごとに。"
+  },
+  {
+    "id": 778,
+    "primary": "It goes without saying that",
+    "japanese": "地元（じもと）で。／その土地（とち）で。"
+  },
+  {
+    "id": 779,
+    "primary": "In good hands",
+    "japanese": "国内（こくない）で。／家庭（かてい）的（てき）に。"
+  },
+  {
+    "id": 780,
+    "primary": "Cut me some slack",
+    "japanese": "内部（ないぶ）で。／心（こころ）の中（なか）で。"
+  },
+  {
+    "id": 781,
+    "primary": "It's been on my mind",
+    "japanese": "外部（がいぶ）で。／外側（そとがわ）に。"
+  },
+  {
+    "id": 782,
+    "primary": "Penny for your thoughts",
+    "japanese": "公家（おおやけ）に。／人前（ひとまえ）で。"
+  },
+  {
+    "id": 783,
+    "primary": "Chip in",
+    "japanese": "ひそかに。／個人的（こじんてき）に。"
+  },
+  {
+    "id": 784,
+    "primary": "Pitch in",
+    "japanese": "秘密（ひみつ）裏（り）に。／こっそりと。"
+  },
+  {
+    "id": 785,
+    "primary": "Give it up for her",
+    "japanese": "機密（きみつ）として。／内内（ないない）で。"
+  },
+  {
+    "id": 786,
+    "primary": "This is news to me",
+    "japanese": "暗黙（あんもく）に。／それとなく。"
+  },
+  {
+    "id": 787,
+    "primary": "Are you dense?",
+    "japanese": "明白（めいはく）に。／はっきりと。"
+  },
+  {
+    "id": 788,
+    "primary": "I m doomed",
+    "japanese": "直接（ちょくせつ）的に（てきに）。／直通（ちょくつう）で。"
+  },
+  {
+    "id": 789,
+    "primary": "Get under my skin",
+    "japanese": "間接（かんせつ）的に（てきに）。／遠回し（とおまわし）に。"
+  },
+  {
+    "id": 790,
+    "primary": "I will sort it out",
+    "japanese": "率直（そっちょく）に。／単刀直入（たんとうちょくにゅう）に。"
+  },
+  {
+    "id": 791,
+    "primary": "Does that ring a bell?",
+    "japanese": "ぶっきらぼうに。／露骨（ろこつ）に。"
+  },
+  {
+    "id": 792,
+    "primary": "I should have thought that through",
+    "japanese": "不意に（ふいに）。／いきなり。"
+  },
+  {
+    "id": 793,
+    "primary": "bestie",
+    "japanese": "急（きゅう）に。／前触れ（まえぶれ）なく。"
+  },
+  {
+    "id": 794,
+    "primary": "You'd better be off",
+    "japanese": "即座（そくざ）に。／一瞬（いっしゅん）で。"
+  },
+  {
+    "id": 795,
+    "primary": "A sense of belongings",
+    "japanese": "直ちに（ただちに）。／今（いま）すぐ。"
+  },
+  {
+    "id": 796,
+    "primary": "Picture is worth a thousand words, you will see ",
+    "japanese": "迅速（じんそく）に。／即座（そくざ）に。"
+  },
+  {
+    "id": 797,
+    "primary": "Walk me through it, break it down for me ",
+    "japanese": "速やか（すみやか）に。／どんどん。"
+  },
+  {
+    "id": 798,
+    "primary": "No wonder",
+    "japanese": "急速（きゅうそく）に。／すごい勢い（いきおい）で。"
+  },
+  {
+    "id": 799,
+    "primary": "If anything",
+    "japanese": "早く（はやく）。／サッと。"
+  },
+  {
+    "id": 800,
+    "primary": "Better yet",
+    "japanese": "速く（はやく）。／一気（いっき）に。"
+  },
+  {
+    "id": 801,
+    "primary": "frustrated my younger sister",
+    "japanese": "ゆっくりと。／時間をかけて（じかんをかけて）。"
+  },
+  {
+    "id": 802,
+    "primary": "Something feels off / I'm feeling under the weather",
+    "japanese": "徐々（じょじょ）に。／段階（だんかい）を追っ（おっ）て。"
+  },
+  {
+    "id": 803,
+    "primary": "I'm not myself",
+    "japanese": "一（いち）歩（ぽ）ずつ。／着実（ちゃくじつ）に。"
+  },
+  {
+    "id": 804,
+    "primary": "Your best bet / Your go-to option",
+    "japanese": "少し（すこし）ずつ。／じわじわと。"
+  },
+  {
+    "id": 805,
+    "primary": "I'm a little pressed for time / Clock is ticking / Time is running out",
+    "japanese": "少し（すこし）ずつ。／徐々（じょじょ）に。"
+  },
+  {
+    "id": 806,
+    "primary": "Can't hack it",
+    "japanese": "ますます。／いよいよ。"
+  },
+  {
+    "id": 807,
+    "primary": "It's going to sound corny / It might sound cheesy",
+    "japanese": "進歩（しんぽ）的に（てきに）。／着実（ちゃくじつ）に。"
+  },
+  {
+    "id": 808,
+    "primary": "It's not too shabby / Not that bad",
+    "japanese": "着実（ちゃくじつ）に。／絶（た）えず。"
+  },
+  {
+    "id": 809,
+    "primary": "A spa for some pampering",
+    "japanese": "絶（た）えず。／いつも。"
+  },
+  {
+    "id": 810,
+    "primary": "It just slipped out",
+    "japanese": "継続（けいぞく）的（てき）に。／休み（やすみ）なく。"
+  },
+  {
+    "id": 811,
+    "primary": "Bitter sweet",
+    "japanese": "絶（た）え間（ま）なく。／永遠（えいえん）に。"
+  },
+  {
+    "id": 812,
+    "primary": "Don’t flatter yourself / Don’t give yourself too much credit",
+    "japanese": "ひっきりなしに。／絶（た）えず。"
+  },
+  {
+    "id": 813,
+    "primary": "Stop pestering me / Enough with this / Stop nagging me",
+    "japanese": "永久（えいきゅう）に。／果（は）てしなく。"
+  },
+  {
+    "id": 814,
+    "primary": "Knock yourself out / Suit yourself",
+    "japanese": "永遠（えいえん）に。／不朽（ふきゅう）の。"
+  },
+  {
+    "id": 815,
+    "primary": "Run it by you / Touch base with you",
+    "japanese": "永遠に（えいえんに）。／いつまでも。"
+  },
+  {
+    "id": 816,
+    "primary": "I've been busy",
+    "japanese": "果（は）てしなく。／無限（むげん）に。"
+  },
+  {
+    "id": 817,
+    "primary": "You will live",
+    "japanese": "際限（さいげん）なく。／広大（こうだい）に。"
+  },
+  {
+    "id": 818,
+    "primary": "Take under one's wing",
+    "japanese": "無限（むげん）に。／際限（さいげん）なく。"
+  },
+  {
+    "id": 819,
+    "primary": "For nothing",
+    "japanese": "膨大（ぼうだい）に。／非常（ひじょう）に。"
+  },
+  {
+    "id": 820,
+    "primary": "I owe you one",
+    "japanese": "莫大（ばくだい）に。／巨大（きょだい）に。"
+  },
+  {
+    "id": 821,
+    "primary": "Something going on between",
+    "japanese": "大部分（だいぶぶん）は。／実（じつ）に。"
+  },
+  {
+    "id": 822,
+    "primary": "Clear the air",
+    "japanese": "大いに（おおいに）。／非常（ひじょう）に。"
+  },
+  {
+    "id": 823,
+    "primary": "Get in the way",
+    "japanese": "高度（こうど）に。／非常（ひじょう）に。"
+  },
+  {
+    "id": 824,
+    "primary": "On edge",
+    "japanese": "極めて（きわめて）。／極端（きょくたん）に。"
+  },
+  {
+    "id": 825,
+    "primary": "Man!",
+    "japanese": "ひどく。／猛烈（もうれつ）に。"
+  },
+  {
+    "id": 826,
+    "primary": "Spring is in the air",
+    "japanese": "ひどく。／大変（たいへん）に。"
+  },
+  {
+    "id": 827,
+    "primary": "That's crazy",
+    "japanese": "恐（おそ）ろしく。／ひどく。"
+  },
+  {
+    "id": 828,
+    "primary": "April Fools'",
+    "japanese": "衝撃（しょうげき）的（てき）に。／驚（おどろ）くほど。"
+  },
+  {
+    "id": 829,
+    "primary": "Behind someone's back",
+    "japanese": "仰天（ぎょうてん）するほど。／ひどく。"
+  },
+  {
+    "id": 830,
+    "primary": "Say hi to ~ for me",
+    "japanese": "ひどく。／嫌（いや）な感じ（かんじ）で。"
+  },
+  {
+    "id": 831,
+    "primary": "No offense",
+    "japanese": "ひどく。／へたに。"
+  },
+  {
+    "id": 832,
+    "primary": "Follow me",
+    "japanese": "不十分（ふじゅうぶん）に。／乏（とぼ）しく。"
+  },
+  {
+    "id": 833,
+    "primary": "Chill out",
+    "japanese": "弱々しく（よわよわしく）。／かすかに。"
+  },
+  {
+    "id": 834,
+    "primary": "tuition",
+    "japanese": "弱々しく（よわよわしく）。／力（ちから）なく。"
+  },
+  {
+    "id": 835,
+    "primary": "Every other day",
+    "japanese": "かすかに。／ぼんやりと。"
+  },
+  {
+    "id": 836,
+    "primary": "Tell on someone",
+    "japanese": "ほの暗く（ほのぐらく）。／はっきりとしない。"
+  },
+  {
+    "id": 837,
+    "primary": "Overdo it",
+    "japanese": "曖昧（あいまい）に。／世（よ）に知（し）られず。"
+  },
+  {
+    "id": 838,
+    "primary": "Have a beef with",
+    "japanese": "漠然（ばくぜん）と。／ぼんやりと。"
+  },
+  {
+    "id": 839,
+    "primary": "get by",
+    "japanese": "はっきりしない。／区別（くべつ）がつかない。"
+  },
+  {
+    "id": 840,
+    "primary": "Touched",
+    "japanese": "霞ん（かすん）だ。／ぼんやりした。"
+  },
+  {
+    "id": 841,
+    "primary": "buttery",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 842,
+    "primary": "Doze off",
+    "japanese": "明るく（あかるく）。／鮮明（せんめい）に。"
+  },
+  {
+    "id": 843,
+    "primary": "Close call",
+    "japanese": "鮮やか（あざやか）に。／生き生き（いきいき）と。"
+  },
+  {
+    "id": 844,
+    "primary": "In another color",
+    "japanese": "鋭く（ふるどく）。／急激（きゅうげき）に。"
+  },
+  {
+    "id": 845,
+    "primary": "Lemon",
+    "japanese": "はっきりと。／明確（めいかく）に。"
+  },
+  {
+    "id": 846,
+    "primary": "To-go box",
+    "japanese": "明白（めいはく）に。／ありのままに。"
+  },
+  {
+    "id": 847,
+    "primary": "Not having it",
+    "japanese": "明らかに（あきらかに）。／言うまでもなく（いうまでもなく）。"
+  },
+  {
+    "id": 848,
+    "primary": "Cut someone off",
+    "japanese": "見たところ。／明らかに（あきらかに）。"
+  },
+  {
+    "id": 849,
+    "primary": "That's just the way it is",
+    "japanese": "透き通っ（すきとおっ）て。／見え透い（みえすい）て。"
+  },
+  {
+    "id": 850,
+    "primary": "Spit it out",
+    "japanese": "オープンに。／隠（かく）さずに。"
+  },
+  {
+    "id": 851,
+    "primary": "passed away and was cremated",
+    "japanese": "自由（じゆう）に。／思い（おもい）のままに。"
+  },
+  {
+    "id": 852,
+    "primary": "Fall blues",
+    "japanese": "寛大（かんだい）に。／惜しみ（おしみ）なく。"
+  },
+  {
+    "id": 853,
+    "primary": "Sit tight",
+    "japanese": "気前（きまえ）よく。／たっぷり。"
+  },
+  {
+    "id": 854,
+    "primary": "Between jobs",
+    "japanese": "贅沢（ぜいたく）に。／ふんだんに。"
+  },
+  {
+    "id": 855,
+    "primary": "Rub it in",
+    "japanese": "ふんだんに。／過度（かど）に。"
+  },
+  {
+    "id": 856,
+    "primary": "Bland",
+    "japanese": "豊富（ほうふ）に。／潤沢（じゅんたく）に。"
+  },
+  {
+    "id": 857,
+    "primary": "Eat it up",
+    "japanese": "たっぷり。／存分（ぞんぶん）に。"
+  },
+  {
+    "id": 858,
+    "primary": "Around the corner",
+    "japanese": "おびただしく。／多量（たりょう）に。"
+  },
+  {
+    "id": 859,
+    "primary": "Somewhat",
+    "japanese": "十分（じゅうぶん）に。／足りる（たりる）だけ。"
+  },
+  {
+    "id": 860,
+    "primary": "Take for granted",
+    "japanese": "適切（てきせつ）に。／それなりに。"
+  },
+  {
+    "id": 861,
+    "primary": "For good",
+    "japanese": "控えめ（ひかえめ）に。／節約（せつやく）して。"
+  },
+  {
+    "id": 862,
+    "primary": "Take it personally",
+    "japanese": "ほとんど〜ない。／かろうじて。"
+  },
+  {
+    "id": 863,
+    "primary": "Put it off until the last minute",
+    "japanese": "ほとんど〜ない。／およそ〜ない。"
+  },
+  {
+    "id": 864,
+    "primary": "Clingy",
+    "japanese": "かろうじて。／やっと。"
+  },
+  {
+    "id": 865,
+    "primary": "Couldn't care less",
+    "japanese": "単（たん）に。／〜にすぎない。"
+  },
+  {
+    "id": 866,
+    "primary": "Don't jinx it",
+    "japanese": "〜だけ。／ただ一つの。"
+  },
+  {
+    "id": 867,
+    "primary": "stop yapping",
+    "japanese": "単独（たんどく）に。／ただそれだけ。"
+  },
+  {
+    "id": 868,
+    "primary": "check all the boxes",
+    "japanese": "独占（どくせん）的（てき）に。／専用（せんよう）の。"
+  },
+  {
+    "id": 869,
+    "primary": "put it down before I forget",
+    "japanese": "独特（どくとく）に。／唯一（ゆいいつ）無二（むに）の。"
+  },
+  {
+    "id": 870,
+    "primary": "nonchalant",
+    "japanese": "特（とく）に。／とりわけ。"
+  },
+  {
+    "id": 871,
+    "primary": "It's been unreal",
+    "japanese": "特（とく）に。／格別（かくべつ）に。"
+  },
+  {
+    "id": 872,
+    "primary": "pulling all-nighters",
+    "japanese": "具体（ぐたい）的（てき）に。／明確（めいかく）に。"
+  },
+  {
+    "id": 873,
+    "primary": "make someone's heart flutter",
+    "japanese": "明確（めいかく）に。／わざわざ。"
+  },
+  {
+    "id": 874,
+    "primary": "Am I delusional?",
+    "japanese": "明白（めいはく）に。／はっきりと。"
+  },
+  {
+    "id": 875,
+    "primary": "I can't possibly",
+    "japanese": "正確（せいかく）に。／精密（せいみつ）に。"
+  },
+  {
+    "id": 876,
+    "primary": "Are you investing in shares market?",
+    "japanese": "まさに。／そのまま。"
+  },
+  {
+    "id": 877,
+    "primary": "stock market (news style)",
+    "japanese": "文字（もじ）通り（どおり）。／誇張（こちょう）なしに。"
+  },
+  {
+    "id": 878,
+    "primary": "pull it off",
+    "japanese": "事実（じじつ）上（じょう）。／実質（じっしつ）的に（てきに）。"
+  },
+  {
+    "id": 879,
+    "primary": "no cap",
+    "japanese": "実際（じっさい）に。／現実（げんじつ）的に（てきに）。"
+  },
+  {
+    "id": 880,
+    "primary": "Fit the bill",
+    "japanese": "本質（ほんしつ）的に（てきに）。／要（よう）は。"
+  },
+  {
+    "id": 881,
+    "primary": "I'm on the clock",
+    "japanese": "根本（こんぽん）的に（てきに）。／徹底（てってい）的（てき）に。"
+  },
+  {
+    "id": 882,
+    "primary": "It's a bit foggy",
+    "japanese": "基本（きほん）的に（てきに）。／普通（ふつう）は。"
+  },
+  {
+    "id": 883,
+    "primary": "I'm a light sleeper",
+    "japanese": "本能（ほんのう）的に（てきに）。／直感（ちょっかん）で。"
+  },
+  {
+    "id": 884,
+    "primary": "I tend to be shy",
+    "japanese": "直感的（ちょっかんてき）に。／なんとなく。"
+  },
+  {
+    "id": 885,
+    "primary": "Camera shy",
+    "japanese": "自発（じはつ）的に（てきに）。／自然（しぜん）と。"
+  },
+  {
+    "id": 886,
+    "primary": "It's as good as new.",
+    "japanese": "自動（じどう）的に（てきに）。／勝手（かって）に。"
+  },
+  {
+    "id": 887,
+    "primary": "They have a lot in common.",
+    "japanese": "機械（きかい）的に（てきに）。／無（む）機質（きしつ）に。"
+  },
+  {
+    "id": 888,
+    "primary": "That's typical of you.",
+    "japanese": "体系（たいけい）的に（てきに）。／秩序（ちつじょ）立て（だて）て。"
+  },
+  {
+    "id": 889,
+    "primary": "You look after yourself.",
+    "japanese": "几帳面（きちょうめん）に。／計画（けいかく）的に（てきに）。"
+  },
+  {
+    "id": 890,
+    "primary": "Go for it!",
+    "japanese": "論理（ろんり）的に（てきに）。／理（り）にかなった。"
+  },
+  {
+    "id": 891,
+    "primary": "He's a piece of work.",
+    "japanese": "合理的（ごうりてき）に。／冷静（れいせい）に。"
+  },
+  {
+    "id": 892,
+    "primary": "I won't let you down.",
+    "japanese": "妥当（だとう）に。／納得（なっとく）のいくように。"
+  },
+  {
+    "id": 893,
+    "primary": "I've been trying to reach you.",
+    "japanese": "分別（ふんべつ）を持って。／賢明（けんめい）に。"
+  },
+  {
+    "id": 894,
+    "primary": "It was a stroke of luck.",
+    "japanese": "賢く（かしこく）。／知恵（ちえ）深く（ぶかく）。"
+  },
+  {
+    "id": 895,
+    "primary": "Don't bottle up your feelings.",
+    "japanese": "慎重（しんちょう）に。／用意（ようい）周到（しゅうとう）に。"
+  },
+  {
+    "id": 896,
+    "primary": "Don't be shy",
+    "japanese": "注意（ちゅうい）深く（ぶかく）。／入念（にゅうねん）に。"
+  },
+  {
+    "id": 897,
+    "primary": "You're growing on me.",
+    "japanese": "用心深く（ようじんぶかく）。／念（ねん）には念（ねん）を入れ（いれ）て。"
+  },
+  {
+    "id": 898,
+    "primary": "I burnt the midnight oil.",
+    "japanese": "警戒（けいかい）して。／用心（ようじん）深く（ぶかく）。"
+  },
+  {
+    "id": 899,
+    "primary": "Shy of two minutes",
+    "japanese": "2分（にふん）に満た（みた）ない。／あと少し（すこし）で2分。"
+  },
+  {
+    "id": 900,
+    "primary": "That would be the best case scenario.",
+    "japanese": "嫉妬（しっと）深く（ぶかく）。／執着（しゅうちゃく）して。"
+  },
+  {
+    "id": 901,
+    "primary": "I couldn't agree more.",
+    "japanese": "寛大（かんだい）に。／太腹（ふとっぱら）に。"
+  },
+  {
+    "id": 902,
+    "primary": "I've got a memory like a sieve.",
+    "japanese": "太腹（ふとっぱら）に。／広い（ひろい）心（こころ）で。"
+  },
+  {
+    "id": 903,
+    "primary": "It's on the house.",
+    "japanese": "気高く（けだかく）。／崇高（すうこう）に。"
+  },
+  {
+    "id": 904,
+    "primary": "I think you should get a second opinion.",
+    "japanese": "優雅（ゆうが）に。／しとやかに。"
+  },
+  {
+    "id": 905,
+    "primary": "You are second to none.",
+    "japanese": "上品（じょうひん）に。／洗練（せんれん）されて。"
+  },
+  {
+    "id": 906,
+    "primary": "Don't pull my leg.",
+    "japanese": "美しく（うつくしく）。／見事（みごと）に。"
+  },
+  {
+    "id": 907,
+    "primary": "I'm torn",
+    "japanese": "華やか（はなやか）に。／立派（りっぱ）に。"
+  },
+  {
+    "id": 908,
+    "primary": "You have lost the plot.",
+    "japanese": "壮大（そうだい）に。／堂々（どうどう）と。"
+  },
+  {
+    "id": 909,
+    "primary": "Let's just keep it between us.",
+    "japanese": "盛大（せいだい）に。／立派（りっぱ）に。"
+  },
+  {
+    "id": 910,
+    "primary": "You know the drill.",
+    "japanese": "最高（さいこう）に。／申し分（もうしぶん）なく。"
+  },
+  {
+    "id": 911,
+    "primary": "It's been a roller coaster ride.",
+    "japanese": "素晴らしく（すばらしく）。／驚（おどろ）くほど。"
+  },
+  {
+    "id": 912,
+    "primary": "I look up to you.",
+    "japanese": "驚（おどろ）くほど素晴らしく（すばらしく）。／驚（おどろ）くべき。"
+  },
+  {
+    "id": 913,
+    "primary": "It's overrated.",
+    "japanese": "優秀（ゆうしゅう）に。／抜きん出（ぬきんで）て。"
+  },
+  {
+    "id": 914,
+    "primary": "Long story short",
+    "japanese": "完璧（かんぺき）に。／理想（りそう）的（てき）に。"
+  },
+  {
+    "id": 915,
+    "primary": "I don't hold a grudge.",
+    "japanese": "非（ひ）の打ち（うち）どころなく。／鮮やか（あざやか）に。"
+  },
+  {
+    "id": 916,
+    "primary": "I don't know off the top of my head.",
+    "japanese": "申し分（もうしぶん）なく。／端正（たんせい）に。"
+  },
+  {
+    "id": 917,
+    "primary": "I'm fed up with it.",
+    "japanese": "適切（てきせつ）に。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 918,
+    "primary": "I've got a lot on my plate.",
+    "japanese": "十分（じゅうぶん）に。／余裕（よゆう）を持って。"
+  },
+  {
+    "id": 919,
+    "primary": "I'm bad with directions.",
+    "japanese": "満足（まんぞく）のいくように。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 920,
+    "primary": "How are you holding up?",
+    "japanese": "有能（ゆうのう）に。／そつなく。"
+  },
+  {
+    "id": 921,
+    "primary": "All you have to do is do it.",
+    "japanese": "効果（こうか）的（てき）に。／有効（ゆうこう）に。"
+  },
+  {
+    "id": 922,
+    "primary": "What do you have in mind?",
+    "japanese": "効率（こうりつ）的（てき）に。／手際（てぎわ）よく。"
+  },
+  {
+    "id": 923,
+    "primary": "Don't be that way.",
+    "japanese": "強力（きょうりょく）に。／力強く（ちからづよく）。"
+  },
+  {
+    "id": 924,
+    "primary": "Let's get the ball rolling.",
+    "japanese": "強く（つよく）。／猛烈（もうれつ）に。"
+  },
+  {
+    "id": 925,
+    "primary": "It costs an arm and a leg.",
+    "japanese": "凄まじく（すさまじく）。／力（ちから）任（まか）せに。"
+  },
+  {
+    "id": 926,
+    "primary": "Don't go through the motions.",
+    "japanese": "強制的（きょうせいてき）に。／力（ちから）を込め（こめ）て。"
+  },
+  {
+    "id": 927,
+    "primary": "You took the words right out of my mouth.",
+    "japanese": "強烈（きょうれつ）に。／激（はげ）しく。"
+  },
+  {
+    "id": 928,
+    "primary": "You crossed the line.",
+    "japanese": "厳（きび）しく。／ひどく。"
+  },
+  {
+    "id": 929,
+    "primary": "He knows his stuff.",
+    "japanese": "厳（きび）しく。／辛辣（しんらつ）に。"
+  },
+  {
+    "id": 930,
+    "primary": "Hang in there!",
+    "japanese": "雑（ざつ）に。／荒っぽく（あらっぽく）。"
+  },
+  {
+    "id": 931,
+    "primary": "You need to break the habit.",
+    "japanese": "失礼（しつれい）に。／無（む）作法（さほう）に。"
+  },
+  {
+    "id": 932,
+    "primary": "You hit the nail on the head.",
+    "japanese": "丁寧（ていねい）に。／礼儀（れいぎ）正しく（ただしく）。"
+  },
+  {
+    "id": 933,
+    "primary": "My brain is not as good as it used to be.",
+    "japanese": "丁重（ていちょう）に。／礼儀（れいぎ）正しく（ただしく）。"
+  },
+  {
+    "id": 934,
+    "primary": "I was ripped off.",
+    "japanese": "敬意（けいい）を払っ（はらっ）て。／うやうやしく。"
+  },
+  {
+    "id": 935,
+    "primary": "I am out and about",
+    "japanese": "謙虚（けんきょ）に。／卑下（ひげ）して。"
+  },
+  {
+    "id": 936,
+    "primary": "I can't get that off my mind.",
+    "japanese": "控えめ（ひかえめ）に。／目立た（めだた）ないように。"
+  },
+  {
+    "id": 937,
+    "primary": "Don't kid yourself.",
+    "japanese": "恥ずかし（はずかし）そうに。／内気（うちき）に。"
+  },
+  {
+    "id": 938,
+    "primary": "It's no picnic.",
+    "japanese": "おどおどと。／臆病（おくびょう）に。"
+  },
+  {
+    "id": 939,
+    "primary": "Just let it go.",
+    "japanese": "恐る（おそる）恐る（おそる）。／びくびくしながら。"
+  },
+  {
+    "id": 940,
+    "primary": "Come to your senses",
+    "japanese": "心配（しんぱい）そうに。／切実（せつじつ）に。"
+  },
+  {
+    "id": 941,
+    "primary": "Let's call it a day.",
+    "japanese": "緊張（きんちょう）して。／落ち着か（おちつか）ない様子（ようす）で。"
+  },
+  {
+    "id": 942,
+    "primary": "Act your age.",
+    "japanese": "冷静（れいせい）に。／落ち着い（おちつい）て。"
+  },
+  {
+    "id": 943,
+    "primary": "It went over my head.",
+    "japanese": "静か（しずか）に。／ひっそりと。"
+  },
+  {
+    "id": 944,
+    "primary": "Are you open today?",
+    "japanese": "平和（へいわ）に。／穏やか（おだやか）に。"
+  },
+  {
+    "id": 945,
+    "primary": "Don't make a big deal.",
+    "japanese": "穏やか（おだやか）に。／清らか（きよらか）に。"
+  },
+  {
+    "id": 946,
+    "primary": "In a nutshell.",
+    "japanese": "辛抱強く（しんぼうづよく）。／じっと。"
+  },
+  {
+    "id": 947,
+    "primary": "Don't spill the beans.",
+    "japanese": "揺るぎな（ゆるぎな）く。／泰然（たいぜん）自若（じじゃく）として。"
+  },
+  {
+    "id": 948,
+    "primary": "Are you guys open?",
+    "japanese": "毅然（きぜん）として。／決然（けつぜん）と。"
+  },
+  {
+    "id": 949,
+    "primary": "I'm going to keep my eyes peeled.",
+    "japanese": "固い（かたい）決意（けつい）を持って。／断固（だんこ）として。"
+  },
+  {
+    "id": 950,
+    "primary": "I'm right behind you.",
+    "japanese": "勇敢（ゆうかん）に。／勇ましく（いさましく）。"
+  },
+  {
+    "id": 951,
+    "primary": "There you go again.",
+    "japanese": "勇気（ゆうき）を持って。／果敢（かかん）に。"
+  },
+  {
+    "id": 952,
+    "primary": "Figures.",
+    "japanese": "恐れ（おそれ）を知ら（しら）ず。／大胆（だいたん）に。"
+  },
+  {
+    "id": 953,
+    "primary": "Duh",
+    "japanese": "大胆（だいたん）に。／不敵（ふてき）に。"
+  },
+  {
+    "id": 954,
+    "primary": "Stop bugging me.",
+    "japanese": "思い切っ（おもいきっ）て。／危険（きけん）を返りみ（かえりみ）ず。"
+  },
+  {
+    "id": 955,
+    "primary": "I've been there before.",
+    "japanese": "英雄（えいゆう）的に（てきに）。／華々しく（はなばなしく）。"
+  },
+  {
+    "id": 956,
+    "primary": "We're working with a skeleton crew.",
+    "japanese": "勇ましく（いさましく）。／堂々（どうどう）と。"
+  },
+  {
+    "id": 957,
+    "primary": "That's the thing.",
+    "japanese": "気高く（けだかく）。／崇高（すうこう）に。"
+  },
+  {
+    "id": 958,
+    "primary": "Intriguing",
+    "japanese": "優しく（やさしく）。／穏やか（おだやか）に。"
+  },
+  {
+    "id": 959,
+    "primary": "It happens all the time.",
+    "japanese": "そっと。／柔らか（やわらか）に。"
+  },
+  {
+    "id": 960,
+    "primary": "There is no smoking gun.",
+    "japanese": "穏やか（おだやか）に。／控えめ（ひかえめ）に。"
+  },
+  {
+    "id": 961,
+    "primary": "I'm salty.",
+    "japanese": "優しく（やさしく）。／慈しみ（いつくしみ）を持って。"
+  },
+  {
+    "id": 962,
+    "primary": "You don't want to know.",
+    "japanese": "愛（あい）を込め（こめ）て。／深い（ふかい）愛情（あいじょう）で。"
+  },
+  {
+    "id": 963,
+    "primary": "Fascinating",
+    "japanese": "慈しみ（いつくしみ）深く（ぶかく）。／懐かし（なつかし）そうに。"
+  },
+  {
+    "id": 964,
+    "primary": "I got stuck in traffic.",
+    "japanese": "心（こころ）から。／真心（まごころ）を込め（こめ）て。"
+  },
+  {
+    "id": 965,
+    "primary": "It's a different kettle of fish.",
+    "japanese": "心（こころ）底（そこ）から。／たっぷり。"
+  },
+  {
+    "id": 966,
+    "primary": "Thought-provoking",
+    "japanese": "暖かく（あたたかく）。／親身（しんみ）になって。"
+  },
+  {
+    "id": 967,
+    "primary": "I give you my word.",
+    "japanese": "慈愛（じあい）に満ち（みち）て。／優しく（やさしく）。"
+  },
+  {
+    "id": 968,
+    "primary": "It's a long story.",
+    "japanese": "親しみ（したしみ）やすく。／仲良く（なかよく）。"
+  },
+  {
+    "id": 969,
+    "primary": "We've got to break the mold.",
+    "japanese": "親切（しんせつ）に。／思いやり（おもいやり）を持って。"
+  },
+  {
+    "id": 970,
+    "primary": "That's what I'm talking about!",
+    "japanese": "気前（きまえ）よく。／惜しみ（おしみ）なく。"
+  },
+  {
+    "id": 971,
+    "primary": "The damage is done.",
+    "japanese": "寛大（かんだい）に。／太腹（ふとっぱら）に。"
+  },
+  {
+    "id": 972,
+    "primary": "I can't sit still.",
+    "japanese": "無欲（むよく）に。／自分（じぶん）を後回し（あとまわし）にして。"
+  },
+  {
+    "id": 973,
+    "primary": "It's better than nothing.",
+    "japanese": "利他（りた）的に（てきに）。／社会（しゃかい）貢献（こうけん）の心（こころ）で。"
+  },
+  {
+    "id": 974,
+    "primary": "We go way back",
+    "japanese": "慈悲（じひ）深く（ぶかく）。／慈善（じぜん）のために。"
+  },
+  {
+    "id": 975,
+    "primary": "Stay focused.",
+    "japanese": "感謝（かんしゃ）の気持ち（きもち）で。／有難（ありがた）く。"
+  },
+  {
+    "id": 976,
+    "primary": "He was quite high maintenance.",
+    "japanese": "有難（ありがた）いことに。／感謝（かんしゃ）して。"
+  },
+  {
+    "id": 977,
+    "primary": "I went cold turkey.",
+    "japanese": "ありがたく。／価値（かち）を認めて（みとめて）。"
+  },
+  {
+    "id": 978,
+    "primary": "It takes me back",
+    "japanese": "心（こころ）から。／誠実（せいじつ）に。"
+  },
+  {
+    "id": 979,
+    "primary": "Get with the program.",
+    "japanese": "正直（しょうじき）に。／ありのままに。"
+  },
+  {
+    "id": 980,
+    "primary": "Give me a ballpark figure.",
+    "japanese": "真実（しんじつ）を告（つ）げて。／正確（せいかく）に。"
+  },
+  {
+    "id": 981,
+    "primary": "What's your best guess?",
+    "japanese": "遠慮（えんりょ）なく。／腹（はら）を割っ（わっ）て。"
+  },
+  {
+    "id": 982,
+    "primary": "It's a pain in the neck.",
+    "japanese": "率直（そっちょく）に。／包み隠さ（つつみかくさ）ず。"
+  },
+  {
+    "id": 983,
+    "primary": "It keeps me on my toes.",
+    "japanese": "明白（めいはく）に。／ありのままに。"
+  },
+  {
+    "id": 984,
+    "primary": "It blows me away.",
+    "japanese": "単純（たんじゅん）に。／ありのままに。"
+  },
+  {
+    "id": 985,
+    "primary": "I'm susceptible to it.",
+    "japanese": "謙虚（けんきょ）に。／地味（じみ）に。"
+  },
+  {
+    "id": 986,
+    "primary": "I'll level with you.",
+    "japanese": "機嫌（きげん）よく。／楽し（たのし）げに。"
+  },
+  {
+    "id": 987,
+    "primary": "They had it coming.",
+    "japanese": "幸せ（しあわせ）に。／満足（まんぞく）そうに。"
+  },
+  {
+    "id": 988,
+    "primary": "I'll spare you the details.",
+    "japanese": "喜ば（よろこば）しいことに。／嬉（うれ）しさ全開（ぜんかい）で。"
+  },
+  {
+    "id": 989,
+    "primary": "Bad news travels fast.",
+    "japanese": "陽気（ようき）に。／楽し（たのし）く。"
+  },
+  {
+    "id": 990,
+    "primary": "Why the long face?",
+    "japanese": "気楽（きらく）に。／朗（ほが）らかに。"
+  },
+  {
+    "id": 991,
+    "primary": "What's the occasion?",
+    "japanese": "嬉（うれ）々（きき）として。／大（だい）喜び（よろこび）で。"
+  },
+  {
+    "id": 992,
+    "primary": "What's the matter?",
+    "japanese": "至福（しふく）の面持ち（おももち）で。／この上（うえ）なく。"
+  },
+  {
+    "id": 993,
+    "primary": "He had a blast.",
+    "japanese": "心地（ここち）よく。／感じ（かんじ）よく。"
+  },
+  {
+    "id": 994,
+    "primary": "Fill out this form",
+    "japanese": "快（こころよ）く。／納得（なっとく）のいくように。"
+  },
+  {
+    "id": 995,
+    "primary": "It doesn't ring a bell",
+    "japanese": "満足（まんぞく）げに。／甘んじ（あまんじ）て。"
+  },
+  {
+    "id": 996,
+    "primary": "It was put on ice.",
+    "japanese": "熱心（ねっしん）に。／やる気（き）満々（まんまん）で。"
+  },
+  {
+    "id": 997,
+    "primary": "You've lost me.",
+    "japanese": "熱狂（ねっきょう）的に（てきに）。／熱（あつ）く。"
+  },
+  {
+    "id": 998,
+    "primary": "I'm on cloud nine.",
+    "japanese": "最高（さいこう）に幸せ（しあわせ）。／雲（くも）の上（うえ）にいる気分（きぶん）。"
+  },
+  {
+    "id": 999,
+    "primary": "She was thirsty.",
+    "japanese": "彼女（かのじょ）は喉（のど）が渇い（かわい）ていた。／彼女は喉から手（て）が出る（でる）ほど欲しかっ（ほしかっ）た。"
+  },
+  {
+    "id": 1000,
+    "primary": "There's nothing to it.",
+    "japanese": "快（こころよ）く。／二（に）つ返知（へんじ）で。"
+  },
+  {
+    "id": 1001,
+    "primary": "But there's a twist.",
+    "japanese": "喜んで（よろこんで）。／快（こころよ）く。"
+  },
+  {
+    "id": 1002,
+    "primary": "We're out of the woods.",
+    "japanese": "上機嫌（じょうきげん）で。／朗（ほが）らかに。"
+  },
+  {
+    "id": 1003,
+    "primary": "Let's play it by ear.",
+    "japanese": "臨機応変（りんきおうへん）にやろう。／その場（ば）の状況（じょうきょう）で決め（きめ）よう。"
+  },
+  {
+    "id": 1004,
+    "primary": "Don't even bring it up.",
+    "japanese": "その話（はなし）は持ち出さ（もちださ）ないで。／口（くち）にすらしないで。"
+  },
+  {
+    "id": 1005,
+    "primary": "Your eyes are bigger than your stomach.",
+    "japanese": "安らか（やすらか）に。／穏やか（おだやか）に。"
+  },
+  {
+    "id": 1006,
+    "primary": "It's not even close.",
+    "japanese": "静か（しずか）に。／平穏（へいおん）に。"
+  },
+  {
+    "id": 1007,
+    "primary": "I don't blame you.",
+    "japanese": "穏やか（おだやか）に。／うららかに。"
+  },
+  {
+    "id": 1008,
+    "primary": "Don't let it bother you.",
+    "japanese": "落ち着い（おちつい）て。／冷静（れいせい）に。"
+  },
+  {
+    "id": 1009,
+    "primary": "I'm at your service.",
+    "japanese": "静か（しずか）に。／ひっそりと。"
+  },
+  {
+    "id": 1010,
+    "primary": "She's cool as a cucumber.",
+    "japanese": "黙り込んで（だまりこんで）。／沈黙（ちんもく）を守り（まもり）ながら。"
+  },
+  {
+    "id": 1011,
+    "primary": "He's down to earth.",
+    "japanese": "音（おと）もなく。／忍び足（しのびあし）で。"
+  },
+  {
+    "id": 1012,
+    "primary": "We have to address the problem.",
+    "japanese": "聞き取れ（ききとれ）ないほど。／かすかに。"
+  },
+  {
+    "id": 1013,
+    "primary": "How old do you think I am?",
+    "japanese": "弱々しく（よわよわしく）。／かすかに。"
+  },
+  {
+    "id": 1014,
+    "primary": "It put me on the map.",
+    "japanese": "薄暗く（うすぐらく）。／はっきりとしない。"
+  },
+  {
+    "id": 1015,
+    "primary": "They are selling like hot cakes.",
+    "japanese": "漠然（ばくぜん）と。／ぼんやりと。"
+  },
+  {
+    "id": 1016,
+    "primary": "This is at the heart of the matter.",
+    "japanese": "これが問題（もんだい）の核心（かくしん）だ。／これが一番（いちばん）重要（じゅうよう）な点（てん）だ。"
+  },
+  {
+    "id": 1017,
+    "primary": "Who do you think I am?",
+    "japanese": "私（わたし）を誰（だれ）だと思っ（おもっ）ているんだ？／私を馬鹿（ばか）にしているのか？"
+  },
+  {
+    "id": 1018,
+    "primary": "It spiraled out of control.",
+    "japanese": "秘密（ひみつ）に。／こっそりと。"
+  },
+  {
+    "id": 1019,
+    "primary": "It quickly went viral.",
+    "japanese": "忍び足（しのびあし）で。／こっそりと。"
+  },
+  {
+    "id": 1020,
+    "primary": "At the end of the day.",
+    "japanese": "結局（けっきょく）のところ。／最後（さいご）には。"
+  },
+  {
+    "id": 1021,
+    "primary": "He was full of beans.",
+    "japanese": "彼（かれ）は元気（げんき）いっぱいだった。／彼はとても活発（かっぱつ）だった。"
+  },
+  {
+    "id": 1022,
+    "primary": "That is a tough nut to crack.",
+    "japanese": "個人的（こじんてき）に。／内密（ないみつ）に。"
+  },
+  {
+    "id": 1023,
+    "primary": "We will chew the fat.",
+    "japanese": "機密（きみつ）として。／内内（ないない）で。"
+  },
+  {
+    "id": 1024,
+    "primary": "Don't let your guard down.",
+    "japanese": "個人的（こじんてき）に。／直々（じきじき）に。"
+  },
+  {
+    "id": 1025,
+    "primary": "They promised the moon.",
+    "japanese": "彼ら（かれら）は実現（じつげん）不可能な（ふかのうな）約束（やくそく）をした。／彼らはできもしないことを言っ（いっ）た。"
+  },
+  {
+    "id": 1026,
+    "primary": "He's on track.",
+    "japanese": "彼（かれ）は順調（じゅんちょう）だ。／彼は予定（よてい）通り（どおり）に進ん（すすん）でいる。"
+  },
+  {
+    "id": 1027,
+    "primary": "It's not as bad as it seems.",
+    "japanese": "それほど悪く（わるく）はない。／見かけ（みかけ）ほどひどくない。"
+  },
+  {
+    "id": 1028,
+    "primary": "Calm your nerves.",
+    "japanese": "落ち着い（おちつい）て。／緊張（きんちょう）をほぐして。"
+  },
+  {
+    "id": 1029,
+    "primary": "It was a shot in the arm.",
+    "japanese": "それは元気づけ（げんきづけ）になった。／それは励み（はげみ）になった。"
+  },
+  {
+    "id": 1030,
+    "primary": "That's the way the ball bounces.",
+    "japanese": "それが運（うん）の尽き（つき）だ。／世（よ）の中（なか）そんなものだ。"
+  },
+  {
+    "id": 1031,
+    "primary": "That's music to my ears",
+    "japanese": "それは朗報（ろうほう）だ。／聞い（きい）て嬉しい（うれしい）話（はなし）だ。"
+  },
+  {
+    "id": 1032,
+    "primary": "He was not pulling his weight.",
+    "japanese": "彼（かれ）は自分（じぶん）の役割（やくわり）を果たして（はたして）いなかった。／彼はサボっていた。"
+  },
+  {
+    "id": 1033,
+    "primary": "I don't buy it.",
+    "japanese": "簡単（かんたん）に。／たやすく。"
+  },
+  {
+    "id": 1034,
+    "primary": "I got all dolled up.",
+    "japanese": "直ちに（ただちに）。／すぐさま。"
+  },
+  {
+    "id": 1035,
+    "primary": "You're on a roll",
+    "japanese": "波（なみ）に乗っ（のっ）ているね。／絶好調（ぜっこうちょう）だね。"
+  },
+  {
+    "id": 1036,
+    "primary": "The deal fell through",
+    "japanese": "契約（けいやく）が破談（はだん）になった。／取引（とりひき）が失敗（しっぱい）した。"
+  },
+  {
+    "id": 1037,
+    "primary": "I had a falling out with him.",
+    "japanese": "彼（かれ）とけんかした。／彼と仲違い（なかたがい）した。"
+  },
+  {
+    "id": 1038,
+    "primary": "It's not rocket science.",
+    "japanese": "それほど難しい（むずかしい）ことではない。／誰（だれ）にでもできることだ。"
+  },
+  {
+    "id": 1039,
+    "primary": "We all have to pick up the slack.",
+    "japanese": "私（わたし）たちが代わり（かわり）にやらなければならない。／穴埋め（あなうめ）をしなければならない。"
+  },
+  {
+    "id": 1040,
+    "primary": "I threw caution to the wind.",
+    "japanese": "思い切っ（おもいきっ）てやってみた。／危うさ（あやうさ）を顧みず（かえりみず）に行動（こうどう）した。"
+  },
+  {
+    "id": 1041,
+    "primary": "Beauty is only skin deep.",
+    "japanese": "見事（みごと）に。／豪華（ごうか）に。"
+  },
+  {
+    "id": 1042,
+    "primary": "I'm not good with words.",
+    "japanese": "口下手（くちべた）だ。／言葉（ことば）で表現（ひょうげん）するのが苦手（にがて）だ。"
+  },
+  {
+    "id": 1043,
+    "primary": "I'm running on fumes.",
+    "japanese": "へとへとだ。／限界（げんかい）ギリギリだ。"
+  },
+  {
+    "id": 1044,
+    "primary": "I call the shots.",
+    "japanese": "私（わたし）が決める（きめる）。／私に権限（けんげん）がある。"
+  },
+  {
+    "id": 1045,
+    "primary": "I have butterflies in my stomach.",
+    "japanese": "優秀（ゆうしゅう）に。／見事（みごと）に。"
+  },
+  {
+    "id": 1046,
+    "primary": "You've been left on read.",
+    "japanese": "完璧（かんぺき）に。／理想（りそう）的（てき）に。"
+  },
+  {
+    "id": 1047,
+    "primary": "She doted on me.",
+    "japanese": "彼女（かのじょ）は私（わたし）を溺愛（できあい）した。／彼女は私をとても可愛がっ（かわいがっ）た。"
+  },
+  {
+    "id": 1048,
+    "primary": "I made it from scratch.",
+    "japanese": "最初（さいしょ）から自分（じぶん）で作っ（つくっ）た。／手作り（てづくり）だ。"
+  },
+  {
+    "id": 1049,
+    "primary": "Don't steal my thunder.",
+    "japanese": "私（わたし）のお株（おかぶ）を奪わ（うばわ）ないで。／私の見せ場（みせば）を取ら（とら）ないで。"
+  },
+  {
+    "id": 1050,
+    "primary": "He clammed up.",
+    "japanese": "彼（かれ）は黙り込ん（だまりこん）だ。／彼は口（くち）を閉ざし（とざし）た。"
+  },
+  {
+    "id": 1051,
+    "primary": "I would go on a spending spree.",
+    "japanese": "爆買い（ばくがい）したい気分（きぶん）だ。／お金（かね）を使いまくり（つかいまくり）たい。"
+  },
+  {
+    "id": 1052,
+    "primary": "I don't want to open up a can of worms.",
+    "japanese": "藪蛇（やぶへび）になりたくない。／厄介（やっかい）なことになりたくない。"
+  },
+  {
+    "id": 1053,
+    "primary": "It's my treat.",
+    "japanese": "正確（せいかく）に。／緻密（ちみつ）に。"
+  },
+  {
+    "id": 1054,
+    "primary": "Snap out of it!",
+    "japanese": "精密（せいみつ）に。／まさに。"
+  },
+  {
+    "id": 1055,
+    "primary": "You got us into this mess.",
+    "japanese": "正確（せいかく）に。／ちょうど。"
+  },
+  {
+    "id": 1056,
+    "primary": "It's not what it looks like.",
+    "japanese": "見かけ（みかけ）とは違う（ちがう）。／誤解（ごかい）しないで。"
+  },
+  {
+    "id": 1057,
+    "primary": "What's your guilty pleasure?",
+    "japanese": "やめられない楽しみ（たのしみ）は何（なに）？／自分（じぶん）だけの密か（みそか）な楽しみは？"
+  },
+  {
+    "id": 1058,
+    "primary": "I got the short straw.",
+    "japanese": "ハズレを引い（ひい）た。／運（うん）が悪かっ（わるかっ）た。"
+  },
+  {
+    "id": 1059,
+    "primary": "She truly is the GOAT.",
+    "japanese": "彼女（かのじょ）は本当（ほんとう）に史上（しじょう）最高（さいこう）だ。／彼女は天才（てんさい）だ。"
+  },
+  {
+    "id": 1060,
+    "primary": "I've got a lot of mixed emotions.",
+    "japanese": "複雑（ふくざつ）な心境（しんきょう）だ。／色々（いろいろ）な感情（かんじょう）が入り交じっ（はいりまじっ）ている。"
+  },
+  {
+    "id": 1061,
+    "primary": "I've seen worse.",
+    "japanese": "もっとひどいのも見（み）てきた。／これくらいなら大丈夫（だいじょうぶ）だ。"
+  },
+  {
+    "id": 1062,
+    "primary": "The tea tastes funny.",
+    "japanese": "この紅茶（こうちゃ）、変（へん）な味（あじ）がする。／このお茶（ちゃ）、おかしい。"
+  },
+  {
+    "id": 1063,
+    "primary": "That's a steal.",
+    "japanese": "それは破格（はかく）の安さ（やすさ）だ。／お買い得（かいどく）だ。"
+  },
+  {
+    "id": 1064,
+    "primary": "Now is the time to decide.",
+    "japanese": "今（いま）が決断（けつだん）の時（とき）だ。／今決め（きめ）なければならない。"
+  },
+  {
+    "id": 1065,
+    "primary": "I just winged it.",
+    "japanese": "ぶっつけ本番（ほんばん）でやった。／準備（じゅんび）なしで乗り切っ（のりきっ）た。"
+  },
+  {
+    "id": 1066,
+    "primary": "It's my cheat day",
+    "japanese": "徹底（てってい）的（てき）に。／隅々（すみずみ）まで。"
+  },
+  {
+    "id": 1067,
+    "primary": "I'm at a loss for words.",
+    "japanese": "完全に（かんぜんに）。／丸（まる）ごと。"
+  },
+  {
+    "id": 1068,
+    "primary": "We went the extra mile.",
+    "japanese": "一層（いっそう）努力（どりょく）した。／期待（きたい）以上（いじょう）のことをした。"
+  },
+  {
+    "id": 1069,
+    "primary": "I canceled them.",
+    "japanese": "彼ら（かれら）を拒絶（きょぜつ）した。／彼らをお釈放（しゃほう）した。"
+  },
+  {
+    "id": 1070,
+    "primary": "I was swamped with work.",
+    "japanese": "仕事（しごと）に追わ（おわ）れていた。／仕事が山積み（やまづみ）だった。"
+  },
+  {
+    "id": 1071,
+    "primary": "That's as cheap as chips.",
+    "japanese": "とても安い（やすい）。／二束三文（にそくさんもん）だ。"
+  },
+  {
+    "id": 1072,
+    "primary": "Make yourself at home.",
+    "japanese": "絶対（ぜったい）に。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 1073,
+    "primary": "Take it or leave it.",
+    "japanese": "嫌（いや）ならやめろ。／これしかない。"
+  },
+  {
+    "id": 1074,
+    "primary": "I don't want to have egg on my face.",
+    "japanese": "恥（はじ）をかきたくない。／面目（めんぼく）を失い（うしない）たくくない。"
+  },
+  {
+    "id": 1075,
+    "primary": "I'm at a crossroads.",
+    "japanese": "岐路（きろ）に立た（たた）されている。／大きな（おおきな）分かれ道（わかれみち）にいる。"
+  },
+  {
+    "id": 1076,
+    "primary": "I'm an open book.",
+    "japanese": "私（わたし）は何（なに）も隠さ（かくさ）ない。／隠し事（かくしごと）のない人間（にんげん）だ。"
+  },
+  {
+    "id": 1077,
+    "primary": "There was a little bit of a kerfuffle.",
+    "japanese": "ちょっとした騒動（そうどう）があった。／小競り合い（こぜりあい）があった。"
+  },
+  {
+    "id": 1078,
+    "primary": "The boys didn't cut the mustard.",
+    "japanese": "期待（きたい）に応え（こたえ）られなかった。／役不足（やくぶそく）だった。"
+  },
+  {
+    "id": 1079,
+    "primary": "How thoughtful of you to say that.",
+    "japanese": "効果（こうか）的（てき）に。／有効（ゆうこう）に。"
+  },
+  {
+    "id": 1080,
+    "primary": "There is a fat chance of you winning.",
+    "japanese": "効率（こうりつ）的（てき）に。／スピーディーに。"
+  },
+  {
+    "id": 1081,
+    "primary": "He finally got the message.",
+    "japanese": "成功（せいこう）して。／順調（じゅんちょう）に。"
+  },
+  {
+    "id": 1082,
+    "primary": "He's lying through his teeth.",
+    "japanese": "彼（かれ）は真っ赤な（まっかな）嘘（うそ）をついている。／彼は平気（へいき）で嘘をつく。"
+  },
+  {
+    "id": 1083,
+    "primary": "For lack of a better word",
+    "japanese": "他（ほか）に適当な（てきとうな）言葉（ことば）が見当たら（みあたら）ないが。／言葉は悪い（わるい）が。"
+  },
+  {
+    "id": 1084,
+    "primary": "It's time to get moving.",
+    "japanese": "出発（しゅっぱつ）の時間（じかん）だ。／さあ、行こ（いこ）う。"
+  },
+  {
+    "id": 1085,
+    "primary": "That's the spirit!",
+    "japanese": "その意気（いき）だ！／いいぞ！"
+  },
+  {
+    "id": 1086,
+    "primary": "I'm on the mend.",
+    "japanese": "回復（かいふく）に向かって（むかって）いる。／良（よ）くなってきている。"
+  },
+  {
+    "id": 1087,
+    "primary": "You sold me.",
+    "japanese": "納得（なっとく）したよ。／君（きみ）の勝ち（かち）だ。"
+  },
+  {
+    "id": 1088,
+    "primary": "I can't wrap my head around that.",
+    "japanese": "理解（りかい）できない。／さっぱりわかならい。"
+  },
+  {
+    "id": 1089,
+    "primary": "That's so sweet of you.",
+    "japanese": "なんて優しい（やさしい）の。／とても親切（しんせつ）ですね。"
+  },
+  {
+    "id": 1090,
+    "primary": "I'll figure it out.",
+    "japanese": "解決（かいけつ）してみせる。／何とか（なんとか）する。"
+  },
+  {
+    "id": 1091,
+    "primary": "Mobile technology is taking center stage.",
+    "japanese": "モバイル技術（ぎじゅつ）が主役（しゅやく）になりつつある。／モバイルが主流（しゅりゅう）だ。"
+  },
+  {
+    "id": 1092,
+    "primary": "He will lay bare the ugly truth.",
+    "japanese": "彼（かれ）は無惨な（むざんな）真実（しんじつ）を暴く（あばく）だろう。／彼は真実をさらけ出す。"
+  },
+  {
+    "id": 1093,
+    "primary": "I will leave no stone unturned.",
+    "japanese": "確か（たしか）に。／間違い（まちがい）なく。"
+  },
+  {
+    "id": 1094,
+    "primary": "I'm off to the gym.",
+    "japanese": "確か（たしか）に。／きっと。"
+  },
+  {
+    "id": 1095,
+    "primary": "Here's the thing.",
+    "japanese": "間違い（まちがい）なく。／断固（だんこ）として。"
+  },
+  {
+    "id": 1096,
+    "primary": "The day can't come soon enough.",
+    "japanese": "待ち遠（まちどお）しい。／早く（はやく）その日が来てほしい。"
+  },
+  {
+    "id": 1097,
+    "primary": "He has clout.",
+    "japanese": "彼（かれ）には影響力（えいきょうりょく）がある。／彼は力（ちから）を持っている。"
+  },
+  {
+    "id": 1098,
+    "primary": "He vanished into thin air.",
+    "japanese": "彼（かれ）は跡形（あとかた）もなく消えた（きえた）。／彼は煙（けむり）のように消え去っ（きえさっ）た。"
+  },
+  {
+    "id": 1099,
+    "primary": "Don't change the subject.",
+    "japanese": "話（はなし）を逸らさ（そらさ）ないで。／話題（わだい）を変え（かえ）ないで。"
+  },
+  {
+    "id": 1100,
+    "primary": "I'm a glass half full person.",
+    "japanese": "隠（かく）さずに。／公家（おおやけ）に。"
+  },
+  {
+    "id": 1101,
+    "primary": "Money doesn't grow on trees.",
+    "japanese": "正直（しょうじき）に。／ありのまま。"
+  },
+  {
+    "id": 1102,
+    "primary": "Let's get into the swing of things.",
+    "japanese": "心（こころ）から。／誠実（せいじつ）に。"
+  },
+  {
+    "id": 1103,
+    "primary": "I'm working on it.",
+    "japanese": "今（いま）やってるところだよ。／取り掛かって（とりかかって）います。"
+  },
+  {
+    "id": 1104,
+    "primary": "She dropped a bombshell.",
+    "japanese": "彼女（かのじょ）は衝撃（しょうげき）の事実（じじつ）を明かし（あかし）た。／爆弾（ばくだん）発言（はつげん）をした。"
+  },
+  {
+    "id": 1105,
+    "primary": "I was in a quandary.",
+    "japanese": "単（たん）に。／ありのままに。"
+  },
+  {
+    "id": 1106,
+    "primary": "It is what it is",
+    "japanese": "手短（てみじか）に。／簡潔（かんけつ）に。"
+  },
+  {
+    "id": 1107,
+    "primary": "I pulled an all-nighter.",
+    "japanese": "間もなく（まもなく）。／近いうちに（ちかいうちに）。"
+  },
+  {
+    "id": 1108,
+    "primary": "He has a heart of gold.",
+    "japanese": "速やか（すみやか）に。／急（いそ）いで。"
+  },
+  {
+    "id": 1109,
+    "primary": "Right off the bat",
+    "japanese": "即座（そくざ）に。／いきなり。"
+  },
+  {
+    "id": 1110,
+    "primary": "From day one",
+    "japanese": "初日（しょにち）から。／最初（さいしょ）からずっと。"
+  },
+  {
+    "id": 1111,
+    "primary": "This is a walk in the park.",
+    "japanese": "直ちに（ただちに）。／今（いま）すぐ。"
+  },
+  {
+    "id": 1112,
+    "primary": "Speak for yourself.",
+    "japanese": "迅速（じんそく）に。／即座（そくざ）に。"
+  },
+  {
+    "id": 1113,
+    "primary": "Get your act together.",
+    "japanese": "しっかりしろ。／ちゃんと立て直し（たてなおし）なさい。"
+  },
+  {
+    "id": 1114,
+    "primary": "I'm not phased.",
+    "japanese": "急速（きゅうそく）に。／どんどん。"
+  },
+  {
+    "id": 1115,
+    "primary": "Don't drag your feet.",
+    "japanese": "だらだらするな。／もたもたしないで。"
+  },
+  {
+    "id": 1116,
+    "primary": "Knock it off!",
+    "japanese": "やめろ！／いい加減（いいかげん）にしろ！"
+  },
+  {
+    "id": 1117,
+    "primary": "What brought you here?",
+    "japanese": "何（なに）しに来（き）たの？／どうしてここへ？"
+  },
+  {
+    "id": 1118,
+    "primary": "The ball is in your court.",
+    "japanese": "君（きみ）次第（しだい）だ。／ボールは君のコートにある。"
+  },
+  {
+    "id": 1119,
+    "primary": "That will be the day.",
+    "japanese": "そんな日（ひ）は来（こ）ないよ。／まさかあり得ない（ありえない）。"
+  },
+  {
+    "id": 1120,
+    "primary": "They're fighting tooth and nail.",
+    "japanese": "必死（ひっし）に戦って（たたかって）いる。／激しく（はげしく）争って（あらそって）いる。"
+  },
+  {
+    "id": 1121,
+    "primary": "I passed with flying colors.",
+    "japanese": "見事（みごと）に合格（ごうかく）した。／楽々（らくらく）パスした。"
+  },
+  {
+    "id": 1122,
+    "primary": "I don't want to make a scene.",
+    "japanese": "強大（きょうだい）に。／力強く（ちからづよく）。"
+  },
+  {
+    "id": 1123,
+    "primary": "That cracked me up.",
+    "japanese": "強く（つよく）。／激（はげ）しく。"
+  },
+  {
+    "id": 1124,
+    "primary": "I'll have you know.",
+    "japanese": "断固（だんこ）として。／しっかりと。"
+  },
+  {
+    "id": 1125,
+    "primary": "Better safe than sorry",
+    "japanese": "備え（そなえ）あれば憂い（うれい）なし。／後（あと）で後悔（こうかい）するよりはいい。"
+  },
+  {
+    "id": 1126,
+    "primary": "You're telling me!",
+    "japanese": "本当（ほんとう）にその通り（とおり）だよ！／全（まった）く同感（どうかん）だ。"
+  },
+  {
+    "id": 1127,
+    "primary": "His wife chewed him out.",
+    "japanese": "奥（おく）さんにひどく叱ら（しから）れた。／奥さんに油（あぶら）を絞（しぼ）られた。"
+  },
+  {
+    "id": 1128,
+    "primary": "Please spread the word.",
+    "japanese": "噂（うわさ）を広めて（ひろめて）ください。／みんなに知らせ（しらせ）て。"
+  },
+  {
+    "id": 1129,
+    "primary": "I hate to break it to you, but.",
+    "japanese": "言い（いい）にくいことなんだけど。／残念（ざんねん）ながらお知らせ（しらせ）しなければ。"
+  },
+  {
+    "id": 1130,
+    "primary": "For all I care.",
+    "japanese": "私（わたし）には関係（かんけい）ない。／どうでもいいよ。"
+  },
+  {
+    "id": 1131,
+    "primary": "Don't sweat it.",
+    "japanese": "気（き）にするな。／心配（しんぱい）しないで。"
+  },
+  {
+    "id": 1132,
+    "primary": "No word of a lie.",
+    "japanese": "嘘（うそ）じゃないよ。／本当（ほんとう）のことだ。"
+  },
+  {
+    "id": 1133,
+    "primary": "People came out of the woodwork.",
+    "japanese": "どこからともなく人（ひと）が湧き（わき）出て（でて）きた。／急（きゅう）に人だかりができた。"
+  },
+  {
+    "id": 1134,
+    "primary": "It's like riding a bike.",
+    "japanese": "体（からだ）が覚え（おぼえ）ているよ。／一度（いちど）覚え（おぼえ）れば忘（わす）れない。"
+  },
+  {
+    "id": 1135,
+    "primary": "I poured over this book.",
+    "japanese": "この本（ほん）を熟読（じゅくどく）した。／詳しく（くわしく）調べ（しらべ）た。"
+  },
+  {
+    "id": 1136,
+    "primary": "It's high time we did.",
+    "japanese": "注意（ちゅうい）深く（ぶかく）。／入念（にゅうねん）に。"
+  },
+  {
+    "id": 1137,
+    "primary": "I don't want to split hairs.",
+    "japanese": "用心深く（ようじんぶかく）。／警戒（けいかい）して。"
+  },
+  {
+    "id": 1138,
+    "primary": "He made a blunder.",
+    "japanese": "失態（しったい）を演じ（えんじ）た。／大失敗（だいしっぱい）をした。"
+  },
+  {
+    "id": 1139,
+    "primary": "He has money to burn.",
+    "japanese": "お金（かね）が腐る（くさる）ほどある。／湯水（ゆみず）のようにお金（かね）を使う（つかう）。"
+  },
+  {
+    "id": 1140,
+    "primary": "I got choked up.",
+    "japanese": "胸（むね）がいっぱいになった。／感極（かんきわ）まって言葉（ことば）に詰まっ（つまっ）た。"
+  },
+  {
+    "id": 1141,
+    "primary": "Better moving than not",
+    "japanese": "動か（うごか）ないよりはましだ。／何（なに）もしないよりいい。"
+  },
+  {
+    "id": 1142,
+    "primary": "You have to learn the ropes.",
+    "japanese": "仕事（しごと）のコツを覚え（おぼえ）なきゃ。／やり方（かた）を学（まな）ぶ。"
+  },
+  {
+    "id": 1143,
+    "primary": "He's milking it.",
+    "japanese": "彼（かれ）は恩着せがましい（おんきせがましい）。／状況（じょうきょう）を最大限（さいだいげん）に利用（りよう）している。"
+  },
+  {
+    "id": 1144,
+    "primary": "You can't cherry pick.",
+    "japanese": "いいところ取り（どり）はできないよ。／好き（すき）なものだけ選ぶ（えらぶ）のはダメだ。"
+  },
+  {
+    "id": 1145,
+    "primary": "You hit the bullseye.",
+    "japanese": "図星（ずぼし）だね。／核心（かくしん）を突い（つい）たね。"
+  },
+  {
+    "id": 1146,
+    "primary": "What's in a name?",
+    "japanese": "名前（なまえ）なんて関係（かんけい）ない。／名（な）が何（なに）を語る（かたる）というのか。"
+  },
+  {
+    "id": 1147,
+    "primary": "He walks the walk.",
+    "japanese": "彼（かれ）は有言実行（ゆうげんじっこう）だ。／口（くち）先（さき）だけじゃない。"
+  },
+  {
+    "id": 1148,
+    "primary": "We'll cross that bridge when we come to it.",
+    "japanese": "その時（とき）が来（き）たら考え（かんがえ）よう。／明日は明日の風が吹く。"
+  },
+  {
+    "id": 1149,
+    "primary": "Let's let the dust settle.",
+    "japanese": "落ち着く（おちつく）のを待と（まと）う。／様子（ようす）を見（み）よう。"
+  },
+  {
+    "id": 1150,
+    "primary": "He was as hard as nails.",
+    "japanese": "礼儀（れいぎ）正しく（ただしく）。／丁寧（ていねい）に。"
+  },
+  {
+    "id": 1151,
+    "primary": "You have what it takes to succeed.",
+    "japanese": "優しく（やさしく）。／穏やか（おだやか）に。"
+  },
+  {
+    "id": 1152,
+    "primary": "Don't push your luck.",
+    "japanese": "調子（ちょうし）に乗り（のり）すぎるな。／運（うん）を使い果たす（つかいはたす）な。"
+  },
+  {
+    "id": 1153,
+    "primary": "I'm at the end of my rope.",
+    "japanese": "もう限界（げんかい）だ。／堪忍袋（かんにんぶくろ）の緒（お）が切れ（きれ）た。"
+  },
+  {
+    "id": 1154,
+    "primary": "It's a small world.",
+    "japanese": "世間（せけん）は狭い（せまい）ね。／奇遇（きぐう）だね。"
+  },
+  {
+    "id": 1155,
+    "primary": "You're on thin ice.",
+    "japanese": "危ない（あぶない）状況（じょうきょう）だよ。／薄氷（はくひょう）を履（ふ）む思い（おもい）だ。"
+  },
+  {
+    "id": 1156,
+    "primary": "I'll give it a shot.",
+    "japanese": "友好（ゆうこう）的に（てきに）。／親しみ（したしみ）やすく。"
+  },
+  {
+    "id": 1157,
+    "primary": "You can never be too careful",
+    "japanese": "念（ねん）には念（ねん）を。／注意（ちゅうい）しすぎることはない。"
+  },
+  {
+    "id": 1158,
+    "primary": "That's a wrap.",
+    "japanese": "これでおしまいだ。／完成（かんせい）だ。"
+  },
+  {
+    "id": 1159,
+    "primary": "Don't jump to conclusions.",
+    "japanese": "早とちり（はやとちり）しないで。／決め（きめ）つけないで。"
+  },
+  {
+    "id": 1160,
+    "primary": "Right up my alley",
+    "japanese": "私（わたし）にぴったりだ。／ちょうど好み（このみ）だ。"
+  },
+  {
+    "id": 1161,
+    "primary": "It's written all over your face.",
+    "japanese": "熱心（ねっしん）に。／意欲（いよく）的（てき）に。"
+  },
+  {
+    "id": 1162,
+    "primary": "This is for me",
+    "japanese": "私（わたし）にふさわしい。／これがいい。"
+  },
+  {
+    "id": 1163,
+    "primary": "The sky is the limit.",
+    "japanese": "可能性（かのうせい）は無限（むげん）だ。／限界（げんかい）はない。"
+  },
+  {
+    "id": 1164,
+    "primary": "Practice makes perfect.",
+    "japanese": "進ん（すすん）で。／快（こころよ）く。"
+  },
+  {
+    "id": 1165,
+    "primary": "I got LASIK.",
+    "japanese": "直ちに（ただちに）。／すぐさま。"
+  },
+  {
+    "id": 1166,
+    "primary": "How long is the wait?",
+    "japanese": "待ち時間（まちじかん）はどれくらい？／何分（なんぷん）待ちですか？"
+  },
+  {
+    "id": 1167,
+    "primary": "Nature calls.",
+    "japanese": "お手洗い（おてあらい）に行って（いって）くる。／生理（せいり）現象（げんしょう）だ。"
+  },
+  {
+    "id": 1168,
+    "primary": "Drop me off there.",
+    "japanese": "そこで降ろして（おろして）ください。／あそこで停めて（とめて）。"
+  },
+  {
+    "id": 1169,
+    "primary": "You look better in person.",
+    "japanese": "実物（じつぶつ）の方（ほう）が素敵（すてき）だね。／写真（しゃしん）よりずっといい。"
+  },
+  {
+    "id": 1170,
+    "primary": "Could you make that two, please?",
+    "japanese": "同じ（おなじ）ものを2つ（ふたつ）ください。／2つにお願い（おねがい）します。"
+  },
+  {
+    "id": 1171,
+    "primary": "Keep your voice down.",
+    "japanese": "声（こえ）を抑えて（おさえて）。／静か（しずか）にして。"
+  },
+  {
+    "id": 1172,
+    "primary": "Walk it off.",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 1173,
+    "primary": "I tossed and turned all night.",
+    "japanese": "一（ひと）晩（ばん）中（じゅう）寝返り（ねがえり）を打って（うって）いた。／まんじりともしなかった。"
+  },
+  {
+    "id": 1174,
+    "primary": "I have two left feet.",
+    "japanese": "ダンスがとても下手（へた）だ。／不器用（ぶきよう）だ。"
+  },
+  {
+    "id": 1175,
+    "primary": "My face is breaking out.",
+    "japanese": "顔（かお）に吹き出物（ふきでもの）ができた。／肌（はだ）が荒れて（あれて）いる。"
+  },
+  {
+    "id": 1176,
+    "primary": "I want some time off.",
+    "japanese": "休み（やすみ）が欲しい（ほしい）。／休暇（きゅうか）を取り（とり）たい。"
+  },
+  {
+    "id": 1177,
+    "primary": "I'm not good with my hands.",
+    "japanese": "手先（てさき）が不器用（ぶきよう）だ。／工作（こうさく）が苦手（にがて）だ。"
+  },
+  {
+    "id": 1178,
+    "primary": "I have a nosebleed.",
+    "japanese": "鼻血（はなぢ）が出た（でた）。／鼻血が止まら（とまら）ない。"
+  },
+  {
+    "id": 1179,
+    "primary": "I'm pooped.",
+    "japanese": "くたくただ。／疲れ果て（つかれはて）た。"
+  },
+  {
+    "id": 1180,
+    "primary": "I'm tone-deaf.",
+    "japanese": "気前（きまえ）よく。／寛大（かんだい）に。"
+  },
+  {
+    "id": 1181,
+    "primary": "It's been a little hectic.",
+    "japanese": "気前（きまえ）よく。／たっぷり。"
+  },
+  {
+    "id": 1182,
+    "primary": "It bugs me.",
+    "japanese": "イライラする。／鼻（はな）につく。"
+  },
+  {
+    "id": 1183,
+    "primary": "Not to my knowledge.",
+    "japanese": "私（わたし）の知る限り（しるかぎり）では。／心当たり（こころあたり）はない。"
+  },
+  {
+    "id": 1184,
+    "primary": "Lost cause.",
+    "japanese": "見込み（みこみ）がない。／どうしようもない。"
+  },
+  {
+    "id": 1185,
+    "primary": "That's a blast from the past.",
+    "japanese": "適切（てきせつ）に。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 1186,
+    "primary": "My lips are sealed.",
+    "japanese": "満足（まんぞく）に。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 1187,
+    "primary": "Hit the books.",
+    "japanese": "猛勉強（もうべんきょう）する。／机（つくえ）に向かう（むかう）。"
+  },
+  {
+    "id": 1188,
+    "primary": "I spaced out.",
+    "japanese": "効率（こうりつ）的（てき）に。／手際（てぎわ）よく。"
+  },
+  {
+    "id": 1189,
+    "primary": "Do you guys carry Nike?",
+    "japanese": "効果（こうか）的（てき）に。／実効（じっこう）性（せい）のある。"
+  },
+  {
+    "id": 1190,
+    "primary": "Can you tell?",
+    "japanese": "わかる？／バレてる？"
+  },
+  {
+    "id": 1191,
+    "primary": "He is full of himself.",
+    "japanese": "うぬぼれている。／自信（じしん）過剰（かじょう）だ。"
+  },
+  {
+    "id": 1192,
+    "primary": "Do you happen to know?",
+    "japanese": "ご存知（ぞんじ）ですか？／心当たり（こころあたり）はありますか？"
+  },
+  {
+    "id": 1193,
+    "primary": "It's fattening.",
+    "japanese": "太る（ふとる）よ。／カロリーが高い（たかい）。"
+  },
+  {
+    "id": 1194,
+    "primary": "Give her my best.",
+    "japanese": "彼女（かのじょ）によろしく。／安否（あんぴ）を伝え（つたえ）て。"
+  },
+  {
+    "id": 1195,
+    "primary": "Dressed to kill.",
+    "japanese": "最高（さいこう）のおめかしだね。／ばっちり決まって（きまって）いる。"
+  },
+  {
+    "id": 1196,
+    "primary": "Because I can.",
+    "japanese": "勝手（かって）でしょ。／私（わたし）の自由（じゆう）だ。"
+  },
+  {
+    "id": 1197,
+    "primary": "Just because.",
+    "japanese": "広く（ひろく）。／広範囲（こうはんい）に。"
+  },
+  {
+    "id": 1198,
+    "primary": "First come, first served.",
+    "japanese": "大まかに（おおまかに）。／幅広（はばひろ）く。"
+  },
+  {
+    "id": 1199,
+    "primary": "Good with people",
+    "japanese": "人当たり（ひとあたり）がいい。／社交（しゃこう）的（てき）だ。"
+  },
+  {
+    "id": 1200,
+    "primary": "I can feel it in my bones.",
+    "japanese": "世界（せかい）的（てき）に。／地球（ちきゅう）規模（きぼ）で。"
+  },
+  {
+    "id": 1201,
+    "primary": "Let's order in.",
+    "japanese": "国内（こくない）で。／家庭（かてい）内（ない）で。"
+  },
+  {
+    "id": 1202,
+    "primary": "Bless you",
+    "japanese": "地元（じもと）で。／その土地（とち）で。"
+  },
+  {
+    "id": 1203,
+    "primary": "He is very low-key.",
+    "japanese": "控えめ（ひかえめ）だね。／地味（じみ）だね。"
+  },
+  {
+    "id": 1204,
+    "primary": "It's lit.",
+    "japanese": "盛り上がって（もりあがって）るね！／ヤバいね！"
+  },
+  {
+    "id": 1205,
+    "primary": "I have a hunch",
+    "japanese": "内部（ないぶ）で。／心（こころ）の中（なか）で。"
+  },
+  {
+    "id": 1206,
+    "primary": "It's on the tip of my tongue.",
+    "japanese": "外部（がいぶ）で。／外見（がいけん）上（じょう）。"
+  },
+  {
+    "id": 1207,
+    "primary": "What brings you here?",
+    "japanese": "どうしてここへ？／何（なに）かあった？"
+  },
+  {
+    "id": 1208,
+    "primary": "Don't get any funny ideas.",
+    "japanese": "変（へん）な勘（かん）違い（ちがい）をするな。／おかしなこと考えるなよ。"
+  },
+  {
+    "id": 1209,
+    "primary": "I'm not much of a coffee person.",
+    "japanese": "コーヒーはあんまり飲ま（のま）ないんだ。／コーヒー派（は）じゃない。"
+  },
+  {
+    "id": 1210,
+    "primary": "I don't follow.",
+    "japanese": "話（はなし）が見えない（みえない）。／理解（りかい）できない。"
+  },
+  {
+    "id": 1211,
+    "primary": "Are you wearing perfume?",
+    "japanese": "香水（こうすい）つけてる？／いい匂い（におい）がするね。"
+  },
+  {
+    "id": 1212,
+    "primary": "We have bigger fish to fry.",
+    "japanese": "もっと大事（だいじ）な用（よう）がある。／それどころじゃない。"
+  },
+  {
+    "id": 1213,
+    "primary": "I have my hands full.",
+    "japanese": "手（て）がいっぱいだ。／忙しくて（いそがしくて）手が回ら（まわら）ない。"
+  },
+  {
+    "id": 1214,
+    "primary": "How can that be?",
+    "japanese": "どうしてそんなことに？／ありえない。"
+  },
+  {
+    "id": 1215,
+    "primary": "Potato, potahto, tomato, tomahto.",
+    "japanese": "どっちも同じ（おなじ）ことだ。／似たり寄ったり（にたりよったり）だ。"
+  },
+  {
+    "id": 1216,
+    "primary": "It's not my day.",
+    "japanese": "つい（つい）てない日（ひ）だ。／厄日（やくび）だ。"
+  },
+  {
+    "id": 1217,
+    "primary": "Far from it.",
+    "japanese": "全然（ぜんぜん）違う（ちがう）よ。／ほど遠い（ほどとおい）。"
+  },
+  {
+    "id": 1218,
+    "primary": "Fancy meeting you here!",
+    "japanese": "奇遇（きぐう）だね！／会え（あえ）て嬉しい（うれしい）よ。"
+  },
+  {
+    "id": 1219,
+    "primary": "I never thought of that.",
+    "japanese": "思い（おもい）もよらなかった。／考え（かんがえ）もしなかった。"
+  },
+  {
+    "id": 1220,
+    "primary": "Are you gonna run some errands?",
+    "japanese": "正式（せいしき）に。／形式（けいしき）的（てき）に。"
+  },
+  {
+    "id": 1221,
+    "primary": "I just did the best I could.",
+    "japanese": "非（ひ）公式（こうしき）に。／略式（りゃくしき）で。"
+  },
+  {
+    "id": 1222,
+    "primary": "Get to the point.",
+    "japanese": "単刀直入（たんとうちょくにゅう）に言っ（いっ）て。／要点（ようてん）を言っ（いっ）て。"
+  },
+  {
+    "id": 1223,
+    "primary": "Do I have to spell it out for you?",
+    "japanese": "いちいち言わ（いわ）なきゃわからない？／察して（さっして）よ。"
+  },
+  {
+    "id": 1224,
+    "primary": "I can't get through to her.",
+    "japanese": "彼女（かのじょ）には通じ（つうじ）ない。／話（はなし）が通ら（とおら）ない。"
+  },
+  {
+    "id": 1225,
+    "primary": "Take a wild guess.",
+    "japanese": "適当（てきとう）に当て（あて）てみて。／勘（かん）で言っ（いっ）てみて。"
+  },
+  {
+    "id": 1226,
+    "primary": "No more wishy-washy.",
+    "japanese": "故意（こい）に。／あえて。"
+  },
+  {
+    "id": 1227,
+    "primary": "Sue me!",
+    "japanese": "意図（いと）的（てき）に。／狙っ（ねらっ）て。"
+  },
+  {
+    "id": 1228,
+    "primary": "Just making chit chat.",
+    "japanese": "雑談（ざつだん）してるだけだよ。／おしゃべりしてただけ。"
+  },
+  {
+    "id": 1229,
+    "primary": "We won by a nose.",
+    "japanese": "僅差（きんさ）で勝っ（かっ）た。／危うく（あやうく）勝っ（かっ）た。"
+  },
+  {
+    "id": 1230,
+    "primary": "That's on you.",
+    "japanese": "君（きみ）の責任（せきにん）だ。／君のせいだよ。"
+  },
+  {
+    "id": 1231,
+    "primary": "I'm totally out of shape.",
+    "japanese": "同時（どうじ）に。／一緒（いっしょ）のタイミングで。"
+  },
+  {
+    "id": 1232,
+    "primary": "Why are you dressed up?",
+    "japanese": "何（なに）を気取って（きどって）るの？／お洒落（おしゃれ）してどこ行く（いく）の？"
+  },
+  {
+    "id": 1233,
+    "primary": "I bought it for a song.",
+    "japanese": "格安（かくやす）で買っ（かっ）た。／二束三文（にそくさんもん）で手（て）に入れた。"
+  },
+  {
+    "id": 1234,
+    "primary": "That was a close call!",
+    "japanese": "たまに。／時々（ときどき）。"
+  },
+  {
+    "id": 1235,
+    "primary": "Likewise.",
+    "japanese": "めったに〜ない。／まれ。"
+  },
+  {
+    "id": 1236,
+    "primary": "You made my day.",
+    "japanese": "君（きみ）のおかげで最高（さいこう）の一（いち）日（にち）になった。／嬉しい（うれしい）よ。"
+  },
+  {
+    "id": 1237,
+    "primary": "What a small world.",
+    "japanese": "世間（せけん）は狭い（せまい）ね。／なんて奇遇（きぐう）なんだ。"
+  },
+  {
+    "id": 1238,
+    "primary": "I didn't see this coming.",
+    "japanese": "頻繁（ひんぱん）に。／しょっちゅう。"
+  },
+  {
+    "id": 1239,
+    "primary": "Sorry about the mess.",
+    "japanese": "散らかって（ちらかって）てごめんね。／汚い（きたない）けど。"
+  },
+  {
+    "id": 1240,
+    "primary": "Everyone speaks highly of you.",
+    "japanese": "みんな君（きみ）を褒めて（ほめて）いるよ。／評判（ひょうばん）がいいね。"
+  },
+  {
+    "id": 1241,
+    "primary": "You have to put yourself in my shoes.",
+    "japanese": "永久（えいきゅう）的に。／ずっと。"
+  },
+  {
+    "id": 1242,
+    "primary": "Where have you been?",
+    "japanese": "一時（いちじ）的に。／当面（とうめん）の間（あいだ）。"
+  },
+  {
+    "id": 1243,
+    "primary": "Don't be a stranger.",
+    "japanese": "たまには顔（かお）を見せて（みせて）。／音信（おんしん）不通（ふつう）にならないで。"
+  },
+  {
+    "id": 1244,
+    "primary": "All sales are final.",
+    "japanese": "返品（へんぴん）不可（ふか）。／売り切り（うりきり）だ。"
+  },
+  {
+    "id": 1245,
+    "primary": "I never meant to.",
+    "japanese": "直ちに（ただちに）。／今（いま）すぐ。"
+  },
+  {
+    "id": 1246,
+    "primary": "Here's the deal.",
+    "japanese": "こういうことだよ。／条件（じょうけん）はこうだ。"
+  },
+  {
+    "id": 1247,
+    "primary": "Enough chit chat.",
+    "japanese": "雑談（ざつだん）はこれくらいにして。／おしゃべりは終わり（おわり）。"
+  },
+  {
+    "id": 1248,
+    "primary": "We can pull this off.",
+    "japanese": "やり遂げ（やりとげ）られるよ。／成功（せいこう）させよう。"
+  },
+  {
+    "id": 1249,
+    "primary": "You have my word.",
+    "japanese": "約束（やくそく）するよ。／誓って（ちかって）もいい。"
+  },
+  {
+    "id": 1250,
+    "primary": "Time's up.",
+    "japanese": "時間（じかん）切れ（ぎれ）だ。／時間終了（しゅうりょう）。"
+  },
+  {
+    "id": 1251,
+    "primary": "Do I know you from somewhere?",
+    "japanese": "どこかでお会い（おあい）しましたか？／見覚え（みおぼえ）があるんだけど。"
+  },
+  {
+    "id": 1252,
+    "primary": "Fake it till you make it.",
+    "japanese": "徐々（じょじょ）に。／少し（すこし）ずつ。"
+  },
+  {
+    "id": 1253,
+    "primary": "Don't take it personally.",
+    "japanese": "悪く（わるく）思わ（おもわ）ないで。／個人（こじん）的（てき）な感情（かんじょう）はないよ。"
+  },
+  {
+    "id": 1254,
+    "primary": "That's the way it is.",
+    "japanese": "そういうものだよ。／仕方（しかた）がない。"
+  },
+  {
+    "id": 1255,
+    "primary": "Don't be ridiculous.",
+    "japanese": "馬鹿（ばか）げてる。／おかしなこと言わ（いわ）ないで。"
+  },
+  {
+    "id": 1256,
+    "primary": "I got dumped.",
+    "japanese": "振ら（ふら）れちゃった。／失恋（しつれん）した。"
+  },
+  {
+    "id": 1257,
+    "primary": "Now it makes sense.",
+    "japanese": "やっとわかったよ。／腑（ふ）に落ち（おち）た。"
+  },
+  {
+    "id": 1258,
+    "primary": "Let's get it over with.",
+    "japanese": "さっさと済ませ（すませ）よう。／早く（はやく）終わら（おわら）せよう。"
+  },
+  {
+    "id": 1259,
+    "primary": "What a shame.",
+    "japanese": "残念（ざんねん）だね。／気の毒（きのどく）に。"
+  },
+  {
+    "id": 1260,
+    "primary": "She's obsessed with you.",
+    "japanese": "鋭く（ふるどく）。／急激（きゅうげき）に。"
+  },
+  {
+    "id": 1261,
+    "primary": "Are you with me?",
+    "japanese": "わかってる？／つい（つい）てきてる？"
+  },
+  {
+    "id": 1262,
+    "primary": "Mind your business.",
+    "japanese": "お節介（おせっかい）はやめて。／君（きみ）には関係（かんけい）ない。"
+  },
+  {
+    "id": 1263,
+    "primary": "I overreacted.",
+    "japanese": "密接（みっせつ）に。／きめ細かく。"
+  },
+  {
+    "id": 1264,
+    "primary": "I have nothing to do with that.",
+    "japanese": "私（わたし）には一切（いっさい）関係（かんけい）ない。／関わり（かかわり）たくない。"
+  },
+  {
+    "id": 1265,
+    "primary": "I think I'll pass.",
+    "japanese": "遠慮（えんりょ）しておくよ。／見送り（みおくり）ます。"
+  },
+  {
+    "id": 1266,
+    "primary": "There's been a big mistake.",
+    "japanese": "断固（だんこ）として。／しっかりと。"
+  },
+  {
+    "id": 1267,
+    "primary": "I gotta get some air.",
+    "japanese": "外（そと）の空気（くうき）を吸って（すって）くる。／ちょっと外（そと）へ。"
+  },
+  {
+    "id": 1268,
+    "primary": "Okay if we take a rain check?",
+    "japanese": "安全（あんぜん）に。／無事（ぶじ）に。"
+  },
+  {
+    "id": 1269,
+    "primary": "Don't hold your breath.",
+    "japanese": "正しく（ただしく）。／正確（せいかく）に。"
+  },
+  {
+    "id": 1270,
+    "primary": "He's not with me.",
+    "japanese": "適切（てきせつ）に。／ちゃんと。"
+  },
+  {
+    "id": 1271,
+    "primary": "I can't catch a break.",
+    "japanese": "全く（まったく）休（やす）めない。／不運（ふうん）が続く（つづく）。"
+  },
+  {
+    "id": 1272,
+    "primary": "Do me a favor.",
+    "japanese": "効果（こうか）的（てき）に。／有効（ゆうこう）に。"
+  },
+  {
+    "id": 1273,
+    "primary": "I knew it.",
+    "japanese": "やっぱりね。／そうなると思って（おもって）たよ。"
+  },
+  {
+    "id": 1274,
+    "primary": "I take it back.",
+    "japanese": "今（いま）のは取り消す（とりけす）よ。／言い（いい）直す（なおす）ね。"
+  },
+  {
+    "id": 1275,
+    "primary": "Jinx!",
+    "japanese": "完全に（かんぜんに）。／丸（まる）ごと。"
+  },
+  {
+    "id": 1276,
+    "primary": "Not necessarily.",
+    "japanese": "すっかり。／そっくりそのまま。"
+  },
+  {
+    "id": 1277,
+    "primary": "Ta-da!",
+    "japanese": "ジャジャーン！／見て（みて）！"
+  },
+  {
+    "id": 1278,
+    "primary": "We're on the same page.",
+    "japanese": "全く（まったく）。／すっかり。"
+  },
+  {
+    "id": 1279,
+    "primary": "What do you say?",
+    "japanese": "どう思う（おもう）？／どうする？"
+  },
+  {
+    "id": 1280,
+    "primary": "I warned you this would happen.",
+    "japanese": "絶対（ぜったい）に。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 1281,
+    "primary": "It's water under the bridge.",
+    "japanese": "完璧（かんぺき）に。／申し分（もうしぶん）なく。"
+  },
+  {
+    "id": 1282,
+    "primary": "I have a ballpark figure.",
+    "japanese": "完全に（かんぜんに）。／十分に（じゅうぶんに）。"
+  },
+  {
+    "id": 1283,
+    "primary": "Don't beat yourself up.",
+    "japanese": "自分（じぶん）を責め（せめ）ないで。／落ち込ま（おちこま）ないで。"
+  },
+  {
+    "id": 1284,
+    "primary": "He cheated on me.",
+    "japanese": "浮気（うわき）された。／裏切ら（うらぎら）れた。"
+  },
+  {
+    "id": 1285,
+    "primary": "I'm so screwed.",
+    "japanese": "もう終わり（おわり）だ。／最悪（さいあく）だ。"
+  },
+  {
+    "id": 1286,
+    "primary": "You're being so dramatic.",
+    "japanese": "大げさ（おおげさ）だよ。／ドラマチックすぎるよ。"
+  },
+  {
+    "id": 1287,
+    "primary": "You're out of your league.",
+    "japanese": "身の程知らず（みのほどしらず）だよ。／君（きみ）の手（て）には負え（おえ）ない。"
+  },
+  {
+    "id": 1288,
+    "primary": "I'm so relieved.",
+    "japanese": "安心（あんしん）したよ。／ホッとした。"
+  },
+  {
+    "id": 1289,
+    "primary": "He's crazy about you.",
+    "japanese": "彼（かれ）は君（きみ）に夢中（むちゅう）だよ。／君にぞっこんだ。"
+  },
+  {
+    "id": 1290,
+    "primary": "How are we on time?",
+    "japanese": "時間（じかん）はどうかな？／時間はあるかな？"
+  },
+  {
+    "id": 1291,
+    "primary": "Don't try to butter me up.",
+    "japanese": "おべっか（おべっか）は使わ（つかわ）ないで。／機嫌（きげん）取り（とり）はやめて。"
+  },
+  {
+    "id": 1292,
+    "primary": "I do have feelings for you.",
+    "japanese": "君（きみ）に気（き）があるんだ。／好き（すき）なんだ。"
+  },
+  {
+    "id": 1293,
+    "primary": "Don't keep me waiting.",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 1294,
+    "primary": "You guys are so made for each other.",
+    "japanese": "君たち（きみたち）は本当（ほんとう）にお似合い（におにあい）だね。／ベストカップルだ。"
+  },
+  {
+    "id": 1295,
+    "primary": "Suit yourself.",
+    "japanese": "好き（すき）にしろよ。／勝手（かって）にすれば。"
+  },
+  {
+    "id": 1296,
+    "primary": "That should do it.",
+    "japanese": "これで十分（じゅうぶん）だね。／うまくいったね。"
+  },
+  {
+    "id": 1297,
+    "primary": "I'm gonna go freshen up.",
+    "japanese": "ちょっと身なり（みなり）を整えて（ととのえて）くる。／洗面所（せんめんじょ）に行ってくる。"
+  },
+  {
+    "id": 1298,
+    "primary": "You're wearing it backwards.",
+    "japanese": "前後（ぜんご）逆（ぎゃく）に着（き）てるよ。／裏返し（うらがえし）だよ。"
+  },
+  {
+    "id": 1299,
+    "primary": "Will you be home for dinner?",
+    "japanese": "夕食（ゆうしょく）までに帰って（かえって）くる？／夕食（ゆうしょく）いる？"
+  },
+  {
+    "id": 1300,
+    "primary": "I'm afraid we're out of stock.",
+    "japanese": "あいにく在庫（ざいこ）切れ（ぎれ）です。／もうありません。"
+  },
+  {
+    "id": 1301,
+    "primary": "Good call.",
+    "japanese": "いい判断（はんだん）だ。／名案（めいあん）だね。"
+  },
+  {
+    "id": 1302,
+    "primary": "I'm in the same boat.",
+    "japanese": "気前（きまえ）よく。／たっぷり。"
+  },
+  {
+    "id": 1303,
+    "primary": "That's so touching.",
+    "japanese": "豊富（ほうふ）に。／潤沢（じゅんたく）に。"
+  },
+  {
+    "id": 1304,
+    "primary": "I'm speechless.",
+    "japanese": "言葉（ことば）が出ない（でない）。／絶句（ぜっく）したよ。"
+  },
+  {
+    "id": 1305,
+    "primary": "I don't know a thing.",
+    "japanese": "十分（じゅうぶん）に。／足りる（たりる）だけ。"
+  },
+  {
+    "id": 1306,
+    "primary": "Where was I?",
+    "japanese": "何（なに）の話（はなし）をしていたっけ？／どこまで話し（はなし）たかな？"
+  },
+  {
+    "id": 1307,
+    "primary": "Wanna grab some lunch?",
+    "japanese": "満足（まんぞく）のいくように。／十分（じゅうぶん）に。"
+  },
+  {
+    "id": 1308,
+    "primary": "I had a rough night.",
+    "japanese": "大変（たいへん）な夜（よ）だった。／散々（さんざん）な目（め）にあった。"
+  },
+  {
+    "id": 1309,
+    "primary": "This can't be happening.",
+    "japanese": "こんなのありえない。／信じ（しんじ）られない。"
+  },
+  {
+    "id": 1310,
+    "primary": "Now you're talking.",
+    "japanese": "その調子（ちょうし）だ。／やっと話（はなし）が通じ（つうじ）た。"
+  },
+  {
+    "id": 1311,
+    "primary": "You got that right.",
+    "japanese": "成功（せいこう）して。／順調（じゅんちょう）に。"
+  },
+  {
+    "id": 1312,
+    "primary": "I don't see that happening.",
+    "japanese": "そうはならないよ。／あり得ない（ありえない）話だ。"
+  },
+  {
+    "id": 1313,
+    "primary": "Not that I know of.",
+    "japanese": "私（わたし）の知る限り（しるかぎり）ではないね。／聞い（きい）ていないよ。"
+  },
+  {
+    "id": 1314,
+    "primary": "Over my dead body.",
+    "japanese": "豊か（ゆたか）に。／たっぷり。"
+  },
+  {
+    "id": 1315,
+    "primary": "I'm hoping for the best.",
+    "japanese": "華やか（はなやか）に。／立派（りっぱ）に。"
+  },
+  {
+    "id": 1316,
+    "primary": "I'm down.",
+    "japanese": "賛成（さんせい）だよ。／乗っ（のっ）た！"
+  },
+  {
+    "id": 1317,
+    "primary": "No way.",
+    "japanese": "まさか。／ありえない。"
+  },
+  {
+    "id": 1318,
+    "primary": "Mind if I join you?",
+    "japanese": "ご一緒（いっしょ）してもいい？／混ぜ（まぜ）てくれる？"
+  },
+  {
+    "id": 1319,
+    "primary": "Who cares?",
+    "japanese": "優秀（ゆうしゅう）に。／抜きん出（ぬきんで）て。"
+  },
+  {
+    "id": 1320,
+    "primary": "It's not my place.",
+    "japanese": "完璧（かんぺき）に。／理想（りそう）的（てき）に。"
+  },
+  {
+    "id": 1321,
+    "primary": "Follow your heart.",
+    "japanese": "心の（こころの）ままに。／君（きみ）の気持ち（きもち）を信じて（しんじて）。"
+  },
+  {
+    "id": 1322,
+    "primary": "I wouldn't if I were you.",
+    "japanese": "私（わたし）ならやめておくよ。／感心（かんしん）しないな。"
+  },
+  {
+    "id": 1323,
+    "primary": "Do your job.",
+    "japanese": "ちゃんと仕事（しごと）しろ。／責任（せきにん）を果たせ（はたせ）。"
+  },
+  {
+    "id": 1324,
+    "primary": "It's all or nothing.",
+    "japanese": "適切（てきせつ）に。／ちゃんと。"
+  },
+  {
+    "id": 1325,
+    "primary": "Behave yourself.",
+    "japanese": "行儀（ぎょうぎ）よくしなさい。／大人しく（おとなしく）して。"
+  },
+  {
+    "id": 1326,
+    "primary": "What's in it for me?",
+    "japanese": "私（わたし）に何の（なんの）得（とく）があるの？／見返り（みかえり）は何？"
+  },
+  {
+    "id": 1327,
+    "primary": "Shame on you!",
+    "japanese": "正確（せいかく）に。／精密（せいみつ）に。"
+  },
+  {
+    "id": 1328,
+    "primary": "You're one to talk.",
+    "japanese": "まさに。／そのまま。"
+  },
+  {
+    "id": 1329,
+    "primary": "You asked for it.",
+    "japanese": "自業自得（じごうじとく）だね。／君（きみ）が招い（まねい）たことだ。"
+  },
+  {
+    "id": 1330,
+    "primary": "It serves you right!",
+    "japanese": "ざまあみろ！／自業自得（じごうじとく）だ。"
+  },
+  {
+    "id": 1331,
+    "primary": "You catch on quick.",
+    "japanese": "飲み込み（のみこみ）が早い（はやい）ね。／すぐ理解（りかい）したね。"
+  },
+  {
+    "id": 1332,
+    "primary": "Don't blow it.",
+    "japanese": "台無し（だいなし）にするな。／失敗（しっぱい）しないで。"
+  },
+  {
+    "id": 1333,
+    "primary": "Then so be it.",
+    "japanese": "それならそれでいい。／仕方（しかた）がない。"
+  },
+  {
+    "id": 1334,
+    "primary": "Watch your tongue!",
+    "japanese": "言葉（ことば）に気をつけろ（きをつけろ）！／口（くち）を慎め（つつしめ）。"
+  },
+  {
+    "id": 1335,
+    "primary": "I want no part of it.",
+    "japanese": "関わり（かかわり）たくない。／お断り（おことわり）だ。"
+  },
+  {
+    "id": 1336,
+    "primary": "Please don't butt in.",
+    "japanese": "口出し（くちだし）しないで。／口（くち）を挟ま（はさま）ないで。"
+  },
+  {
+    "id": 1337,
+    "primary": "Brace yourself.",
+    "japanese": "覚悟（かくご）しろ。／心（こころ）して。"
+  },
+  {
+    "id": 1338,
+    "primary": "Let's just call it even.",
+    "japanese": "貸し借り（かしかり）なしにしよう。／お互い様（おたがいさま）だ。"
+  },
+  {
+    "id": 1339,
+    "primary": "It's a guy thing.",
+    "japanese": "徹底（てってい）的（てき）に。／細部（さいぶ）まで。"
+  },
+  {
+    "id": 1340,
+    "primary": "She's gonna mooch off us.",
+    "japanese": "完全に（かんぜんに）。／全（まった）く。"
+  },
+  {
+    "id": 1341,
+    "primary": "The same goes for you.",
+    "japanese": "君（きみ）も同じ（おなじ）だよ。／お互い様（おたがいさま）だね。"
+  },
+  {
+    "id": 1342,
+    "primary": "Pull over right here.",
+    "japanese": "ここに停めて（とめて）。／車（くるま）を寄せて（よせて）。"
+  },
+  {
+    "id": 1343,
+    "primary": "Hop in.",
+    "japanese": "乗っ（のっ）て。／早く（はやく）入り（はいり）な。"
+  },
+  {
+    "id": 1344,
+    "primary": "Going my way?",
+    "japanese": "同じ（おなじ）方向（ほうこう）かな？／乗っ（のっ）ていく？"
+  },
+  {
+    "id": 1345,
+    "primary": "You can't miss it.",
+    "japanese": "絶対（ぜったい）に。／完全に（かんぜんに）。"
+  },
+  {
+    "id": 1346,
+    "primary": "I'm stuck in traffic.",
+    "japanese": "渋滞（じゅうたい）に巻き込ま（まきこま）れている。／道（みち）が混んで（こんで）いる。"
+  },
+  {
+    "id": 1347,
+    "primary": "I can't afford it.",
+    "japanese": "完全に（かんぜんに）。／十分に（じゅうぶんに）。"
+  },
+  {
+    "id": 1348,
+    "primary": "Take it up with your boss.",
+    "japanese": "上司（じょうし）に相談（そうだん）して。／ボスと話し（はなし）なさい。"
+  },
+  {
+    "id": 1349,
+    "primary": "Would you scoot a little?",
+    "japanese": "少し（すこし）避け（よけ）てくれる？／詰め（つめ）てくれる？"
+  },
+  {
+    "id": 1350,
+    "primary": "I can hold my head high.",
+    "japanese": "胸（むね）を張れる（はれる）。／誇り（ほこり）に思える（おもえる）。"
+  },
+  {
+    "id": 1351,
+    "primary": "That's all I need.",
+    "japanese": "それだけあれば十分（じゅうぶん）だ。／もう結構（けっこう）だ。"
+  },
+  {
+    "id": 1352,
+    "primary": "I'm doing my hair.",
+    "japanese": "髪（かみ）を整えて（ととのえて）いるんだ。／セットしてるの。"
+  },
+  {
+    "id": 1353,
+    "primary": "Can you break a hundred?",
+    "japanese": "100ドル（どる）札（さつ）を崩して（くずして）くれる？／お釣り（おつり）ある？"
+  },
+  {
+    "id": 1354,
+    "primary": "What an imagination you have.",
+    "japanese": "機嫌（きげん）よく。／楽し（たのし）げに。"
+  },
+  {
+    "id": 1355,
+    "primary": "We've grown apart.",
+    "japanese": "疎遠（そえん）になった。／心（こころ）が離れ（はなれ）た。"
+  },
+  {
+    "id": 1356,
+    "primary": "I just feel drained.",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 1357,
+    "primary": "Get a grip!",
+    "japanese": "しっかりして！／落ち着い（おちつい）て！"
+  },
+  {
+    "id": 1358,
+    "primary": "Can I tag along?",
+    "japanese": "つい（つい）ていってもいい？／一緒（いっしょ）に行ける（いける）？"
+  },
+  {
+    "id": 1359,
+    "primary": "It's a hassle.",
+    "japanese": "面倒（めんどう）だ。／手間（てま）がかかる。"
+  },
+  {
+    "id": 1360,
+    "primary": "So far, so good.",
+    "japanese": "今のところ順調（じゅんちょう）だよ。／問題（もんだい）ない。"
+  },
+  {
+    "id": 1361,
+    "primary": "You haven't changed a bit.",
+    "japanese": "全然（ぜんぜん）変わら（かわら）ないね。／昔（むかし）のままだ。"
+  },
+  {
+    "id": 1362,
+    "primary": "I'm laying low.",
+    "japanese": "公家（おおやけ）に。／人前（ひとまえ）で。"
+  },
+  {
+    "id": 1363,
+    "primary": "Rock on!",
+    "japanese": "最高（さいこう）だね！／頑張（がんば）れ！"
+  },
+  {
+    "id": 1364,
+    "primary": "It's hard to keep up.",
+    "japanese": "つい（つい）ていくのが大変（たいへん）だ。／取り残さ（とりのこさ）れそうだ。"
+  },
+  {
+    "id": 1365,
+    "primary": "That makes two of us.",
+    "japanese": "私（わたし）もだよ。／同じ（おなじ）だね。"
+  },
+  {
+    "id": 1366,
+    "primary": "There, there.",
+    "japanese": "よしよし。／泣か（なか）ないで。"
+  },
+  {
+    "id": 1367,
+    "primary": "It was all for nothing.",
+    "japanese": "無駄（むだ）だった。／骨折り損（ほねおりぞん）のくたびれ儲け（もうけ）だ。"
+  },
+  {
+    "id": 1368,
+    "primary": "There wasn't time.",
+    "japanese": "時間（じかん）がなかったんだ。／間に合わ（まにあわ）なかった。"
+  },
+  {
+    "id": 1369,
+    "primary": "I'm in a bind.",
+    "japanese": "困って（こまって）いるんだ。／板挟み（いたばさみ）だ。"
+  },
+  {
+    "id": 1370,
+    "primary": "He's always on the go.",
+    "japanese": "彼（かれ）はいつも忙しく（いそがしく）している。／休ま（やすま）ないね。"
+  },
+  {
+    "id": 1371,
+    "primary": "I smell a rat.",
+    "japanese": "効果（こうか）的（てき）に。／有効（ゆうこう）に。"
+  },
+  {
+    "id": 1372,
+    "primary": "I could eat a horse.",
+    "japanese": "効率（こうりつ）的（てき）に。／手際（てぎわ）よく。"
+  },
+  {
+    "id": 1373,
+    "primary": "You're all missing my point.",
+    "japanese": "成功（せいこう）して。／順調（じゅんちょう）に。"
+  },
+  {
+    "id": 1374,
+    "primary": "Pardon my language.",
+    "japanese": "言葉遣い（ことばづかい）が悪くて（わるくて）失礼（しつれい）。／口（くち）が滑っ（すべっ）た。"
+  },
+  {
+    "id": 1375,
+    "primary": "Let's just talk turkey.",
+    "japanese": "強く（つよく）。／猛烈（もうれつ）に。"
+  },
+  {
+    "id": 1376,
+    "primary": "I'll come to the point.",
+    "japanese": "断固（だんこ）として。／しっかりと。"
+  },
+  {
+    "id": 1377,
+    "primary": "It carries no weight.",
+    "japanese": "何の（なんの）価値（かち）もない。／重要（じゅうよう）じゃない。"
+  },
+  {
+    "id": 1378,
+    "primary": "Put your feet up.",
+    "japanese": "安全（あんぜん）に。／無事（ぶじ）に。"
+  },
+  {
+    "id": 1379,
+    "primary": "Drop the subject.",
+    "japanese": "この話（はなし）はやめよう。／話題（わだい）を変え（かえ）て。"
+  },
+  {
+    "id": 1380,
+    "primary": "Everything's up in the air.",
+    "japanese": "適切（てきせつ）に。／ちゃんと。"
+  },
+  {
+    "id": 1381,
+    "primary": "Thanks for walking me home.",
+    "japanese": "送って（おくって）くれてありがとう。／家（いえ）まで感謝（かんしゃ）だよ。"
+  },
+  {
+    "id": 1382,
+    "primary": "Speak of the devil!",
+    "japanese": "噂（うわさ）をすれば影（かげ）！／ちょうど噂（うわさ）していたところだよ。"
+  },
+  {
+    "id": 1383,
+    "primary": "Heads or tails!",
+    "japanese": "表（おもて）か裏（うら）か！／コイントスで決め（きめ）よう。"
+  },
+  {
+    "id": 1384,
+    "primary": "Just kicking in.",
+    "japanese": "効き（きき）始めて（はじめて）きた。／少し（すこし）ずつ。"
+  },
+  {
+    "id": 1385,
+    "primary": "Put yourself out there.",
+    "japanese": "自分（じぶん）を出して（だして）いこう。／一歩（いっぽ）踏み出し（ふみだし）て。"
+  },
+  {
+    "id": 1386,
+    "primary": "You're all I've got.",
+    "japanese": "頼（たよ）れるのは君（きみ）だけだ。／君（きみ）しかいないんだ。"
+  },
+  {
+    "id": 1387,
+    "primary": "That figures.",
+    "japanese": "正直（しょうじき）に。／ありのままに。"
+  },
+  {
+    "id": 1388,
+    "primary": "What's there to think about?",
+    "japanese": "考える（かんがえる）までもないでしょ。／当たり前（あたりまえ）だよ。"
+  },
+  {
+    "id": 1389,
+    "primary": "It's out of my hands.",
+    "japanese": "真実（しんじつ）。／誠（まこと）に。"
+  },
+  {
+    "id": 1390,
+    "primary": "Old habits die hard.",
+    "japanese": "三つ子（みつご）の魂（たましい）百（ひゃく）まで。／癖（くせ）はなかなか抜け（ぬけ）ない。"
+  },
+  {
+    "id": 1391,
+    "primary": "Is that what I think it is?",
+    "japanese": "これ、思って（おもって）る通りの（とおりの）もの？／まさかあれか？"
+  },
+  {
+    "id": 1392,
+    "primary": "Just go with it.",
+    "japanese": "流れ（ながれ）に任せ（まかせ）よう。／そのままいこう。"
+  },
+  {
+    "id": 1393,
+    "primary": "In one ear and out the other.",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 1394,
+    "primary": "Like father, like son.",
+    "japanese": "この親（おや）にしてこの子（こ）あり。／そっくりだね。"
+  },
+  {
+    "id": 1395,
+    "primary": "We're not done here.",
+    "japanese": "まだ終わって（おわって）ないよ。／話（はなし）はこれからだ。"
+  },
+  {
+    "id": 1396,
+    "primary": "Here goes nothing.",
+    "japanese": "ダメもとでやってみよう。／いちかばちかだ。"
+  },
+  {
+    "id": 1397,
+    "primary": "It's now or never.",
+    "japanese": "今（いま）しかない。／今（いま）やらなきゃいつやる。"
+  },
+  {
+    "id": 1398,
+    "primary": "I didn't sleep a wink.",
+    "japanese": "一睡（いっすい）もできなかった。／まんじりともしなかった。"
+  },
+  {
+    "id": 1399,
+    "primary": "I'm just having a bad day.",
+    "japanese": "今日（きょう）はつい（つい）てないだけ。／今日（きょう）はダメな日（ひ）なんだ。"
+  },
+  {
+    "id": 1400,
+    "primary": "You can't be serious.",
+    "japanese": "熱心（ねっしん）に。／やる気（き）満々（まんまん）で。"
+  },
+  {
+    "id": 1401,
+    "primary": "Get the picture?",
+    "japanese": "熱心（ねっしん）に。／熱狂（ねっきょう）的に。"
+  },
+  {
+    "id": 1402,
+    "primary": "You look awful.",
+    "japanese": "しきりに。／切望（せつぼう）して。"
+  },
+  {
+    "id": 1403,
+    "primary": "Don't fall for it.",
+    "japanese": "進ん（すすん）で。／快（こころよ）く。"
+  },
+  {
+    "id": 1404,
+    "primary": "Gut feeling",
+    "japanese": "直ちに（ただちに）。／すぐさま。"
+  },
+  {
+    "id": 1405,
+    "primary": "Just go with your gut",
+    "japanese": "喜んで（よろこんで）。／快（こころよ）く。"
+  },
+  {
+    "id": 1406,
+    "primary": "Spot on",
+    "japanese": "幸せ（しあわせ）に。／満足（まんぞく）そうに。"
+  },
+  {
+    "id": 1407,
+    "primary": "On the spot",
+    "japanese": "喜ば（よろこば）しいことに。／嬉（うれ）しさ全開（ぜんかい）で。"
+  },
+  {
+    "id": 1408,
+    "primary": "Put someone on the spot",
+    "japanese": "陽気（ようき）に。／楽し（たのし）く。"
+  },
+  {
+    "id": 1409,
+    "primary": "Homie",
+    "japanese": "機嫌（きげん）よく。／楽し（たのし）げに。"
+  },
+  {
+    "id": 1410,
+    "primary": "Run some errands",
+    "japanese": "用事（ようじ）を済ませる（すませる）。／あちこち回る（まわる）。"
+  },
+  {
+    "id": 1411,
+    "primary": "Hit the road",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 1412,
+    "primary": "Have a blast",
+    "japanese": "明白（めいはく）に。／ありのままに。"
+  },
+  {
+    "id": 1413,
+    "primary": "Cut it out",
+    "japanese": "明らかに（あきらかに）。／当然（とうぜん）。"
+  },
+  {
+    "id": 1414,
+    "primary": "Have a good one",
+    "japanese": "良い（よい）一日（いちにち）を。／じゃあね。"
+  },
+  {
+    "id": 1415,
+    "primary": "Beats me",
+    "japanese": "さっぱりわからない。／お手上げ（おてあげ）だ。"
+  },
+  {
+    "id": 1416,
+    "primary": "My heart skipped a beat",
+    "japanese": "ドキッとした。／心臓（しんぞう）が止まる（とまる）かと思った。"
+  },
+  {
+    "id": 1417,
+    "primary": "Is there a wait?",
+    "japanese": "オープンに。／公家（おおやけ）に。"
+  },
+  {
+    "id": 1418,
+    "primary": "Bang for the buck",
+    "japanese": "自由（じゆう）に。／思い（おもい）のままに。"
+  },
+  {
+    "id": 1419,
+    "primary": "Out loud",
+    "japanese": "声（こえ）に出して（だして）。／はっきりと。"
+  },
+  {
+    "id": 1420,
+    "primary": "It hits the spot",
+    "japanese": "気前（きまえ）よく。／たっぷり。"
+  },
+  {
+    "id": 1421,
+    "primary": "Hang loose",
+    "japanese": "気楽（きらく）にいこう。／リラックスして。"
+  },
+  {
+    "id": 1422,
+    "primary": "You name it",
+    "japanese": "何（なに）でも。／ありとあらゆるもの。"
+  },
+  {
+    "id": 1423,
+    "primary": "Every cloud has a silver lining",
+    "japanese": "どんな不幸（ふこう）にも幸い（さいわい）はある。／やまない雨（あめ）はない。"
+  },
+  {
+    "id": 1424,
+    "primary": "I was spread too thin",
+    "japanese": "手（て）を広げ（ひろげ）すぎた。／余裕（よゆう）がなかった。"
+  },
+  {
+    "id": 1425,
+    "primary": "I got your back",
+    "japanese": "私（わたし）がついているよ。／任せて（まかせて）。"
+  },
+  {
+    "id": 1426,
+    "primary": "Without further ado",
+    "japanese": "効果（こうか）的（てき）に。／有効（ゆうこう）に。"
+  },
+  {
+    "id": 1427,
+    "primary": "Hands down",
+    "japanese": "効率（こうりつ）的（てき）に。／手際（てぎわ）よく。"
+  },
+  {
+    "id": 1428,
+    "primary": "A walk in the park",
+    "japanese": "成功（せいこう）して。／順調（じゅんちょう）に。"
+  },
+  {
+    "id": 1429,
+    "primary": "Show up",
+    "japanese": "現れる（あらわれる）。／顔（かお）を出す（だす）。"
+  },
+  {
+    "id": 1430,
+    "primary": "Odds and ends",
+    "japanese": "強く（つよく）。／猛烈（もうれつ）に。"
+  },
+  {
+    "id": 1431,
+    "primary": "I'm losing it",
+    "japanese": "断固（だんこ）として。／しっかりと。"
+  },
+  {
+    "id": 1432,
+    "primary": "stutter",
+    "japanese": "吃る（どもる）。／言葉（ことば）に詰まる（つまる）。"
+  },
+  {
+    "id": 1433,
+    "primary": "cervical disc stenosis",
+    "japanese": "安全（あんぜん）に。／無事（ぶじ）に。"
+  },
+  {
+    "id": 1434,
+    "primary": "Social butterfly",
+    "japanese": "社交（しゃこう）的（てき）な人（ひと）。／顔（かお）が広い（ひろい）人。"
+  },
+  {
+    "id": 1435,
+    "primary": "Social network",
+    "japanese": "適切（てきせつ）に。／ちゃんと。"
+  },
+  {
+    "id": 1436,
+    "primary": "Social skills",
+    "japanese": "ふさわしく。／適切（てきせつ）に。"
+  },
+  {
+    "id": 1437,
+    "primary": "Social responsibility",
+    "japanese": "社会（しゃかい）的（てき）責任（せきにん）。／社会的使命（しめい）。"
+  },
+  {
+    "id": 1438,
+    "primary": "Societal norms",
+    "japanese": "社会（しゃかい）的（てき）規範（きはん）。／世間（せけん）の常識（じょうしき）。"
+  },
+  {
+    "id": 1439,
+    "primary": "Go the extra mile",
+    "japanese": "もう一（ひと）踏ん張り（ふんばり）する。／期待（きたい）以上（いじょう）のことをする。"
+  },
+  {
+    "id": 1440,
+    "primary": "Get the ball rolling",
+    "japanese": "口火（くちび）を切る（きる）。／物事（ものごと）を始める（はじめる）。"
+  },
+  {
+    "id": 1441,
+    "primary": "Give it a shot",
+    "japanese": "試し（ためし）にやってみる。／挑戦（ちょうせん）する。"
+  },
+  {
+    "id": 1442,
+    "primary": "Go out of one's way",
+    "japanese": "正直（しょうじき）に。／ありのままに。"
+  },
+  {
+    "id": 1443,
+    "primary": "Get off the ground",
+    "japanese": "軌道（きどう）に乗る（のる）。／本格（ほんかく）的（てき）に始まる（はじまる）。"
+  },
+  {
+    "id": 1444,
+    "primary": "For the sake of",
+    "japanese": "真実（しんじつ）。／誠（まこと）に。"
+  },
+  {
+    "id": 1445,
+    "primary": "For the time being",
+    "japanese": "当分（とうぶん）の間（あいだ）。／差し当たり（さしあたり）。"
+  },
+  {
+    "id": 1446,
+    "primary": "For a change",
+    "japanese": "趣（おもむき）を変えて（かえて）。／気分（きぶん）転換（てんかん）に。"
+  },
+  {
+    "id": 1447,
+    "primary": "From time to time",
+    "japanese": "時々（ときどき）。／たまに。"
+  },
+  {
+    "id": 1448,
+    "primary": "Through thick and thin",
+    "japanese": "はっきりと。／明白（めいはく）に。"
+  },
+  {
+    "id": 1449,
+    "primary": "Force of nature",
+    "japanese": "圧倒（あっとう）的（てき）な迫力（はくりょく）。／自然（しぜん）の力（ちから）。"
+  },
+  {
+    "id": 1450,
+    "primary": "Force of will",
+    "japanese": "意志（いし）の力（ちから）。／強い（つよい）信念（しんねん）。"
+  },
+  {
+    "id": 1451,
+    "primary": "Force of personality",
+    "japanese": "カリスマ性（せい）。／人柄（ひとがら）の強さ（つよさ）。"
+  },
+  {
+    "id": 1452,
+    "primary": "Force of impact",
+    "japanese": "衝撃（しょうげき）の強さ（つよさ）。／影響（えいきょう）力（りょく）。"
+  },
+  {
+    "id": 1453,
+    "primary": "My allergies are acting up.",
+    "japanese": "アレルギーが出て（でて）るんだ。／鼻（はな）がむずむずする。"
+  },
+  {
+    "id": 1454,
+    "primary": "Get off my back",
+    "japanese": "放っておいて（ほうっておいて）。／干渉（かんしょう）しないで。"
+  },
+  {
+    "id": 1455,
+    "primary": "Lets pick up where we left off",
+    "japanese": "熱心（ねっしん）に。／やる気（き）満々（まんまん）で。"
+  },
+  {
+    "id": 1456,
+    "primary": "I just bumped my elbow on the doorframe",
+    "japanese": "ドアの枠（わく）に肘（ひじ）をぶつけちゃった。／痛（いた）い！"
+  },
+  {
+    "id": 1457,
+    "primary": "You have grit",
+    "japanese": "君（きみ）には根性（こんじょう）があるね。／気骨（きこつ）がある。"
+  },
+  {
+    "id": 1458,
+    "primary": "You have guts",
+    "japanese": "根性（こんじょう）があるね。／度胸（どきょう）がある。"
+  },
+  {
+    "id": 1459,
+    "primary": "Im a foodie",
+    "japanese": "グルメなんだ。／食べる（たべる）のが大好き（だいすき）。"
+  },
+  {
+    "id": 1460,
+    "primary": "Its the last straw",
+    "japanese": "これが最後（さいご）の決定（けってい）打（だ）だ。／もう我慢（がまん）できない。"
+  },
+  {
+    "id": 1461,
+    "primary": "Wanna catch a movie later?",
+    "japanese": "強力（きょうりょく）に。／力強く（ちからづよく）。"
+  },
+  {
+    "id": 1462,
+    "primary": "It seems a bit likely",
+    "japanese": "ありそうかな。／たぶんね。"
+  },
+  {
+    "id": 1463,
+    "primary": "It seemed a bit exaggerated",
+    "japanese": "ちょっと誇張（こちょう）されてるみたいだ。／大げさ（おおげさ）だ。"
+  },
+  {
+    "id": 1464,
+    "primary": "Wish washy",
+    "japanese": "優柔不断（ゆうじゅうふだん）。／はっきりしない。"
+  },
+  {
+    "id": 1465,
+    "primary": "Keep a lid on it",
+    "japanese": "秘密（ひみつ）にしておいて。／伏せて（ふせて）おいて。"
+  },
+  {
+    "id": 1466,
+    "primary": "I'm not the type to regret things",
+    "japanese": "後悔（こうかい）するタイプじゃないんだ。／過去（かこ）は振り返ら（ふりかえら）ない。"
+  },
+  {
+    "id": 1467,
+    "primary": "I am at a loss for words",
+    "japanese": "言葉（ことば）が見つかり（みつかり）ません。／感極（かんきわ）まって話せない。"
+  },
+  {
+    "id": 1468,
+    "primary": "Is something bothering you?",
+    "japanese": "広く（ひろく）。／広範囲（こうはんい）に。"
+  },
+  {
+    "id": 1469,
+    "primary": "It's nothing. Don't worry about it.",
+    "japanese": "大まかに（おおまかに）。／幅広（はばひろ）く。"
+  },
+  {
+    "id": 1470,
+    "primary": "I'd rather die than suffer",
+    "japanese": "苦しむ（くるしむ）くらいなら死ん（しん）だほうがましだ。／そんなの嫌（いや）だ。"
+  },
+  {
+    "id": 1471,
+    "primary": "Nerve racking",
+    "japanese": "世界（せかい）的（てき）に。／地球（ちきゅう）規模（きぼ）で。"
+  },
+  {
+    "id": 1472,
+    "primary": "Butter up",
+    "japanese": "国内（こくない）で。／家庭（かてい）内（ない）で。"
+  },
+  {
+    "id": 1473,
+    "primary": "Brown nose",
+    "japanese": "地元（じもと）で。／その土地（とち）で。"
+  },
+  {
+    "id": 1474,
+    "primary": "Bumped into:",
+    "japanese": "ばったり会っ（あっ）た：／偶然（ぐうぜん）遭遇（そうぐう）した。"
+  },
+  {
+    "id": 1475,
+    "primary": "Bumped against:",
+    "japanese": "ぶつかった：／接触（せっしょく）した。"
+  },
+  {
+    "id": 1476,
+    "primary": "I bumped my toes on the doorframe",
+    "japanese": "内部（ないぶ）で。／心（こころ）の中（なか）で。"
+  },
+  {
+    "id": 1477,
+    "primary": "Pushover",
+    "japanese": "外部（がいぶ）で。／外見（がいけん）上（じょう）。"
+  },
+  {
+    "id": 1478,
+    "primary": "Are you spoken for?",
+    "japanese": "精神（せいしん）的に（てきに）。／神聖（しんせい）に。"
+  },
+  {
+    "id": 1479,
+    "primary": "He is pretty camera shy",
+    "japanese": "精神（せいしん）的に（てきに）。／頭（あたま）の中（なか）で。"
+  },
+  {
+    "id": 1480,
+    "primary": "Pull down to refresh",
+    "japanese": "身体（しんたい）的に（てきに）。／肉体（にくたい）的（てき）に。"
+  },
+  {
+    "id": 1481,
+    "primary": "Not a word",
+    "japanese": "心理（しんり）的に（てきに）。／精神（せいしん）状態（じょうたい）として。"
+  },
+  {
+    "id": 1482,
+    "primary": "Say less",
+    "japanese": "感情（かんじょう）的（てき）に。／心情（しんじょう）として。"
+  },
+  {
+    "id": 1483,
+    "primary": "Don't sass me",
+    "japanese": "社会（しゃかい）的に（てきに）。／付き合い（つきあい）で。"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 601,
+    "p": "I'm not in the mood."
+  },
+  {
+    "id": 602,
+    "p": "I can't help it."
+  },
+  {
+    "id": 603,
+    "p": "The more, the merrier."
+  },
+  {
+    "id": 604,
+    "p": "I'll take care of it."
+  },
+  {
+    "id": 605,
+    "p": "I'm all ears."
+  },
+  {
+    "id": 606,
+    "p": "I can't wait."
+  },
+  {
+    "id": 607,
+    "p": "It was a close call."
+  },
+  {
+    "id": 608,
+    "p": "There you go."
+  },
+  {
+    "id": 609,
+    "p": "Barking up the wrong tree"
+  },
+  {
+    "id": 610,
+    "p": "Here we go."
+  },
+  {
+    "id": 611,
+    "p": "ASAP"
+  },
+  {
+    "id": 612,
+    "p": "I have no idea."
+  },
+  {
+    "id": 613,
+    "p": "It's not my thing."
+  },
+  {
+    "id": 614,
+    "p": "Let's get to the point."
+  },
+  {
+    "id": 615,
+    "p": "I'm running late."
+  },
+  {
+    "id": 616,
+    "p": "It slipped my mind."
+  },
+  {
+    "id": 617,
+    "p": "I'm starving."
+  },
+  {
+    "id": 618,
+    "p": "I'm stuffed."
+  },
+  {
+    "id": 619,
+    "p": "Let's grab a bite."
+  },
+  {
+    "id": 620,
+    "p": "It’s worth the wait"
+  },
+  {
+    "id": 621,
+    "p": "Give me a break."
+  },
+  {
+    "id": 622,
+    "p": "Not a chance."
+  },
+  {
+    "id": 623,
+    "p": "It depends."
+  },
+  {
+    "id": 624,
+    "p": "You never know."
+  },
+  {
+    "id": 625,
+    "p": "I'll let you know."
+  },
+  {
+    "id": 626,
+    "p": "Hope that helps."
+  },
+  {
+    "id": 627,
+    "p": "I appreciate it."
+  },
+  {
+    "id": 628,
+    "p": "That's the plan."
+  },
+  {
+    "id": 629,
+    "p": "Time will tell."
+  },
+  {
+    "id": 630,
+    "p": "It's worth a try."
+  },
+  {
+    "id": 631,
+    "p": "Whole shebang"
+  },
+  {
+    "id": 632,
+    "p": "Let's get started."
+  },
+  {
+    "id": 633,
+    "p": "That reminds me..."
+  },
+  {
+    "id": 634,
+    "p": "I'll get back to you."
+  },
+  {
+    "id": 635,
+    "p": "Keep me posted."
+  },
+  {
+    "id": 636,
+    "p": "Let me know."
+  },
+  {
+    "id": 637,
+    "p": "No doubt about it."
+  },
+  {
+    "id": 638,
+    "p": "LOL"
+  },
+  {
+    "id": 639,
+    "p": "OMG"
+  },
+  {
+    "id": 640,
+    "p": "BRB"
+  },
+  {
+    "id": 641,
+    "p": "TTYL"
+  },
+  {
+    "id": 642,
+    "p": "Nailed it"
+  },
+  {
+    "id": 643,
+    "p": "IDK"
+  },
+  {
+    "id": 644,
+    "p": "FYI"
+  },
+  {
+    "id": 645,
+    "p": "My bad."
+  },
+  {
+    "id": 646,
+    "p": "That sucks."
+  },
+  {
+    "id": 647,
+    "p": "Cont"
+  },
+  {
+    "id": 648,
+    "p": "Walk in the park"
+  },
+  {
+    "id": 649,
+    "p": "Same here."
+  },
+  {
+    "id": 650,
+    "p": "All ears"
+  },
+  {
+    "id": 651,
+    "p": "Chin up"
+  },
+  {
+    "id": 652,
+    "p": "Ham-fisted, clumsy "
+  },
+  {
+    "id": 653,
+    "p": "I stand by it"
+  },
+  {
+    "id": 654,
+    "p": "Cut corners"
+  },
+  {
+    "id": 655,
+    "p": "Don’t bring it up"
+  },
+  {
+    "id": 656,
+    "p": "I am on the edge"
+  },
+  {
+    "id": 657,
+    "p": "Walk on the eggshell"
+  },
+  {
+    "id": 658,
+    "p": "Fizzle out"
+  },
+  {
+    "id": 659,
+    "p": "Drift apart"
+  },
+  {
+    "id": 660,
+    "p": "You of all people"
+  },
+  {
+    "id": 661,
+    "p": "Way ahead of you"
+  },
+  {
+    "id": 662,
+    "p": "What are the odds?"
+  },
+  {
+    "id": 663,
+    "p": "Respectful of time"
+  },
+  {
+    "id": 664,
+    "p": "Scratch that"
+  },
+  {
+    "id": 665,
+    "p": "Can’t take a hint"
+  },
+  {
+    "id": 666,
+    "p": "For what it’s worth"
+  },
+  {
+    "id": 667,
+    "p": "Snap at"
+  },
+  {
+    "id": 668,
+    "p": "Put me on the spot"
+  },
+  {
+    "id": 669,
+    "p": "Comfort food"
+  },
+  {
+    "id": 670,
+    "p": "It’s on me"
+  },
+  {
+    "id": 671,
+    "p": "Split the bill"
+  },
+  {
+    "id": 672,
+    "p": "Cliquey"
+  },
+  {
+    "id": 673,
+    "p": "cured mackerel"
+  },
+  {
+    "id": 674,
+    "p": "Sleep in"
+  },
+  {
+    "id": 675,
+    "p": "Overslept"
+  },
+  {
+    "id": 676,
+    "p": "Underestimate"
+  },
+  {
+    "id": 677,
+    "p": "Gullible"
+  },
+  {
+    "id": 678,
+    "p": "Annoying, irritating, pissed off, fed up with "
+  },
+  {
+    "id": 679,
+    "p": "Tick off, salty "
+  },
+  {
+    "id": 680,
+    "p": "Sorry doesn’t cut it"
+  },
+  {
+    "id": 681,
+    "p": "She's all grown up"
+  },
+  {
+    "id": 682,
+    "p": "Take it with a grain of salt"
+  },
+  {
+    "id": 683,
+    "p": "Thinking out loud"
+  },
+  {
+    "id": 684,
+    "p": "Ditto"
+  },
+  {
+    "id": 685,
+    "p": "I didn’t sign up for this"
+  },
+  {
+    "id": 686,
+    "p": "I’m not cut out for"
+  },
+  {
+    "id": 687,
+    "p": "What a bummer"
+  },
+  {
+    "id": 688,
+    "p": "Get on my nerve"
+  },
+  {
+    "id": 689,
+    "p": "Give me some credit"
+  },
+  {
+    "id": 690,
+    "p": "Find myself in"
+  },
+  {
+    "id": 691,
+    "p": "If you ever feel like ~"
+  },
+  {
+    "id": 692,
+    "p": "Keep thing on track"
+  },
+  {
+    "id": 693,
+    "p": "Stop complaining / don't be so dramatic / cry me a river"
+  },
+  {
+    "id": 694,
+    "p": "I'll take the heat"
+  },
+  {
+    "id": 695,
+    "p": "I'm stuck between A and B."
+  },
+  {
+    "id": 696,
+    "p": "sleep on it"
+  },
+  {
+    "id": 697,
+    "p": "You are quite bold / You've got some nerve"
+  },
+  {
+    "id": 698,
+    "p": "Keep it to yourself / Keep a lid on it"
+  },
+  {
+    "id": 699,
+    "p": "If you are clued in, you'll get it / If you know, you know "
+  },
+  {
+    "id": 700,
+    "p": "I'm just browsing"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": 101,
+    "primary": "Did you hear Mark's new job offer?",
+    "meaning": "마크 이직 제안 받은 거 들었어?",
+    "similar": [
+      "Hear the news?",
+      "Catch wind of that?",
+      "Get the scoop?",
+      "Hear about Mark?",
+      "Did you peep the update?"
+    ],
+    "example": "A: Did you hear Mark's new job offer?\nB: Yeah, he's making bank now.\nA: Mark is leaving.\nB: Did you hear about his offer? It's intense.\nA: Gossip time.\nB: Did you hear Mark's new job offer? Crazy."
+  },
+  {
+    "id": 102,
+    "primary": "Benefits package",
+    "meaning": "복지 혜택 / 연봉 패키지",
+    "similar": [
+      "Perks",
+      "Comp package",
+      "The extras",
+      "Total comp",
+      "Benefits"
+    ],
+    "example": "A: The salary is okay, but the benefits package is fire.\nB: Unlimited PTO?\nA: How's the benefits package?\nB: Mid. No dental.\nA: I need a job with a good benefits package.\nB: Same, health insurance is expensive."
+  },
+  {
+    "id": 103,
+    "primary": "hard to say",
+    "meaning": "뭐라 딱 잘라 말하기 애매해",
+    "similar": [
+      "Tough call",
+      "Up in the air",
+      "Debatable",
+      "Who knows",
+      "Can't call it"
+    ],
+    "example": "A: Will it rain?\nB: Hard to say, the sky is weird.\nA: Is he guilty?\nB: Hard to say without proof.\nA: Who's gonna win?\nB: Hard to say, they're both good."
+  },
+  {
+    "id": 104,
+    "primary": "If you are in my shoes",
+    "meaning": "네가 내 입장이라면",
+    "similar": [
+      "If you were me",
+      "In my position",
+      "From my POV",
+      "Switch places",
+      "My perspective"
+    ],
+    "example": "A: Just forgive him.\nB: If you were in my shoes, you wouldn't say that.\nA: What would you do if you were in my shoes?\nB: I'd quit immediately.\nA: Try to see it if you are in my shoes.\nB: I'm trying, but it's hard."
+  },
+  {
+    "id": 105,
+    "primary": "This must come first",
+    "meaning": "이게 우선이야",
+    "similar": [
+      "1. This is the top priority",
+      "2. Everything else takes a backseat",
+      "3. First and foremost",
+      "4. Top of the list",
+      "5. Tackle this first"
+    ],
+    "example": "A: Should we start working on the presentation slides?\nB: No, the client feedback must come first.\nA: Right, this is the top priority for today.\nB: Exactly, everything else takes a backseat for now.\nA: Let's tackle this first then move on.\nB: Good, it's at the top of my list too."
+  },
+  {
+    "id": 106,
+    "primary": "Does it ring a bell?",
+    "meaning": "기억나? / 들어본 거 같지 않아?",
+    "similar": [
+      "Sound familiar?",
+      "Jog your memory?",
+      "Remember?",
+      "Clicking?",
+      "Recall anything?"
+    ],
+    "example": "A: The name Smith. Does it ring a bell?\nB: Nope, drawing a blank.\nA: That song rings a bell.\nB: It's from TikTok.\nA: Does this place ring a bell?\nB: Yeah, we came here years ago."
+  },
+  {
+    "id": 107,
+    "primary": "It is long overdue",
+    "meaning": "진작 했어야 했어 / 한참 늦었지",
+    "similar": [
+      "About time",
+      "Finally",
+      "Way late",
+      "Took forever",
+      "Should have happened ages ago"
+    ],
+    "example": "A: She finally dumped him.\nB: That was long overdue.\nA: We need a vacation.\nB: Seriously, it's long overdue.\nA: The promotion is long overdue.\nB: You earned it."
+  },
+  {
+    "id": 108,
+    "primary": "Heyday",
+    "meaning": "전성기 / 리즈 시절",
+    "similar": [
+      "Prime",
+      "Peak",
+      "Golden era",
+      "Glory days",
+      "Best years"
+    ],
+    "example": "A: This place was poppin' in its heyday.\nB: Now it's a ghost town.\nA: In his heyday, he was unstoppable.\nB: Age catches up to everyone.\nA: I miss the heyday of hip hop.\nB: 90s vibes forever."
+  },
+  {
+    "id": 109,
+    "primary": "No apologies necessary",
+    "meaning": "사과 안 해도 돼 / 괜찮아",
+    "similar": [
+      "We good",
+      "Don't sweat it",
+      "No biggie",
+      "All love",
+      "It's chill"
+    ],
+    "example": "A: Sorry I'm late!\nB: No apologies necessary, I just got here.\nA: My bad for the mess.\nB: No apologies necessary, let's just clean it.\nA: I feel bad.\nB: Don't. No apologies necessary."
+  },
+  {
+    "id": 110,
+    "primary": "Grow up",
+    "meaning": "철 좀 들어라 / 애냐?",
+    "similar": [
+      "Act your age",
+      "Be mature",
+      "Stop acting like a kid",
+      "Man up/Woman up",
+      "Get it together"
+    ],
+    "example": "A: You're still playing pranks?\nB: Grow up.\nA: He needs to grow up.\nB: He's 30 acting like 13.\nA: Stop whining and grow up.\nB: Harsh but true."
+  },
+  {
+    "id": 111,
+    "primary": "He is usually on top of responses",
+    "meaning": "걔 답장 칼이야 / 연락 잘 돼",
+    "similar": [
+      "Quick replies",
+      "Responsive",
+      "Doesn't ghost",
+      "Prompt",
+      "Good communicator"
+    ],
+    "example": "A: Why hasn't he emailed back?\nB: Weird, he is usually on top of responses.\nA: I love that he texts back fast.\nB: Yeah, he is usually on top of responses.\nA: No reply in 3 days?\nB: Unlike him, he is usually on top of responses."
+  },
+  {
+    "id": 112,
+    "primary": "Benefit of doubts",
+    "meaning": "속는 셈 치고 믿어주기 / 일단 믿어줌",
+    "similar": [
+      "Trust",
+      "Believe them",
+      "Assume the best",
+      "Give a chance",
+      "Slack"
+    ],
+    "example": "A: I think he forgot.\nB: Give him the benefit of the doubt.\nA: She looks suspicious.\nB: Let's give her the benefit of the doubt for now.\nA: I stopped giving people the benefit of the doubt.\nB: Cynical much?"
+  },
+  {
+    "id": 113,
+    "primary": "Take your mind off",
+    "meaning": "신경 꺼 / 잊어버려",
+    "similar": [
+      "Distract you",
+      "Forget about it",
+      "Clear your head",
+      "De-stress",
+      "Think about something else"
+    ],
+    "example": "A: Let's go out to take your mind off things.\nB: Please, I need a distraction.\nA: A movie will take your mind off work.\nB: Good idea.\nA: Exercise helps take my mind off stress.\nB: Gym therapy."
+  },
+  {
+    "id": 114,
+    "primary": "Put yourself into my shoe",
+    "meaning": "내 입장 돼봐 / 역지사지 해봐",
+    "similar": [
+      "See it from my side",
+      "Imagine being me",
+      "Empathize",
+      "My POV",
+      "Switch roles"
+    ],
+    "example": "A: You're overreacting.\nB: Put yourself in my shoes! I lost my wallet.\nA: Try to put yourself in his shoes.\nB: I am, and he's still wrong.\nA: If you put yourself in my shoes, you'd understand.\nB: Maybe."
+  },
+  {
+    "id": 115,
+    "primary": "Keep a low profile",
+    "meaning": "존버해 / 눈에 띄지 말고 조용히 있어",
+    "similar": [
+      "Stay lowkey",
+      "Lay low",
+      "Under the radar",
+      "Don't draw attention",
+      "Incognito"
+    ],
+    "example": "A: The cops are outside.\nB: Keep a low profile.\nA: He's famous but keeps a low profile.\nB: Respect that.\nA: I'm trying to keep a low profile at work.\nB: Trying to avoid more work?"
+  },
+  {
+    "id": 116,
+    "primary": "You should focus on what you should do",
+    "meaning": "네가 해야 할 일에 집중해",
+    "similar": [
+      "1. Stay in your lane",
+      "2. Keep your eyes on your own paper",
+      "3. Do you",
+      "4. Focus on your own grind",
+      "5. Tend to your own knitting"
+    ],
+    "example": "A: I think Sarah is making a mistake with that client.\nB: Honestly, you should focus on what you should do.\nA: I’m just worried about the team's reputation.\nB: Just stay in your lane and crush your own tasks.\nA: You’re right, I should just do me for now.\nB: Exactly, focus on your own grind and let her be."
+  },
+  {
+    "id": 117,
+    "primary": "Been there, done that",
+    "meaning": "나도 다 겪어봤어 / 내가 선배야",
+    "similar": [
+      "Old news",
+      "Experience it",
+      "Over it",
+      "Seen it all",
+      "Nothing new"
+    ],
+    "example": "A: Want to go to Times Square?\nB: Been there, done that. Too crowded.\nA: Dating a musician?\nB: Been there, done that. Never again.\nA: Skydiving?\nB: Been there, done that. It's okay."
+  },
+  {
+    "id": 118,
+    "primary": "For the craic",
+    "meaning": "그냥 재미로 / 웃자고",
+    "similar": [
+      "For fun (Irish slang)",
+      "For the laughs",
+      "Just because",
+      "Good times",
+      "Vibes"
+    ],
+    "example": "A: Why did you do it?\nB: Just for the craic!\nA: Let's go out for the craic.\nB: I'm down for a good time.\nA: He's great craic.\nB: Life of the party."
+  },
+  {
+    "id": 119,
+    "primary": "Thingamajig",
+    "meaning": "거시기 / 뭐더라 그 뭐지",
+    "similar": [
+      "Whatchamacallit",
+      "Thingy",
+      "Doohickey",
+      "Gizmo",
+      "That thing"
+    ],
+    "example": "A: Pass me the... thingamajig.\nB: The remote?\nA: I need a thingamajig to fix this.\nB: A screwdriver?\nA: What's that thingamajig called?\nB: No idea."
+  },
+  {
+    "id": 120,
+    "primary": "Walk me through",
+    "meaning": "차근차근 설명해줘 / 하나하나 알려줘",
+    "similar": [
+      "Explain",
+      "Guide me",
+      "Break it down",
+      "Show me",
+      "Step by step"
+    ],
+    "example": "A: I don't get it.\nB: Walk me through your process.\nA: Can you walk me through the app?\nB: Sure, it's easy.\nA: Walk me through what happened.\nB: Okay, start from the beginning."
+  },
+  {
+    "id": 121,
+    "primary": "Turn over",
+    "meaning": "매출 / 이직률 / 뒤집다",
+    "similar": [
+      "Flip",
+      "Hand over",
+      "Revenue",
+      "Surrender",
+      "Rotate"
+    ],
+    "example": "A: Turn over the paper.\nB: Done.\nA: Turn over the keys.\nB: Fine, take the car.\nA: High staff turnover.\nB: Bad management."
+  },
+  {
+    "id": 122,
+    "primary": "Keep at it",
+    "meaning": "꾸준히 해 / 계속 밀고 나가",
+    "similar": [
+      "Don't give up",
+      "Stay grinding",
+      "Persist",
+      "Keep going",
+      "Push through"
+    ],
+    "example": "A: It's so hard.\nB: Keep at it, you'll get better.\nA: I want to quit.\nB: Nope, keep at it. Don't be weak.\nA: Keep at it and you'll succeed.\nB: Thanks for the motivation."
+  },
+  {
+    "id": 123,
+    "primary": "I got my hair done",
+    "meaning": "나 머리 했어",
+    "similar": [
+      "Fresh cut",
+      "New do",
+      "Salon day",
+      "Did my hair",
+      "Hair transformation"
+    ],
+    "example": "A: You look different.\nB: I got my hair done.\nA: Love the color.\nB: Thanks, just got my hair done.\nA: Where do you get your hair done?\nB: Place on 5th Ave."
+  },
+  {
+    "id": 124,
+    "primary": "Its been a minute",
+    "meaning": "오랜만이다 / 이게 얼마 만이야",
+    "similar": [
+      "Long time",
+      "A while",
+      "Ages",
+      "Way too long",
+      "Hot minute"
+    ],
+    "example": "A: Hey! It's been a minute.\nB: Yeah, how have you been?\nA: Haven't seen you in a minute.\nB: I've been busy.\nA: Let's catch up, it's been a minute.\nB: For sure."
+  },
+  {
+    "id": 125,
+    "primary": "Its been ages",
+    "meaning": "진짜 백만 년 만이다 / 너무 오랜만이야",
+    "similar": [
+      "Forever",
+      "Since forever",
+      "Years",
+      "Long time no see",
+      "Decades"
+    ],
+    "example": "A: It's been ages since we hung out.\nB: Too long.\nA: How is she? It's been ages.\nB: She's good, married now.\nA: This place hasn't changed in ages.\nB: Still smells the same."
+  },
+  {
+    "id": 126,
+    "primary": "Let someone down",
+    "meaning": "~를 실망시키다",
+    "similar": [
+      "1. Fail someone",
+      "2. Drop the ball for someone",
+      "3. Leave someone hanging",
+      "4. Disappoint someone",
+      "5. Fall short of expectations"
+    ],
+    "example": "A: I’m so nervous about this presentation tomorrow.\nB: Why? You’ve been working on it for weeks.\nA: I just don't want to let the team down.\nB: You won't, don't feel like you'll fail us.\nA: I'm just scared I'll drop the ball at the last minute.\nB: Relax, you’ve never left us hanging before."
+  },
+  {
+    "id": 127,
+    "primary": "you skipped too much, don't forget I am going to punish you if you ignore what I said",
+    "meaning": "너 너무 많이 건너뛰었어, 내 말 무시하면 혼날 줄 알아",
+    "similar": [
+      "Pay attention",
+      "Don't slack",
+      "Listen up",
+      "Focus",
+      "Consequences incoming"
+    ],
+    "example": "A: I skipped the intro.\nB: Don't skip, pay attention.\nA: Are you threatening me?\nB: Just warning you, don't ignore it.\nA: I'm listening now.\nB: Good."
+  },
+  {
+    "id": 128,
+    "primary": "Set this position to \"&&&now&&&&\"",
+    "meaning": "이 위치를 지금으로 설정",
+    "similar": [
+      "Mark timestamp",
+      "Set time",
+      "Now marker",
+      "Current time",
+      "Timestamp it"
+    ],
+    "example": "A: When did it happen?\nB: Set position to now.\nA: Marking this spot.\nB: Copy that.\nA: &&&now&&&&\nB: Code for 'right now'."
+  },
+  {
+    "id": 129,
+    "primary": "Sort out",
+    "meaning": "정리하다 / 해결하다",
+    "similar": [
+      "Fix",
+      "Organize",
+      "Resolve",
+      "Figure out",
+      "Handle"
+    ],
+    "example": "A: Need to sort out my life.\nB: Start with your room.\nA: Sort out the files.\nB: On it.\nA: Did you sort it out with him?\nB: Yeah, we're good."
+  },
+  {
+    "id": 130,
+    "primary": "Take my mind off things",
+    "meaning": "잡생각 좀 없애다 / 머리 좀 식히다",
+    "similar": [
+      "Distract myself",
+      "Forget stress",
+      "Escape",
+      "Zone out",
+      "Relax"
+    ],
+    "example": "A: Gaming helps take my mind off things.\nB: Same.\nA: I need a vacation to take my mind off things.\nB: Book it.\nA: Just breathe.\nB: Trying to take my mind off the panic."
+  },
+  {
+    "id": 131,
+    "primary": "You went over my head",
+    "meaning": "내 머리 꼭대기에 있네 / 이해가 안 돼",
+    "similar": [
+      "Didn't understand",
+      "Too complex",
+      "Lost me",
+      "Confused",
+      "Whoosh"
+    ],
+    "example": "A: Did you get the joke?\nB: Nope, went over my head.\nA: The lecture went over my head.\nB: Too technical.\nA: Explain it simply, don't go over my head.\nB: Okay, 5 year old version."
+  },
+  {
+    "id": 132,
+    "primary": "Over my head",
+    "meaning": "내 능력 밖이야 / 무슨 말인지 모르겠어",
+    "similar": [
+      "Too hard",
+      "Beyond me",
+      "Don't get it",
+      "Complicated",
+      "Out of my depth"
+    ],
+    "example": "A: Can you fix the car?\nB: This is way over my head.\nA: The math is over my head.\nB: Use a calculator.\nA: I'm in over my head with this lie.\nB: Come clean."
+  },
+  {
+    "id": 133,
+    "primary": "Tied or even",
+    "meaning": "쌤쌤이야 / 비겼어",
+    "similar": [
+      "Draw",
+      "Square",
+      "Level",
+      "Neck and neck",
+      "Equal"
+    ],
+    "example": "A: What's the score?\nB: Tied or even.\nA: I paid for lunch, you paid for dinner.\nB: We're even.\nA: It's a tie.\nB: Sudden death round?"
+  },
+  {
+    "id": 134,
+    "primary": "Even Steven",
+    "meaning": "딱 떨어지네 / 계산 끝",
+    "similar": [
+      "Square",
+      "Balanced",
+      "Paid up",
+      "Equal",
+      "Fair trade"
+    ],
+    "example": "A: Here's your $20.\nB: Cool, we're Even Steven.\nA: I hit you, you hit me.\nB: Even Steven.\nA: Split the bill?\nB: Yeah, Even Steven."
+  },
+  {
+    "id": 135,
+    "primary": "Lay it on me",
+    "meaning": "말해봐 / 털어놔 봐",
+    "similar": [
+      "Tell me",
+      "Spill",
+      "Give me the news",
+      "Ready for it",
+      "Shoot"
+    ],
+    "example": "A: I have news.\nB: Lay it on me.\nA: It's bad.\nB: Just lay it on me, I can take it.\nA: Want to hear my idea?\nB: Lay it on me."
+  },
+  {
+    "id": 136,
+    "primary": "Ring me up",
+    "meaning": "계산해 주세요 / 결제해 줘",
+    "similar": [
+      "Check me out",
+      "I'm paying",
+      "Total it",
+      "Charge me",
+      "Ready to pay"
+    ],
+    "example": "A: Find everything okay?\nB: Yes, ring me up.\nA: Taking these.\nB: I'll ring you up over here.\nA: Can you ring me up quickly?\nB: Sure thing."
+  },
+  {
+    "id": 137,
+    "primary": "Out of our league",
+    "meaning": "우리에겐 과분해 / 급이 달라",
+    "similar": [
+      "1. Out of our pay grade",
+      "2. Way above our heads",
+      "3. Too high-end for us",
+      "4. Not in our bracket",
+      "5. Way beyond us"
+    ],
+    "example": "A: Should we try to bid on that massive Manhattan project?\nB: Honestly, I think that’s out of our league.\nA: But the potential profit is huge if we win.\nB: It’s definitely out of our pay grade right now.\nA: You think it's way beyond us at this stage?\nB: Yeah, let's stick to what we actually know."
+  },
+  {
+    "id": 138,
+    "primary": "I have mental breakdown",
+    "meaning": "나 멘붕 왔어 / 정신줄 놓겠네",
+    "similar": [
+      "Losing my mind",
+      "Spiraling",
+      "Can't cope",
+      "Going crazy",
+      "Breaking point"
+    ],
+    "example": "A: You okay?\nB: Having a mental breakdown, hbu?\nA: This week gave me a mental breakdown.\nB: Need a drink?\nA: Don't have a mental breakdown over a quiz.\nB: I'm trying not to!"
+  },
+  {
+    "id": 139,
+    "primary": "Procrastinate",
+    "meaning": "미루다 / 늑장 부리다",
+    "similar": [
+      "Put off",
+      "Delay",
+      "Wait till last minute",
+      "Slack",
+      "Drag feet"
+    ],
+    "example": "A: Start the essay?\nB: No, I love to procrastinate.\nA: Stop procrastinating.\nB: I work better under pressure.\nA: Procrastination is the thief of time.\nB: Deep."
+  },
+  {
+    "id": 140,
+    "primary": "Its been on mind",
+    "meaning": "계속 신경 쓰였어 / 마음에 걸렸어",
+    "similar": [
+      "Thinking about it",
+      "In my head",
+      "Occupying my thoughts",
+      "Can't forget",
+      "Dwelling on it"
+    ],
+    "example": "A: You called?\nB: Yeah, you've been on my mind.\nA: That song has been on my mind all day.\nB: Earworm.\nA: It's been on my mind to visit.\nB: Come through."
+  },
+  {
+    "id": 141,
+    "primary": "Weigh the pros and cons",
+    "meaning": "장단점 따져보다 / 계산기 두드려보다",
+    "similar": [
+      "Think it through",
+      "Analyze",
+      "Cost benefit",
+      "Evaluate",
+      "Consider options"
+    ],
+    "example": "A: Should I move?\nB: Weigh the pros and cons first.\nA: Making a list of pros and cons.\nB: Smart.\nA: We weighed the pros and cons and said no.\nB: Fair enough."
+  },
+  {
+    "id": 142,
+    "primary": "Get things back on track",
+    "meaning": "다시 정상 궤도에 올리다 / 수습하다",
+    "similar": [
+      "Reset",
+      "Fix the flow",
+      "Correct course",
+      "Back to normal",
+      "Recover"
+    ],
+    "example": "A: We're behind schedule.\nB: Let's get things back on track.\nA: My life is a mess.\nB: Time to get back on track.\nA: Focus, get back on track.\nB: Roger that."
+  },
+  {
+    "id": 143,
+    "primary": "What's eating you",
+    "meaning": "무슨 일 있어? / 왜 그렇게 꽁해 있어?",
+    "similar": [
+      "What's wrong?",
+      "What's bugging you?",
+      "Why the long face?",
+      "What's the matter?",
+      "Spill it"
+    ],
+    "example": "A: You look sad. What's eating you?\nB: Just tired.\nA: Tell me what's eating you.\nB: Work stress.\nA: Something is eating him.\nB: Yeah, he's grumpy."
+  },
+  {
+    "id": 144,
+    "primary": "Give her a big hand",
+    "meaning": "큰 박수 부탁해",
+    "similar": [
+      "Applause",
+      "Clap loudly",
+      "Huge round of applause",
+      "Cheers",
+      "Praises"
+    ],
+    "example": "A: Give her a big hand!\nB: *Claps*\nA: Welcome to the stage, give her a big hand.\nB: She's amazing.\nA: She deserves a big hand.\nB: For sure."
+  },
+  {
+    "id": 145,
+    "primary": "How’s it going?",
+    "meaning": "요즘 어때? 잘 지내? (가벼운 인사)",
+    "similar": [
+      "What's good?",
+      "How's life treating you?",
+      "What's the word?",
+      "How ya been?",
+      "What's poppin'?"
+    ],
+    "example": "A: Yo, long time no see. How's it going?\nB: Pretty chill. Just grinding at work. You?\nA: Same old, same old. Just trying to survive this heat.\nB: Tell me about it. We should grab a drink soon.\nA: For sure. Hit me up later.\nB: Bet. Catch you later."
+  },
+  {
+    "id": 146,
+    "primary": "I’m down for that",
+    "meaning": "나 완전 콜이야. 좋아.",
+    "similar": [
+      "I'm game.",
+      "Count me in.",
+      "Sounds like a plan.",
+      "I'm with it.",
+      "Let's do it."
+    ],
+    "example": "A: Thinking about hitting that new rooftop bar tonight.\nB: Oh word? I heard the view is crazy.\nA: Yeah, drinks are pricey but the vibe is unmatched.\nB: Say less. I'm down for that.\nA: Cool, I'll send you the address.\nB: Perfect. See you there around 9."
+  },
+  {
+    "id": 147,
+    "primary": "I can’t make it",
+    "meaning": "아쉽지만 나 못 가. 일이 생겼어.",
+    "similar": [
+      "I'm gonna have to pass.",
+      "Can't do it this time.",
+      "Something came up.",
+      "I'm tied up.",
+      "Not gonna happen today."
+    ],
+    "example": "A: You still coming to the dinner tonight?\nB: Ah man, I can't make it. My boss just dumped a pile of work on me.\nA: That sucks. We were all looking forward to seeing you.\nB: I know, I specifically cleared my schedule too. Ugh.\nA: No worries. Just catch us next time.\nB: Definitely. Drink one for me."
+  },
+  {
+    "id": 148,
+    "primary": "Blessing in disguise",
+    "meaning": "전화위복",
+    "similar": [
+      "1. Hidden boon",
+      "2. Fortunate twists",
+      "3. A silver lining",
+      "4. A lucky break in the end",
+      "5. A hidden win"
+    ],
+    "example": "A: I can't believe I got rejected from that internship.\nB: Maybe it's a blessing in disguise .\nA: How could losing that opportunity be a hidden boon ?\nB: Look, you just got a better offer from a bigger firm.\nA: Wow, that really was a fortunate twist.\nB: See? Everything happens for a reason."
+  },
+  {
+    "id": 149,
+    "primary": "I’ll take a rain check",
+    "meaning": "다음에 하자. 이번엔 패스할게.",
+    "similar": [
+      "Maybe next time.",
+      "Let's reschedule.",
+      "Can we push it back?",
+      "Another time?",
+      "I gotta bail this time."
+    ],
+    "example": "A: Hey, wanna grab some tacos after work?\nB: I'd love to, but I'm beat. I'll take a rain check.\nA: All good. You look exhausted anyway.\nB: Yeah, this week has been brutal.\nA: Go home and crash. We'll go next week.\nB: Thanks for understanding. Next week is on me."
+  },
+  {
+    "id": 150,
+    "primary": "It’s up to you",
+    "meaning": "네 맘대로 해. 네가 골라.",
+    "similar": [
+      "Your call.",
+      "Whatever you feel like.",
+      "Ball's in your court.",
+      "You decide.",
+      "I'm easy."
+    ],
+    "example": "A: Should we get sushi or pizza?\nB: Honestly, I'm starving so anything works. It's up to you.\nA: Pizza might be faster.\nB: Pizza it is then. Where should we order from?\nA: Joe's? Or that new spot on 5th?\nB: Your call. I trust your taste."
+  }
+]

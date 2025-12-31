@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 801,
+    "p": "frustrated my younger sister",
+    "m": "여동생을 짜증나게 하다 / 여동생이 답답해하다"
+  },
+  {
+    "id": 802,
+    "p": "Something feels off / I'm feeling under the weather",
+    "m": "어쩐지 이상해 / 몸 상태가 안 좋아"
+  },
+  {
+    "id": 803,
+    "p": "I'm not myself",
+    "m": "제 정신이 아니야"
+  },
+  {
+    "id": 804,
+    "p": "Your best bet / Your go-to option",
+    "m": "너의 최선이야"
+  },
+  {
+    "id": 805,
+    "p": "I'm a little pressed for time / Clock is ticking / Time is running out",
+    "m": "시간이 좀 촉박해 / 시간이 다 되어 가"
+  },
+  {
+    "id": 806,
+    "p": "Can't hack it",
+    "m": "감당하기 어렵다"
+  },
+  {
+    "id": 807,
+    "p": "It's going to sound corny / It might sound cheesy",
+    "m": "(오글거리거나) 당연한 말이지만"
+  },
+  {
+    "id": 808,
+    "p": "It's not too shabby / Not that bad",
+    "m": "나쁘지 않네 / 꽤 괜찮네"
+  },
+  {
+    "id": 809,
+    "p": "A spa for some pampering",
+    "m": "스파에서 편히 쉬고 싶다"
+  },
+  {
+    "id": 810,
+    "p": "It just slipped out",
+    "m": "그냥 말이 나와버렸어"
+  },
+  {
+    "id": 811,
+    "p": "Bitter sweet",
+    "m": "시원섭섭해"
+  },
+  {
+    "id": 812,
+    "p": "Don’t flatter yourself / Don’t give yourself too much credit",
+    "m": "잘난 척 좀 그만해"
+  },
+  {
+    "id": 813,
+    "p": "Stop pestering me / Enough with this / Stop nagging me",
+    "m": "그만 좀 닦달해"
+  },
+  {
+    "id": 814,
+    "p": "Knock yourself out / Suit yourself",
+    "m": "네 맘대로 해"
+  },
+  {
+    "id": 815,
+    "p": "Run it by you / Touch base with you",
+    "m": "상의하다"
+  },
+  {
+    "id": 816,
+    "p": "I've been busy",
+    "m": "개인적인 일들로 바빴어"
+  },
+  {
+    "id": 817,
+    "p": "You will live",
+    "m": "그런다고 안 죽는다 (엄살 부리지 마)"
+  },
+  {
+    "id": 818,
+    "p": "Take under one's wing",
+    "m": "내가 챙겨줄게 (가르쳐줄게)"
+  },
+  {
+    "id": 819,
+    "p": "For nothing",
+    "m": "괜히 했다 (헛수고했다)"
+  },
+  {
+    "id": 820,
+    "p": "I owe you one",
+    "m": "신세 졌다 (나중에 갚을게)"
+  },
+  {
+    "id": 821,
+    "p": "Something going on between",
+    "m": "걔네 썸 타는 것 같더라"
+  },
+  {
+    "id": 822,
+    "p": "Clear the air",
+    "m": "우리 오해 좀 풀자"
+  },
+  {
+    "id": 823,
+    "p": "Get in the way",
+    "m": "방해하고 싶지 않아"
+  },
+  {
+    "id": 824,
+    "p": "On edge",
+    "m": "사람들이 날이 서 있다 (폭발 직전이다)"
+  },
+  {
+    "id": 825,
+    "p": "Man!",
+    "m": "아이구 (대박, 실망 등 감탄사)"
+  },
+  {
+    "id": 826,
+    "p": "Spring is in the air",
+    "m": "봄기운이 완연하네"
+  },
+  {
+    "id": 827,
+    "p": "That's crazy",
+    "m": "완전 미쳤다 (놀라움의 반응)"
+  },
+  {
+    "id": 828,
+    "p": "April Fools'",
+    "m": "만우절 장난에 속았어"
+  },
+  {
+    "id": 829,
+    "p": "Behind someone's back",
+    "m": "뒷담화하다 (몰래 행동하다)"
+  },
+  {
+    "id": 830,
+    "p": "Say hi to ~ for me",
+    "m": "안부 좀 전해줘"
+  },
+  {
+    "id": 831,
+    "p": "No offense",
+    "m": "상처 주고 싶지 않지만 (기분 나쁘게 듣지 마)"
+  },
+  {
+    "id": 832,
+    "p": "Follow me",
+    "m": "내 말 이해돼? (잘 듣고 있지?)"
+  },
+  {
+    "id": 833,
+    "p": "Chill out",
+    "m": "진정해 / 놀자"
+  },
+  {
+    "id": 834,
+    "p": "tuition",
+    "m": "학비, 등록금"
+  },
+  {
+    "id": 835,
+    "p": "Every other day",
+    "m": "이틀에 한 번 (격일로)"
+  },
+  {
+    "id": 836,
+    "p": "Tell on someone",
+    "m": "고자질하다"
+  },
+  {
+    "id": 837,
+    "p": "Overdo it",
+    "m": "무리하다"
+  },
+  {
+    "id": 838,
+    "p": "Have a beef with",
+    "m": "갈등이 있다 (불만이 있다)"
+  },
+  {
+    "id": 839,
+    "p": "get by",
+    "m": "그럭저럭 먹고 살다"
+  },
+  {
+    "id": 840,
+    "p": "Touched",
+    "m": "감동받은"
+  },
+  {
+    "id": 841,
+    "p": "buttery",
+    "m": "버터처럼 고소하고 부드러운"
+  },
+  {
+    "id": 842,
+    "p": "Doze off",
+    "m": "졸다"
+  },
+  {
+    "id": 843,
+    "p": "Close call",
+    "m": "아슬아슬했네 (위기 모면)"
+  },
+  {
+    "id": 844,
+    "p": "In another color",
+    "m": "다른 색깔로 된 것"
+  },
+  {
+    "id": 845,
+    "p": "Lemon",
+    "m": "불량품 (특히 중고차)"
+  },
+  {
+    "id": 846,
+    "p": "To-go box",
+    "m": "남은 음식 포장 박스"
+  },
+  {
+    "id": 847,
+    "p": "Not having it",
+    "m": "용납하지 않다 (마음에 안 들어 하다)"
+  },
+  {
+    "id": 848,
+    "p": "Cut someone off",
+    "m": "말을 끊다 / 새치기하다"
+  },
+  {
+    "id": 849,
+    "p": "That's just the way it is",
+    "m": "세상사가 다 그렇지 (어쩔 수 없어)"
+  },
+  {
+    "id": 850,
+    "p": "Spit it out",
+    "m": "어서 말해 (답답해)"
+  },
+  {
+    "id": 851,
+    "p": "passed away and was cremated",
+    "m": "돌아가셔서 화장 후 납골당에 모셨다"
+  },
+  {
+    "id": 852,
+    "p": "Fall blues",
+    "m": "가을을 타다 (가을 우울증)"
+  },
+  {
+    "id": 853,
+    "p": "Sit tight",
+    "m": "좀 기다려주세요 (가만히 있어)"
+  },
+  {
+    "id": 854,
+    "p": "Between jobs",
+    "m": "구직 중인 (백수인)"
+  },
+  {
+    "id": 855,
+    "p": "Rub it in",
+    "m": "들추어 괴롭히다 (아픈 데 건드리다)"
+  },
+  {
+    "id": 856,
+    "p": "Bland",
+    "m": "맛이 심심한 (지루한)"
+  },
+  {
+    "id": 857,
+    "p": "Eat it up",
+    "m": "다 믿다 (금방 넘어가다)"
+  },
+  {
+    "id": 858,
+    "p": "Around the corner",
+    "m": "코앞에 닥친 (아주 가까운)"
+  },
+  {
+    "id": 859,
+    "p": "Somewhat",
+    "m": "어느 정도 (다소)"
+  },
+  {
+    "id": 860,
+    "p": "Take for granted",
+    "m": "당연하게 여기다 (고마운 줄 모르다)"
+  },
+  {
+    "id": 861,
+    "p": "For good",
+    "m": "영원히 (완전히)"
+  },
+  {
+    "id": 862,
+    "p": "Take it personally",
+    "m": "개인적으로 받아들이다 (기분 나빠 하다)"
+  },
+  {
+    "id": 863,
+    "p": "Put it off until the last minute",
+    "m": "마지막 순간까지 미루다"
+  },
+  {
+    "id": 864,
+    "p": "Clingy",
+    "m": "질척거리는 (매달리는)"
+  },
+  {
+    "id": 865,
+    "p": "Couldn't care less",
+    "m": "하나도 신경 안 써 (완전 관심 없어)"
+  },
+  {
+    "id": 866,
+    "p": "Don't jinx it",
+    "m": "말 꺼내서 재수 없게 하지 마"
+  },
+  {
+    "id": 867,
+    "p": "stop yapping",
+    "m": "그만 떠들어"
+  },
+  {
+    "id": 868,
+    "p": "check all the boxes",
+    "m": "조건을 모두 충족하다"
+  },
+  {
+    "id": 869,
+    "p": "put it down before I forget",
+    "m": "까먹기 전에 적어두다"
+  },
+  {
+    "id": 870,
+    "p": "nonchalant",
+    "m": "태연한, 신경 안 쓰는 듯한"
+  },
+  {
+    "id": 871,
+    "p": "It's been unreal",
+    "m": "말도 안 되게 좋았다"
+  },
+  {
+    "id": 872,
+    "p": "pulling all-nighters",
+    "m": "밤을 새우다"
+  },
+  {
+    "id": 873,
+    "p": "make someone's heart flutter",
+    "m": "가슴을 설레게 하다"
+  },
+  {
+    "id": 874,
+    "p": "Am I delusional?",
+    "m": "내가 착각하는 건가?"
+  },
+  {
+    "id": 875,
+    "p": "I can't possibly",
+    "m": "도저히 그건 안 된다"
+  },
+  {
+    "id": 876,
+    "p": "Are you investing in shares market?",
+    "m": "주식 투자하고 있어?"
+  },
+  {
+    "id": 877,
+    "p": "stock market (news style)",
+    "m": "신문기사체 주식시장 표현"
+  },
+  {
+    "id": 878,
+    "p": "pull it off",
+    "m": "어려운 걸 해내다"
+  },
+  {
+    "id": 879,
+    "p": "no cap",
+    "m": "진짜로, 거짓말 안 하고"
+  },
+  {
+    "id": 880,
+    "p": "Fit the bill",
+    "m": "조건에 딱 맞다, 필요에 부합하다"
+  },
+  {
+    "id": 881,
+    "p": "I'm on the clock",
+    "m": "지금 근무 중이다, 일하는 시간이다"
+  },
+  {
+    "id": 882,
+    "p": "It's a bit foggy",
+    "m": "안개가 조금 꼈다 / (비유적으로) 머릿속이 좀 흐릿하다"
+  },
+  {
+    "id": 883,
+    "p": "I'm a light sleeper",
+    "m": "나는 잠이 얕은 편이다"
+  },
+  {
+    "id": 884,
+    "p": "I tend to be shy",
+    "m": "나는 원래 좀 수줍은 편이다"
+  },
+  {
+    "id": 885,
+    "p": "Camera shy",
+    "m": "카메라 앞에서 부끄러워하는, 사진 찍히는 걸 어색해하는"
+  },
+  {
+    "id": 886,
+    "p": "It's as good as new.",
+    "m": "새것이나 다름없어요."
+  },
+  {
+    "id": 887,
+    "p": "They have a lot in common.",
+    "m": "그들은 공통점이 많아요."
+  },
+  {
+    "id": 888,
+    "p": "That's typical of you.",
+    "m": "딱 너답네."
+  },
+  {
+    "id": 889,
+    "p": "You look after yourself.",
+    "m": "몸조리 잘 하세요."
+  },
+  {
+    "id": 890,
+    "p": "Go for it!",
+    "m": "한번 해봐!"
+  },
+  {
+    "id": 891,
+    "p": "He's a piece of work.",
+    "m": "그는 정말 골칫덩이예요."
+  },
+  {
+    "id": 892,
+    "p": "I won't let you down.",
+    "m": "실망시켜 드리지 않을게요."
+  },
+  {
+    "id": 893,
+    "p": "I've been trying to reach you.",
+    "m": "계속 연락하려고 했어요."
+  },
+  {
+    "id": 894,
+    "p": "It was a stroke of luck.",
+    "m": "뜻밖의 행운이었어요."
+  },
+  {
+    "id": 895,
+    "p": "Don't bottle up your feelings.",
+    "m": "감정을 억누르지 마세요."
+  },
+  {
+    "id": 896,
+    "p": "Don't be shy",
+    "m": "부끄러워하지 마, 주저하지 마"
+  },
+  {
+    "id": 897,
+    "p": "You're growing on me.",
+    "m": "네가 점점 좋아지네."
+  },
+  {
+    "id": 898,
+    "p": "I burnt the midnight oil.",
+    "m": "밤늦게까지 열심히 일했어요."
+  },
+  {
+    "id": 899,
+    "p": "Shy of two minutes",
+    "m": "2분이 조금 안 되는, 2분보다 약간 모자라는"
+  },
+  {
+    "id": 900,
+    "p": "That would be the best case scenario.",
+    "m": "그게 최상의 시나리오일 거예요."
+  },
+  {
+    "id": 901,
+    "p": "I couldn't agree more.",
+    "m": "전적으로 동감이에요."
+  },
+  {
+    "id": 902,
+    "p": "I've got a memory like a sieve.",
+    "m": "제 기억력이 형편없어요."
+  },
+  {
+    "id": 903,
+    "p": "It's on the house.",
+    "m": "서비스입니다."
+  },
+  {
+    "id": 904,
+    "p": "I think you should get a second opinion.",
+    "m": "다른 의견도 들어보는 게 좋겠어요."
+  },
+  {
+    "id": 905,
+    "p": "You are second to none.",
+    "m": "당신은 최고예요."
+  },
+  {
+    "id": 906,
+    "p": "Don't pull my leg.",
+    "m": "농담 마세요 (놀리지 마세요)."
+  },
+  {
+    "id": 907,
+    "p": "I'm torn",
+    "m": "마음이 갈린다, 결정을 못 하겠다"
+  },
+  {
+    "id": 908,
+    "p": "You have lost the plot.",
+    "m": "상황 파악을 못 하네요."
+  },
+  {
+    "id": 909,
+    "p": "Let's just keep it between us.",
+    "m": "우리끼리만 알고 있자."
+  },
+  {
+    "id": 910,
+    "p": "You know the drill.",
+    "m": "어떻게 하는지 알지?"
+  },
+  {
+    "id": 911,
+    "p": "It's been a roller coaster ride.",
+    "m": "우여곡절이 많았어요."
+  },
+  {
+    "id": 912,
+    "p": "I look up to you.",
+    "m": "당신을 존경해요."
+  },
+  {
+    "id": 913,
+    "p": "It's overrated.",
+    "m": "과대평가됐어요."
+  },
+  {
+    "id": 914,
+    "p": "Long story short",
+    "m": "요약하자면, 결론만 말하면"
+  },
+  {
+    "id": 915,
+    "p": "I don't hold a grudge.",
+    "m": "뒤끝 없어요."
+  },
+  {
+    "id": 916,
+    "p": "I don't know off the top of my head.",
+    "m": "지금 당장은 기억이 안 나네요."
+  },
+  {
+    "id": 917,
+    "p": "I'm fed up with it.",
+    "m": "그거 정말 질렸어요."
+  },
+  {
+    "id": 918,
+    "p": "I've got a lot on my plate.",
+    "m": "할 일이 너무 많아요."
+  },
+  {
+    "id": 919,
+    "p": "I'm bad with directions.",
+    "m": "저는 길치예요."
+  },
+  {
+    "id": 920,
+    "p": "How are you holding up?",
+    "m": "어떻게 견디고 있어요?"
+  },
+  {
+    "id": 921,
+    "p": "All you have to do is do it.",
+    "m": "그냥 하기만 하면 돼요."
+  },
+  {
+    "id": 922,
+    "p": "What do you have in mind?",
+    "m": "무슨 생각을 하고 있나요?"
+  },
+  {
+    "id": 923,
+    "p": "Don't be that way.",
+    "m": "그러지 마세요."
+  },
+  {
+    "id": 924,
+    "p": "Let's get the ball rolling.",
+    "m": "일을 시작해 봅시다."
+  },
+  {
+    "id": 925,
+    "p": "It costs an arm and a leg.",
+    "m": "엄청 비싸요."
+  },
+  {
+    "id": 926,
+    "p": "Don't go through the motions.",
+    "m": "건성으로 하지 마세요."
+  },
+  {
+    "id": 927,
+    "p": "You took the words right out of my mouth.",
+    "m": "내 말이 그 말이에요."
+  },
+  {
+    "id": 928,
+    "p": "You crossed the line.",
+    "m": "선을 넘으셨네요."
+  },
+  {
+    "id": 929,
+    "p": "He knows his stuff.",
+    "m": "그는 자기 분야를 잘 알아요."
+  },
+  {
+    "id": 930,
+    "p": "Hang in there!",
+    "m": "조금만 더 버텨봐!"
+  },
+  {
+    "id": 931,
+    "p": "You need to break the habit.",
+    "m": "그 습관을 고쳐야 해요."
+  },
+  {
+    "id": 932,
+    "p": "You hit the nail on the head.",
+    "m": "정곡을 찔렀네요."
+  },
+  {
+    "id": 933,
+    "p": "My brain is not as good as it used to be.",
+    "m": "예전만큼 머리가 안 돌아가요."
+  },
+  {
+    "id": 934,
+    "p": "I was ripped off.",
+    "m": "바가지 썼어요."
+  },
+  {
+    "id": 935,
+    "p": "I am out and about",
+    "m": "밖에 나와서 여기저기 다니는 중이다"
+  },
+  {
+    "id": 936,
+    "p": "I can't get that off my mind.",
+    "m": "그게 머릿속에서 떠나질 않아요."
+  },
+  {
+    "id": 937,
+    "p": "Don't kid yourself.",
+    "m": "착각하지 마세요."
+  },
+  {
+    "id": 938,
+    "p": "It's no picnic.",
+    "m": "쉬운 일이 아니에요."
+  },
+  {
+    "id": 939,
+    "p": "Just let it go.",
+    "m": "그냥 잊어버려요."
+  },
+  {
+    "id": 940,
+    "p": "Come to your senses",
+    "m": "정신 차려라, 이성적으로 생각해라"
+  },
+  {
+    "id": 941,
+    "p": "Let's call it a day.",
+    "m": "오늘은 이만 마칩시다."
+  },
+  {
+    "id": 942,
+    "p": "Act your age.",
+    "m": "나잇값 좀 하세요."
+  },
+  {
+    "id": 943,
+    "p": "It went over my head.",
+    "m": "이해가 안 됐어요."
+  },
+  {
+    "id": 944,
+    "p": "Are you open today?",
+    "m": "오늘 영업해요?"
+  },
+  {
+    "id": 945,
+    "p": "Don't make a big deal.",
+    "m": "호들갑 떨지 마세요."
+  },
+  {
+    "id": 946,
+    "p": "In a nutshell.",
+    "m": "한마디로 말하면요."
+  },
+  {
+    "id": 947,
+    "p": "Don't spill the beans.",
+    "m": "비밀을 누설하지 마세요."
+  },
+  {
+    "id": 948,
+    "p": "Are you guys open?",
+    "m": "지금 장사해요?"
+  },
+  {
+    "id": 949,
+    "p": "I'm going to keep my eyes peeled.",
+    "m": "잘 살필게요."
+  },
+  {
+    "id": 950,
+    "p": "I'm right behind you.",
+    "m": "내가 뒤에서 응원할게."
+  },
+  {
+    "id": 951,
+    "p": "There you go again.",
+    "m": "또 시작이네."
+  },
+  {
+    "id": 952,
+    "p": "Figures.",
+    "m": "그러면 그렇지. 그럴 줄 알았어."
+  },
+  {
+    "id": 953,
+    "p": "Duh",
+    "m": "당연하지."
+  },
+  {
+    "id": 954,
+    "p": "Stop bugging me.",
+    "m": "나 좀 괴롭히지 마세요."
+  },
+  {
+    "id": 955,
+    "p": "I've been there before.",
+    "m": "나도 그런 적이 있어요."
+  },
+  {
+    "id": 956,
+    "p": "We're working with a skeleton crew.",
+    "m": "최소 인원으로 운영 중이에요."
+  },
+  {
+    "id": 957,
+    "p": "That's the thing.",
+    "m": "그게 문제예요."
+  },
+  {
+    "id": 958,
+    "p": "Intriguing",
+    "m": "흥미로운"
+  },
+  {
+    "id": 959,
+    "p": "It happens all the time.",
+    "m": "늘 있는 일이에요."
+  },
+  {
+    "id": 960,
+    "p": "There is no smoking gun.",
+    "m": "결정적인 증거가 없어요."
+  },
+  {
+    "id": 961,
+    "p": "I'm salty.",
+    "m": "삐졌어요 (까칠해졌어요)."
+  },
+  {
+    "id": 962,
+    "p": "You don't want to know.",
+    "m": "알면 다쳐요."
+  },
+  {
+    "id": 963,
+    "p": "Fascinating",
+    "m": "매혹적인"
+  },
+  {
+    "id": 964,
+    "p": "I got stuck in traffic.",
+    "m": "차가 막혔어요."
+  },
+  {
+    "id": 965,
+    "p": "It's a different kettle of fish.",
+    "m": "그건 전혀 별개의 문제예요."
+  },
+  {
+    "id": 966,
+    "p": "Thought-provoking",
+    "m": "생각을 자극하는"
+  },
+  {
+    "id": 967,
+    "p": "I give you my word.",
+    "m": "약속할게요."
+  },
+  {
+    "id": 968,
+    "p": "It's a long story.",
+    "m": "사연이 많아요."
+  },
+  {
+    "id": 969,
+    "p": "We've got to break the mold.",
+    "m": "관습을 깨야 해요."
+  },
+  {
+    "id": 970,
+    "p": "That's what I'm talking about!",
+    "m": "바로 그거예요!"
+  },
+  {
+    "id": 971,
+    "p": "The damage is done.",
+    "m": "이미 엎질러진 물이에요."
+  },
+  {
+    "id": 972,
+    "p": "I can't sit still.",
+    "m": "가만히 못 있겠어요."
+  },
+  {
+    "id": 973,
+    "p": "It's better than nothing.",
+    "m": "없는 것보다 낫죠."
+  },
+  {
+    "id": 974,
+    "p": "We go way back",
+    "m": "우린 오래전부터 알던 사이야."
+  },
+  {
+    "id": 975,
+    "p": "Stay focused.",
+    "m": "집중하세요."
+  },
+  {
+    "id": 976,
+    "p": "He was quite high maintenance.",
+    "m": "그는 손이 많이 가는 스타일이에요."
+  },
+  {
+    "id": 977,
+    "p": "I went cold turkey.",
+    "m": "단번에 끊었어요."
+  },
+  {
+    "id": 978,
+    "p": "It takes me back",
+    "m": "옛날 생각 나게 해."
+  },
+  {
+    "id": 979,
+    "p": "Get with the program.",
+    "m": "상황 파악 좀 하세요."
+  },
+  {
+    "id": 980,
+    "p": "Give me a ballpark figure.",
+    "m": "대략적인 수치를 알려주세요."
+  },
+  {
+    "id": 981,
+    "p": "What's your best guess?",
+    "m": "대충 짐작해보면 어때요?"
+  },
+  {
+    "id": 982,
+    "p": "It's a pain in the neck.",
+    "m": "정말 성가셔요."
+  },
+  {
+    "id": 983,
+    "p": "It keeps me on my toes.",
+    "m": "긴장을 늦출 수 없게 해요."
+  },
+  {
+    "id": 984,
+    "p": "It blows me away.",
+    "m": "정말 놀라워요."
+  },
+  {
+    "id": 985,
+    "p": "I'm susceptible to it.",
+    "m": "저는 거기에 약해요."
+  },
+  {
+    "id": 986,
+    "p": "I'll level with you.",
+    "m": "솔직히 털어놓을게요."
+  },
+  {
+    "id": 987,
+    "p": "They had it coming.",
+    "m": "자업자득이에요."
+  },
+  {
+    "id": 988,
+    "p": "I'll spare you the details.",
+    "m": "자세한 설명은 생략할게요."
+  },
+  {
+    "id": 989,
+    "p": "Bad news travels fast.",
+    "m": "나쁜 소식은 빨리 퍼져요."
+  },
+  {
+    "id": 990,
+    "p": "Why the long face?",
+    "m": "왜 울상이에요?"
+  },
+  {
+    "id": 991,
+    "p": "What's the occasion?",
+    "m": "무슨 특별한 날인가요?"
+  },
+  {
+    "id": 992,
+    "p": "What's the matter?",
+    "m": "무슨 일이에요?"
+  },
+  {
+    "id": 993,
+    "p": "He had a blast.",
+    "m": "아주 즐거운 시간을 보냈어요."
+  },
+  {
+    "id": 994,
+    "p": "Fill out this form",
+    "m": "이 양식 작성해주세요."
+  },
+  {
+    "id": 995,
+    "p": "It doesn't ring a bell",
+    "m": "기억이 안 나."
+  },
+  {
+    "id": 996,
+    "p": "It was put on ice.",
+    "m": "보류되었어요."
+  },
+  {
+    "id": 997,
+    "p": "You've lost me.",
+    "m": "무슨 말인지 모르겠어요."
+  },
+  {
+    "id": 998,
+    "p": "I'm on cloud nine.",
+    "m": "너무 행복해요."
+  },
+  {
+    "id": 999,
+    "p": "She was thirsty.",
+    "m": "관심을 갈구했어요."
+  },
+  {
+    "id": 1000,
+    "p": "There's nothing to it.",
+    "m": "아주 쉬워요."
+  }
+]

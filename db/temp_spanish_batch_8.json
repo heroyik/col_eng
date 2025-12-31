@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1401,
+    "p": "Get the picture?",
+    "m": "이해가 돼?"
+  },
+  {
+    "id": 1402,
+    "p": "You look awful.",
+    "m": "꼴이 말이 아니네."
+  },
+  {
+    "id": 1403,
+    "p": "Don't fall for it.",
+    "m": "속지 마!"
+  },
+  {
+    "id": 1404,
+    "p": "Gut feeling",
+    "m": "직감."
+  },
+  {
+    "id": 1405,
+    "p": "Just go with your gut",
+    "m": "직감대로 해."
+  },
+  {
+    "id": 1406,
+    "p": "Spot on",
+    "m": "정확해."
+  },
+  {
+    "id": 1407,
+    "p": "On the spot",
+    "m": "즉석에서."
+  },
+  {
+    "id": 1408,
+    "p": "Put someone on the spot",
+    "m": "누굴 난처하게 만들다."
+  },
+  {
+    "id": 1409,
+    "p": "Homie",
+    "m": "친한 친구."
+  },
+  {
+    "id": 1410,
+    "p": "Run some errands",
+    "m": "자잘한 일 보러 다니다."
+  },
+  {
+    "id": 1411,
+    "p": "Hit the road",
+    "m": "출발하다."
+  },
+  {
+    "id": 1412,
+    "p": "Have a blast",
+    "m": "엄청 재밌게 놀다."
+  },
+  {
+    "id": 1413,
+    "p": "Cut it out",
+    "m": "그만해."
+  },
+  {
+    "id": 1414,
+    "p": "Have a good one",
+    "m": "좋은 하루 보내."
+  },
+  {
+    "id": 1415,
+    "p": "Beats me",
+    "m": "나도 몰라."
+  },
+  {
+    "id": 1416,
+    "p": "My heart skipped a beat",
+    "m": "깜짝 놀랐어."
+  },
+  {
+    "id": 1417,
+    "p": "Is there a wait?",
+    "m": "대기 있나요?"
+  },
+  {
+    "id": 1418,
+    "p": "Bang for the buck",
+    "m": "가성비."
+  },
+  {
+    "id": 1419,
+    "p": "Out loud",
+    "m": "소리 내서."
+  },
+  {
+    "id": 1420,
+    "p": "It hits the spot",
+    "m": "딱 좋다."
+  },
+  {
+    "id": 1421,
+    "p": "Hang loose",
+    "m": "편하게 있어."
+  },
+  {
+    "id": 1422,
+    "p": "You name it",
+    "m": "말만 해."
+  },
+  {
+    "id": 1423,
+    "p": "Every cloud has a silver lining",
+    "m": "나쁜 일에도 좋은 면은 있어."
+  },
+  {
+    "id": 1424,
+    "p": "I was spread too thin",
+    "m": "너무 바빠서 여력이 없었어."
+  },
+  {
+    "id": 1425,
+    "p": "I got your back",
+    "m": "내가 네 편이야."
+  },
+  {
+    "id": 1426,
+    "p": "Without further ado",
+    "m": "더 지체 없이."
+  },
+  {
+    "id": 1427,
+    "p": "Hands down",
+    "m": "단연코."
+  },
+  {
+    "id": 1428,
+    "p": "A walk in the park",
+    "m": "식은 죽 먹기."
+  },
+  {
+    "id": 1429,
+    "p": "Show up",
+    "m": "나타나다."
+  },
+  {
+    "id": 1430,
+    "p": "Odds and ends",
+    "m": "잡동사니."
+  },
+  {
+    "id": 1431,
+    "p": "I'm losing it",
+    "m": "멘붕이야."
+  },
+  {
+    "id": 1432,
+    "p": "stutter",
+    "m": "말을 더듬다"
+  },
+  {
+    "id": 1433,
+    "p": "cervical disc stenosis",
+    "m": "목 디스크 협착증"
+  },
+  {
+    "id": 1434,
+    "p": "Social butterfly",
+    "m": "마당발 / 인싸"
+  },
+  {
+    "id": 1435,
+    "p": "Social network",
+    "m": "인맥 / 소셜 네트워크"
+  },
+  {
+    "id": 1436,
+    "p": "Social skills",
+    "m": "사회성 / 사교성"
+  },
+  {
+    "id": 1437,
+    "p": "Social responsibility",
+    "m": "사회적 책임"
+  },
+  {
+    "id": 1438,
+    "p": "Societal norms",
+    "m": "사회적 통념 / 국룰"
+  },
+  {
+    "id": 1439,
+    "p": "Go the extra mile",
+    "m": "특별히 더 신경 쓰다 / 한 발 더 뛰다"
+  },
+  {
+    "id": 1440,
+    "p": "Get the ball rolling",
+    "m": "일단 시작하다 / 스타트를 끊다"
+  },
+  {
+    "id": 1441,
+    "p": "Give it a shot",
+    "m": "한번 해보다 / 시도해보다"
+  },
+  {
+    "id": 1442,
+    "p": "Go out of one's way",
+    "m": "굳이 애쓰다 / 발 벗고 나서다"
+  },
+  {
+    "id": 1443,
+    "p": "Get off the ground",
+    "m": "순조롭게 출발하다 / 궤도에 오르다"
+  },
+  {
+    "id": 1444,
+    "p": "For the sake of",
+    "m": "~을 위해서 / ~때문에"
+  },
+  {
+    "id": 1445,
+    "p": "For the time being",
+    "m": "당분간은 / 일단은"
+  },
+  {
+    "id": 1446,
+    "p": "For a change",
+    "m": "기분 전환겸 / 색다르게"
+  },
+  {
+    "id": 1447,
+    "p": "From time to time",
+    "m": "가끔 / 때때로"
+  },
+  {
+    "id": 1448,
+    "p": "Through thick and thin",
+    "m": "좋을 때나 나쁠 때나 / 산전수전 다 겪으며"
+  },
+  {
+    "id": 1449,
+    "p": "Force of nature",
+    "m": "압도적인 존재감 / 천재지변 같은 사람"
+  },
+  {
+    "id": 1450,
+    "p": "Force of will",
+    "m": "의지력 / 깡다구"
+  },
+  {
+    "id": 1451,
+    "p": "Force of personality",
+    "m": "카리스마 / 사람을 끄는 힘"
+  },
+  {
+    "id": 1452,
+    "p": "Force of impact",
+    "m": "충격의 강도 / 임팩트"
+  },
+  {
+    "id": 1453,
+    "p": "My allergies are acting up.",
+    "m": "알레르기가 또 도졌어"
+  },
+  {
+    "id": 1454,
+    "p": "Get off my back",
+    "m": "나 좀 내버려 둬 / 잔소리 좀 그만해"
+  },
+  {
+    "id": 1455,
+    "p": "Lets pick up where we left off",
+    "m": "아까 하던 얘기 계속하자 / 여기서부터 다시 시작하자"
+  },
+  {
+    "id": 1456,
+    "p": "I just bumped my elbow on the doorframe",
+    "m": "문틀에 팔꿈치 찧었어"
+  },
+  {
+    "id": 1457,
+    "p": "You have grit",
+    "m": "너 끈기 있다 / 깡이 있네"
+  },
+  {
+    "id": 1458,
+    "p": "You have guts",
+    "m": "너 배짱 좋다 / 강단 있네"
+  },
+  {
+    "id": 1459,
+    "p": "Im a foodie",
+    "m": "나 미식가야 / 먹는 거 좋아해"
+  },
+  {
+    "id": 1460,
+    "p": "Its the last straw",
+    "m": "이제 더 이상은 못 참아 / 이게 한계야"
+  },
+  {
+    "id": 1461,
+    "p": "Wanna catch a movie later?",
+    "m": "이따 영화 한 편 때릴까?"
+  },
+  {
+    "id": 1462,
+    "p": "It seems a bit likely",
+    "m": "그럴싸해 보이는데?"
+  },
+  {
+    "id": 1463,
+    "p": "It seemed a bit exaggerated",
+    "m": "좀 오바한 것 같더라 / 과장된 것 같아"
+  },
+  {
+    "id": 1464,
+    "p": "Wish washy",
+    "m": "우유부단해 / 이랬다저랬다 해"
+  },
+  {
+    "id": 1465,
+    "p": "Keep a lid on it",
+    "m": "일단 비밀로 해 / 입 닫고 있어"
+  },
+  {
+    "id": 1466,
+    "p": "I'm not the type to regret things",
+    "m": "나 원래 후회 잘 안 해 / 뒤끝 없는 스타일이야"
+  },
+  {
+    "id": 1467,
+    "p": "I am at a loss for words",
+    "m": "뭐라 할 말이 없네 / 어이가 없네"
+  },
+  {
+    "id": 1468,
+    "p": "Is something bothering you?",
+    "m": "무슨 일 있어? / 뭐 찜찜한 거 있어?"
+  },
+  {
+    "id": 1469,
+    "p": "It's nothing. Don't worry about it.",
+    "m": "별거 아냐, 신경 쓰지 마"
+  },
+  {
+    "id": 1470,
+    "p": "I'd rather die than suffer",
+    "m": "고통받느니 죽는 게 낫지 / 힘들게 사느니 죽고 말지"
+  },
+  {
+    "id": 1471,
+    "p": "Nerve racking",
+    "m": "피 말리네 / 신경 쓰여 죽겠네"
+  },
+  {
+    "id": 1472,
+    "p": "Butter up",
+    "m": "아부 떨다 / 비위 맞추다"
+  },
+  {
+    "id": 1473,
+    "p": "Brown nose",
+    "m": "아부꾼 / 딸랑딸랑하다"
+  },
+  {
+    "id": 1474,
+    "p": "Bumped into:",
+    "m": "우연히 마주치다 (/부딪히다)"
+  },
+  {
+    "id": 1475,
+    "p": "Bumped against:",
+    "m": "~에 부딪히다 / 쿵 하다"
+  },
+  {
+    "id": 1476,
+    "p": "I bumped my toes on the doorframe",
+    "m": "문지방에 발가락 찧었어"
+  },
+  {
+    "id": 1477,
+    "p": "Pushover",
+    "m": "호구 / 만만한 사람"
+  },
+  {
+    "id": 1478,
+    "p": "Are you spoken for?",
+    "m": "만나는 사람 있어? / 임자 있어?"
+  },
+  {
+    "id": 1479,
+    "p": "He is pretty camera shy",
+    "m": "걔 사진 찍는 거 싫어해 / 카메라 공포증 있어"
+  },
+  {
+    "id": 1480,
+    "p": "Pull down to refresh",
+    "m": "아래로 당겨서 새로고침하다 (앱이나 웹에서)"
+  },
+  {
+    "id": 1481,
+    "p": "Not a word",
+    "m": "절대 아무한테도 말하지 마 (비밀이야)"
+  },
+  {
+    "id": 1482,
+    "p": "Say less",
+    "m": "알았어, 더 말 안 해도 이해했어 (바로 할게)"
+  },
+  {
+    "id": 1483,
+    "p": "Don't sass me",
+    "m": "나한테 대들지 마 / 말대꾸하지 마"
+  }
+]

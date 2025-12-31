@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1201,
+    "p": "Let's order in.",
+    "m": "그냥 시켜 먹자."
+  },
+  {
+    "id": 1202,
+    "p": "Bless you",
+    "m": "재채기했을 때 하는 말."
+  },
+  {
+    "id": 1203,
+    "p": "He is very low-key.",
+    "m": "그 사람 아주 얌전해."
+  },
+  {
+    "id": 1204,
+    "p": "It's lit.",
+    "m": "와, 쩐다!"
+  },
+  {
+    "id": 1205,
+    "p": "I have a hunch",
+    "m": "촉이 와."
+  },
+  {
+    "id": 1206,
+    "p": "It's on the tip of my tongue.",
+    "m": "생각 날 듯 말 듯해."
+  },
+  {
+    "id": 1207,
+    "p": "What brings you here?",
+    "m": "어쩐 일로 오셨어요?"
+  },
+  {
+    "id": 1208,
+    "p": "Don't get any funny ideas.",
+    "m": "이상한 생각하지 마. / 오해하지 마."
+  },
+  {
+    "id": 1209,
+    "p": "I'm not much of a coffee person.",
+    "m": "난 커피 별로 안 좋아해."
+  },
+  {
+    "id": 1210,
+    "p": "I don't follow.",
+    "m": "무슨 말인지 모르겠어."
+  },
+  {
+    "id": 1211,
+    "p": "Are you wearing perfume?",
+    "m": "향수 뿌렸어?"
+  },
+  {
+    "id": 1212,
+    "p": "We have bigger fish to fry.",
+    "m": "더 중요한 일이 있어."
+  },
+  {
+    "id": 1213,
+    "p": "I have my hands full.",
+    "m": "엄청나게 바빠."
+  },
+  {
+    "id": 1214,
+    "p": "How can that be?",
+    "m": "어떻게 그럴 수 있지?"
+  },
+  {
+    "id": 1215,
+    "p": "Potato, potahto, tomato, tomahto.",
+    "m": "그게 그거지."
+  },
+  {
+    "id": 1216,
+    "p": "It's not my day.",
+    "m": "오늘 일진이 안 좋아."
+  },
+  {
+    "id": 1217,
+    "p": "Far from it.",
+    "m": "전혀 그렇지 않아."
+  },
+  {
+    "id": 1218,
+    "p": "Fancy meeting you here!",
+    "m": "여기서 너를 만날 줄이야!"
+  },
+  {
+    "id": 1219,
+    "p": "I never thought of that.",
+    "m": "그렇게 생각 안해봤어."
+  },
+  {
+    "id": 1220,
+    "p": "Are you gonna run some errands?",
+    "m": "볼일 보러 나갈 거야?"
+  },
+  {
+    "id": 1221,
+    "p": "I just did the best I could.",
+    "m": "최선을 다해 노력했어요."
+  },
+  {
+    "id": 1222,
+    "p": "Get to the point.",
+    "m": "요점만 말해."
+  },
+  {
+    "id": 1223,
+    "p": "Do I have to spell it out for you?",
+    "m": "내가 하나하나 다 설명해줘야 돼?"
+  },
+  {
+    "id": 1224,
+    "p": "I can't get through to her.",
+    "m": "걔를 이해시킬 수가 없어."
+  },
+  {
+    "id": 1225,
+    "p": "Take a wild guess.",
+    "m": "대충 맞춰봐."
+  },
+  {
+    "id": 1226,
+    "p": "No more wishy-washy.",
+    "m": "그만 우유분단하게 굴어."
+  },
+  {
+    "id": 1227,
+    "p": "Sue me!",
+    "m": "배째!"
+  },
+  {
+    "id": 1228,
+    "p": "Just making chit chat.",
+    "m": "그냥 수다 떠는 중이야."
+  },
+  {
+    "id": 1229,
+    "p": "We won by a nose.",
+    "m": "우리는 간발의 차로 이겼어."
+  },
+  {
+    "id": 1230,
+    "p": "That's on you.",
+    "m": "그건 네 책임이야."
+  },
+  {
+    "id": 1231,
+    "p": "I'm totally out of shape.",
+    "m": "몸 상태가 엉망이야."
+  },
+  {
+    "id": 1232,
+    "p": "Why are you dressed up?",
+    "m": "왜 이렇게 옷을 차려 입었어?"
+  },
+  {
+    "id": 1233,
+    "p": "I bought it for a song.",
+    "m": "나 이거 헐값에 샀어."
+  },
+  {
+    "id": 1234,
+    "p": "That was a close call!",
+    "m": "큰일 날 뻔했어!"
+  },
+  {
+    "id": 1235,
+    "p": "Likewise.",
+    "m": "마찬가지야."
+  },
+  {
+    "id": 1236,
+    "p": "You made my day.",
+    "m": "덕분에 기분 좋아졌어."
+  },
+  {
+    "id": 1237,
+    "p": "What a small world.",
+    "m": "세상 참 좁다."
+  },
+  {
+    "id": 1238,
+    "p": "I didn't see this coming.",
+    "m": "이렇게 될 줄 몰랐어."
+  },
+  {
+    "id": 1239,
+    "p": "Sorry about the mess.",
+    "m": "지저분해서 미안."
+  },
+  {
+    "id": 1240,
+    "p": "Everyone speaks highly of you.",
+    "m": "다들 너 칭찬하더라."
+  },
+  {
+    "id": 1241,
+    "p": "You have to put yourself in my shoes.",
+    "m": "내 입장에서 생각해 줘."
+  },
+  {
+    "id": 1242,
+    "p": "Where have you been?",
+    "m": "어디 있었어?"
+  },
+  {
+    "id": 1243,
+    "p": "Don't be a stranger.",
+    "m": "연락하고 지내자."
+  },
+  {
+    "id": 1244,
+    "p": "All sales are final.",
+    "m": "반품/환불 안됩니다."
+  },
+  {
+    "id": 1245,
+    "p": "I never meant to.",
+    "m": "고의로 그런 거 아니야."
+  },
+  {
+    "id": 1246,
+    "p": "Here's the deal.",
+    "m": "그럼 이렇게 하자."
+  },
+  {
+    "id": 1247,
+    "p": "Enough chit chat.",
+    "m": "잡담 그만해."
+  },
+  {
+    "id": 1248,
+    "p": "We can pull this off.",
+    "m": "우리 이거 해낼 수 있어."
+  },
+  {
+    "id": 1249,
+    "p": "You have my word.",
+    "m": "약속할 게 내 말 믿어."
+  },
+  {
+    "id": 1250,
+    "p": "Time's up.",
+    "m": "시간 다 됐습니다."
+  },
+  {
+    "id": 1251,
+    "p": "Do I know you from somewhere?",
+    "m": "우리 어디서 본 적 있죠?"
+  },
+  {
+    "id": 1252,
+    "p": "Fake it till you make it.",
+    "m": "될 때까지 해야지."
+  },
+  {
+    "id": 1253,
+    "p": "Don't take it personally.",
+    "m": "기분 나쁘게 받아들이지 마세요."
+  },
+  {
+    "id": 1254,
+    "p": "That's the way it is.",
+    "m": "원래 다 그런 거야."
+  },
+  {
+    "id": 1255,
+    "p": "Don't be ridiculous.",
+    "m": "바보같이 굴지 마."
+  },
+  {
+    "id": 1256,
+    "p": "I got dumped.",
+    "m": "(이성에게) 나 차였어."
+  },
+  {
+    "id": 1257,
+    "p": "Now it makes sense.",
+    "m": "이제야 이해가 되네요."
+  },
+  {
+    "id": 1258,
+    "p": "Let's get it over with.",
+    "m": "빨리하고 끝내버리죠."
+  },
+  {
+    "id": 1259,
+    "p": "What a shame.",
+    "m": "정말 아쉽네요."
+  },
+  {
+    "id": 1260,
+    "p": "She's obsessed with you.",
+    "m": "그녀는 당신에게 집착하고 있어요."
+  },
+  {
+    "id": 1261,
+    "p": "Are you with me?",
+    "m": "내 말 이해되나요?"
+  },
+  {
+    "id": 1262,
+    "p": "Mind your business.",
+    "m": "상관 마세요."
+  },
+  {
+    "id": 1263,
+    "p": "I overreacted.",
+    "m": "제가 과민 반응했어요."
+  },
+  {
+    "id": 1264,
+    "p": "I have nothing to do with that.",
+    "m": "저와 상관없는 일이에요."
+  },
+  {
+    "id": 1265,
+    "p": "I think I'll pass.",
+    "m": "사양할게요."
+  },
+  {
+    "id": 1266,
+    "p": "There's been a big mistake.",
+    "m": "뭔가 착오가 있었어요."
+  },
+  {
+    "id": 1267,
+    "p": "I gotta get some air.",
+    "m": "바람 좀 쐬어야겠어요."
+  },
+  {
+    "id": 1268,
+    "p": "Okay if we take a rain check?",
+    "m": "다음으로 미뤄도 될까요?"
+  },
+  {
+    "id": 1269,
+    "p": "Don't hold your breath.",
+    "m": "기대하지 마세요."
+  },
+  {
+    "id": 1270,
+    "p": "He's not with me.",
+    "m": "제 일행이 아닙니다."
+  },
+  {
+    "id": 1271,
+    "p": "I can't catch a break.",
+    "m": "되는 일이 없어요."
+  },
+  {
+    "id": 1272,
+    "p": "Do me a favor.",
+    "m": "부탁 하나만 하자."
+  },
+  {
+    "id": 1273,
+    "p": "I knew it.",
+    "m": "그럴 줄 알았어."
+  },
+  {
+    "id": 1274,
+    "p": "I take it back.",
+    "m": "그 말은 취소할게."
+  },
+  {
+    "id": 1275,
+    "p": "Jinx!",
+    "m": "찌찌뽕!"
+  },
+  {
+    "id": 1276,
+    "p": "Not necessarily.",
+    "m": "꼭 그렇진 않아."
+  },
+  {
+    "id": 1277,
+    "p": "Ta-da!",
+    "m": "짜잔!"
+  },
+  {
+    "id": 1278,
+    "p": "We're on the same page.",
+    "m": "우리 같은 생각이야."
+  },
+  {
+    "id": 1279,
+    "p": "What do you say?",
+    "m": "어떻게 생각해?"
+  },
+  {
+    "id": 1280,
+    "p": "I warned you this would happen.",
+    "m": "이런 일이 일어날 거라고 내가 경고 했잖아."
+  },
+  {
+    "id": 1281,
+    "p": "It's water under the bridge.",
+    "m": "다 지난 일이네요."
+  },
+  {
+    "id": 1282,
+    "p": "I have a ballpark figure.",
+    "m": "대충은 알고 있어요."
+  },
+  {
+    "id": 1283,
+    "p": "Don't beat yourself up.",
+    "m": "자책하지 마세요."
+  },
+  {
+    "id": 1284,
+    "p": "He cheated on me.",
+    "m": "걔가 바람을 피웠어."
+  },
+  {
+    "id": 1285,
+    "p": "I'm so screwed.",
+    "m": "완전히 망했어요."
+  },
+  {
+    "id": 1286,
+    "p": "You're being so dramatic.",
+    "m": "오버가 심하시네."
+  },
+  {
+    "id": 1287,
+    "p": "You're out of your league.",
+    "m": "이것은 당신 능력 밖이에요."
+  },
+  {
+    "id": 1288,
+    "p": "I'm so relieved.",
+    "m": "너무 마음이 놓이네요."
+  },
+  {
+    "id": 1289,
+    "p": "He's crazy about you.",
+    "m": "그는 너에게 푹 빠져 있어."
+  },
+  {
+    "id": 1290,
+    "p": "How are we on time?",
+    "m": "우리 제시간에 도착한거야?"
+  },
+  {
+    "id": 1291,
+    "p": "Don't try to butter me up.",
+    "m": "나한테 아부하려고 하지 마."
+  },
+  {
+    "id": 1292,
+    "p": "I do have feelings for you.",
+    "m": "당신을 좋아해요."
+  },
+  {
+    "id": 1293,
+    "p": "Don't keep me waiting.",
+    "m": "저를 기다리게 하지 마세요."
+  },
+  {
+    "id": 1294,
+    "p": "You guys are so made for each other.",
+    "m": "너네 둘은 천생연분이야."
+  },
+  {
+    "id": 1295,
+    "p": "Suit yourself.",
+    "m": "마음대로 하세요."
+  },
+  {
+    "id": 1296,
+    "p": "That should do it.",
+    "m": "이거면 돼. / 이정도면 됐어."
+  },
+  {
+    "id": 1297,
+    "p": "I'm gonna go freshen up.",
+    "m": "나 씻으러 가야겠다."
+  },
+  {
+    "id": 1298,
+    "p": "You're wearing it backwards.",
+    "m": "너 옷 거꾸로 입었다."
+  },
+  {
+    "id": 1299,
+    "p": "Will you be home for dinner?",
+    "m": "집에 와서 저녁 먹을 거야?"
+  },
+  {
+    "id": 1300,
+    "p": "I'm afraid we're out of stock.",
+    "m": "안타깝지만 재고가 다 떨어졌어요."
+  },
+  {
+    "id": 1301,
+    "p": "Good call.",
+    "m": "좋은 생각이야. / 좋은 결정이야."
+  },
+  {
+    "id": 1302,
+    "p": "I'm in the same boat.",
+    "m": "나도 같은 처지야."
+  },
+  {
+    "id": 1303,
+    "p": "That's so touching.",
+    "m": "정말 감동이다."
+  },
+  {
+    "id": 1304,
+    "p": "I'm speechless.",
+    "m": "말문이 막히네, 할 말을 잃었어."
+  },
+  {
+    "id": 1305,
+    "p": "I don't know a thing.",
+    "m": "난 아무것도 몰라."
+  },
+  {
+    "id": 1306,
+    "p": "Where was I?",
+    "m": "내가 어디까지 이야기했지?"
+  },
+  {
+    "id": 1307,
+    "p": "Wanna grab some lunch?",
+    "m": "점심 먹을래?"
+  },
+  {
+    "id": 1308,
+    "p": "I had a rough night.",
+    "m": "밤잠을 설쳤어."
+  },
+  {
+    "id": 1309,
+    "p": "This can't be happening.",
+    "m": "이건 있을 수 없는 일이야."
+  },
+  {
+    "id": 1310,
+    "p": "Now you're talking.",
+    "m": "이제야 말이 통하네!"
+  },
+  {
+    "id": 1311,
+    "p": "You got that right.",
+    "m": "네 말이 맞아."
+  },
+  {
+    "id": 1312,
+    "p": "I don't see that happening.",
+    "m": "그렇게는 안될 걸."
+  },
+  {
+    "id": 1313,
+    "p": "Not that I know of.",
+    "m": "내가 알기로는 그렇지 않아."
+  },
+  {
+    "id": 1314,
+    "p": "Over my dead body.",
+    "m": "절.대.안.돼."
+  },
+  {
+    "id": 1315,
+    "p": "I'm hoping for the best.",
+    "m": "잘 되길 빌고 있어."
+  },
+  {
+    "id": 1316,
+    "p": "I'm down.",
+    "m": "난 찬성이야."
+  },
+  {
+    "id": 1317,
+    "p": "No way.",
+    "m": "말도 안돼. / 헐 대박."
+  },
+  {
+    "id": 1318,
+    "p": "Mind if I join you?",
+    "m": "내가 껴도 돼?"
+  },
+  {
+    "id": 1319,
+    "p": "Who cares?",
+    "m": "알게 뭐람? 무슨 상관이야?"
+  },
+  {
+    "id": 1320,
+    "p": "It's not my place.",
+    "m": "내가 나설 자리가 아냐."
+  },
+  {
+    "id": 1321,
+    "p": "Follow your heart.",
+    "m": "마음 가는대로 해."
+  },
+  {
+    "id": 1322,
+    "p": "I wouldn't if I were you.",
+    "m": "내가 너라면 그렇게 하지 않겠어."
+  },
+  {
+    "id": 1323,
+    "p": "Do your job.",
+    "m": "네 일이나 잘해."
+  },
+  {
+    "id": 1324,
+    "p": "It's all or nothing.",
+    "m": "모 아니면 도야."
+  },
+  {
+    "id": 1325,
+    "p": "Behave yourself.",
+    "m": "버릇없이 굴면 안돼. / 점잖게 행동해."
+  },
+  {
+    "id": 1326,
+    "p": "What's in it for me?",
+    "m": "내가 얻는 게 뭔데?"
+  },
+  {
+    "id": 1327,
+    "p": "Shame on you!",
+    "m": "부끄러운 줄 알아야지! 창피한 일이야!"
+  },
+  {
+    "id": 1328,
+    "p": "You're one to talk.",
+    "m": "사돈 남 말 하네."
+  },
+  {
+    "id": 1329,
+    "p": "You asked for it.",
+    "m": "자업자득이지."
+  },
+  {
+    "id": 1330,
+    "p": "It serves you right!",
+    "m": "꼴 좋다! 넌 그런 일 당해도 싸!"
+  },
+  {
+    "id": 1331,
+    "p": "You catch on quick.",
+    "m": "눈치가 빠르네. / 이해가 빠르네."
+  },
+  {
+    "id": 1332,
+    "p": "Don't blow it.",
+    "m": "기회를 날리지 마. / 망치지 마."
+  },
+  {
+    "id": 1333,
+    "p": "Then so be it.",
+    "m": "그럼 그렇게 해. / 어쩔 수 없지."
+  },
+  {
+    "id": 1334,
+    "p": "Watch your tongue!",
+    "m": "말 조심해!"
+  },
+  {
+    "id": 1335,
+    "p": "I want no part of it.",
+    "m": "난 그 일에 관여하고 싶지 않아."
+  },
+  {
+    "id": 1336,
+    "p": "Please don't butt in.",
+    "m": "끼어들지 마."
+  },
+  {
+    "id": 1337,
+    "p": "Brace yourself.",
+    "m": "마음 단단히 먹고 들어."
+  },
+  {
+    "id": 1338,
+    "p": "Let's just call it even.",
+    "m": "비긴 셈치자."
+  },
+  {
+    "id": 1339,
+    "p": "It's a guy thing.",
+    "m": "남자들 이야기야."
+  },
+  {
+    "id": 1340,
+    "p": "She's gonna mooch off us.",
+    "m": "걔는 우리에게 빌붙어살거야."
+  },
+  {
+    "id": 1341,
+    "p": "The same goes for you.",
+    "m": "너도 마찬가지야."
+  },
+  {
+    "id": 1342,
+    "p": "Pull over right here.",
+    "m": "바로 여기에 차를 세워요."
+  },
+  {
+    "id": 1343,
+    "p": "Hop in.",
+    "m": "어서 타."
+  },
+  {
+    "id": 1344,
+    "p": "Going my way?",
+    "m": "혹시 나랑 같은 방향으로 가니?"
+  },
+  {
+    "id": 1345,
+    "p": "You can't miss it.",
+    "m": "쉽게 찾을 수 있을 거야."
+  },
+  {
+    "id": 1346,
+    "p": "I'm stuck in traffic.",
+    "m": "차가 막혀."
+  },
+  {
+    "id": 1347,
+    "p": "I can't afford it.",
+    "m": "그럴 형편이 안돼."
+  },
+  {
+    "id": 1348,
+    "p": "Take it up with your boss.",
+    "m": "사장하고 이야기해봐."
+  },
+  {
+    "id": 1349,
+    "p": "Would you scoot a little?",
+    "m": "조금만 옆으로 가줄래요?"
+  },
+  {
+    "id": 1350,
+    "p": "I can hold my head high.",
+    "m": "난 떳떳할 수 있어."
+  },
+  {
+    "id": 1351,
+    "p": "That's all I need.",
+    "m": "내가 필요한 건 그게 다야."
+  },
+  {
+    "id": 1352,
+    "p": "I'm doing my hair.",
+    "m": "머리 손질 중이야."
+  },
+  {
+    "id": 1353,
+    "p": "Can you break a hundred?",
+    "m": "100불을 잔돈으로 바꿔주실래요?"
+  },
+  {
+    "id": 1354,
+    "p": "What an imagination you have.",
+    "m": "상상력도 풍부하군!"
+  },
+  {
+    "id": 1355,
+    "p": "We've grown apart.",
+    "m": "성장하면서 자연스레 멀어졌어."
+  },
+  {
+    "id": 1356,
+    "p": "I just feel drained.",
+    "m": "기운이 다 빠진 것 같아요."
+  },
+  {
+    "id": 1357,
+    "p": "Get a grip!",
+    "m": "정신 차려!"
+  },
+  {
+    "id": 1358,
+    "p": "Can I tag along?",
+    "m": "나도 따라가도 돼?"
+  },
+  {
+    "id": 1359,
+    "p": "It's a hassle.",
+    "m": "귀찮아. / 번거로워."
+  },
+  {
+    "id": 1360,
+    "p": "So far, so good.",
+    "m": "지금까지는 괜찮아."
+  },
+  {
+    "id": 1361,
+    "p": "You haven't changed a bit.",
+    "m": "너 정말 하나도 안 변했구나."
+  },
+  {
+    "id": 1362,
+    "p": "I'm laying low.",
+    "m": "혼자 조용히 지내고 있어."
+  },
+  {
+    "id": 1363,
+    "p": "Rock on!",
+    "m": "멋지군! 좋아!"
+  },
+  {
+    "id": 1364,
+    "p": "It's hard to keep up.",
+    "m": "따라잡기 어려워."
+  },
+  {
+    "id": 1365,
+    "p": "That makes two of us.",
+    "m": "나도 마찬가지야."
+  },
+  {
+    "id": 1366,
+    "p": "There, there.",
+    "m": "(위로할 때) 토닥토닥/괜찮아"
+  },
+  {
+    "id": 1367,
+    "p": "It was all for nothing.",
+    "m": "괜히 했어."
+  },
+  {
+    "id": 1368,
+    "p": "There wasn't time.",
+    "m": "시간 없었어."
+  },
+  {
+    "id": 1369,
+    "p": "I'm in a bind.",
+    "m": "난처한 상황에 처해있어."
+  },
+  {
+    "id": 1370,
+    "p": "He's always on the go.",
+    "m": "그는 늘 바쁘게 돌아다녀."
+  },
+  {
+    "id": 1371,
+    "p": "I smell a rat.",
+    "m": "수상해. 뭔가 냄새가 나."
+  },
+  {
+    "id": 1372,
+    "p": "I could eat a horse.",
+    "m": "(배가 고파서) 뭐든지 먹을 수 있어."
+  },
+  {
+    "id": 1373,
+    "p": "You're all missing my point.",
+    "m": "내 요점을 모르네."
+  },
+  {
+    "id": 1374,
+    "p": "Pardon my language.",
+    "m": "거친 표현 미안해."
+  },
+  {
+    "id": 1375,
+    "p": "Let's just talk turkey.",
+    "m": "본론으로 들어가죠."
+  },
+  {
+    "id": 1376,
+    "p": "I'll come to the point.",
+    "m": "단도직입적으로 말할 게."
+  },
+  {
+    "id": 1377,
+    "p": "It carries no weight.",
+    "m": "그건 전혀 중요하지 않아."
+  },
+  {
+    "id": 1378,
+    "p": "Put your feet up.",
+    "m": "푹 쉬어."
+  },
+  {
+    "id": 1379,
+    "p": "Drop the subject.",
+    "m": "그 얘긴 그만해."
+  },
+  {
+    "id": 1380,
+    "p": "Everything's up in the air.",
+    "m": "아직 모든 것이 미정이야."
+  },
+  {
+    "id": 1381,
+    "p": "Thanks for walking me home.",
+    "m": "집까지 같이 걸어와줘서 고마워."
+  },
+  {
+    "id": 1382,
+    "p": "Speak of the devil!",
+    "m": "호랑이도 제 말하면 온다더니!"
+  },
+  {
+    "id": 1383,
+    "p": "Heads or tails!",
+    "m": "(동전) 앞면일까 뒷면일까!"
+  },
+  {
+    "id": 1384,
+    "p": "Just kicking in.",
+    "m": "그냥 쉬고 있어."
+  },
+  {
+    "id": 1385,
+    "p": "Put yourself out there.",
+    "m": "당당하게 나서봐. 자신있게 시도해봐."
+  },
+  {
+    "id": 1386,
+    "p": "You're all I've got.",
+    "m": "나한텐 너뿐이야."
+  },
+  {
+    "id": 1387,
+    "p": "That figures.",
+    "m": "어쩐지. 그럴 줄 알았어."
+  },
+  {
+    "id": 1388,
+    "p": "What's there to think about?",
+    "m": "생각할 게 뭐있어? 뭘 고민해?"
+  },
+  {
+    "id": 1389,
+    "p": "It's out of my hands.",
+    "m": "나도 어쩔 수 없어."
+  },
+  {
+    "id": 1390,
+    "p": "Old habits die hard.",
+    "m": "세 살 버릇 여든까지 간다."
+  },
+  {
+    "id": 1391,
+    "p": "Is that what I think it is?",
+    "m": "이게 내가 생각하는 게 맞아?"
+  },
+  {
+    "id": 1392,
+    "p": "Just go with it.",
+    "m": "그냥 참고 지내."
+  },
+  {
+    "id": 1393,
+    "p": "In one ear and out the other.",
+    "m": "한 귀로 듣고 한 귀로 흘려버려."
+  },
+  {
+    "id": 1394,
+    "p": "Like father, like son.",
+    "m": "그 아버지에 그 아들이야."
+  },
+  {
+    "id": 1395,
+    "p": "We're not done here.",
+    "m": "아직 얘기 안 끝났어."
+  },
+  {
+    "id": 1396,
+    "p": "Here goes nothing.",
+    "m": "밑져야 본전이지."
+  },
+  {
+    "id": 1397,
+    "p": "It's now or never.",
+    "m": "지금이 절호의 기회야."
+  },
+  {
+    "id": 1398,
+    "p": "I didn't sleep a wink.",
+    "m": "한숨도 못 잤어."
+  },
+  {
+    "id": 1399,
+    "p": "I'm just having a bad day.",
+    "m": "오늘 일진이 좀 안 좋아."
+  },
+  {
+    "id": 1400,
+    "p": "You can't be serious.",
+    "m": "설마 진심은 아니겠지?"
+  }
+]

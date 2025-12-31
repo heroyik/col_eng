@@ -1,0 +1,38 @@
+[
+  {
+    "primary": "Pull down to refresh",
+    "meaning": "아래로 당겨서 새로고침하다 (앱이나 웹에서)",
+    "similar": [
+      "Reload the feed",
+      "Swipe down to update",
+      "Refresh the screen",
+      "Sync the page",
+      "Trigger a reload"
+    ],
+    "example": "A: My feed is still showing posts from yesterday, what's wrong?\nB: Just pull down to refresh, it probably just needs a quick sync.\nA: I already tried that, but it's still stuck on the same photo.\nB: Maybe your wifi is trippin'. Try switching to data.\nA: Oh, that worked. Now I see all the new drama.\nB: Perfect. Now you can get back to being a hater, haha."
+  },
+  {
+    "primary": "Not a word",
+    "meaning": "절대 아무한테도 말하지 마 (비밀이야)",
+    "similar": [
+      "Keep it on the low",
+      "Don't say a thing",
+      "Keep your lips sealed",
+      "Mum's the word",
+      "This stays between us"
+    ],
+    "example": "A: I'm quitting my job on Friday, but not a word to anyone yet.\nB: Wait, what? Are you serious? Where are you going?\nA: I got an offer from that startup in Brooklyn, but it's not official.\nB: That's huge! I promise, my lips are sealed. Not a word.\nA: Thank you. I don't want any corporate drama before I leave.\nB: I got you. Your secret is totally safe with me."
+  },
+  {
+    "primary": "Say less",
+    "meaning": "알았어, 더 말 안 해도 이해했어 (바로 할게)",
+    "similar": [
+      "I got you",
+      "Understood",
+      "Consider it done",
+      "Way ahead of you",
+      "On it"
+    ],
+    "example": "A: Can you grab some ice on your way to the party tonight?\nB: Say less, I'll pick up two bags and some extra cups too.\nA: You're a lifesaver, everyone always forgets the ice.\nB: I've been to enough NYC house parties to know the drill.\nA: True. See you around 9 then?\nB: I'll be there. I'll text you when I'm pulling up."
+  }
+]

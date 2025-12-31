@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1103,
+    "p": "I'm working on it."
+  },
+  {
+    "id": 1104,
+    "p": "She dropped a bombshell."
+  },
+  {
+    "id": 1109,
+    "p": "Right off the bat"
+  },
+  {
+    "id": 1110,
+    "p": "From day one"
+  },
+  {
+    "id": 1113,
+    "p": "Get your act together."
+  },
+  {
+    "id": 1115,
+    "p": "Don't drag your feet."
+  },
+  {
+    "id": 1116,
+    "p": "Knock it off!"
+  },
+  {
+    "id": 1117,
+    "p": "What brought you here?"
+  },
+  {
+    "id": 1118,
+    "p": "The ball is in your court."
+  },
+  {
+    "id": 1119,
+    "p": "That will be the day."
+  },
+  {
+    "id": 1120,
+    "p": "They're fighting tooth and nail."
+  },
+  {
+    "id": 1121,
+    "p": "I passed with flying colors."
+  },
+  {
+    "id": 1125,
+    "p": "Better safe than sorry"
+  },
+  {
+    "id": 1126,
+    "p": "You're telling me!"
+  },
+  {
+    "id": 1127,
+    "p": "His wife chewed him out."
+  },
+  {
+    "id": 1128,
+    "p": "Please spread the word."
+  },
+  {
+    "id": 1129,
+    "p": "I hate to break it to you, but."
+  },
+  {
+    "id": 1130,
+    "p": "For all I care."
+  },
+  {
+    "id": 1131,
+    "p": "Don't sweat it."
+  },
+  {
+    "id": 1132,
+    "p": "No word of a lie."
+  },
+  {
+    "id": 1133,
+    "p": "People came out of the woodwork."
+  },
+  {
+    "id": 1134,
+    "p": "It's like riding a bike."
+  },
+  {
+    "id": 1135,
+    "p": "I poured over this book."
+  },
+  {
+    "id": 1138,
+    "p": "He made a blunder."
+  },
+  {
+    "id": 1139,
+    "p": "He has money to burn."
+  },
+  {
+    "id": 1140,
+    "p": "I got choked up."
+  },
+  {
+    "id": 1141,
+    "p": "Better moving than not"
+  },
+  {
+    "id": 1142,
+    "p": "You have to learn the ropes."
+  },
+  {
+    "id": 1143,
+    "p": "He's milking it."
+  },
+  {
+    "id": 1144,
+    "p": "You can't cherry pick."
+  },
+  {
+    "id": 1145,
+    "p": "You hit the bullseye."
+  },
+  {
+    "id": 1146,
+    "p": "What's in a name?"
+  },
+  {
+    "id": 1147,
+    "p": "He walks the walk."
+  },
+  {
+    "id": 1148,
+    "p": "We'll cross that bridge when we come to it."
+  },
+  {
+    "id": 1149,
+    "p": "Let's let the dust settle."
+  },
+  {
+    "id": 1152,
+    "p": "Don't push your luck."
+  },
+  {
+    "id": 1153,
+    "p": "I'm at the end of my rope."
+  },
+  {
+    "id": 1154,
+    "p": "It's a small world."
+  },
+  {
+    "id": 1155,
+    "p": "You're on thin ice."
+  },
+  {
+    "id": 1157,
+    "p": "You can never be too careful"
+  },
+  {
+    "id": 1158,
+    "p": "That's a wrap."
+  },
+  {
+    "id": 1159,
+    "p": "Don't jump to conclusions."
+  },
+  {
+    "id": 1160,
+    "p": "Right up my alley"
+  },
+  {
+    "id": 1162,
+    "p": "This is for me"
+  },
+  {
+    "id": 1163,
+    "p": "The sky is the limit."
+  },
+  {
+    "id": 1166,
+    "p": "How long is the wait?"
+  },
+  {
+    "id": 1167,
+    "p": "Nature calls."
+  },
+  {
+    "id": 1168,
+    "p": "Drop me off there."
+  },
+  {
+    "id": 1169,
+    "p": "You look better in person."
+  },
+  {
+    "id": 1170,
+    "p": "Could you make that two, please?"
+  },
+  {
+    "id": 1171,
+    "p": "Keep your voice down."
+  },
+  {
+    "id": 1173,
+    "p": "I tossed and turned all night."
+  },
+  {
+    "id": 1174,
+    "p": "I have two left feet."
+  },
+  {
+    "id": 1175,
+    "p": "My face is breaking out."
+  },
+  {
+    "id": 1176,
+    "p": "I want some time off."
+  },
+  {
+    "id": 1177,
+    "p": "I'm not good with my hands."
+  },
+  {
+    "id": 1178,
+    "p": "I have a nosebleed."
+  },
+  {
+    "id": 1179,
+    "p": "I'm pooped."
+  },
+  {
+    "id": 1182,
+    "p": "It bugs me."
+  },
+  {
+    "id": 1183,
+    "p": "Not to my knowledge."
+  },
+  {
+    "id": 1184,
+    "p": "Lost cause."
+  },
+  {
+    "id": 1187,
+    "p": "Hit the books."
+  },
+  {
+    "id": 1190,
+    "p": "Can you tell?"
+  },
+  {
+    "id": 1191,
+    "p": "He is full of himself."
+  },
+  {
+    "id": 1192,
+    "p": "Do you happen to know?"
+  },
+  {
+    "id": 1193,
+    "p": "It's fattening."
+  },
+  {
+    "id": 1194,
+    "p": "Give her my best."
+  },
+  {
+    "id": 1195,
+    "p": "Dressed to kill."
+  },
+  {
+    "id": 1196,
+    "p": "Because I can."
+  },
+  {
+    "id": 1199,
+    "p": "Good with people"
+  },
+  {
+    "id": 1203,
+    "p": "He is very low-key."
+  },
+  {
+    "id": 1204,
+    "p": "It's lit."
+  },
+  {
+    "id": 1207,
+    "p": "What brings you here?"
+  },
+  {
+    "id": 1208,
+    "p": "Don't get any funny ideas."
+  },
+  {
+    "id": 1209,
+    "p": "I'm not much of a coffee person."
+  },
+  {
+    "id": 1210,
+    "p": "I don't follow."
+  },
+  {
+    "id": 1211,
+    "p": "Are you wearing perfume?"
+  },
+  {
+    "id": 1212,
+    "p": "We have bigger fish to fry."
+  },
+  {
+    "id": 1213,
+    "p": "I have my hands full."
+  },
+  {
+    "id": 1214,
+    "p": "How can that be?"
+  },
+  {
+    "id": 1215,
+    "p": "Potato, potahto, tomato, tomahto."
+  },
+  {
+    "id": 1216,
+    "p": "It's not my day."
+  },
+  {
+    "id": 1217,
+    "p": "Far from it."
+  },
+  {
+    "id": 1218,
+    "p": "Fancy meeting you here!"
+  },
+  {
+    "id": 1219,
+    "p": "I never thought of that."
+  },
+  {
+    "id": 1222,
+    "p": "Get to the point."
+  },
+  {
+    "id": 1223,
+    "p": "Do I have to spell it out for you?"
+  },
+  {
+    "id": 1224,
+    "p": "I can't get through to her."
+  },
+  {
+    "id": 1225,
+    "p": "Take a wild guess."
+  },
+  {
+    "id": 1228,
+    "p": "Just making chit chat."
+  },
+  {
+    "id": 1229,
+    "p": "We won by a nose."
+  },
+  {
+    "id": 1230,
+    "p": "That's on you."
+  },
+  {
+    "id": 1232,
+    "p": "Why are you dressed up?"
+  },
+  {
+    "id": 1233,
+    "p": "I bought it for a song."
+  },
+  {
+    "id": 1236,
+    "p": "You made my day."
+  },
+  {
+    "id": 1237,
+    "p": "What a small world."
+  },
+  {
+    "id": 1239,
+    "p": "Sorry about the mess."
+  },
+  {
+    "id": 1240,
+    "p": "Everyone speaks highly of you."
+  },
+  {
+    "id": 1243,
+    "p": "Don't be a stranger."
+  },
+  {
+    "id": 1244,
+    "p": "All sales are final."
+  },
+  {
+    "id": 1246,
+    "p": "Here's the deal."
+  },
+  {
+    "id": 1247,
+    "p": "Enough chit chat."
+  },
+  {
+    "id": 1248,
+    "p": "We can pull this off."
+  },
+  {
+    "id": 1249,
+    "p": "You have my word."
+  },
+  {
+    "id": 1250,
+    "p": "Time's up."
+  },
+  {
+    "id": 1251,
+    "p": "Do I know you from somewhere?"
+  },
+  {
+    "id": 1253,
+    "p": "Don't take it personally."
+  },
+  {
+    "id": 1254,
+    "p": "That's the way it is."
+  },
+  {
+    "id": 1255,
+    "p": "Don't be ridiculous."
+  },
+  {
+    "id": 1256,
+    "p": "I got dumped."
+  },
+  {
+    "id": 1257,
+    "p": "Now it makes sense."
+  },
+  {
+    "id": 1258,
+    "p": "Let's get it over with."
+  },
+  {
+    "id": 1259,
+    "p": "What a shame."
+  },
+  {
+    "id": 1261,
+    "p": "Are you with me?"
+  },
+  {
+    "id": 1262,
+    "p": "Mind your business."
+  },
+  {
+    "id": 1264,
+    "p": "I have nothing to do with that."
+  },
+  {
+    "id": 1265,
+    "p": "I think I'll pass."
+  },
+  {
+    "id": 1267,
+    "p": "I gotta get some air."
+  },
+  {
+    "id": 1271,
+    "p": "I can't catch a break."
+  },
+  {
+    "id": 1273,
+    "p": "I knew it."
+  },
+  {
+    "id": 1274,
+    "p": "I take it back."
+  },
+  {
+    "id": 1277,
+    "p": "Ta-da!"
+  },
+  {
+    "id": 1279,
+    "p": "What do you say?"
+  },
+  {
+    "id": 1283,
+    "p": "Don't beat yourself up."
+  },
+  {
+    "id": 1284,
+    "p": "He cheated on me."
+  },
+  {
+    "id": 1285,
+    "p": "I'm so screwed."
+  },
+  {
+    "id": 1286,
+    "p": "You're being so dramatic."
+  },
+  {
+    "id": 1287,
+    "p": "You're out of your league."
+  },
+  {
+    "id": 1288,
+    "p": "I'm so relieved."
+  },
+  {
+    "id": 1289,
+    "p": "He's crazy about you."
+  },
+  {
+    "id": 1290,
+    "p": "How are we on time?"
+  },
+  {
+    "id": 1291,
+    "p": "Don't try to butter me up."
+  },
+  {
+    "id": 1292,
+    "p": "I do have feelings for you."
+  },
+  {
+    "id": 1294,
+    "p": "You guys are so made for each other."
+  },
+  {
+    "id": 1295,
+    "p": "Suit yourself."
+  },
+  {
+    "id": 1296,
+    "p": "That should do it."
+  },
+  {
+    "id": 1297,
+    "p": "I'm gonna go freshen up."
+  },
+  {
+    "id": 1298,
+    "p": "You're wearing it backwards."
+  },
+  {
+    "id": 1299,
+    "p": "Will you be home for dinner?"
+  },
+  {
+    "id": 1300,
+    "p": "I'm afraid we're out of stock."
+  }
+]

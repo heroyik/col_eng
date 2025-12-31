@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 601,
+    "p": "I'm not in the mood.",
+    "m": "그럴 기분 아냐. (지금 좀 그래)"
+  },
+  {
+    "id": 602,
+    "p": "I can't help it.",
+    "m": "어쩔 수 없어. (나도 나를 못 말려)"
+  },
+  {
+    "id": 603,
+    "p": "The more, the merrier.",
+    "m": "사람이 많을수록 더 즐겁지. (다다익선)"
+  },
+  {
+    "id": 604,
+    "p": "I'll take care of it.",
+    "m": "내가 처리할게. (걱정 마)"
+  },
+  {
+    "id": 605,
+    "p": "I'm all ears.",
+    "m": "경청하고 있어. (말해봐)"
+  },
+  {
+    "id": 606,
+    "p": "I can't wait.",
+    "m": "정말 기대돼! (못 기다리겠어)"
+  },
+  {
+    "id": 607,
+    "p": "It was a close call.",
+    "m": "큰일 날 뻔했어. (아슬아슬했어)"
+  },
+  {
+    "id": 608,
+    "p": "There you go.",
+    "m": "자, 여기 있어. (그렇지, 바로 그거야)"
+  },
+  {
+    "id": 609,
+    "p": "Barking up the wrong tree",
+    "m": "짚어도 한참 잘못 짚었어"
+  },
+  {
+    "id": 610,
+    "p": "Here we go.",
+    "m": "또 시작이네. (자, 해보자구)"
+  },
+  {
+    "id": 611,
+    "p": "ASAP",
+    "m": "가능한 한 빨리. (급해)"
+  },
+  {
+    "id": 612,
+    "p": "I have no idea.",
+    "m": "전혀 모르겠어."
+  },
+  {
+    "id": 613,
+    "p": "It's not my thing.",
+    "m": "내 취향 아냐. (관심 없어)"
+  },
+  {
+    "id": 614,
+    "p": "Let's get to the point.",
+    "m": "본론만 말하자. (요점이 뭐야?)"
+  },
+  {
+    "id": 615,
+    "p": "I'm running late.",
+    "m": "나 늦고 있어. (거의 다 왔어)"
+  },
+  {
+    "id": 616,
+    "p": "It slipped my mind.",
+    "m": "깜빡했어. (잊어버렸네)"
+  },
+  {
+    "id": 617,
+    "p": "I'm starving.",
+    "m": "배고파 죽겠어."
+  },
+  {
+    "id": 618,
+    "p": "I'm stuffed.",
+    "m": "배불러. (더 못 먹겠어)"
+  },
+  {
+    "id": 619,
+    "p": "Let's grab a bite.",
+    "m": "뭐 좀 먹으러 가자."
+  },
+  {
+    "id": 620,
+    "p": "It’s worth the wait",
+    "m": "기다릴 만한 가치가 있어"
+  },
+  {
+    "id": 621,
+    "p": "Give me a break.",
+    "m": "좀 봐줘. (적당히 해, 말도 안 돼)"
+  },
+  {
+    "id": 622,
+    "p": "Not a chance.",
+    "m": "전혀 가망 없어. (어림도 없지)"
+  },
+  {
+    "id": 623,
+    "p": "It depends.",
+    "m": "상황에 따라 달라. (그때그때 달라요)"
+  },
+  {
+    "id": 624,
+    "p": "You never know.",
+    "m": "사람 일은 모르는 거야. (혹시 모르지)"
+  },
+  {
+    "id": 625,
+    "p": "I'll let you know.",
+    "m": "내가 알려줄게. (나중에 말해줄게)"
+  },
+  {
+    "id": 626,
+    "p": "Hope that helps.",
+    "m": "도움이 됐으면 좋겠네."
+  },
+  {
+    "id": 627,
+    "p": "I appreciate it.",
+    "m": "고마워. (정말 감사해)"
+  },
+  {
+    "id": 628,
+    "p": "That's the plan.",
+    "m": "그게 내 계획이야."
+  },
+  {
+    "id": 629,
+    "p": "Time will tell.",
+    "m": "시간이 지나면 알게 되겠지. (두고 보자고)"
+  },
+  {
+    "id": 630,
+    "p": "It's worth a try.",
+    "m": "한번 해볼 만해. (밑져야 본전이지)"
+  },
+  {
+    "id": 631,
+    "p": "Whole shebang",
+    "m": "전부, 모든 것 "
+  },
+  {
+    "id": 632,
+    "p": "Let's get started.",
+    "m": "시작하자! (해치우자구)"
+  },
+  {
+    "id": 633,
+    "p": "That reminds me...",
+    "m": "생각난 건데... (갑자기 떠올랐어)"
+  },
+  {
+    "id": 634,
+    "p": "I'll get back to you.",
+    "m": "나중에 다시 연락할게. (답변을 미룰 때)"
+  },
+  {
+    "id": 635,
+    "p": "Keep me posted.",
+    "m": "계속 상황을 알려줘. (어떻게 되는지 말해줘)"
+  },
+  {
+    "id": 636,
+    "p": "Let me know.",
+    "m": "알려줘. (연락해)"
+  },
+  {
+    "id": 637,
+    "p": "No doubt about it.",
+    "m": "의심의 여지가 없지. (당연하지)"
+  },
+  {
+    "id": 638,
+    "p": "LOL",
+    "m": "ㅋㅋㅋ (크게 웃음)"
+  },
+  {
+    "id": 639,
+    "p": "OMG",
+    "m": "세상에! (놀람)"
+  },
+  {
+    "id": 640,
+    "p": "BRB",
+    "m": "금방 올게."
+  },
+  {
+    "id": 641,
+    "p": "TTYL",
+    "m": "나중에 얘기해."
+  },
+  {
+    "id": 642,
+    "p": "Nailed it",
+    "m": "완벽하게 해냈어"
+  },
+  {
+    "id": 643,
+    "p": "IDK",
+    "m": "몰라."
+  },
+  {
+    "id": 644,
+    "p": "FYI",
+    "m": "참고로 말하자면."
+  },
+  {
+    "id": 645,
+    "p": "My bad.",
+    "m": "내 실수야. (미안해)"
+  },
+  {
+    "id": 646,
+    "p": "That sucks.",
+    "m": "안됐네. (진짜 별로다)"
+  },
+  {
+    "id": 647,
+    "p": "Cont",
+    "m": "계속해서. (이어짐)"
+  },
+  {
+    "id": 648,
+    "p": "Walk in the park",
+    "m": "식은 죽 먹기지. (아주 쉬워)"
+  },
+  {
+    "id": 649,
+    "p": "Same here.",
+    "m": "나도 그래. (동감이야)"
+  },
+  {
+    "id": 650,
+    "p": "All ears",
+    "m": "경청하고 있어"
+  },
+  {
+    "id": 651,
+    "p": "Chin up",
+    "m": "기운 내 / 고개 들어"
+  },
+  {
+    "id": 652,
+    "p": "Ham-fisted, clumsy ",
+    "m": "서투른, 솜씨 없는 "
+  },
+  {
+    "id": 653,
+    "p": "I stand by it",
+    "m": "내 입장은 변함없어"
+  },
+  {
+    "id": 654,
+    "p": "Cut corners",
+    "m": "절차를 생략하다 / 대충 하다"
+  },
+  {
+    "id": 655,
+    "p": "Don’t bring it up",
+    "m": "그 얘기 꺼내지 마"
+  },
+  {
+    "id": 656,
+    "p": "I am on the edge",
+    "m": "매우 초조해 / 벼랑 끝 기분이야"
+  },
+  {
+    "id": 657,
+    "p": "Walk on the eggshell",
+    "m": "눈치를 보다 / 살얼음판을 걷다"
+  },
+  {
+    "id": 658,
+    "p": "Fizzle out",
+    "m": "흐지부지되다 / 식어버리다"
+  },
+  {
+    "id": 659,
+    "p": "Drift apart",
+    "m": "사이가 멀어지다"
+  },
+  {
+    "id": 660,
+    "p": "You of all people",
+    "m": "다른 사람도 아닌 바로 네가"
+  },
+  {
+    "id": 661,
+    "p": "Way ahead of you",
+    "m": "벌써 다 해놨지 / 생각하고 있었어"
+  },
+  {
+    "id": 662,
+    "p": "What are the odds?",
+    "m": "이럴 확률이 얼마나 될까? (세상 참 좁네)"
+  },
+  {
+    "id": 663,
+    "p": "Respectful of time",
+    "m": "시간을 존중하는 / 시간 약속을 잘 지키는"
+  },
+  {
+    "id": 664,
+    "p": "Scratch that",
+    "m": "(방금 한 말) 취소할게 / 아니 잠깐만"
+  },
+  {
+    "id": 665,
+    "p": "Can’t take a hint",
+    "m": "눈치가 없다"
+  },
+  {
+    "id": 666,
+    "p": "For what it’s worth",
+    "m": "보탬이 될지 모르겠지만 / 그냥 하는 말인데"
+  },
+  {
+    "id": 667,
+    "p": "Snap at",
+    "m": "~에게 톡 쏘다 / 성질을 내다"
+  },
+  {
+    "id": 668,
+    "p": "Put me on the spot",
+    "m": "나를 곤란하게 만들다 / 당황하게 하다"
+  },
+  {
+    "id": 669,
+    "p": "Comfort food",
+    "m": "소울 푸드 / 위안이 되는 음식"
+  },
+  {
+    "id": 670,
+    "p": "It’s on me",
+    "m": "내가 낼게 / 내가 살게"
+  },
+  {
+    "id": 671,
+    "p": "Split the bill",
+    "m": "더치페이하다 / 나누어 내다"
+  },
+  {
+    "id": 672,
+    "p": "Cliquey",
+    "m": "끼리끼리 노는 / 배타적인"
+  },
+  {
+    "id": 673,
+    "p": "cured mackerel",
+    "m": "소금이나 식초로 절여 숙성한 고등어"
+  },
+  {
+    "id": 674,
+    "p": "Sleep in",
+    "m": "(의도적으로) 늦잠 자다"
+  },
+  {
+    "id": 675,
+    "p": "Overslept",
+    "m": "(실수로) 늦잠 자다"
+  },
+  {
+    "id": 676,
+    "p": "Underestimate",
+    "m": "과소평가하다"
+  },
+  {
+    "id": 677,
+    "p": "Gullible",
+    "m": "잘 속는 / 귀가 얇은"
+  },
+  {
+    "id": 678,
+    "p": "Annoying, irritating, pissed off, fed up with ",
+    "m": "짜증나는 / 화난 / 질린"
+  },
+  {
+    "id": 679,
+    "p": "Tick off, salty ",
+    "m": "화나게 하다 / (사소한 일에) 삐지다"
+  },
+  {
+    "id": 680,
+    "p": "Sorry doesn’t cut it",
+    "m": "미안하다는 말로는 부족해"
+  },
+  {
+    "id": 681,
+    "p": "She's all grown up",
+    "m": "우리 애가 다 컸다, 이제 숙녀가 되었다"
+  },
+  {
+    "id": 682,
+    "p": "Take it with a grain of salt",
+    "m": "가려서 들어 / 너무 곧이곧대로 믿지 마"
+  },
+  {
+    "id": 683,
+    "p": "Thinking out loud",
+    "m": "그냥 생각을 입 밖으로 꺼내 본 거야"
+  },
+  {
+    "id": 684,
+    "p": "Ditto",
+    "m": "나도 마찬가지야 / 동감이야"
+  },
+  {
+    "id": 685,
+    "p": "I didn’t sign up for this",
+    "m": "이건 내가 기대했던 게 아니야 / 이런 건 줄 몰랐어"
+  },
+  {
+    "id": 686,
+    "p": "I’m not cut out for",
+    "m": "난 ~에 적성이 맞지 않아"
+  },
+  {
+    "id": 687,
+    "p": "What a bummer",
+    "m": "아쉽다 / 안타깝네 / 짜증나네"
+  },
+  {
+    "id": 688,
+    "p": "Get on my nerve",
+    "m": "신경 쓰이게 해 / 거슬리게 해"
+  },
+  {
+    "id": 689,
+    "p": "Give me some credit",
+    "m": "나를 좀 인정해 줘 / 나를 너무 무시하지 마"
+  },
+  {
+    "id": 690,
+    "p": "Find myself in",
+    "m": "어쩌다 보니 ~한 상황에 처하다"
+  },
+  {
+    "id": 691,
+    "p": "If you ever feel like ~",
+    "m": "혹시라도 ~하고 싶어지면"
+  },
+  {
+    "id": 692,
+    "p": "Keep thing on track",
+    "m": "일이 차질 없이 진행되게 하다"
+  },
+  {
+    "id": 693,
+    "p": "Stop complaining / don't be so dramatic / cry me a river",
+    "m": "불평 좀 그만해 / 오버하지 마 / 어디 한번 실컷 짜보시지"
+  },
+  {
+    "id": 694,
+    "p": "I'll take the heat",
+    "m": "내가 총대를 멜게 / 비난은 내가 감수할게"
+  },
+  {
+    "id": 695,
+    "p": "I'm stuck between A and B.",
+    "m": "A와 B 사이에서 고민 중이야"
+  },
+  {
+    "id": 696,
+    "p": "sleep on it",
+    "m": "하룻밤 자면서 생각해 보다"
+  },
+  {
+    "id": 697,
+    "p": "You are quite bold / You've got some nerve",
+    "m": "참 대담하시네 / 배짱도 좋네"
+  },
+  {
+    "id": 698,
+    "p": "Keep it to yourself / Keep a lid on it",
+    "m": "너만 알고 있어 / 비밀로 해 줘"
+  },
+  {
+    "id": 699,
+    "p": "If you are clued in, you'll get it / If you know, you know ",
+    "m": "아는 사람은 다 알지"
+  },
+  {
+    "id": 700,
+    "p": "I'm just browsing",
+    "m": "그냥 둘러보는 중이에요"
+  },
+  {
+    "id": 701,
+    "p": "Mind your tongue / Watch your language",
+    "m": "말조심해"
+  },
+  {
+    "id": 702,
+    "p": "Getting cold feet",
+    "m": "(계획했던 일에) 겁이 나다 / 망설여지다"
+  },
+  {
+    "id": 703,
+    "p": "Apples and oranges",
+    "m": "(비교 대상이 안 될 정도로) 전혀 다른 것"
+  },
+  {
+    "id": 704,
+    "p": "Get a life",
+    "m": "인생 좀 살아라, 쓸데없는 짓 그만해라"
+  },
+  {
+    "id": 705,
+    "p": "Don't dwell on it / Move on / Don't linger on it",
+    "m": "(안 좋은 일에) 미련 갖지 마 / 잊어버려"
+  },
+  {
+    "id": 706,
+    "p": "People never change",
+    "m": "사람은 본질적으로 변하지 않는다"
+  },
+  {
+    "id": 707,
+    "p": "That's my jam",
+    "m": "완전 내 취향이야 / 내가 정말 좋아하는 거야"
+  },
+  {
+    "id": 708,
+    "p": "Live vicariously through",
+    "m": "(~를 통해) 대리 만족을 느끼다"
+  },
+  {
+    "id": 709,
+    "p": "What's the damage?",
+    "m": "(주로 계산할 때) 얼마 나왔어? / 비용이 얼마야?"
+  },
+  {
+    "id": 710,
+    "p": "I was born this way",
+    "m": "난 원래 이래 / 태어날 때부터 이랬어"
+  },
+  {
+    "id": 711,
+    "p": "The bottom line is",
+    "m": "결론은, 요점은 "
+  },
+  {
+    "id": 712,
+    "p": "Don't poke the bear",
+    "m": "긁어 부스럼 만들지 마 (잠자고 있는 사자를 건드리지 마)"
+  },
+  {
+    "id": 713,
+    "p": "Let's see how it goes",
+    "m": "어떻게 되는지 지켜보자"
+  },
+  {
+    "id": 714,
+    "p": "No brainer",
+    "m": "아주 쉬운 결정 / 생각할 필요도 없는 일"
+  },
+  {
+    "id": 715,
+    "p": "Come to think of it",
+    "m": "생각해보니"
+  },
+  {
+    "id": 716,
+    "p": "Put in a good word for me",
+    "m": "나에 대해 좋게 말해줘 (나 좀 잘 봐달라고 해줘)"
+  },
+  {
+    "id": 717,
+    "p": "I'm wiped out",
+    "m": "기운이 하나도 없어 / 녹초가 됐어"
+  },
+  {
+    "id": 718,
+    "p": "She walked all over me",
+    "m": "그녀가 나를 함부로 대했어"
+  },
+  {
+    "id": 719,
+    "p": "Don't be so hard on yourself",
+    "m": "자신을 너무 달달 볶지 마 / 자책하지 마"
+  },
+  {
+    "id": 720,
+    "p": "He's moody when he's starving",
+    "m": "배고프면 예민해져 (배고파서 화가 나)"
+  },
+  {
+    "id": 721,
+    "p": "it just popped up in my mind / It just occurred to me",
+    "m": "방금 막 (생각이) 떠올랐어"
+  },
+  {
+    "id": 722,
+    "p": "Long legs run in the family",
+    "m": "롱다리가 집안 내력이야"
+  },
+  {
+    "id": 723,
+    "p": "Apple doesn't fall far from the tree",
+    "m": "부전자전 (그 부모에 그 자식)"
+  },
+  {
+    "id": 724,
+    "p": "out of the blue",
+    "m": "뜬금없이 / 갑자기"
+  },
+  {
+    "id": 725,
+    "p": "Once in a blue moon",
+    "m": "가뭄에 콩 나듯 (아주 가끔)"
+  },
+  {
+    "id": 726,
+    "p": "He has an audacity to show up here",
+    "m": "여기 나타나다니 참 뻔뻔하네"
+  },
+  {
+    "id": 727,
+    "p": "that being said, be cautious ",
+    "m": "그렇긴 하지만, 조심해"
+  },
+  {
+    "id": 728,
+    "p": "It gives me a chill",
+    "m": "소름 돋아 / 으스스해"
+  },
+  {
+    "id": 729,
+    "p": "You seemed a little far fetched",
+    "m": "(말이) 좀 믿기 힘들다 / 터무니없어 보여"
+  },
+  {
+    "id": 730,
+    "p": "I'm a second away from buying that",
+    "m": "당장이라도 그걸 살 것 같아 (지름신 강림 직전)"
+  },
+  {
+    "id": 731,
+    "p": "What do you take me for?",
+    "m": "나를 뭘로 보는 거야?"
+  },
+  {
+    "id": 732,
+    "p": "I got carried away",
+    "m": "내가 좀 지나쳤어 / 분위기에 휩쓸렸어"
+  },
+  {
+    "id": 733,
+    "p": "I'm not big on holding things with regret.",
+    "m": "난 후회하는 스타일이 아니야"
+  },
+  {
+    "id": 734,
+    "p": "In one ear, out the other ",
+    "m": "한 귀로 듣고 한 귀로 흘리네"
+  },
+  {
+    "id": 735,
+    "p": "best quote",
+    "m": "가장 좋은 견적을 달라"
+  },
+  {
+    "id": 736,
+    "p": "I wasn't born yesterday",
+    "m": "나도 알 건 다 알아 / 바보가 아니야"
+  },
+  {
+    "id": 737,
+    "p": "Let's take a raincheck",
+    "m": "다음으로 미루자"
+  },
+  {
+    "id": 738,
+    "p": "There he goes again, acting up again ",
+    "m": "또 시작이네 / 또 난리네"
+  },
+  {
+    "id": 739,
+    "p": "That's my two cents",
+    "m": "내 생각은 이래 (제 의견입니다)"
+  },
+  {
+    "id": 740,
+    "p": "Hear me out, read my lips ",
+    "m": "내 말 끝까지 들어봐 / 똑똑히 들어"
+  },
+  {
+    "id": 741,
+    "p": "I didn't see this coming / I couldn't expect this",
+    "m": "미처 몰랐어 / 예상치 못했어"
+  },
+  {
+    "id": 742,
+    "p": "I'm still green at heart / I'm young at heart",
+    "m": "마음만은 청춘이야"
+  },
+  {
+    "id": 743,
+    "p": "I can't shake the feeling",
+    "m": "(안 좋은) 기분을 떨칠 수 없어"
+  },
+  {
+    "id": 744,
+    "p": "Read the room",
+    "m": "분위기 파악 좀 해 / 눈치 좀 챙겨"
+  },
+  {
+    "id": 745,
+    "p": "I can't recommend it enough",
+    "m": "완전 강추해 / 정말 추천해"
+  },
+  {
+    "id": 746,
+    "p": "Pick up on that / catch on to that / take a hint",
+    "m": "눈치를 채다 / 알아차리다"
+  },
+  {
+    "id": 747,
+    "p": "kitchenware",
+    "m": "주방용품, 조리도구"
+  },
+  {
+    "id": 748,
+    "p": "Yapper",
+    "m": "수다쟁이"
+  },
+  {
+    "id": 749,
+    "p": "give or take",
+    "m": "대략 / 안팎으로"
+  },
+  {
+    "id": 750,
+    "p": "Hit it off",
+    "m": "(첫눈에) 잘 통하다 / 금방 친해지다"
+  },
+  {
+    "id": 751,
+    "p": "He is a legit, catch ",
+    "m": "그는 정말 괜찮은 사람이야 (일등 신랑감)"
+  },
+  {
+    "id": 752,
+    "p": "Swallow your pride",
+    "m": "자존심을 굽히다"
+  },
+  {
+    "id": 753,
+    "p": "Go bananas",
+    "m": "열광하다 / (머리가) 어떻게 되다"
+  },
+  {
+    "id": 754,
+    "p": "Cagey",
+    "m": "비밀스러운 / 말을 아끼는"
+  },
+  {
+    "id": 755,
+    "p": "First things first",
+    "m": "우선순위부터 / 중요한 것부터"
+  },
+  {
+    "id": 756,
+    "p": "best friend",
+    "m": "가장 친한 친구, 평생 가는 절친"
+  },
+  {
+    "id": 757,
+    "p": "Off day",
+    "m": "잘 안 풀리는 날 / 컨디션 난조인 날"
+  },
+  {
+    "id": 758,
+    "p": "buyer's remorse",
+    "m": "구매 후의 후회"
+  },
+  {
+    "id": 759,
+    "p": "While at it",
+    "m": "(하는 김에) 같이"
+  },
+  {
+    "id": 760,
+    "p": "Live a little",
+    "m": "인생을 좀 즐겨 / 좀 풀어져 봐"
+  },
+  {
+    "id": 761,
+    "p": "Lo and behold",
+    "m": "아니나 다를까 / 보란 듯이"
+  },
+  {
+    "id": 762,
+    "p": "To a t",
+    "m": "완벽하게 / 정확하게"
+  },
+  {
+    "id": 763,
+    "p": "Spitting image",
+    "m": "똑 닮은 사람 (붕어빵)"
+  },
+  {
+    "id": 764,
+    "p": "Ill at ease",
+    "m": "안절부절못하는 / 마음이 불편한"
+  },
+  {
+    "id": 765,
+    "p": "Over the moon",
+    "m": "너무나 행복한 / 붕 떠 있는 기분"
+  },
+  {
+    "id": 766,
+    "p": "Double standard",
+    "m": "이중 잣대 (내로남불)"
+  },
+  {
+    "id": 767,
+    "p": "Cost an arm and a leg",
+    "m": "엄청나게 비싼"
+  },
+  {
+    "id": 768,
+    "p": "In one piece",
+    "m": "무사히 / 다친 곳 없이"
+  },
+  {
+    "id": 769,
+    "p": "Got stood up",
+    "m": "바람맞다"
+  },
+  {
+    "id": 770,
+    "p": "Wishy washy",
+    "m": "우유부단한 / 미온적인"
+  },
+  {
+    "id": 771,
+    "p": "Force of habit",
+    "m": "습관의 힘 (나도 모르게 하게 되는 것)"
+  },
+  {
+    "id": 772,
+    "p": "At a loss for words, speechless ",
+    "m": "말문이 막힌 / 어안이 벙벙한"
+  },
+  {
+    "id": 773,
+    "p": "In a food coma",
+    "m": "식곤증 (과식 후 나른한 상태)"
+  },
+  {
+    "id": 774,
+    "p": "You dig?",
+    "m": "내 말 이해했어? / 알겠어?"
+  },
+  {
+    "id": 775,
+    "p": "Dig in",
+    "m": "(음식을) 먹기 시작하다 / 어서 먹어"
+  },
+  {
+    "id": 776,
+    "p": "No knee jerk reaction",
+    "m": "성급한 반응 금지 (무조건 반사적인 반응 x)"
+  },
+  {
+    "id": 777,
+    "p": "Meet me half way",
+    "m": "타협하다 / 절충하다"
+  },
+  {
+    "id": 778,
+    "p": "It goes without saying that",
+    "m": "말할 것도 없이 (당연히)"
+  },
+  {
+    "id": 779,
+    "p": "In good hands",
+    "m": "안심해도 되는 / 믿음직한 곳에 맡겨진"
+  },
+  {
+    "id": 780,
+    "p": "Cut me some slack",
+    "m": "좀 봐줘 / 너무 몰아세우지 마"
+  },
+  {
+    "id": 781,
+    "p": "It's been on my mind",
+    "m": "계속 생각났어 / 마음에 걸려"
+  },
+  {
+    "id": 782,
+    "p": "Penny for your thoughts",
+    "m": "무슨 생각해? (생각 좀 공유해줄래?)"
+  },
+  {
+    "id": 783,
+    "p": "Chip in",
+    "m": "(돈이나 힘을) 보태다 / 기여하다"
+  },
+  {
+    "id": 784,
+    "p": "Pitch in",
+    "m": "협력하다 / 돕다"
+  },
+  {
+    "id": 785,
+    "p": "Give it up for her",
+    "m": "그녀에게 박수를 보내주세요"
+  },
+  {
+    "id": 786,
+    "p": "This is news to me",
+    "m": "처음 듣는 소리네 / 금시초문이야"
+  },
+  {
+    "id": 787,
+    "p": "Are you dense?",
+    "m": "너 멍청하니? (눈치가 없니?)"
+  },
+  {
+    "id": 788,
+    "p": "I m doomed",
+    "m": "망했어 / 끝장이야"
+  },
+  {
+    "id": 789,
+    "p": "Get under my skin",
+    "m": "거슬리게 하다 / 화나게 하다"
+  },
+  {
+    "id": 790,
+    "p": "I will sort it out",
+    "m": "내가 해결할게 / 정리할게"
+  },
+  {
+    "id": 791,
+    "p": "Does that ring a bell?",
+    "m": "들어본 적 있어? / 생각나는 거 있어?"
+  },
+  {
+    "id": 792,
+    "p": "I should have thought that through",
+    "m": "더 신중하게 생각했어야 했어"
+  },
+  {
+    "id": 793,
+    "p": "bestie",
+    "m": "베프, 애정 어린 절친 표현"
+  },
+  {
+    "id": 794,
+    "p": "You'd better be off",
+    "m": "얼른 가보는 게 좋겠어"
+  },
+  {
+    "id": 795,
+    "p": "A sense of belongings",
+    "m": "소속감"
+  },
+  {
+    "id": 796,
+    "p": "Picture is worth a thousand words, you will see ",
+    "m": "백문이 불여일견이야"
+  },
+  {
+    "id": 797,
+    "p": "Walk me through it, break it down for me ",
+    "m": "차근차근 설명해줘 / 하나씩 짚어줘"
+  },
+  {
+    "id": 798,
+    "p": "No wonder",
+    "m": "어쩐지"
+  },
+  {
+    "id": 799,
+    "p": "If anything",
+    "m": "오히려"
+  },
+  {
+    "id": 800,
+    "p": "Better yet",
+    "m": "차라리 / 그보다 더 좋은 건"
+  }
+]

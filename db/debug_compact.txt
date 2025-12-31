@@ -1,0 +1,1483 @@
+1|He was three years above me|彼（かれ）は三（さん）学年（がくねん）上（うえ）でした。／先輩（せんぱい）なんだ。
+2|She was three years below me|彼女（かのじょ）は三（さん）学年（가くねん）下（した）でした。／後輩（こうはい）なんだ。
+3|Way off|全然（ぜんぜん）違（ちが）うよ。／検討（けんとう）外（はず）れ。
+4|Save my seat|席（せき）取（と）っておいて。／場所（ばしょ）を確保（かくほ）して。
+5|Pasture raised egg|放牧（ほうぼく）卵（たまご）。／こだわりの卵（たまご）。
+6|I have a gut feeling|直感（ちょっかん）で分（わ）かる。／ピンときた。
+7|Busybody|お節介（せっかい）な人（ひと）。／お節介（せっかい）焼（や）き。
+8|Don't get me started on her boyfriend|彼（かれ）のことは言い（い）出（だ）したらきりがない。／彼（かれ）の話（はなし）はやめて。
+9|It can't be helped|仕方（しかた）がない。／しょうがないね。
+10|Out of necessity:|必要（ひつよう）に迫（せま）られて。／仕方（しかた）なく。
+11|No other choice:|他（ほか）に選（えら）びようがない。／これしかない。
+12|Since you bring it up|せっかく話（はなし）が出（で）たから。／ついでに言（い）うと。
+13|I'm just going through motion.|ただ流（なが）しているだけ。／身（み）が入（はい）らない。
+14|I'm not the type to regret things easily|すぐ後悔（こうかい）するタイプじゃない。／前（まえ）を向（む）くほうだ。
+15|conveyor belt sushi|回転（かいてん）寿司（ずし）。／お寿司（すし）のトレイン。
+16|Cilantro|パクチー。／コリアンダー。
+17|Out of blue|突然（とつぜん）に。／前触（まえぶ）れもなく。
+18|I'll get out of your hair.|邪魔（じゃま）しないようにする。／もう行（い）くね。
+19|Give a big round of applause to ~|大（おお）きな拍手（はくしゅ）を送（おく）ってください。／盛大（せいだい）に。
+20|I have something to discuss|あんたにそんなこと言（い）われる筋合（すじあ）いはない。／どの口（くち）が言（い）う？
+21|Who are you to say that|行（い）く前（まえ）に誤解（ごかい）を解（と）いておこう。／スッキリさせたい。
+22|Let's clear up any misunderstandings before we go|ただそう言（い）いたいだけ。／独（ひと）り言（ごと）だよ。
+23|I'm just saying|気分（きぶん）屋（や）なんだ。／感情（かんじょう）の起伏（きふく）が激（はげ）しい。
+24|I'm very moody|調子（ちょうし）が悪（わる）い。／また始まった（はじまった）。
+25|Acting up.|それは不便（ふべん）だね。／面倒（めんどう）くさい。
+26|That's really inconvenient|人生（じんせい）を謳歌（おうか）する。／精一杯（せいいっぱい）生（い）きる。
+27|Live life to the fullest|食（た）べすぎて動（うご）けない。／食（く）い倒（だお）れ。
+28|In a food a coma|いいプランだね。／それでいこう。
+29|Sounds like a plan.|一過（いっか）性（せい）の反応（はんのう）じゃない。／慎重（しんちょう）に考（かんが）えたんだ。
+30|This is not a knee-jerk reaction.|適当（てきとう）にやってるわけじゃない。／本気（ほんき）だよ.
+31|Its not going through the motions|本気（ほんき）だよ。／冗談（じょうだん）じゃない。
+32|I mean business|夕食（ゆうしょく）どう？／一緒（いっしょ）に食（た）べる？
+33|Are you up for the dinner?|夕食（ゆうしょく）どう？／一緒（いっしょ）に食（た）べる？
+34|I wish I could.|そうしたいのは山々（やまやま）だけど。／残念（ざんねん）ながら。
+35|Significant others|大切（たいせつ）なパートナー。／相棒（あいぼう）。
+36|Sure thing|もちろんだよ。／了解（りょうかい）。
+37|I got you|任（まか）せて。／分（わ）かった。
+38|Here you are|はい、どうぞ。／ここにあります。
+39|Applaud|拍手（はくしゅ）。／称賛（しょうさん）する。
+40|Read my lips|よーく聞（き）いて。／はっきり言（い）うよ。
+41|Im and young at heart|気（き）持（も）ちは若（わか）い。／心（こころ）は青春（せいしゅん）。
+42|Go south|悪（わる）くなる。／ダメになる。
+43|Cat got your tongue?|どうしたの？／黙（だま）り込（こ）んじゃって。
+44|I cant shake yhe feeling|この嫌（いや）な予感（よかん）が消（き）えない。／胸（むね）騒（ざわ）ぎがする。
+45|I highly recommend it|超（ちょう）おすすめ。／激（げき）推（お）し。
+46|Put your cell phone on silent|携帯（けいたい）はマナーモードに。／静（しず）かにして。
+47|The buck stop here|責任（せきにん）は私（わたし）が取（と）る。／ここが最後（さいご）だ。
+48|My book is solid|予約（よやく）がいっぱい。／動（うご）けない。
+49|My schedule is solid today|今日（きょう）は予定（よてい）が詰（つ）まってる。／余裕（よゆう）がない。
+50|I was booked solid|予定（よてい）が一杯（いっぱい）だった。／多忙（たぼう）だった。
+51|neighborhood friend|ご近所（きんじょ）付（づ）き合（あ）いの友達（ともだち）。／近（ちか）くの友人（ゆうじん）。
+52|I'm young at heart|心（こころ）はいつまでも若（わか）い。／若（わか）々（わか）しい。
+53|Fire away|どんどん話（はな）して。／どうぞ。
+54|Even a monkey can fall from a tree|猿（さる）も木（き）から落（お）ちる。／誰（だれ）にでも失敗（しっぱい）はある。
+55|Pound a pavement, legwork|足（あし）を使（つか）う仕事（しごと）。／地道（じみち）な努力（どりょく）。
+56|Now what?|さあ、どうする？／次（つぎ）は何（なに）？
+57|Where am i from? This is our land|ここが我（わ）が家（や）だ。／故郷（ふるさと）なんだ。
+58|This is bananas|あり得（え）ない。／めちゃくちゃだ。
+59|Outrageous|とんでもない。／非常識（ひじょうしき）だ。
+60|I will give you that|それは認（みと）めるよ。／一理（いちり）ある。
+61|I got carried away with works|仕事（しごと）に夢中（むちゅう）だった。／没頭（ぼっとう）していた。
+62|I could use some coffee|コーヒーを入（い）れたいな。／飲（の）みたいな。
+63|My brain is fried|頭（あたま）がパンクした。／疲（つか）れ果（は）てた。
+64|Why bother?|わざわざどうして？／無駄（むだ）だよ。
+65|Unwind|リラックスする。／くつろぐ。
+66|Guess what?|当（あ）ててみて。／なんだと思（おも）う？
+67|Beforehand|事前（じぜん）に。／あらかじめ。
+68|Come across too strong|押（お）しが強（つよ）すぎる。／威圧（いあつ）的（てき）だ。
+69|Blown away|圧倒（あっとう）された。／感動（かんどう）した。
+70|I have been a pain lately|最近（さいきん）厄介（やっかい）者（もの）だったね。／迷惑（めいわく）かけた。
+71|Go through|目（め）を通（とお）す。／経（へ）る。
+72|It goes without saying|言（い）うまでもない。／当然（とうぜん）だ。
+73|I like the fact that|〜という点（てん）が好（す）きだ。／いいと思（おモ）う。
+74|No matter what|何（なに）があっても。／どうしても。
+75|Given my experience|経験（けいけん）から言（い）えば。／私（わたし）が見（み）てきた限（かぎ）り。
+76|Eat my word|前言（ぜんげん）を撤回（てっかい）する。／悪（わる）かった。
+77|Live up to my expectation|期待（きたい）に応（こた）える。／満足（まんぞく）させる。
+78|Moreish|食（た）べだしたら止（と）まらない。／病（や）みつきになる。
+79|I never stood a chance|最初（さいしょ）から勝ち（かち）目（め）はなかった。／勝負（しょうぶ）にならなかった。
+80|I guess i should have seen it coming|こうなることは分（わ）かっていたはずだ。／予想（よそう）できた。
+81|How are you feeling today?|今日（きょう）の気分（きぶん）はどう？／調子（ちょうし）はどうだい？
+82|Tick off at|〜に腹（はら）が立（た）つ。／イラつかせる。
+83|Vet|精査（せいさ）する。／確（たし）かめる。
+84|What's the catch?|裏（うら）に何（なに）かあるの？／落（お）とし穴（あな）は？
+85|You don't need to get me anything|手ぶらで来（き）て。／気（き）を使（つか）わないで。
+86|I'm currently getting treatment for my shoulder|肩（かた）の治療（ちりょう）を受（う）けている。／リハビリ中（ちゅう）だ。
+87|Crown of the head|頭（あたま）のてっぺん。／正（しょう）頭（とう）部（ぶ）。
+88|Im so torn|迷（まよ）っている。／板（いた）挟（ばさ）みだ。
+89|In limbo|宙（ちゅう）ぶらりんな状態（じょうたい）。／不安定（ふあんてい）だ。
+90|He is legit|本物（ほんもの）だ。／信頼（しんらい）できる。
+91|He is a catch|すごいいい男（おとこ）。／逃（に）してはいけない人（ひと）。
+92|Don't get bent out of shape|へそを曲（ま）げないで。／怒（おこ）らないで。
+93|I don't regret that much|そんなに後悔（こうかい）していない。／前（まえ）を向（む）いている。
+94|midlife crisis|中（ちゅう）年（ねん）の危機（きき）。／人生（じんせい）の曲（ま）がり角（かど）。
+95|Don't be so dramatic|大（おお）げさにしないで。／騒（さわ）ぎすぎ。
+96|Don't cry me a river|泣（な）き言（ごと）を言（い）わないで。／甘（あま）えるな。
+97|I am at loss for words|言葉（ことば）を失（うしな）う。／呆然（ぼうぜん）とする。
+98|Did you catch on that?|気づい（きづい）た？／分か（わか）った？
+99|Social cues|空気（くうき）を読（よ）む。／社会的（しゃかいてき）合図（あいず）。
+100|Did you pick upon that?|気づい（きづい）た？／感じ取っ（かんじとっ）た？
+101|Did you hear Mark's new job offer?|マークのオファー、聞（き）いた？／転職（てんしょく）するんだって。
+102|Benefits package|福利（ふくり）厚生（こうせい）。／待遇（たいぐう）パッケージ。
+103|hard to say|何（なん）とも言（い）えない。／判断（はんだん）が難（むずか）しい。
+104|If you are in my shoes|もしあなたが私（わたし）の立場（たちば）なら。／私（わたし）になって考（かんが）えてみて。
+105|This must come first|これが最（さい）優先（ゆうせん）だ。／まずこれから。
+106|Does it ring a bell?|ピンとくる？／聞き（き）覚（おぼ）えがある？
+107|It is long overdue|やっとだね。／もっと早（はや）くすべきだった。
+108|Heyday|全盛（ぜんせい）期（き）。／一番（いちばん）輝（かがや）いていた頃（ころ）。
+109|No apologies necessary|謝（あやま）らなくていいよ。／気（き）にしないで。
+110|Grow up|大人（おとな）になれよ。／しっかりしろ。
+111|He is usually on top of responses|返信（へんしん）が早（はや）い。／レスポンスがいい。
+112|Benefit of doubts|善意（ぜんい）に解釈（かいしゃく）する。／信（しん）じてみる。
+113|Take your mind off|気（き）分（ぶん）転換（てんかん）する。／忘（わす）れさせる。
+114|Put yourself into my shoe|私（わたし）の立場（たちば）になってみて。／代（か）わってみてよ。
+115|Keep a low profile|目（め）立（だ）たないようにする。／低（ひく）い姿勢（しせい）を保（たも）つ。
+116|You should focus on what you should do|自分（じぶん）のことに集中（しゅうちゅう）しろ。／余計（よけい）なことはするな。
+117|Been there, done that|経験（けいけん）済（ず）みだよ。／分（わ）かってる。
+118|For the craic|楽（たの）しみのために。／面白（おもしろ）半分（はんぶん）で。
+119|Thingamajig|あれ、何（なん）だっけ。／例（れい）のブツ。
+120|Walk me through|順（じゅん）を追（お）って説明（せつめい）して。／ガイドして。
+121|Turn over|ひっくり返（かえ）す。／引き（ひき）渡（わた）す。
+122|Keep at it|そのまま続けて（つづけて）。／頑張（がんば）って。
+123|I got my hair done|髪（かみ）を切（き）った。／ヘアスタイルを変（か）えた。
+124|Its been a minute|久し（ひさし）ぶり。／しばらく会（あ）ってなかったね。
+125|Its been ages|何（なん）年（ねん）ぶりだろう。／本当（ほんとう）に久し（ひさし）ぶり。
+126|Let someone down|がっかりさせる。／失望（しつぼう）させる。
+127|you skipped too much, don't forget I am going to punish you if you ignore what I said|サボりすぎだよ。／言（い）うことを聞（き）け。
+128|Set this position to "&&&now&&&&"|ここを「今（いま）」に設定（せってい）して。／現在（げんざい）時刻（じこく）。
+129|Sort out|片付（かたづ）ける。／解決（かいけつ）する。
+130|Take my mind off things|忘（わす）れさせてくれる。／気（き）晴（は）らしになる。
+131|You went over my head|私（わたし）を飛（と）び越（こ）えて。／上（うえ）に報告（ほうこく）したね。
+132|Over my head|私（わたし）には難（むずか）しすぎる。／理解（りかい）不能（ふのう）だ。
+133|Tied or even|引き分け（ひきわけ）。／お互（たが）い様（さま）。
+134|Even Steven|きっかり。／計算（けいさん）通（どお）り。
+135|Lay it on me|全部（ぜんぶ）言（い）って。／話（はな）して。
+136|Ring me up|お会計（かいけい）して。／打（う）って。
+137|Out of our league|高嶺（たかね）の花（はな）。／私（わたし）たちには無理（むり）だ。
+138|I have mental breakdown|パニック。／メンタルがおかしくなる。
+139|Procrastinate|先延ばし（さきのばし）にする。／ぐずぐずする。
+140|Its been on mind|ずっと気（き）になっていた。／頭（あたま）から離（はな）れない。
+141|Weigh the pros and cons|善（ぜん）し悪（あ）しを考（かんが）える。／比較（ひかえつ）する。
+142|Get things back on track|軌道（きどう）に戻（もど）す。／やり直（なお）す。
+143|What's eating you|どうしたの？／何（なに）に悩（なや）んでいるの？
+144|Give her a big hand|彼女（かのじょ）に盛大（せいだい）な拍手（はくしゅ）を。／称賛（しょうさん）しよう。
+145|How’s it going?|調子（ちょうし）はどう？／元気（げんき）？
+146|I’m down for that|賛成（さんせい）。／喜（よろこ）んで。
+147|I can’t make it|行（い）けない。／都合（つごう）が悪（わる）い。
+148|Blessing in disguise|不幸（ふこう）中（ちゅう）の幸（さいわ）い。／結果（けっか）オーライ。
+149|I’ll take a rain check|また今度（こんど）にして。／延期（えんき）しよう。
+150|It’s up to you|あなた次第（しだい）だ。／任（まか）せるよ。
+151|When is boarding?|搭乗（とうじょう）は何（なん）時（じ）からですか？／いつから乗（の）れますか？
+152|Is the flight on time?|予定（よてい）通（どお）りですか？／遅（おく）れはないですか？
+153|Can I get a window seat?|いい考え（かんがえ）があるよ。／こうしよう。
+154|How long is the flight?|よろしければ。／お好（この）みなら。
+155|Where is the nearest restroom?|ある意味（いみ）では。／見方（みかた）によっては。
+156|I'm waiting to board|いくつかの点（てん）で。／部分（ぶぶん）的（てき）には。
+157|What did you do last weekend?|言い換えれば（いいかえれば）。／つまり。
+158|Charge it to my room|すなわち。／要（よう）するに。
+159|On the fence|いわば。／例（たと）えて言（い）えば。
+160|Put it on my card|厳密（げんみつ）に言（い）えば。／正確（せいかく）には。
+161|Put it on my room|実（じつ）は。／実際（じっさい）のところ。
+162|Roomy|そういえば。／考（かんが）えてみると。
+163|You have great taste|回想（かいそう）すると。／あの時（とき）を思（おも）い出（だ）すと。
+164|Impeccable|振り返って（ふりかえって）みると。／過去（かこ）を想（おも）う。
+165|May I be excused?|やっぱり。／考（かんが）え直（なお）すと。
+166|In the clouds|総合（そうごう）的（てき）に判断（はんだん）すると。／全（ぜん）体（たい）を通（とお）して。
+167|Dodge a bullet|あらゆる要素（ようそ）を考慮（こうりょ）して。／全（ぜん）部（ぶ）含（ふく）めて。
+168|Cramming|結局（けっきょく）のところ。／最後（さいご）には。
+169|Way to go|最後（さいご）の最後（さいご）には。／詰（つ）まるところ。
+170|Get wasted|私（わたし）に言（い）わせれば。／私（わたし）としては。
+171|Dibs|私（わたし）の意見（いけん）では。／私（わたし）の考（かんが）え。
+172|I'll sit in the front|私（わたし）の知（し）る限（かぎ）り。／知（し）っていること。
+173|Shotgun|私（わたし）が把握（はあく）している範囲（はんい）では。／わかっているのは。
+174|Hit the jackpot|知（し）り得（え）る限（かぎ）り。／おそらく。
+175|My eyes were bigger than my stomach|間違っ（まちがっ）ていたら指摘（してき）して。／正（ただ）してほしいんだけど。
+176|I have too much on my plate|もし勘違（かんちが）いでなければ。／正（ただ）しければ。
+177|Let's hit it|間違っ（まちがっ）ているかもしれないけど。／自信（じしん）はないけど。
+178|Let's dish|そんな予感（よかん）がする。／気（き）がする。
+179|Throw someone under the bus|私（わたし）の推測（すいそく）では。／たぶん。
+180|Under my belt|十中八九（じゅっちゅうはっく）。／おそらく。
+181|Stop being nosy|高（たか）い確率（かくりつ）で。／まず間違（まちが）いなく。
+182|I could listen to this all day|十中八九（じゅっちゅうはっく）。／まず大体（だいたい）。
+183|Hear me out|かなり見込（みこ）みがある。／いい線（せん）いってる。
+184|Super yummy|まず間違（まちが）いない。／確実（かくじつ）だ。
+185|No one|驚（おどろ）かないよ。／あり得（え）る話（はなし）だ。
+186|Just out of curiosity|驚（おどろ）くには当たらない（あたらない）。／当然（とうぜん）だ。
+187|Here it is|道理（どうり）で。／なるほど。
+188|It's worth every bite|不思議（ふしぎ）ではない。／わずかな驚（おどろ）きもない。
+189|It's worth every cent|間違い（まちがい）なく。／疑（うたが）いようがない。
+190|Knockoff|疑（うたが）いもなく。／絶対（ぜったい）に。
+191|Get a load of this|一片（いっぺん）の疑（うたが）いもない。／完璧（かんぺき）だ。
+192|Cut the crap|勘違（かんちが）いしないで。／はっきりさせておくよ。
+193|Deal-breaker|それはそれとして。／たとえそうであっても。
+194|It's down to you|そうは言（い）っても。／とはいえ。
+195|I'm game|と言（い）うものの。／前（まえ）の言葉（ことば）を受（う）けて。
+196|I taught myself|それでも。／やはり。
+197|Whatever it takes|それでもやはり。／同様（どうよう）に。
+198|I've been tanning all week|全く（まったく）同（おな）じだ。／変（か）わらない。
+199|Couch potato|それにもかかわらず。／全（ぜん）てを考慮（こうりょ）しても。
+200|Don't let it get to you|それにもかかわらず。／依然（いぜん）として。
+201|Find yourself in|対照（たいしょう）的（てき）に。／逆（ぎゃく）に。
+202|Skim through|逆（ぎゃく）に。／あべこべに。
+203|So be it|その反面（はんめん）。／一方で（いっぽうで）。
+204|Made for each other|それどころか。／むしろ。
+205|Well begun is half done|〜とは違っ（ちがっ）て。／似（に）ていない。
+206|Butter someone up|〜に反対（はんたい）して。／対立（たいりつ）して。
+207|Taken in by the ad|〜というよりは。／むしろ。
+208|By any chance|〜の代わりに（かわりに）。／〜ではなく。
+209|I have a weak stomach|あるいは。／代案（だいあん）としては。
+210|Down it|さもなければ。／別（べつ）の方法（ほうほう）で。
+211|Don't rub it in|〜はさておき。／〜を除（のぞ）いて。
+212|He has feelings for you|〜は別（べつ）として。／離（はな）れて。
+213|Fall for|〜を除（のぞ）いては。／以外（いがい）は。
+214|Iffy|〜を超（こ）えて。／〜の先（さき）に。
+215|Behold|〜以外（いがい）の。／〜を除（のぞ）く。
+216|Dean's list|〜に加えて（くわえて）。／さらに。
+217|Don't try to pull a fast one|〜と一緒に（いっしょに）。／〜を伴っ（ともなっ）て。
+218|Got pranked|〜と共に（ともに）。／一緒（いっしょ）に。
+219|Step on it|〜と相（あい）まって。／〜と結（むす）びついて。
+220|Gold digger|言うまでもなく（いうまでもなく）。／さらには。
+221|You're all talk|〜について言（い）えば。／〜は言うまでもなし（いうまでもなし）。
+222|I go along with that|ましてや。／〜どころか。
+223|My hands are full|同様（どうよう）に。／〜もまた。
+224|Fender bender|さらに。／その上（うえ）。
+225|I can’t afford to slack off|さらに。／また。
+226|Play it by ear|なお。／さらに言（い）えば。
+227|Takes one to know one|プラス。／おまけに。
+228|By word of mouth|また。／同様（どうよう）に。
+229|I feel nauseous|同様（どうよう）に。／同（おな）じように。
+230|Catch my breath|似（に）たように。／同様（どうよう）に。
+231|Breaking in new shoes|同様（どうよう）の理由（りゆう）で。／同（おな）じく。
+232|Take your mind off anything|同じ（おなじ）やり方（かた）で。／同（おな）じように。
+233|Give the cold shoulder|例えば（たとえば）。／例（れい）を挙げ（あげ）れば。
+234|None taken|例（れい）を挙（あ）げると。／例えば（たとえば）。
+235|Should've thought that through|〜といった。／例えば（たとえば）〜など。
+236|I don’t want to pry|〜を含（ふく）む。／〜など。
+237|Pull a Tom Sawyer|すなわち。／つまり。
+238|Nothing to lose|特（とく）に。／とりわけ。
+239|Eyes are bigger than your stomach|特（とく）に。／著（いちじる）しく。
+240|Talk is cheap|具体（ぐたい）的（てき）には。／明確（めいかく）に言（い）えば。
+241|The whole package|具体（ぐたい）的（てき）に言（い）うと。／はっきり言（い）えば。
+242|Follow your gut|好（こう）例（れい）。／典型（てんけい）的（てき）な例（れい）。
+243|My heart is fluttering|例示（れいじ）として。／説明（せつめい）すると。
+244|Feelings fade|例えば（たとえば）〜してみて。／一例（いちれい）を挙げ（あげ）る。
+245|Stop rubbing it in|〜などを含（ふく）むが、これらに限定（げんてい）されない。／幅広（はばひろ）い。
+246|It just goes to show|特（とく）に。／格別（かくべつ）に。
+247|Mind over matter|主（おも）に。／とりわけ。
+248|Bounce ideas off you|主（おも）に。／大半（たいはん）は。
+249|Sense of belonging|主（おも）に。／第一（だいいち）に。
+250|Pamper myself|ほとんど。／大体（だいたい）。
+251|Indulge myself|ともかく。／いずれにしても。
+252|It's too shabby|どっちにしろ。／どんな場合（ばあい）でも。
+253|Not too shabby|どうであれ。／事情（じじょう）がどうなろうと。
+254|It sounds corny|何（なに）が何（なん）でも。／是（ぜ）が非（ひ）でも。
+255|It might sound obvious|〜に関（かか）わらず。／不問（ふもん）にして。
+256|Look who's talking|とにかく。／何（なん）とかして。
+257|Pressed for time|とにかく。／それより。
+258|Matter of time|ところで。／ついでに言（い）えば。
+259|The clock is ticking|ついでながら。／ちなみに。
+260|Your best bet|話（はなし）は変わり（かわり）ますが。／別（べつ）の視点（してん）で。
+261|I'm not myself today|話題（わだい）を変え（かえ）て。／話（はなし）をそらして。
+262|Get it together|そう言（い）えば。／それに関（かん）して。
+263|Come back down to earth|思い出し（おもいだし）ているうちに。／忘れ（わすれ）ないうちに。
+264|Deadlines are looming|忘れ（わすれ）ないうちに。／とりあえず言（い）っておくよ。
+265|Juggling a lot|補足（ほそく）ですが。／余談（よだん）ですが。
+266|Outdoorsy|（括弧（かっこ）書き（がき）的に）／ちなみに。
+267|Catch my drift?|補足（ほそく）として。／ついでに。
+268|Family function|話（はなし）が逸れ（それ）ますが。／脱線（だっせん）して。
+269|Scoot over|本題（ほんだい）に戻る（もどる）と。／要（よう）するに。
+270|Keep it together|本題（ほんだい）に戻っ（もどっ）て。／やり直（なお）して。
+271|Keep your cool|とにかく、さっきの続き（つづき）だけど。／話（はなし）を戻（もど）すと。
+272|It's beautiful out|話（はなし）を戻（もど）すけど。／さっき言（い）った通（どお）り。
+273|Don't flatter yourself|再開（さいかい）する。／続き（つづき）から。
+274|Stop pestering me|中断（ちゅうだん）したところから始（はじ）める。／続き（つづき）を。
+275|Knock yourself out|どこまで話（はな）したっけ？／何（なに）言（い）ってた？
+276|Run it by you|前（まえ）に言（い）ったように。／さっき触（ふ）れた通（どお）り。
+277|Drafting|既（すで）に述（の）べた通（どお）り。／前述（ぜんじゅつ）のよう。
+278|Same difference|前（まえ）にも言（い）った通（どお）り。／私（わたし）が言（い）ったように。
+279|Don't make a scene|上（うえ）に書い（かい）た通（どお）り。／記述（きじゅつ）の通（どお）り。
+280|Don’t take it out on me|繰り（くり）返（かえ）しになるけど。／もう一度（いちど）言（い）うよ。
+281|So petty|結論（けつろん）として。／最後（さいご）に。
+282|Good things are coming|締めくくり（しめくくり）に。／最後（さいご）に言（い）えば。
+283|You're killing it|要約（ようやく）すると。／まとめると。
+284|You crushed it|要約（ようやく）すると。／手短（てみじか）に言（い）えば。
+285|Mind-blowing|まとめると。／締め（しめ）に。
+286|Doormat|手短（てみじか）に言（い）うと。／簡潔（かんけつ）に。
+287|Caught me off guard|手短（てみじか）に。／要点（ようてん）だけ言（い）うと。
+288|Ex-wife|要（よう）するに。／ひと言（こと）で言（い）えば。
+289|I still have a long way to go|かいつまんで言（い）うと。／手短（てみじか）な話（はなし）。
+290|Long way to go|基本（きほん）的（てき）には。／要（よう）は。
+291|Listen to yourself|全体（ぜんたい）的（てき）に。／総括（そうかつ）して。
+292|Face the music|一般（いっぱん）的（てき）に言（い）えば。／概（おおむ）ね。
+293|I can't even|概（おおむ）ね。／全（ぜん）般（ぱん）的（てき）に。
+294|Autumn blues|大部分（だいぶぶん）は。／ほとんどの場合（ばあい）。
+295|Delulu is the solulu|全（ぜん）体（たい）を通（とお）して。／概（おおむ）ね。
+296|Bring it on|一般（いっぱん）に。／世（よ）間（けん）一般（いっぱん）では。
+297|Out of the question|全体（ぜんたい）一丸（いちがん）となって。／ひとまとめに。
+298|Touch grass|結局（けっきょく）。／色々（いろいろ）あったけど。
+299|Fake it 'til you make it|締めくくる（しめくくる）と。／まとめとして。
+300|Sipping on coffee|最後（さいご）に。／いよいよ。
+301|Cut me dead|要約（ようやく）すると。／まとめ。
+302|Take ones to know one|手短（てみじか）に。／簡単に（かんたんに）。
+303|Don't kill the vibe|手短（てみじか）に言（い）えば。／簡潔（かんけつ）に。
+304|Have you lost weight?|詰（つ）まるところ。／単刀直入（たんとうちょくにゅう）に。
+305|It's too greasy|話（はなし）を端折（はしょ）って言（い）うと。／手短（てみじか）に言（い）えば。
+306|We bonded so quickly|基本（きほん）的（てき）には。／大体（だいたい）。
+307|I called in sick|全体（ぜんたい）的（てき）な印象（いんしょう）として。／総じて（そうじて）。
+308|Cut back|一般的（いっぱんてき）に言（い）えば。／概（おおむ）ね。
+309|Sneak out of|全（ぜん）般（ぱん）的（てき）に。／概（おおむ）ね。
+310|Set someone up with|大部分（だいぶぶん）は。／ほとんどは。
+311|Here we go again|全体（ぜんたい）を通（とお）して。／概（おおむ）ね。
+312|I don't want to twist your arm|一般（いっぱん）に。／世（よ）間（けん）並（な）み。
+313|That’s rich coming from you|全体（ぜんたい）として。／ひとまとまり。
+314|Now we're talking|結局（けっきょく）。／総合（そうごう）的（てき）に。
+315|Don't count your chickens before they hatch|締めくくり（しめくくり）に。／最後（さいご）に。
+316|How do you like it?|最後（さいご）に。／ついに。
+317|Throw a party|まず初めに（はじめに）。／第一（だいいち）に。
+318|Don't read too much into it|まずはここから。／手始め（てはじめ）に。
+319|It doesn't hurt to ask|最初（さいしょ）は。／暫定的（ざんていてき）に。
+320|It cracks me up|何（なに）よりまず。／最（さい）優先（ゆうせん）。
+321|I'd rather not|まずは。／口開（くちあ）けに。
+322|Picky|真っ先に（まっさきに）。／そもそも。
+323|I care about you|手始め（てはじめ）に。／導入（どうにゅう）として。
+324|Don’t get your hopes up|第一（だいいち）に。／まず。
+325|Handful|第二（だいに）に。／次（つぎ）に。
+326|How shall I put it?|第三（だいさん）に。／さらに。
+327|Put my dog down|次（つぎ）に。／続い（つづい）て。
+328|Kiss up, kick down|その後（ご）。／それから。
+329|White elephant|その後（ご）。／結果（けっか）として。
+330|Crispy on the outside, tender on the inside|事後（じご）に。／後々（のちのち）。
+331|He came out of nowhere|後で（あとで）。／いずれ。
+332|Scarlet|それに続い（つづい）て。／二の足（にのあし）。
+333|Catch me up|その後（ご）。／次（つぎ）は。
+334|I got mugged|その間（あいだ）に。／一方で（いっぽうで）。
+335|Don’t get me wrong / hear me out|同時（どうじ）に。／合わせ（あわせ）て。
+336|Iconic|一斉（いっせい）に。／同時（どうじ）並行（へいこう）で。
+337|Drafty|当座（とうざ）の間（あいだ）。／暫定（ざんてい）的（てき）に。
+338|Masseur / Masseuse|同時（どうじ）に行（おこな）われる。／並行（へいこう）して。
+339|It's frustrating|同時（どうじ）に。／一斉（いっせい）に。
+340|Low-key|現（げん）段階（だんかい）では。／ここに来（き）て。
+341|Don't stand out|あの時（とき）。／その昔（むかし）。
+342|Safe haven|当時（とうじ）。／その時（とき）。
+343|Don't be so extra|古（ふる）き良（よ）き時代（じだい）。／当（とう）時（じ）。
+344|I feel drained|以前（いぜん）は。／かつては。
+345|Serves you right|以前（いぜん）に。／前（まえ）もって。
+346|I’m up for it / I’m down|早い（はやい）段階（だんかい）で。／さっき。
+347|That's a bummer|今（いま）まで。／ここまでは。
+348|She's got a big mouth|これまでのところ。／今（いま）のところ。
+349|Ham-fisted|これまでは。／今（いま）に至（いた）るまで。
+350|One thing led to another|まだ。／現（げん）時点（じてん）では。
+351|What on earth are you doing?|これからは。／今（いま）後（ご）。
+352|Soak up the sun|以後（いご）。／これからずっと。
+353|I caught him red-handed|今後（こんご）。／これ以降（いこう）。
+354|I can't resist a draft beer on a hot day like this|将来（しょうらい）。／これからの時代（じだい）。
+355|How about you?|いずれ。／結局（けっきょく）は。
+356|That's what I need|究極（きゅうきょく）的（てき）には。／最後（さいご）には。
+357|life stages and transitions|すぐに。／間もなく（まもなく）。
+358|Suck up|手短（てみじか）に。／すぐに。
+359|Good husband material|そのうち。／近（ちか）いうちに。
+360|I mix things up|今（いま）すぐ。／一瞬（いっしゅん）で。
+361|It's growing on me|しばらくしたら。／後で（あとで）。
+362|Who would've thought?|今（いま）にも。／すぐそこ。
+363|Artful Dodger|迅速（じんそく）に。／即座（そくざ）に。
+364|Captivating|即座（そくざ）に。／直ちに（ただちに）。
+365|BFF|一斉（いっせい）に。／すぐ。
+366|Stab in the back|今（いま）すぐ。／即座（そくざ）に。
+367|Take a stab at|直ちに（ただちに）。／真っ（まっ）すぐ。
+368|That’s my thing not yours|瞬時（しゅんじ）に。／即座（そくざ）に。
+369|Went ghost|遅滞（ちたい）なく。／すぐに。
+370|Without a doubt|やがて。／そのうち。
+371|Apparently|間に合っ（まにあっ）て。／やがて。
+372|On my own|不意に（ふいに）。／出し抜け（だしぬけ）に。
+373|Dumpster fire|急（きゅう）に。／突如（とつじょ）。
+374|Chaperone|藪（やぶ）から棒（ぼう）に。／いきなり。
+375|Break free|心当（こころあ）たりなく。／意外（いがい）にも。
+376|Sounds very rehearsed|ぶっきらぼうに。／急（きゅう）に。
+377|Severance pay|徐々（じょじょ）に。／段階（だんかい）的（てき）に。
+378|Cry me a river|一（いち）歩（ぽ）一（いち）歩（ぽ）。／着実（ちゃくじつ）に。
+379|Don’t play dumb / innocent|少し（すこし）ずつ。／徐々（じょじょ）に。
+380|Low profile|少し（すこし）ずつ。／断片（だんぺん）的（てき）に。
+381|The noodles are soggy|じわじわと。／少し（すこし）ずつ。
+382|I won an award at the art contest|時（とき）が経つ（たつ）につれて。／月日（つきひ）とともに。
+383|Apple of my eye|着実（ちゃくじつ）に。／絶（た）えず。
+384|My leg fell asleep|絶（た）えず。／いつも。
+385|I didn't pick it|継続（けいぞく）的（てき）に。／ぶっ通（とお）しで。
+386|I have a lot on my plate|永遠（えいえん）に。／絶（た）えることなく。
+387|We'll start from there|ひっきりなしに。／絶（た）え間（ま）なく。
+388|Your fly is open|定期的（ていきてき）に。／規則（きそく）的（てき）に。
+389|Pizza doesn't judge|周期（しゅうき）的（てき）に。／節目（ふしめ）ごとに。
+390|I better be off|頻繁（ひんぱん）に。／しょっちゅう。
+391|You can't just leave|よく。／しばしば。
+392|Think it through|時々（ときどき）。／たまに。
+393|Little did I know|いつか。／ある時（とき）。
+394|Post-credit scene|たまに。／時々（ときどき）。
+395|Intact|折（おり）りに触（ふ）れて。／たまに。
+396|That's so random|ちょくちょく。／たまに。
+397|Newlyweds|ごくたまに。／忘（わす）れた頃（ころ）に。
+398|Left-wing|めったに〜ない。／稀（まれ）だ。
+399|Technically speaking|稀（まれ）に。／珍（めずら）しい。
+400|I hate to admit it|ほとんど〜ない。／かろうじて。
+401|Off you go|ほとんど〜ない。／およそ〜ない。
+402|Why couldn't I bring myself to say it?|滅多に（めったに）〜ない。／稀（まれ）にしか〜ない。
+403|Eat your fill|かろうじて。／やっと。
+404|Touch and go|ただ〜だけ。／ちょうど。
+405|I felt so troubled|ほとんど〜ない。／僅か（わずか）に。
+406|Say what? I'm lost|決して（けっして）〜ない。／一度（いちど）も〜ない。
+407|I wish|どうしても〜ない。／決して（けっして）そうではない。
+408|Not happening|どんな理由（りゆう）があっても〜ない。／断固（だんこ）拒否（きょひ）。
+409|Pregame|いかなる点（てん）でも〜ない。／全く（まったく）ない。
+410|Born and raised|全く（まったく）〜ない。／少し（すこし）も〜ない。
+411|Music to my ears|微塵（みじん）も〜ない。／ちっとも。
+412|Cut to the chase / get to the point|それどころか。／程（ほど）遠（とお）い。
+413|I'm running 20 minutes late|冗談（じょうだん）じゃない。／無理（むり）だ。
+414|Get busted|どんな状況（じょうきょう）でも〜ない。／絶対（ぜったい）禁止（きんし）。
+415|Walk me through that day|命（いのち）に代（か）えても〜ない。／断（ことわ）る。
+416|What's the angle?|絶対（ぜったい）に〜ない。／断言（だんげん）する。
+417|Snapped|断固（だんこ）として拒否（きょひ）。／全然（ぜんぜん）だめ。
+418|Accomplice|見込（みこ）みなし。／可能性（かのうせい）ゼロ。
+419|Visit someone|論外（ろんがい）だ。／話し（はなし）にならない。
+420|I don't have it on me|残念（ざんねん）ながら〜ない。／期待（きたい）に沿（そ）えない。
+421|The line starts back there|そうは思（おも）わない。／否定的（ひていてき）だ。
+422|Sever|疑（うたが）わしい。／怪（あや）しいな。
+423|Go big or go home|私（わたし）が知（し）る限（かぎ）りではない。／聞（き）いてないな。
+424|I was rash|心当（こころあ）たりがない。／知（し）らない。
+425|You seem gaunt|いや、特（とく）に。／そうでもないよ。
+426|Sing like a canary|そうとは言（い）い切（き）れない。／言い過ぎ（いいすぎ）だ。
+427|Eat someone out of house and home|全然（ぜんぜん）違う（ちがう）。／かけ離（はな）れている。
+428|Eating him up inside|正反対（せいはんたい）だ。／逆（ぎゃく）だよ。
+429|It figures|〜以外（いがい）なら何（なに）でも。／決して（けっして）〜ではない。
+430|Curse someone out|概（おおむ）ね。／全（ぜん）般（ぱん）的（てき）に。
+431|One way or the other|一般（いっぱん）的（てき）に言（い）えば。／通常（つうじょう）。
+432|Twists and turns|全体（ぜんたい）を通（とお）して見（み）れば。／概（おおむ）ね。
+433|Reward someone handsomely|一般（いっぱん）に。／普遍（ふへん）的（てき）に。
+434|Bite the bullet|大部分（だいぶぶん）は。／ほとんど。
+435|At all costs|主（おも）に。／第一（だいいち）に。
+436|A bolt from the blue|ほとんど。／大半（たいはん）。
+437|Falling apart|圧倒（あっとう）的（てき）に。／優勢（ゆうせい）だ。
+438|Think straight|主（おも）に。／特（とく）に。
+439|Migraine|主（おも）に。／根本（こんぽん）的（てき）に。
+440|Leave someone out|本質（ほんしつ）的（てき）な。／実質（じっしつ）的に（てきに）。
+441|I wouldn't know|根本（こんぽん）的（てき）に。／基本的（きほんてき）。
+442|Don't get worked up|基本（きほん）的（てき）には。／要（よう）は。
+443|Will you take it to my room?|要（よう）するに。／実質（じっしつ）的（てき）には。
+444|I'll have the same|本心（ほんしん）では。／根（ね）は。
+445|I've been meaning to tell you|原則（げんそく）として。／理念（りねん）的（てき）には。
+446|Care for another?|理論（りろん）上（じょう）は。／理屈（りくつ）では。
+447|Feel for|仮定（かてい）の話（はなし）では。／もしもの場合（ばあい）。
+448|How long has it been?|厳密（げんみつ）に言（い）えば。／正確（せいかく）には。
+449|How have you been?|技術（ぎじゅつ）的（てき）には。／専門（せんもん）的（てき）には。
+450|Outlier|法律（ほうりつ）的（てき）には。／法（ほう）に則っ（のっとっ）て。
+451|I could use some|事実（じじつ）上（じょう）。／実質（じっしつ）的（てき）には。
+452|Have a way with|現実（げんじつ）的（てき）には。／ほとんど。
+453|You're a natural|ほとんど。／もう少し（すこし）で。
+454|You have a way with words|ほとんど。／ほぼ。
+455|It just came naturally to me|〜も同然（どうぜん）だ。／ほとんど全（ぜん）て。
+456|Ballpark it|多かれ（おおかれ）少なかれ（すくなかれ）。／大体（だいたい）。
+457|You're very disciplined|多少（たしょう）。／やや。
+458|It gives me chills|わずかに。／少し（すこし）だけ。
+459|I got in the habit of|ある程度（ていど）。／ある点（てん）までは。
+460|Let me make it up to you|ある程度（ていど）まで。／部分（ぶぶん）的（てき）には。
+461|I'm feeling under the weather|いくらか。／ある程度（ていど）。
+462|Blow up|部分（ぶぶん）的（てき）に。／不（ふ）完全（かんぜん）ながら。
+463|As good as it gets|限定（げんてい）的（てき）な範囲（はんい）で。／わずかに。
+464|Quit cold turkey|比例（ひれい）して。／バランスよく。
+465|Legit|比較的（ひかくてき）。／相対（そうたい）的に（てきに）。
+466|He's no match for me|比較（ひかく）すると。／相対（そうたい）的（てき）に。
+467|Easy does it|適度（てきど）に。／控えめ（ひかえめ）に。
+468|Okie dokie|合理（ごうり）的（てき）に。／それなりに。
+469|Meh|かなり。／それなりに。
+470|It makes sense|かなり。／相当（そうとう）に。
+471|The air quality is bad|かなり。／結構（けっこう）。
+472|Chill guy|むしろ。／かなりの程度（ていど）。
+473|This will do the trick|とても。／非常（ひじょう）に。
+474|The whole shebang|極めて（きわめて）。／極端（きょくたん）に。
+475|Easy peasy|高度（こうど）に。／非常（ひじょう）に。
+476|Chip on his shoulder|非常（ひじょう）に。／度（ど）を越（こ）して。
+477|Prickly attitude|特（とく）に。／とりわけ。
+478|I get that a lot|特（とく）に。／格別（かくべつ）に。
+479|Take it vertically|異常（いじょう）に。／並（なみ）外（はず）れて。
+480|Troll|例外（れいがい）的（てき）に。／非常（ひじょう）に。
+481|I'm freaking out|並（なみ）外（はず）れて。／驚（おどろ）くほど。
+482|Is this place open today?|注目（ちゅうもく）すべき。／素晴らしい（すばらしい）。
+483|Going through a phase|驚（おどろ）くほど。／意外（いがい）にも。
+484|Grow out of it|驚（おどろ）くほど。／見事（みごと）に。
+485|Audience|信（しん）じられないほど。／とてつもなく。
+486|Leech|ひどく。／猛烈（もうれつ）に。
+487|It’s freezing out!|ひどく。／大変（たいへん）に。
+488|Thought provoking|明らかに（あきらかに）。／断固（だんこ）として。
+489|Spill the beans or keep silent|間違い（まちがい）なく。／確実（かくじつ）に。
+490|He called off the project.|絶対（ぜったい）に。／断固（だんこ）として。
+491|It's my cheat day|完全に（かんぜんに）。／全く（まったく）。
+492|I had trouble sleeping|完全に（かんぜんに）。／そっくり。
+493|I had a blast|全（ぜん）て。／すっかり。
+494|Dunno|純粋（じゅんすい）に。／単（たん）に。
+495|Girls...|丸（まる）ごと。／完全に（かんぜんに）。
+496|It's on me|徹底（てってい）的（てき）に。／漏（も）れなく。
+497|It's warm for November|全く（まったく）もって。／完全に（かんぜんに）。
+498|Good for the price|絶対（ぜったい）に。／無（む）条件（じょうけん）に。
+499|I'm just thinking out loud|完璧（かんぺき）に。／申し分（もうしぶん）なく。
+500|Don’t read into that much|十分に（じゅうぶんに）。／全（ぜん）て。
+501|entertain an idea|主（おも）に。／何（なに）よりも。
+502|Bang for your buck|主（おも）に。／とりわけ。
+503|This build up is crazy|大体（だいたい）は。／主要（しゅよう）な。
+504|It's penny for your thought|ほとんど。／大抵（たいてい）。
+505|Get worked up|主要（しゅよう）に。／主（おも）な目的（もくてき）で。
+506|What's the hurry?|独占（どくせん）的（てき）に。／専用（せんよう）の。
+507|What's the holdup?|〜だけ。／ただ一つの。
+508|You pull it off|単独（たんどく）で。／唯一（ゆいいつ）の理由（りゆう）で。
+509|Could be worse|単（たん）に。／〜にすぎない。
+510|Hit me with it|ちょうど。／ただ。
+511|I am committed to Poland|単純（たんじゅん）に。／簡単に（かんたんに）。
+512|Silver lining is|正確（せいかく）に。／きっかり。
+513|I'm on a roll|まさに。／そのまま。
+514|I've already incorporated your suggestions|文字（もじ）通り（どおり）。／誇張（こちょう）なしに。
+515|Jerk off|一（いち）言（ごん）一（いち）句（く）そのまま。／逐語（ちくご）的（てき）に。
+516|He will jerk you off|一（いち）言（ごん）一（いち）句（く）。／逐語（ちくご）訳（やく）。
+517|I'm around|忠実（ちゅうじつ）に。／規則（きそく）通り（どおり）に。
+518|IMO|厳格（げんかく）に。／厳（きび）しく。
+519|Keep warm|徹底（てってい）的（てき）に。／妥協（だきょう）なく。
+520|Refreshingly cool|詳細（しょうさい）に。／詳しく（くわしく）。
+521|Step on your toes|徹底（てってい）的（てき）に。／漏（も）れなく。
+522|Vertical drink|包括（ほうかつ）的（てき）に。／総合（そうごう）的（てき）に。
+523|It speaks volumes|網羅（もうら）的（てき）に。／余（よ）すところなく。
+524|Speak for itself|広範（こうはん）に。／幅広（はばひろ）く。
+525|It was a steal|大まかに（おおまかに）。／幅広（はばひろ）く。
+526|We should stock up it's a steal|広く（ひろく）。／あちこちで。
+527|What's good here|普遍（ふへん）的（てき）に。／例外（れいがい）なく。
+528|plot charts|至（いた）る所（ところ）で。／どこにでも。
+529|install packages|世界（せかい）的（てき）に。／地球（ちきゅう）規模（きぼ）で。
+530|save images|地元（じもと）で。／局所（きょくしょ）的（てき）に。
+531|access images|国内（こくない）で。／家庭（かてい）内（ない）で。
+532|Never even crossed my mind|内部（ないぶ）で。／中（なか）で。
+533|(be) disabled|外部（がいぶ）で。／外側（そとがわ）に。
+534|will not work|公（おおやけ）に。／人前（ひとまえ）で。
+535|do not attempt|ひそかに。／個人的（こじんてき）に。
+536|desired output format|秘密（ひみつ）裏（り）に。／こっそりと。
+537|take precedence|極秘（ごくひ）に。／内密（ないみつ）に。
+538|ignore (the) guidelines|公然（こうぜん）と。／隠（かく）さずに。
+539|clear and logical headings|相互（そうご）に。／お互（たが）いに。
+540|keep paragraphs short|共同（きょうどう）で。／連名（れんめい）で。
+541|dense text blocks|集団（しゅうだん）で。／まとめて。
+542|bullet points|別々（べつべつ）に。／離（はな）れて。
+543|Condescending|個々（ここ）に。／一人（ひとり）ずつ。
+544|numbered lists|それぞれ。／各々（おのおの）。
+545|key takeaways|連続（れんぞく）して。／次（つぎ）から次（つぎ）へと。
+546|grouped ideas|交互（こうご）に。／交代（こうたい）で。
+547|unordered lists|無（む）作為（さくい）に。／出（で）たらめに。
+548|ordered lists|独断（どくだん）で。／勝手（かって）に。
+549|flow logically|意図（いと）的（てき）に。／わざと。
+550|scan and understand key points quickly|故意（こい）に。／狙（ねら）って。
+551|readability|目的（もくてき）意識（いしき）を持って。／毅然（きぜん）と。
+552|preserve any and all citations|わざと。／意図（いと）的に（てきに）。
+553|embed citations|偶然（ぐぜん）に。／たまたま。
+554|Patronizing|誤っ（あやまっ）て。／うっかり。
+555|at the beginning of paragraphs|意図（いと）せず。／知（し）らず知（し）らず。
+556|mention the sources|不注意（ふちゅうい）から。／うっかりと。
+557|in front of headers|無意識（むいしき）に。／知（し）らずに。
+558|What's up?|本能（ほんのう）的（てき）に。／直感（ちょっかん）で。
+559|Long time no see.|自発（じはつ）的（てき）に。／自然（しぜん）と。
+560|No worries.|自動（じどう）的（てき）に。／勝手（かって）に。
+561|Take your time.|機械（きかい）的（てき）に。／無（む）機質（きしつ）に。
+562|I got it.|体系（たいけい）的（てき）に。／整然（せいぜん）と。
+563|I'm not sure.|几帳面（きちょうめん）に。／論理（ろんり）的（てき）に。
+564|Let me check.|論理（ろんり）的（てき）に。／理屈（りくつ）で。
+565|Cocky|合理的（ごうりてき）に。／冷静（れいせい）に。
+566|Sounds good.|直感（ちょっかん）的（てき）に。／なんとなく。
+567|Hang on a sec.|主観（しゅかん）的（てき）に。／自分（じぶん）なりに。
+568|I'll be right back.|客観（きゃっかん）的（てき）に。／公平（こうへい）に。
+569|Gotta go.|正式（せいしき）に。／改（あらた）まって。
+570|I'm on my way.|非（ひ）公式（こうしき）に。／ざっくばらんに。
+571|By the way...|公式（こうしき）に。／公（おおやけ）のものとして。
+572|As far as I know.|非（ひ）公式（こうしき）に。／内密（ないみつ）に。
+573|I mean...|実際（じっさい）に。／現実（げんじつ）的（てき）に。
+574|I guess so.|実際（じっさい）に。／効果（こうか）的（てき）に。
+575|I'm fine with that.|効率（こうりつ）的（てき）に。／無駄（むだ）なく。
+576|spiritual awakening (monk-like mindset)|生産（せいさん）的（てき）に。／実り（みのり）多い（おおい）。
+577|Why not?|建設（けんせつ）的（てき）に。／前（まえ）向き（むき）に。
+578|That's awesome!|肯定（こうてい）的（てき）に。／積極（せっきょく）的に。
+579|That's too bad.|否定（ひてい）的（てき）に。／消極（しょうきょく）的に。
+580|Are you kidding me?|楽観（らっかん）的（てき）に。／能天気（のうてんき）に。
+581|I'm just kidding.|悲観（ひかん）的（てき）に。／暗（くら）く考（かんが）える。
+582|Just in case.|現実（げんじつ）的（てき）に。／シビアに。
+583|Never mind.|正確（せいかく）に。／間違い（まちがい）なく。
+584|It's up to you.|正しく（ただしく）。／適切（てきせつ）に。
+585|I'll pass.|緻密（ちみつ）に。／詳細（しょうさい）に。
+586|It's not a big deal.|ミスなく。／完璧（かんぺき）に。
+587|Better late than never|欠点（けってん）なく。／鮮やか（あざやか）に。
+588|Keep in touch.|大体（だいたい）。／大ざっぱに。
+589|Take it easy.|およそ。／大凡（おおよそ）。
+590|It's been a while.|大体（だいたい）。／ほぼ。
+591|Fingers crossed.|〜（の）あたり。／だいたい。
+592|Good for you!|〜について。／およそ。
+593|Lucky you.|（年代（ねんだい）などが）およそ。／〜頃（ごろ）。
+594|Good to know.|推定（すいてい）で。／推（お）し量（はか）るに。
+595|Thanks anyway.|たくましく。／無骨（ぶこつ）に。
+596|What do you mean?|激しく（はげしく）。／暴力（ぼうりょく）的に（てきに）。
+597|What are you talking about?|猛烈（もうれつ）に。／激（はげ）しく。
+598|What’s the hold up?|精力（せいりょく）的（てき）に。／力強く（ちからづよく）。
+599|Don't get me wrong.|活発（かっぱつ）に。／エネルギッシュに。
+600|No hard feelings.|情熱（じょうねつ）を込（こ）めて。／熱心（ねっしん）に。
+601|I'm not in the mood.|熱心（ねっしん）に。／やる気（き）満々（まんまん）で。
+602|I can't help it.|熱狂（ねっきょう）的に（てきに）。／熱（あつ）く。
+603|The more, the merrier.|切熱（せつねつ）に。／今（いま）か今（いま）かと。
+604|I'll take care of it.|喜んで（よろこんで）。／快（こころよ）く。
+605|I'm all ears.|快（こころよ）く。／二（に）つ返知（へんじ）で。
+606|I can't wait.|喜んで（よろこんで）。／嬉（うれ）しそうに。
+607|It was a close call.|幸せ（しあわせ）に。／満足（まんぞく）そうに。
+608|There you go.|喜ば（よろこば）しいことに。／嬉（うれ）しさ全開（ぜんかい）で。
+609|Barking up the wrong tree|機嫌（きげん）よく。／楽し（たのし）げに。
+610|Here we go.|陽気（ようき）に。／楽し（たのし）く。
+611|ASAP|気楽（きらく）に。／朗（ほが）らかに。
+612|I have no idea.|嬉（うれ）々（きき）として。／大（だい）喜び（よろこび）で。
+613|It's not my thing.|至福（しふく）の面持ち（おももち）で。／この上（うえ）なく。
+614|Let's get to the point.|心地（ここち）よく。／感じ（かんじ）よく。
+615|I'm running late.|快（こころよ）く。／納得（なっとく）のいくように。
+616|It slipped my mind.|満足（まんぞく）げに。／甘んじ（あまんじ）て。
+617|I'm starving.|満足（まんぞく）のいくように。／十分（じゅうぶん）に。
+618|I'm stuffed.|優雅（ゆうが）に。／しとやかに。
+619|Let's grab a bite.|上品（じょうひん）に。／粋（いき）に。
+620|It’s worth the wait|美しく（うつくしく）。／見事（みごと）に。
+621|Give me a break.|華やか（はなやか）に。／立派（りっぱ）に。
+622|Not a chance.|壮大（そうだい）に。／堂々（どうどう）と。
+623|It depends.|盛大（せいだい）に。／立派（りっぱ）に。
+624|You never know.|最高（さいこう）に。／素晴らしく（すばらしく）。
+625|I'll let you know.|素晴らしく（すばらしく）。／驚（おどろ）くほど。
+626|Hope that helps.|驚（おどろ）くほど素晴らしく（すばらしく）。／驚異（きょうい）的（てき）に。
+627|I appreciate it.|優秀（ゆうしゅう）に。／抜きん出（ぬきんで）て。
+628|That's the plan.|完璧（かんぺき）に。／理想（りそう）的（てき）に。
+629|Time will tell.|非（ひ）の打ち（うち）どころなく。／鮮やか（あざやか）に。
+630|It's worth a try.|申し分（もうしぶん）なく。／端正（たんせい）に。
+631|Whole shebang|適切（てきせつ）に。／十分（じゅうぶん）に。
+632|Let's get started.|十分（じゅうぶん）に。／余裕（よゆう）を持って。
+633|That reminds me...|有能（ゆうのう）に。／そつなく。
+634|I'll get back to you.|効果（こうか）的（てき）に。／有効（ゆうこう）に。
+635|Keep me posted.|効率（こうりつ）的（てき）に。／手際（てぎわ）よく。
+636|Let me know.|実力（じつりょく）。／能力（のうりょく）。
+637|No doubt about it.|強力（きょうりょく）に。／力強く（ちからづよく）。
+638|LOL|強く（つよく）。／猛烈（もうれつ）に。
+639|OMG|凄まじく（すさまじく）。／力（ちから）任（まか）せに。
+640|BRB|強制的（きょうせいてき）に。／力（ちから）を込め（こめ）て。
+641|TTYL|強烈（きょうれつ）に。／激（はげ）しく。
+642|Nailed it|厳（きび）しく。／ひどく。
+643|IDK|厳（きび）しく。／辛辣（しんらつ）に。
+644|FYI|雑（ざつ）に。／荒っぽく（あらっぽく）。
+645|My bad.|失礼（しつれい）に。／無（む）作法（さほう）に。
+646|That sucks.|丁寧（ていねい）に。／礼儀（れいぎ）正しく（ただしく）。
+647|Cont|丁重（ていちょう）に。／礼儀（れいぎ）正しく（ただしく）。
+648|Walk in the park|敬意（けいい）を払っ（はらっ）て。／うやうやしく。
+649|Same here.|謙虚（けんきょ）に。／卑下（ひげ）して。
+650|All ears|控えめ（ひかえめ）に。／気（き）どらずに。
+651|Chin up|恥ずかし（はずかし）そうに。／内気（うちき）に。
+652|Ham-fisted, clumsy |おどおどと。／臆病（おくびょう）に。
+653|I stand by it|恐る（おそる）恐る（おそる）。／びくびくしながら。
+654|Cut corners|心配（しんぱい）そうに。／切実（せつじつ）に。
+655|Don’t bring it up|緊張（きんちょう）して。／落ち着か（おちつか）ない様子（ようす）で。
+656|I am on the edge|冷静（れいせい）に。／落ち着い（おちつい）て。
+657|Walk on the eggshell|静か（しずか）に。／ひっそりと。
+658|Fizzle out|平和（へいわ）に。／穏やか（おだやか）に。
+659|Drift apart|穏やか（おだやか）に。／清らか（きよらか）に。
+660|You of all people|辛抱強く（しんぼうづよく）。／じっと。
+661|Way ahead of you|泰然（たいぜん）自若（じじゃく）として。／揺るぎな（ゆるぎな）く。
+662|What are the odds?|毅然（きぜん）として。／決然（けつぜん）と。
+663|Respectful of time|固い（かたい）決意（けつい）を持って。／断固（だんこ）として。
+664|Scratch that|勇敢（ゆうかん）に。／勇ましく（いさましく）。
+665|Can’t take a hint|勇気（ゆうき）を持って。／果敢（かかん）に。
+666|For what it’s worth|恐れ（おそれ）を知ら（しら）ず。／大胆（だいたん）に。
+667|Snap at|大胆（だいたん）に。／不敵（ふてき）に。
+668|Put me on the spot|思い切っ（おもいきっ）て。／危険（きけん）を顧み（かえりみ）ず。
+669|Comfort food|英雄（えいゆう）的に（てきに）。／華々しく（はなばなしく）。
+670|It’s on me|勇ましく（いさましく）。／堂々（どうどう）と。
+671|Split the bill|気高く（けだかく）。／崇高（すうこう）に。
+672|Cliquey|優しく（やさしく）。／穏やか（おだやか）に。
+673|cured mackerel|そっと。／柔らか（やわらか）に。
+674|Sleep in|穏やか（おだやか）に。／控えめ（ひかえめ）に。
+675|Overslept|優しく（やさしく）。／慈しみ（いつくしみ）を持って。
+676|Underestimate|愛（あい）を込め（こめ）て。／深い（ふかい）愛情（あいじょう）で。
+677|Gullible|慈しみ（いつくしみ）深く（ぶかく）。／懐かし（なつかし）そうに。
+678|Annoying, irritating, pissed off, fed up with |心（こころ）から。／真心（まごころ）を込め（こめ）て。
+679|Tick off, salty |心（こころ）底（そこ）から。／たっぷり。
+680|Sorry doesn’t cut it|暖かく（あたたかく）。／親身（しんみ）になって。
+681|She's all grown up|慈愛（じあい）に満ち（みち）て。／優しく（やさしく）。
+682|Take it with a grain of salt|親しみ（したしみ）やすく。／仲良く（なかよく）。
+683|Thinking out loud|親切（しんせつ）に。／思いやり（おもいやり）を持って。
+684|Ditto|親切（しんせつ）に。／快（こころよ）く。
+685|I didn’t sign up for this|気前（きまえ）よく。／惜しみ（おしみ）なく。
+686|I’m not cut out for|寛大（かんだい）に。／太腹（ふとっぱら）に。
+687|What a bummer|無欲（むよく）に。／自分（じぶん）を後回し（あとまわし）にして。
+688|Get on my nerve|利他（りた）的に（てきに）。／社会（しゃかい）貢献（こうけん）の心（こころ）で。
+689|Give me some credit|慈悲（じひ）深く（ぶかく）。／慈善（じぜん）のために。
+690|Find myself in|感謝（かんしゃ）の気持ち（きもち）で。／有難（ありがた）く。
+691|If you ever feel like ~|有難（ありがた）いことに。／感謝（かんしゃ）して。
+692|Keep thing on track|ありがたく。／価値（かち）を認めて（みとめて）。
+693|Stop complaining / don't be so dramatic / cry me a river|心（こころ）から。／誠実（せいじつ）に。
+694|I'll take the heat|正直（しょうじき）に。／ありのままに。
+695|I'm stuck between A and B.|真実（しんじつ）を告（つ）げて。／正確（せいかく）に。
+696|sleep on it|遠慮（えんりょ）なく。／腹（はら）を割っ（わっ）て。
+697|You are quite bold / You've got some nerve|率直（そっちょく）に。／包み隠さ（つつみかくさ）ず。
+698|Keep it to yourself / Keep a lid on it|明白（めいはく）に。／ありのままに。
+699|If you are clued in, you'll get it / If you know, you know |単純（たんじゅん）に。／ありのままに。
+700|I'm just browsing|謙虚（けんきょ）に。／地味（じみ）に。
+701|Mind your tongue / Watch your language|大胆（だいたん）に。／不敵（ふてき）に。
+702|Getting cold feet|誇らしげ（ほこらしげ）に。／堂々（どうどう）と。
+703|Apples and oranges|傲慢（ごうまん）に。／横柄（おうへい）に。
+704|Get a life|高飛車（たかびしゃ）に。／見下し（みくだし）て。
+705|Don't dwell on it / Move on / Don't linger on it|軽蔑（けいべつ）して。／鼻（はな）であしらって。
+706|People never change|あざけるように。／馬鹿（ばか）にして。
+707|That's my jam|皮肉（ひにく）たっぷりに。／あてこすり。
+708|Live vicariously through|皮肉（ひにく）にも。／反語（はんご）的（てき）に。
+709|What's the damage?|冷笑（れいしょう）的（てき）に。／ひねくれて。
+710|I was born this way|懐疑（かいぎ）的（てき）に。／疑っ（うたがっ）て。
+711|The bottom line is|疑（うたが）わしげに。／不確実（ふかくじつ）に。
+712|Don't poke the bear|疑わし（うたがわし）げに。／怪（あや）しんで。
+713|Let's see how it goes|用心深く（ようじんぶかく）。／警戒（けいかい）して。
+714|No brainer|慎重（しんちょう）に。／用心（ようじん）して。
+715|Come to think of it|注意（ちゅうい）深く（ぶかく）。／丹念（たんねん）に。
+716|Put in a good word for me|賢明（けんめい）に。／慎重（しんちょう）に。
+717|I'm wiped out|慎み（つつしみ）深く（ぶかく）。／目立た（めだた）ないように。
+718|She walked all over me|賢く（かしこく）。／知恵（ちえ）を絞（しぼ）って。
+719|Don't be so hard on yourself|思慮（しりょ）深く（ぶかく）。／思いやり（おもいやり）を持って。
+720|He's moody when he's starving|深く（ふかく）。／心（こころ）の底（そこ）から。
+721|it just popped up in my mind / It just occurred to me|心（こころ）から深く（ふかく）。／重大（じゅうだい）に。
+722|Long legs run in the family|実質（じっしつ）的（てき）に。／かなり。
+723|Apple doesn't fall far from the tree|かなり。／意味深（いみしん）に。
+724|out of the blue|かなり。／相当（そうとう）に。
+725|Once in a blue moon|目（め）に見（み）えて。／著しく（いちじるしく）。
+726|He has an audacity to show up here|著しく（いちじるしく）。／際立っ（きわだっ）て。
+727|that being said, be cautious |はっきりと。／明白（めいはく）に。
+728|It gives me a chill|明らかに（あきらかに）。／当然（とうぜん）。
+729|You seemed a little far fetched|明白（めいはく）に。／証拠（しょうこ）から見て。
+730|I'm a second away from buying that|一目（いちもく）瞭然（りょうぜん）で。／明白（めいはく）に。
+731|What do you take me for?|疑（うたが）いなく。／確実（かくじつ）に。
+732|I got carried away|紛（まぎ）れもなく。／異論（いろん）の余地（よち）なく。
+733|I'm not big on holding things with regret.|間違い（まちがい）なく。／絶対（ぜったい）に。
+734|In one ear, out the other |疑（うたが）う余地（よち）なく。／確信（かくしん）を持って。
+735|best quote|確かに（たしかに）。／間違い（まちがい）なく。
+736|I wasn't born yesterday|確かに（たしかに）。／もちろん。
+737|Let's take a raincheck|実（じつ）は。／実際（じっさい）には。
+738|There he goes again, acting up again |事実（じじつ）上（じょう）。／実情（じつじょう）を言（い）えば。
+739|That's my two cents|現実（げんじつ）には。／実際（じっさい）のところ。
+740|Hear me out, read my lips |実際（じっさい）に。／本当は（ほんとうは）。
+741|I didn't see this coming / I couldn't expect this|本当（ほんとう）に。／全（まった）く。
+742|I'm still green at heart / I'm young at heart|真実（しんじつ）。／誠（まこと）に。
+743|I can't shake the feeling|誠（まこと）に。／間違い（まちがい）なく。
+744|Read the room|嘘（うそ）偽り（いつわり）なく。／正直（しょうじき）に。
+745|I can't recommend it enough|正直（しょうじき）に。／ありのままに。
+746|Pick up on that / catch on to that / take a hint|本当（ほんとう）に。／マジで。
+747|kitchenware|本気（ほんき）で。／真剣（しんけん）に。
+748|Yapper|厳か（おごそか）に。／真摯（しんし）に。
+749|give or take|真面目（まじめ）に。／心（こころ）から。
+750|Hit it off|厳（おごそ）かに。／重大（じゅうだい）に。
+751|He is a legit, catch |厳格（げんかく）に。／厳（きび）しく。
+752|Swallow your pride|厳（きび）しく。／ひどく。
+753|Go bananas|ひどく。／重大（じゅうだい）に。
+754|Cagey|厳（きび）しく。／緻密（ちみつ）に。
+755|First things first|厳格（げんかく）に。／いかめしく。
+756|best friend|質素（しっそ）に。／厳（きび）しく。
+757|Off day|思い切っ（おもいきっ）て。／抜本（ばっぽん）的に（てきに）。
+758|buyer's remorse|劇（げき）的（てき）に。／劇的（げきてき）に。
+759|While at it|根本（こんぽん）的に（てきに）。／過激（かげき）に。
+760|Live a little|完全に（かんぜんに）。／全（まった）く。
+761|Lo and behold|すっかり。／そっくりそのまま。
+762|To a t|全（ぜん）て。／丸（まる）ごと。
+763|Spitting image|全く（まったく）。／すっかり。
+764|Ill at ease|全く（まったく）もって。／完全に（かんぜんに）。
+765|Over the moon|絶対（ぜったい）に。／完全に（かんぜんに）。
+766|Double standard|完璧（かんぺき）に。／申し分（もうしぶん）なく。
+767|Cost an arm and a leg|完全に（かんぜんに）。／十分に（じゅうぶんに）。
+768|In one piece|徹底（てってい）的（てき）に。／細部（さいぶ）まで。
+769|Got stood up|網羅（もうら）的（てき）に。／出し切（だしき）って。
+770|Wishy washy|包括（ほうかつ）的（てき）に。／全部（ぜんぶ）まとめて。
+771|Force of habit|広範囲（こうはんい）に。／広く（ひろく）。
+772|At a loss for words, speechless |幅広（はばひろ）く。／いたる所（ところ）で。
+773|In a food coma|大まかに（おおまかに）。／幅広（はばひろ）く。
+774|You dig?|普遍（ふへん）的（てき）に。／宇宙（うちゅう）レベルで。
+775|Dig in|至（いた）る所（ところ）に。／どこにでも。
+776|No knee jerk reaction|地球（ちゅうきゅう）規模（きぼ）で。／世界（せかい）的（てき）に。
+777|Meet me half way|地域（ちいき）的（てき）に。／地方（ちほう）ごとに。
+778|It goes without saying that|地元（じもと）で。／その土地（とち）で。
+779|In good hands|国内（こくない）で。／家庭（かてい）的（てき）に。
+780|Cut me some slack|内部（ないぶ）で。／心（こころ）の中（なか）で。
+781|It's been on my mind|外部（がいぶ）で。／外側（そとがわ）に。
+782|Penny for your thoughts|公家（おおやけ）に。／人前（ひとまえ）で。
+783|Chip in|ひそかに。／個人的（こじんてき）に。
+784|Pitch in|秘密（ひみつ）裏（り）に。／こっそりと。
+785|Give it up for her|機密（きみつ）として。／内内（ないない）で。
+786|This is news to me|暗黙（あんもく）に。／それとなく。
+787|Are you dense?|明白（めいはく）に。／はっきりと。
+788|I m doomed|直接（ちょくせつ）的に（てきに）。／直通（ちょくつう）で。
+789|Get under my skin|間接（かんせつ）的に（てきに）。／遠回し（とおまわし）に。
+790|I will sort it out|率直（そっちょく）に。／単刀直入（たんとうちょくにゅう）に。
+791|Does that ring a bell?|ぶっきらぼうに。／露骨（ろこつ）に。
+792|I should have thought that through|不意に（ふいに）。／いきなり。
+793|bestie|急（きゅう）に。／前触れ（まえぶれ）なく。
+794|You'd better be off|即座（そくざ）に。／一瞬（いっしゅん）で。
+795|A sense of belongings|直ちに（ただちに）。／今（いま）すぐ。
+796|Picture is worth a thousand words, you will see |迅速（じんそく）に。／即座（そくざ）に。
+797|Walk me through it, break it down for me |速やか（すみやか）に。／どんどん。
+798|No wonder|急速（きゅうそく）に。／すごい勢い（いきおい）で。
+799|If anything|早く（はやく）。／サッと。
+800|Better yet|速く（はやく）。／一気（いっき）に。
+801|frustrated my younger sister|ゆっくりと。／時間をかけて（じかんをかけて）。
+802|Something feels off / I'm feeling under the weather|徐々（じょじょ）に。／段階（だんかい）を追っ（おっ）て。
+803|I'm not myself|一（いち）歩（ぽ）ずつ。／着実（ちゃくじつ）に。
+804|Your best bet / Your go-to option|少し（すこし）ずつ。／じわじわと。
+805|I'm a little pressed for time / Clock is ticking / Time is running out|少し（すこし）ずつ。／徐々（じょじょ）に。
+806|Can't hack it|ますます。／いよいよ。
+807|It's going to sound corny / It might sound cheesy|進歩（しんぽ）的に（てきに）。／着実（ちゃくじつ）に。
+808|It's not too shabby / Not that bad|着実（ちゃくじつ）に。／絶（た）えず。
+809|A spa for some pampering|絶（た）えず。／いつも。
+810|It just slipped out|継続（けいぞく）的（てき）に。／休み（やすみ）なく。
+811|Bitter sweet|絶（た）え間（ま）なく。／永遠（えいえん）に。
+812|Don’t flatter yourself / Don’t give yourself too much credit|ひっきりなしに。／絶（た）えず。
+813|Stop pestering me / Enough with this / Stop nagging me|永久（えいきゅう）に。／果（は）てしなく。
+814|Knock yourself out / Suit yourself|永遠（えいえん）に。／不朽（ふきゅう）の。
+815|Run it by you / Touch base with you|永遠に（えいえんに）。／いつまでも。
+816|I've been busy|果（は）てしなく。／無限（むげん）に。
+817|You will live|際限（さいげん）なく。／広大（こうだい）に。
+818|Take under one's wing|無限（むげん）に。／際限（さいげん）なく。
+819|For nothing|膨大（ぼうだい）に。／非常（ひじょう）に。
+820|I owe you one|莫大（ばくだい）に。／巨大（きょだい）に。
+821|Something going on between|大部分（だいぶぶん）は。／実（じつ）に。
+822|Clear the air|大いに（おおいに）。／非常（ひじょう）に。
+823|Get in the way|高度（こうど）に。／非常（ひじょう）に。
+824|On edge|極めて（きわめて）。／極端（きょくたん）に。
+825|Man!|ひどく。／猛烈（もうれつ）に。
+826|Spring is in the air|ひどく。／大変（たいへん）に。
+827|That's crazy|恐（おそ）ろしく。／ひどく。
+828|April Fools'|衝撃（しょうげき）的（てき）に。／驚（おどろ）くほど。
+829|Behind someone's back|仰天（ぎょうてん）するほど。／ひどく。
+830|Say hi to ~ for me|ひどく。／嫌（いや）な感じ（かんじ）で。
+831|No offense|ひどく。／へたに。
+832|Follow me|不十分（ふじゅうぶん）に。／乏（とぼ）しく。
+833|Chill out|弱々しく（よわよわしく）。／かすかに。
+834|tuition|弱々しく（よわよわしく）。／力（ちから）なく。
+835|Every other day|かすかに。／ぼんやりと。
+836|Tell on someone|ほの暗く（ほのぐらく）。／はっきりとしない。
+837|Overdo it|曖昧（あいまい）に。／世（よ）に知（し）られず。
+838|Have a beef with|漠然（ばくぜん）と。／ぼんやりと。
+839|get by|はっきりしない。／区別（くべつ）がつかない。
+840|Touched|霞ん（かすん）だ。／ぼんやりした。
+841|buttery|はっきりと。／明白（めいはく）に。
+842|Doze off|明るく（あかるく）。／鮮明（せんめい）に。
+843|Close call|鮮やか（あざやか）に。／生き生き（いきいき）と。
+844|In another color|鋭く（ふるどく）。／急激（きゅうげき）に。
+845|Lemon|はっきりと。／明確（めいかく）に。
+846|To-go box|明白（めいはく）に。／ありのままに。
+847|Not having it|明らかに（あきらかに）。／言うまでもなく（いうまでもなく）。
+848|Cut someone off|見たところ。／明らかに（あきらかに）。
+849|That's just the way it is|透き通っ（すきとおっ）て。／見え透い（みえすい）て。
+850|Spit it out|オープンに。／隠（かく）さずに。
+851|passed away and was cremated|自由（じゆう）に。／思い（おもい）のままに。
+852|Fall blues|寛大（かんだい）に。／惜しみ（おしみ）なく。
+853|Sit tight|気前（きまえ）よく。／たっぷり。
+854|Between jobs|贅沢（ぜいたく）に。／ふんだんに。
+855|Rub it in|ふんだんに。／過度（かど）に。
+856|Bland|豊富（ほうふ）に。／潤沢（じゅんたく）に。
+857|Eat it up|たっぷり。／存分（ぞんぶん）に。
+858|Around the corner|おびただしく。／多量（たりょう）に。
+859|Somewhat|十分（じゅうぶん）に。／足りる（たりる）だけ。
+860|Take for granted|適切（てきせつ）に。／それなりに。
+861|For good|控えめ（ひかえめ）に。／節約（せつやく）して。
+862|Take it personally|ほとんど〜ない。／かろうじて。
+863|Put it off until the last minute|ほとんど〜ない。／およそ〜ない。
+864|Clingy|かろうじて。／やっと。
+865|Couldn't care less|単（たん）に。／〜にすぎない。
+866|Don't jinx it|〜だけ。／ただ一つの。
+867|stop yapping|単独（たんどく）に。／ただそれだけ。
+868|check all the boxes|独占（どくせん）的（てき）に。／専用（せんよう）の。
+869|put it down before I forget|独特（どくとく）に。／唯一（ゆいいつ）無二（むに）の。
+870|nonchalant|特（とく）に。／とりわけ。
+871|It's been unreal|特（とく）に。／格別（かくべつ）に。
+872|pulling all-nighters|具体（ぐたい）的（てき）に。／明確（めいかく）に。
+873|make someone's heart flutter|明確（めいかく）に。／わざわざ。
+874|Am I delusional?|明白（めいはく）に。／はっきりと。
+875|I can't possibly|正確（せいかく）に。／精密（せいみつ）に。
+876|Are you investing in shares market?|まさに。／そのまま。
+877|stock market (news style)|文字（もじ）通り（どおり）。／誇張（こちょう）なしに。
+878|pull it off|事実（じじつ）上（じょう）。／実質（じっしつ）的に（てきに）。
+879|no cap|実際（じっさい）に。／現実（げんじつ）的に（てきに）。
+880|Fit the bill|本質（ほんしつ）的に（てきに）。／要（よう）は。
+881|I'm on the clock|根本（こんぽん）的に（てきに）。／徹底（てってい）的（てき）に。
+882|It's a bit foggy|基本（きほん）的に（てきに）。／普通（ふつう）は。
+883|I'm a light sleeper|本能（ほんのう）的に（てきに）。／直感（ちょっかん）で。
+884|I tend to be shy|直感的（ちょっかんてき）に。／なんとなく。
+885|Camera shy|自発（じはつ）的に（てきに）。／自然（しぜん）と。
+886|It's as good as new.|自動（じどう）的に（てきに）。／勝手（かって）に。
+887|They have a lot in common.|機械（きかい）的に（てきに）。／無（む）機質（きしつ）に。
+888|That's typical of you.|体系（たいけい）的に（てきに）。／秩序（ちつじょ）立て（だて）て。
+889|You look after yourself.|几帳面（きちょうめん）に。／計画（けいかく）的に（てきに）。
+890|Go for it!|論理（ろんり）的に（てきに）。／理（り）にかなった。
+891|He's a piece of work.|合理的（ごうりてき）に。／冷静（れいせい）に。
+892|I won't let you down.|妥当（だとう）に。／納得（なっとく）のいくように。
+893|I've been trying to reach you.|分別（ふんべつ）を持って。／賢明（けんめい）に。
+894|It was a stroke of luck.|賢く（かしこく）。／知恵（ちえ）深く（ぶかく）。
+895|Don't bottle up your feelings.|慎重（しんちょう）に。／用意（ようい）周到（しゅうとう）に。
+896|Don't be shy|注意（ちゅうい）深く（ぶかく）。／入念（にゅうねん）に。
+897|You're growing on me.|用心深く（ようじんぶかく）。／念（ねん）には念（ねん）を入れ（いれ）て。
+898|I burnt the midnight oil.|警戒（けいかい）して。／用心（ようじん）深く（ぶかく）。
+899|Shy of two minutes|2分（にふん）に満た（みた）ない。／あと少し（すこし）で2分。
+900|That would be the best case scenario.|嫉妬（しっと）深く（ぶかく）。／執着（しゅうちゃく）して。
+901|I couldn't agree more.|寛大（かんだい）に。／太腹（ふとっぱら）に。
+902|I've got a memory like a sieve.|太腹（ふとっぱら）に。／広い（ひろい）心（こころ）で。
+903|It's on the house.|気高く（けだかく）。／崇高（すうこう）に。
+904|I think you should get a second opinion.|優雅（ゆうが）に。／しとやかに。
+905|You are second to none.|上品（じょうひん）に。／洗練（せんれん）されて。
+906|Don't pull my leg.|美しく（うつくしく）。／見事（みごと）に。
+907|I'm torn|華やか（はなやか）に。／立派（りっぱ）に。
+908|You have lost the plot.|壮大（そうだい）に。／堂々（どうどう）と。
+909|Let's just keep it between us.|盛大（せいだい）に。／立派（りっぱ）に。
+910|You know the drill.|最高（さいこう）に。／申し分（もうしぶん）なく。
+911|It's been a roller coaster ride.|素晴らしく（すばらしく）。／驚（おどろ）くほど。
+912|I look up to you.|驚（おどろ）くほど素晴らしく（すばらしく）。／驚（おどろ）くべき。
+913|It's overrated.|優秀（ゆうしゅう）に。／抜きん出（ぬきんで）て。
+914|Long story short|完璧（かんぺき）に。／理想（りそう）的（てき）に。
+915|I don't hold a grudge.|非（ひ）の打ち（うち）どころなく。／鮮やか（あざやか）に。
+916|I don't know off the top of my head.|申し分（もうしぶん）なく。／端正（たんせい）に。
+917|I'm fed up with it.|適切（てきせつ）に。／十分（じゅうぶん）に。
+918|I've got a lot on my plate.|十分（じゅうぶん）に。／余裕（よゆう）を持って。
+919|I'm bad with directions.|満足（まんぞく）のいくように。／十分（じゅうぶん）に。
+920|How are you holding up?|有能（ゆうのう）に。／そつなく。
+921|All you have to do is do it.|効果（こうか）的（てき）に。／有効（ゆうこう）に。
+922|What do you have in mind?|効率（こうりつ）的（てき）に。／手際（てぎわ）よく。
+923|Don't be that way.|強力（きょうりょく）に。／力強く（ちからづよく）。
+924|Let's get the ball rolling.|強く（つよく）。／猛烈（もうれつ）に。
+925|It costs an arm and a leg.|凄まじく（すさまじく）。／力（ちから）任（まか）せに。
+926|Don't go through the motions.|強制的（きょうせいてき）に。／力（ちから）を込め（こめ）て。
+927|You took the words right out of my mouth.|強烈（きょうれつ）に。／激（はげ）しく。
+928|You crossed the line.|厳（きび）しく。／ひどく。
+929|He knows his stuff.|厳（きび）しく。／辛辣（しんらつ）に。
+930|Hang in there!|雑（ざつ）に。／荒っぽく（あらっぽく）。
+931|You need to break the habit.|失礼（しつれい）に。／無（む）作法（さほう）に。
+932|You hit the nail on the head.|丁寧（ていねい）に。／礼儀（れいぎ）正しく（ただしく）。
+933|My brain is not as good as it used to be.|丁重（ていちょう）に。／礼儀（れいぎ）正しく（ただしく）。
+934|I was ripped off.|敬意（けいい）を払っ（はらっ）て。／うやうやしく。
+935|I am out and about|謙虚（けんきょ）に。／卑下（ひげ）して。
+936|I can't get that off my mind.|控えめ（ひかえめ）に。／目立た（めだた）ないように。
+937|Don't kid yourself.|恥ずかし（はずかし）そうに。／内気（うちき）に。
+938|It's no picnic.|おどおどと。／臆病（おくびょう）に。
+939|Just let it go.|恐る（おそる）恐る（おそる）。／びくびくしながら。
+940|Come to your senses|心配（しんぱい）そうに。／切実（せつじつ）に。
+941|Let's call it a day.|緊張（きんちょう）して。／落ち着か（おちつか）ない様子（ようす）で。
+942|Act your age.|冷静（れいせい）に。／落ち着い（おちつい）て。
+943|It went over my head.|静か（しずか）に。／ひっそりと。
+944|Are you open today?|平和（へいわ）に。／穏やか（おだやか）に。
+945|Don't make a big deal.|穏やか（おだやか）に。／清らか（きよらか）に。
+946|In a nutshell.|辛抱強く（しんぼうづよく）。／じっと。
+947|Don't spill the beans.|揺るぎな（ゆるぎな）く。／泰然（たいぜん）自若（じじゃく）として。
+948|Are you guys open?|毅然（きぜん）として。／決然（けつぜん）と。
+949|I'm going to keep my eyes peeled.|固い（かたい）決意（けつい）を持って。／断固（だんこ）として。
+950|I'm right behind you.|勇敢（ゆうかん）に。／勇ましく（いさましく）。
+951|There you go again.|勇気（ゆうき）を持って。／果敢（かかん）に。
+952|Figures.|恐れ（おそれ）を知ら（しら）ず。／大胆（だいたん）に。
+953|Duh|大胆（だいたん）に。／不敵（ふてき）に。
+954|Stop bugging me.|思い切っ（おもいきっ）て。／危険（きけん）を返りみ（かえりみ）ず。
+955|I've been there before.|英雄（えいゆう）的に（てきに）。／華々しく（はなばなしく）。
+956|We're working with a skeleton crew.|勇ましく（いさましく）。／堂々（どうどう）と。
+957|That's the thing.|気高く（けだかく）。／崇高（すうこう）に。
+958|Intriguing|優しく（やさしく）。／穏やか（おだやか）に。
+959|It happens all the time.|そっと。／柔らか（やわらか）に。
+960|There is no smoking gun.|穏やか（おだやか）に。／控えめ（ひかえめ）に。
+961|I'm salty.|優しく（やさしく）。／慈しみ（いつくしみ）を持って。
+962|You don't want to know.|愛（あい）を込め（こめ）て。／深い（ふかい）愛情（あいじょう）で。
+963|Fascinating|慈しみ（いつくしみ）深く（ぶかく）。／懐かし（なつかし）そうに。
+964|I got stuck in traffic.|心（こころ）から。／真心（まごころ）を込め（こめ）て。
+965|It's a different kettle of fish.|心（こころ）底（そこ）から。／たっぷり。
+966|Thought-provoking|暖かく（あたたかく）。／親身（しんみ）になって。
+967|I give you my word.|慈愛（じあい）に満ち（みち）て。／優しく（やさしく）。
+968|It's a long story.|親しみ（したしみ）やすく。／仲良く（なかよく）。
+969|We've got to break the mold.|親切（しんせつ）に。／思いやり（おもいやり）を持って。
+970|That's what I'm talking about!|気前（きまえ）よく。／惜しみ（おしみ）なく。
+971|The damage is done.|寛大（かんだい）に。／太腹（ふとっぱら）に。
+972|I can't sit still.|無欲（むよく）に。／自分（じぶん）を後回し（あとまわし）にして。
+973|It's better than nothing.|利他（りた）的に（てきに）。／社会（しゃかい）貢献（こうけん）の心（こころ）で。
+974|We go way back|慈悲（じひ）深く（ぶかく）。／慈善（じぜん）のために。
+975|Stay focused.|感謝（かんしゃ）の気持ち（きもち）で。／有難（ありがた）く。
+976|He was quite high maintenance.|有難（ありがた）いことに。／感謝（かんしゃ）して。
+977|I went cold turkey.|ありがたく。／価値（かち）を認めて（みとめて）。
+978|It takes me back|心（こころ）から。／誠実（せいじつ）に。
+979|Get with the program.|正直（しょうじき）に。／ありのままに。
+980|Give me a ballpark figure.|真実（しんじつ）を告（つ）げて。／正確（せいかく）に。
+981|What's your best guess?|遠慮（えんりょ）なく。／腹（はら）を割っ（わっ）て。
+982|It's a pain in the neck.|率直（そっちょく）に。／包み隠さ（つつみかくさ）ず。
+983|It keeps me on my toes.|明白（めいはく）に。／ありのままに。
+984|It blows me away.|単純（たんじゅん）に。／ありのままに。
+985|I'm susceptible to it.|謙虚（けんきょ）に。／地味（じみ）に。
+986|I'll level with you.|機嫌（きげん）よく。／楽し（たのし）げに。
+987|They had it coming.|幸せ（しあわせ）に。／満足（まんぞく）そうに。
+988|I'll spare you the details.|喜ば（よろこば）しいことに。／嬉（うれ）しさ全開（ぜんかい）で。
+989|Bad news travels fast.|陽気（ようき）に。／楽し（たのし）く。
+990|Why the long face?|気楽（きらく）に。／朗（ほが）らかに。
+991|What's the occasion?|嬉（うれ）々（きき）として。／大（だい）喜び（よろこび）で。
+992|What's the matter?|至福（しふく）の面持ち（おももち）で。／この上（うえ）なく。
+993|He had a blast.|心地（ここち）よく。／感じ（かんじ）よく。
+994|Fill out this form|快（こころよ）く。／納得（なっとく）のいくように。
+995|It doesn't ring a bell|満足（まんぞく）げに。／甘んじ（あまんじ）て。
+996|It was put on ice.|熱心（ねっしん）に。／やる気（き）満々（まんまん）で。
+997|You've lost me.|熱狂（ねっきょう）的に（てきに）。／熱（あつ）く。
+998|I'm on cloud nine.|最高（さいこう）に幸せ（しあわせ）。／雲（くも）の上（うえ）にいる気分（きぶん）。
+999|She was thirsty.|彼女（かのじょ）は喉（のど）が渇い（かわい）ていた。／彼女は喉から手（て）が出る（でる）ほど欲しかっ（ほしかっ）た。
+1000|There's nothing to it.|快（こころよ）く。／二（に）つ返知（へんじ）で。
+1001|But there's a twist.|喜んで（よろこんで）。／快（こころよ）く。
+1002|We're out of the woods.|上機嫌（じょうきげん）で。／朗（ほが）らかに。
+1003|Let's play it by ear.|臨機応変（りんきおうへん）にやろう。／その場（ば）の状況（じょうきょう）で決め（きめ）よう。
+1004|Don't even bring it up.|その話（はなし）は持ち出さ（もちださ）ないで。／口（くち）にすらしないで。
+1005|Your eyes are bigger than your stomach.|安らか（やすらか）に。／穏やか（おだやか）に。
+1006|It's not even close.|静か（しずか）に。／平穏（へいおん）に。
+1007|I don't blame you.|穏やか（おだやか）に。／うららかに。
+1008|Don't let it bother you.|落ち着い（おちつい）て。／冷静（れいせい）に。
+1009|I'm at your service.|静か（しずか）に。／ひっそりと。
+1010|She's cool as a cucumber.|黙り込んで（だまりこんで）。／沈黙（ちんもく）を守り（まもり）ながら。
+1011|He's down to earth.|音（おと）もなく。／忍び足（しのびあし）で。
+1012|We have to address the problem.|聞き取れ（ききとれ）ないほど。／かすかに。
+1013|How old do you think I am?|弱々しく（よわよわしく）。／かすかに。
+1014|It put me on the map.|薄暗く（うすぐらく）。／はっきりとしない。
+1015|They are selling like hot cakes.|漠然（ばくぜん）と。／ぼんやりと。
+1016|This is at the heart of the matter.|これが問題（もんだい）の核心（かくしん）だ。／これが一番（いちばん）重要（じゅうよう）な点（てん）だ。
+1017|Who do you think I am?|私（わたし）を誰（だれ）だと思っ（おもっ）ているんだ？／私を馬鹿（ばか）にしているのか？
+1018|It spiraled out of control.|秘密（ひみつ）に。／こっそりと。
+1019|It quickly went viral.|忍び足（しのびあし）で。／こっそりと。
+1020|At the end of the day.|結局（けっきょく）のところ。／最後（さいご）には。
+1021|He was full of beans.|彼（かれ）は元気（げんき）いっぱいだった。／彼はとても活発（かっぱつ）だった。
+1022|That is a tough nut to crack.|個人的（こじんてき）に。／内密（ないみつ）に。
+1023|We will chew the fat.|機密（きみつ）として。／内内（ないない）で。
+1024|Don't let your guard down.|個人的（こじんてき）に。／直々（じきじき）に。
+1025|They promised the moon.|彼ら（かれら）は実現（じつげん）不可能な（ふかのうな）約束（やくそく）をした。／彼らはできもしないことを言っ（いっ）た。
+1026|He's on track.|彼（かれ）は順調（じゅんちょう）だ。／彼は予定（よてい）通り（どおり）に進ん（すすん）でいる。
+1027|It's not as bad as it seems.|それほど悪く（わるく）はない。／見かけ（みかけ）ほどひどくない。
+1028|Calm your nerves.|落ち着い（おちつい）て。／緊張（きんちょう）をほぐして。
+1029|It was a shot in the arm.|それは元気づけ（げんきづけ）になった。／それは励み（はげみ）になった。
+1030|That's the way the ball bounces.|それが運（うん）の尽き（つき）だ。／世（よ）の中（なか）そんなものだ。
+1031|That's music to my ears|それは朗報（ろうほう）だ。／聞い（きい）て嬉しい（うれしい）話（はなし）だ。
+1032|He was not pulling his weight.|彼（かれ）は自分（じぶん）の役割（やくわり）を果たして（はたして）いなかった。／彼はサボっていた。
+1033|I don't buy it.|簡単（かんたん）に。／たやすく。
+1034|I got all dolled up.|直ちに（ただちに）。／すぐさま。
+1035|You're on a roll|波（なみ）に乗っ（のっ）ているね。／絶好調（ぜっこうちょう）だね。
+1036|The deal fell through|契約（けいやく）が破談（はだん）になった。／取引（とりひき）が失敗（しっぱい）した。
+1037|I had a falling out with him.|彼（かれ）とけんかした。／彼と仲違い（なかたがい）した。
+1038|It's not rocket science.|それほど難しい（むずかしい）ことではない。／誰（だれ）にでもできることだ。
+1039|We all have to pick up the slack.|私（わたし）たちが代わり（かわり）にやらなければならない。／穴埋め（あなうめ）をしなければならない。
+1040|I threw caution to the wind.|思い切っ（おもいきっ）てやってみた。／危うさ（あやうさ）を顧みず（かえりみず）に行動（こうどう）した。
+1041|Beauty is only skin deep.|見事（みごと）に。／豪華（ごうか）に。
+1042|I'm not good with words.|口下手（くちべた）だ。／言葉（ことば）で表現（ひょうげん）するのが苦手（にがて）だ。
+1043|I'm running on fumes.|へとへとだ。／限界（げんかい）ギリギリだ。
+1044|I call the shots.|私（わたし）が決める（きめる）。／私に権限（けんげん）がある。
+1045|I have butterflies in my stomach.|優秀（ゆうしゅう）に。／見事（みごと）に。
+1046|You've been left on read.|完璧（かんぺき）に。／理想（りそう）的（てき）に。
+1047|She doted on me.|彼女（かのじょ）は私（わたし）を溺愛（できあい）した。／彼女は私をとても可愛がっ（かわいがっ）た。
+1048|I made it from scratch.|最初（さいしょ）から自分（じぶん）で作っ（つくっ）た。／手作り（てづくり）だ。
+1049|Don't steal my thunder.|私（わたし）のお株（おかぶ）を奪わ（うばわ）ないで。／私の見せ場（みせば）を取ら（とら）ないで。
+1050|He clammed up.|彼（かれ）は黙り込ん（だまりこん）だ。／彼は口（くち）を閉ざし（とざし）た。
+1051|I would go on a spending spree.|爆買い（ばくがい）したい気分（きぶん）だ。／お金（かね）を使いまくり（つかいまくり）たい。
+1052|I don't want to open up a can of worms.|藪蛇（やぶへび）になりたくない。／厄介（やっかい）なことになりたくない。
+1053|It's my treat.|正確（せいかく）に。／緻密（ちみつ）に。
+1054|Snap out of it!|精密（せいみつ）に。／まさに。
+1055|You got us into this mess.|正確（せいかく）に。／ちょうど。
+1056|It's not what it looks like.|見かけ（みかけ）とは違う（ちがう）。／誤解（ごかい）しないで。
+1057|What's your guilty pleasure?|やめられない楽しみ（たのしみ）は何（なに）？／自分（じぶん）だけの密か（みそか）な楽しみは？
+1058|I got the short straw.|ハズレを引い（ひい）た。／運（うん）が悪かっ（わるかっ）た。
+1059|She truly is the GOAT.|彼女（かのじょ）は本当（ほんとう）に史上（しじょう）最高（さいこう）だ。／彼女は天才（てんさい）だ。
+1060|I've got a lot of mixed emotions.|複雑（ふくざつ）な心境（しんきょう）だ。／色々（いろいろ）な感情（かんじょう）が入り交じっ（はいりまじっ）ている。
+1061|I've seen worse.|もっとひどいのも見（み）てきた。／これくらいなら大丈夫（だいじょうぶ）だ。
+1062|The tea tastes funny.|この紅茶（こうちゃ）、変（へん）な味（あじ）がする。／このお茶（ちゃ）、おかしい。
+1063|That's a steal.|それは破格（はかく）の安さ（やすさ）だ。／お買い得（かいどく）だ。
+1064|Now is the time to decide.|今（いま）が決断（けつだん）の時（とき）だ。／今決め（きめ）なければならない。
+1065|I just winged it.|ぶっつけ本番（ほんばん）でやった。／準備（じゅんび）なしで乗り切っ（のりきっ）た。
+1066|It's my cheat day|徹底（てってい）的（てき）に。／隅々（すみずみ）まで。
+1067|I'm at a loss for words.|完全に（かんぜんに）。／丸（まる）ごと。
+1068|We went the extra mile.|一層（いっそう）努力（どりょく）した。／期待（きたい）以上（いじょう）のことをした。
+1069|I canceled them.|彼ら（かれら）を拒絶（きょぜつ）した。／彼らをお釈放（しゃほう）した。
+1070|I was swamped with work.|仕事（しごと）に追わ（おわ）れていた。／仕事が山積み（やまづみ）だった。
+1071|That's as cheap as chips.|とても安い（やすい）。／二束三文（にそくさんもん）だ。
+1072|Make yourself at home.|絶対（ぜったい）に。／完全に（かんぜんに）。
+1073|Take it or leave it.|嫌（いや）ならやめろ。／これしかない。
+1074|I don't want to have egg on my face.|恥（はじ）をかきたくない。／面目（めんぼく）を失い（うしない）たくくない。
+1075|I'm at a crossroads.|岐路（きろ）に立た（たた）されている。／大きな（おおきな）分かれ道（わかれみち）にいる。
+1076|I'm an open book.|私（わたし）は何（なに）も隠さ（かくさ）ない。／隠し事（かくしごと）のない人間（にんげん）だ。
+1077|There was a little bit of a kerfuffle.|ちょっとした騒動（そうどう）があった。／小競り合い（こぜりあい）があった。
+1078|The boys didn't cut the mustard.|期待（きたい）に応え（こたえ）られなかった。／役不足（やくぶそく）だった。
+1079|How thoughtful of you to say that.|効果（こうか）的（てき）に。／有効（ゆうこう）に。
+1080|There is a fat chance of you winning.|効率（こうりつ）的（てき）に。／スピーディーに。
+1081|He finally got the message.|成功（せいこう）して。／順調（じゅんちょう）に。
+1082|He's lying through his teeth.|彼（かれ）は真っ赤な（まっかな）嘘（うそ）をついている。／彼は平気（へいき）で嘘をつく。
+1083|For lack of a better word|他（ほか）に適当な（てきとうな）言葉（ことば）が見当たら（みあたら）ないが。／言葉は悪い（わるい）が。
+1084|It's time to get moving.|出発（しゅっぱつ）の時間（じかん）だ。／さあ、行こ（いこ）う。
+1085|That's the spirit!|その意気（いき）だ！／いいぞ！
+1086|I'm on the mend.|回復（かいふく）に向かって（むかって）いる。／良（よ）くなってきている。
+1087|You sold me.|納得（なっとく）したよ。／君（きみ）の勝ち（かち）だ。
+1088|I can't wrap my head around that.|理解（りかい）できない。／さっぱりわかならい。
+1089|That's so sweet of you.|なんて優しい（やさしい）の。／とても親切（しんせつ）ですね。
+1090|I'll figure it out.|解決（かいけつ）してみせる。／何とか（なんとか）する。
+1091|Mobile technology is taking center stage.|モバイル技術（ぎじゅつ）が主役（しゅやく）になりつつある。／モバイルが主流（しゅりゅう）だ。
+1092|He will lay bare the ugly truth.|彼（かれ）は無惨な（むざんな）真実（しんじつ）を暴く（あばく）だろう。／彼は真実をさらけ出す。
+1093|I will leave no stone unturned.|確か（たしか）に。／間違い（まちがい）なく。
+1094|I'm off to the gym.|確か（たしか）に。／きっと。
+1095|Here's the thing.|間違い（まちがい）なく。／断固（だんこ）として。
+1096|The day can't come soon enough.|待ち遠（まちどお）しい。／早く（はやく）その日が来てほしい。
+1097|He has clout.|彼（かれ）には影響力（えいきょうりょく）がある。／彼は力（ちから）を持っている。
+1098|He vanished into thin air.|彼（かれ）は跡形（あとかた）もなく消えた（きえた）。／彼は煙（けむり）のように消え去っ（きえさっ）た。
+1099|Don't change the subject.|話（はなし）を逸らさ（そらさ）ないで。／話題（わだい）を変え（かえ）ないで。
+1100|I'm a glass half full person.|隠（かく）さずに。／公家（おおやけ）に。
+1101|Money doesn't grow on trees.|正直（しょうじき）に。／ありのまま。
+1102|Let's get into the swing of things.|心（こころ）から。／誠実（せいじつ）に。
+1103|I'm working on it.|今（いま）やってるところだよ。／取り掛かって（とりかかって）います。
+1104|She dropped a bombshell.|彼女（かのじょ）は衝撃（しょうげき）の事実（じじつ）を明かし（あかし）た。／爆弾（ばくだん）発言（はつげん）をした。
+1105|I was in a quandary.|単（たん）に。／ありのままに。
+1106|It is what it is|手短（てみじか）に。／簡潔（かんけつ）に。
+1107|I pulled an all-nighter.|間もなく（まもなく）。／近いうちに（ちかいうちに）。
+1108|He has a heart of gold.|速やか（すみやか）に。／急（いそ）いで。
+1109|Right off the bat|即座（そくざ）に。／いきなり。
+1110|From day one|初日（しょにち）から。／最初（さいしょ）からずっと。
+1111|This is a walk in the park.|直ちに（ただちに）。／今（いま）すぐ。
+1112|Speak for yourself.|迅速（じんそく）に。／即座（そくざ）に。
+1113|Get your act together.|しっかりしろ。／ちゃんと立て直し（たてなおし）なさい。
+1114|I'm not phased.|急速（きゅうそく）に。／どんどん。
+1115|Don't drag your feet.|だらだらするな。／もたもたしないで。
+1116|Knock it off!|やめろ！／いい加減（いいかげん）にしろ！
+1117|What brought you here?|何（なに）しに来（き）たの？／どうしてここへ？
+1118|The ball is in your court.|君（きみ）次第（しだい）だ。／ボールは君のコートにある。
+1119|That will be the day.|そんな日（ひ）は来（こ）ないよ。／まさかあり得ない（ありえない）。
+1120|They're fighting tooth and nail.|必死（ひっし）に戦って（たたかって）いる。／激しく（はげしく）争って（あらそって）いる。
+1121|I passed with flying colors.|見事（みごと）に合格（ごうかく）した。／楽々（らくらく）パスした。
+1122|I don't want to make a scene.|強大（きょうだい）に。／力強く（ちからづよく）。
+1123|That cracked me up.|強く（つよく）。／激（はげ）しく。
+1124|I'll have you know.|断固（だんこ）として。／しっかりと。
+1125|Better safe than sorry|備え（そなえ）あれば憂い（うれい）なし。／後（あと）で後悔（こうかい）するよりはいい。
+1126|You're telling me!|本当（ほんとう）にその通り（とおり）だよ！／全（まった）く同感（どうかん）だ。
+1127|His wife chewed him out.|奥（おく）さんにひどく叱ら（しから）れた。／奥さんに油（あぶら）を絞（しぼ）られた。
+1128|Please spread the word.|噂（うわさ）を広めて（ひろめて）ください。／みんなに知らせ（しらせ）て。
+1129|I hate to break it to you, but.|言い（いい）にくいことなんだけど。／残念（ざんねん）ながらお知らせ（しらせ）しなければ。
+1130|For all I care.|私（わたし）には関係（かんけい）ない。／どうでもいいよ。
+1131|Don't sweat it.|気（き）にするな。／心配（しんぱい）しないで。
+1132|No word of a lie.|嘘（うそ）じゃないよ。／本当（ほんとう）のことだ。
+1133|People came out of the woodwork.|どこからともなく人（ひと）が湧き（わき）出て（でて）きた。／急（きゅう）に人だかりができた。
+1134|It's like riding a bike.|体（からだ）が覚え（おぼえ）ているよ。／一度（いちど）覚え（おぼえ）れば忘（わす）れない。
+1135|I poured over this book.|この本（ほん）を熟読（じゅくどく）した。／詳しく（くわしく）調べ（しらべ）た。
+1136|It's high time we did.|注意（ちゅうい）深く（ぶかく）。／入念（にゅうねん）に。
+1137|I don't want to split hairs.|用心深く（ようじんぶかく）。／警戒（けいかい）して。
+1138|He made a blunder.|失態（しったい）を演じ（えんじ）た。／大失敗（だいしっぱい）をした。
+1139|He has money to burn.|お金（かね）が腐る（くさる）ほどある。／湯水（ゆみず）のようにお金（かね）を使う（つかう）。
+1140|I got choked up.|胸（むね）がいっぱいになった。／感極（かんきわ）まって言葉（ことば）に詰まっ（つまっ）た。
+1141|Better moving than not|動か（うごか）ないよりはましだ。／何（なに）もしないよりいい。
+1142|You have to learn the ropes.|仕事（しごと）のコツを覚え（おぼえ）なきゃ。／やり方（かた）を学（まな）ぶ。
+1143|He's milking it.|彼（かれ）は恩着せがましい（おんきせがましい）。／状況（じょうきょう）を最大限（さいだいげん）に利用（りよう）している。
+1144|You can't cherry pick.|いいところ取り（どり）はできないよ。／好き（すき）なものだけ選ぶ（えらぶ）のはダメだ。
+1145|You hit the bullseye.|図星（ずぼし）だね。／核心（かくしん）を突い（つい）たね。
+1146|What's in a name?|名前（なまえ）なんて関係（かんけい）ない。／名（な）が何（なに）を語る（かたる）というのか。
+1147|He walks the walk.|彼（かれ）は有言実行（ゆうげんじっこう）だ。／口（くち）先（さき）だけじゃない。
+1148|We'll cross that bridge when we come to it.|その時（とき）が来（き）たら考え（かんがえ）よう。／明日は明日の風が吹く。
+1149|Let's let the dust settle.|落ち着く（おちつく）のを待と（まと）う。／様子（ようす）を見（み）よう。
+1150|He was as hard as nails.|礼儀（れいぎ）正しく（ただしく）。／丁寧（ていねい）に。
+1151|You have what it takes to succeed.|優しく（やさしく）。／穏やか（おだやか）に。
+1152|Don't push your luck.|調子（ちょうし）に乗り（のり）すぎるな。／運（うん）を使い果たす（つかいはたす）な。
+1153|I'm at the end of my rope.|もう限界（げんかい）だ。／堪忍袋（かんにんぶくろ）の緒（お）が切れ（きれ）た。
+1154|It's a small world.|世間（せけん）は狭い（せまい）ね。／奇遇（きぐう）だね。
+1155|You're on thin ice.|危ない（あぶない）状況（じょうきょう）だよ。／薄氷（はくひょう）を履（ふ）む思い（おもい）だ。
+1156|I'll give it a shot.|友好（ゆうこう）的に（てきに）。／親しみ（したしみ）やすく。
+1157|You can never be too careful|念（ねん）には念（ねん）を。／注意（ちゅうい）しすぎることはない。
+1158|That's a wrap.|これでおしまいだ。／完成（かんせい）だ。
+1159|Don't jump to conclusions.|早とちり（はやとちり）しないで。／決め（きめ）つけないで。
+1160|Right up my alley|私（わたし）にぴったりだ。／ちょうど好み（このみ）だ。
+1161|It's written all over your face.|熱心（ねっしん）に。／意欲（いよく）的（てき）に。
+1162|This is for me|私（わたし）にふさわしい。／これがいい。
+1163|The sky is the limit.|可能性（かのうせい）は無限（むげん）だ。／限界（げんかい）はない。
+1164|Practice makes perfect.|進ん（すすん）で。／快（こころよ）く。
+1165|I got LASIK.|直ちに（ただちに）。／すぐさま。
+1166|How long is the wait?|待ち時間（まちじかん）はどれくらい？／何分（なんぷん）待ちですか？
+1167|Nature calls.|お手洗い（おてあらい）に行って（いって）くる。／生理（せいり）現象（げんしょう）だ。
+1168|Drop me off there.|そこで降ろして（おろして）ください。／あそこで停めて（とめて）。
+1169|You look better in person.|実物（じつぶつ）の方（ほう）が素敵（すてき）だね。／写真（しゃしん）よりずっといい。
+1170|Could you make that two, please?|同じ（おなじ）ものを2つ（ふたつ）ください。／2つにお願い（おねがい）します。
+1171|Keep your voice down.|声（こえ）を抑えて（おさえて）。／静か（しずか）にして。
+1172|Walk it off.|はっきりと。／明白（めいはく）に。
+1173|I tossed and turned all night.|一（ひと）晩（ばん）中（じゅう）寝返り（ねがえり）を打って（うって）いた。／まんじりともしなかった。
+1174|I have two left feet.|ダンスがとても下手（へた）だ。／不器用（ぶきよう）だ。
+1175|My face is breaking out.|顔（かお）に吹き出物（ふきでもの）ができた。／肌（はだ）が荒れて（あれて）いる。
+1176|I want some time off.|休み（やすみ）が欲しい（ほしい）。／休暇（きゅうか）を取り（とり）たい。
+1177|I'm not good with my hands.|手先（てさき）が不器用（ぶきよう）だ。／工作（こうさく）が苦手（にがて）だ。
+1178|I have a nosebleed.|鼻血（はなぢ）が出た（でた）。／鼻血が止まら（とまら）ない。
+1179|I'm pooped.|くたくただ。／疲れ果て（つかれはて）た。
+1180|I'm tone-deaf.|気前（きまえ）よく。／寛大（かんだい）に。
+1181|It's been a little hectic.|気前（きまえ）よく。／たっぷり。
+1182|It bugs me.|イライラする。／鼻（はな）につく。
+1183|Not to my knowledge.|私（わたし）の知る限り（しるかぎり）では。／心当たり（こころあたり）はない。
+1184|Lost cause.|見込み（みこみ）がない。／どうしようもない。
+1185|That's a blast from the past.|適切（てきせつ）に。／十分（じゅうぶん）に。
+1186|My lips are sealed.|満足（まんぞく）に。／十分（じゅうぶん）に。
+1187|Hit the books.|猛勉強（もうべんきょう）する。／机（つくえ）に向かう（むかう）。
+1188|I spaced out.|効率（こうりつ）的（てき）に。／手際（てぎわ）よく。
+1189|Do you guys carry Nike?|効果（こうか）的（てき）に。／実効（じっこう）性（せい）のある。
+1190|Can you tell?|わかる？／バレてる？
+1191|He is full of himself.|うぬぼれている。／自信（じしん）過剰（かじょう）だ。
+1192|Do you happen to know?|ご存知（ぞんじ）ですか？／心当たり（こころあたり）はありますか？
+1193|It's fattening.|太る（ふとる）よ。／カロリーが高い（たかい）。
+1194|Give her my best.|彼女（かのじょ）によろしく。／安否（あんぴ）を伝え（つたえ）て。
+1195|Dressed to kill.|最高（さいこう）のおめかしだね。／ばっちり決まって（きまって）いる。
+1196|Because I can.|勝手（かって）でしょ。／私（わたし）の自由（じゆう）だ。
+1197|Just because.|広く（ひろく）。／広範囲（こうはんい）に。
+1198|First come, first served.|大まかに（おおまかに）。／幅広（はばひろ）く。
+1199|Good with people|人当たり（ひとあたり）がいい。／社交（しゃこう）的（てき）だ。
+1200|I can feel it in my bones.|世界（せかい）的（てき）に。／地球（ちきゅう）規模（きぼ）で。
+1201|Let's order in.|国内（こくない）で。／家庭（かてい）内（ない）で。
+1202|Bless you|地元（じもと）で。／その土地（とち）で。
+1203|He is very low-key.|控えめ（ひかえめ）だね。／地味（じみ）だね。
+1204|It's lit.|盛り上がって（もりあがって）るね！／ヤバいね！
+1205|I have a hunch|内部（ないぶ）で。／心（こころ）の中（なか）で。
+1206|It's on the tip of my tongue.|外部（がいぶ）で。／外見（がいけん）上（じょう）。
+1207|What brings you here?|どうしてここへ？／何（なに）かあった？
+1208|Don't get any funny ideas.|変（へん）な勘（かん）違い（ちがい）をするな。／おかしなこと考えるなよ。
+1209|I'm not much of a coffee person.|コーヒーはあんまり飲ま（のま）ないんだ。／コーヒー派（は）じゃない。
+1210|I don't follow.|話（はなし）が見えない（みえない）。／理解（りかい）できない。
+1211|Are you wearing perfume?|香水（こうすい）つけてる？／いい匂い（におい）がするね。
+1212|We have bigger fish to fry.|もっと大事（だいじ）な用（よう）がある。／それどころじゃない。
+1213|I have my hands full.|手（て）がいっぱいだ。／忙しくて（いそがしくて）手が回ら（まわら）ない。
+1214|How can that be?|どうしてそんなことに？／ありえない。
+1215|Potato, potahto, tomato, tomahto.|どっちも同じ（おなじ）ことだ。／似たり寄ったり（にたりよったり）だ。
+1216|It's not my day.|つい（つい）てない日（ひ）だ。／厄日（やくび）だ。
+1217|Far from it.|全然（ぜんぜん）違う（ちがう）よ。／ほど遠い（ほどとおい）。
+1218|Fancy meeting you here!|奇遇（きぐう）だね！／会え（あえ）て嬉しい（うれしい）よ。
+1219|I never thought of that.|思い（おもい）もよらなかった。／考え（かんがえ）もしなかった。
+1220|Are you gonna run some errands?|正式（せいしき）に。／形式（けいしき）的（てき）に。
+1221|I just did the best I could.|非（ひ）公式（こうしき）に。／略式（りゃくしき）で。
+1222|Get to the point.|単刀直入（たんとうちょくにゅう）に言っ（いっ）て。／要点（ようてん）を言っ（いっ）て。
+1223|Do I have to spell it out for you?|いちいち言わ（いわ）なきゃわからない？／察して（さっして）よ。
+1224|I can't get through to her.|彼女（かのじょ）には通じ（つうじ）ない。／話（はなし）が通ら（とおら）ない。
+1225|Take a wild guess.|適当（てきとう）に当て（あて）てみて。／勘（かん）で言っ（いっ）てみて。
+1226|No more wishy-washy.|故意（こい）に。／あえて。
+1227|Sue me!|意図（いと）的（てき）に。／狙っ（ねらっ）て。
+1228|Just making chit chat.|雑談（ざつだん）してるだけだよ。／おしゃべりしてただけ。
+1229|We won by a nose.|僅差（きんさ）で勝っ（かっ）た。／危うく（あやうく）勝っ（かっ）た。
+1230|That's on you.|君（きみ）の責任（せきにん）だ。／君のせいだよ。
+1231|I'm totally out of shape.|同時（どうじ）に。／一緒（いっしょ）のタイミングで。
+1232|Why are you dressed up?|何（なに）を気取って（きどって）るの？／お洒落（おしゃれ）してどこ行く（いく）の？
+1233|I bought it for a song.|格安（かくやす）で買っ（かっ）た。／二束三文（にそくさんもん）で手（て）に入れた。
+1234|That was a close call!|たまに。／時々（ときどき）。
+1235|Likewise.|めったに〜ない。／まれ。
+1236|You made my day.|君（きみ）のおかげで最高（さいこう）の一（いち）日（にち）になった。／嬉しい（うれしい）よ。
+1237|What a small world.|世間（せけん）は狭い（せまい）ね。／なんて奇遇（きぐう）なんだ。
+1238|I didn't see this coming.|頻繁（ひんぱん）に。／しょっちゅう。
+1239|Sorry about the mess.|散らかって（ちらかって）てごめんね。／汚い（きたない）けど。
+1240|Everyone speaks highly of you.|みんな君（きみ）を褒めて（ほめて）いるよ。／評判（ひょうばん）がいいね。
+1241|You have to put yourself in my shoes.|永久（えいきゅう）的に。／ずっと。
+1242|Where have you been?|一時（いちじ）的に。／当面（とうめん）の間（あいだ）。
+1243|Don't be a stranger.|たまには顔（かお）を見せて（みせて）。／音信（おんしん）不通（ふつう）にならないで。
+1244|All sales are final.|返品（へんぴん）不可（ふか）。／売り切り（うりきり）だ。
+1245|I never meant to.|直ちに（ただちに）。／今（いま）すぐ。
+1246|Here's the deal.|こういうことだよ。／条件（じょうけん）はこうだ。
+1247|Enough chit chat.|雑談（ざつだん）はこれくらいにして。／おしゃべりは終わり（おわり）。
+1248|We can pull this off.|やり遂げ（やりとげ）られるよ。／成功（せいこう）させよう。
+1249|You have my word.|約束（やくそく）するよ。／誓って（ちかって）もいい。
+1250|Time's up.|時間（じかん）切れ（ぎれ）だ。／時間終了（しゅうりょう）。
+1251|Do I know you from somewhere?|どこかでお会い（おあい）しましたか？／見覚え（みおぼえ）があるんだけど。
+1252|Fake it till you make it.|徐々（じょじょ）に。／少し（すこし）ずつ。
+1253|Don't take it personally.|悪く（わるく）思わ（おもわ）ないで。／個人（こじん）的（てき）な感情（かんじょう）はないよ。
+1254|That's the way it is.|そういうものだよ。／仕方（しかた）がない。
+1255|Don't be ridiculous.|馬鹿（ばか）げてる。／おかしなこと言わ（いわ）ないで。
+1256|I got dumped.|振ら（ふら）れちゃった。／失恋（しつれん）した。
+1257|Now it makes sense.|やっとわかったよ。／腑（ふ）に落ち（おち）た。
+1258|Let's get it over with.|さっさと済ませ（すませ）よう。／早く（はやく）終わら（おわら）せよう。
+1259|What a shame.|残念（ざんねん）だね。／気の毒（きのどく）に。
+1260|She's obsessed with you.|鋭く（ふるどく）。／急激（きゅうげき）に。
+1261|Are you with me?|わかってる？／つい（つい）てきてる？
+1262|Mind your business.|お節介（おせっかい）はやめて。／君（きみ）には関係（かんけい）ない。
+1263|I overreacted.|密接（みっせつ）に。／きめ細かく。
+1264|I have nothing to do with that.|私（わたし）には一切（いっさい）関係（かんけい）ない。／関わり（かかわり）たくない。
+1265|I think I'll pass.|遠慮（えんりょ）しておくよ。／見送り（みおくり）ます。
+1266|There's been a big mistake.|断固（だんこ）として。／しっかりと。
+1267|I gotta get some air.|外（そと）の空気（くうき）を吸って（すって）くる。／ちょっと外（そと）へ。
+1268|Okay if we take a rain check?|安全（あんぜん）に。／無事（ぶじ）に。
+1269|Don't hold your breath.|正しく（ただしく）。／正確（せいかく）に。
+1270|He's not with me.|適切（てきせつ）に。／ちゃんと。
+1271|I can't catch a break.|全く（まったく）休（やす）めない。／不運（ふうん）が続く（つづく）。
+1272|Do me a favor.|効果（こうか）的（てき）に。／有効（ゆうこう）に。
+1273|I knew it.|やっぱりね。／そうなると思って（おもって）たよ。
+1274|I take it back.|今（いま）のは取り消す（とりけす）よ。／言い（いい）直す（なおす）ね。
+1275|Jinx!|完全に（かんぜんに）。／丸（まる）ごと。
+1276|Not necessarily.|すっかり。／そっくりそのまま。
+1277|Ta-da!|ジャジャーン！／見て（みて）！
+1278|We're on the same page.|全く（まったく）。／すっかり。
+1279|What do you say?|どう思う（おもう）？／どうする？
+1280|I warned you this would happen.|絶対（ぜったい）に。／完全に（かんぜんに）。
+1281|It's water under the bridge.|完璧（かんぺき）に。／申し分（もうしぶん）なく。
+1282|I have a ballpark figure.|完全に（かんぜんに）。／十分に（じゅうぶんに）。
+1283|Don't beat yourself up.|自分（じぶん）を責め（せめ）ないで。／落ち込ま（おちこま）ないで。
+1284|He cheated on me.|浮気（うわき）された。／裏切ら（うらぎら）れた。
+1285|I'm so screwed.|もう終わり（おわり）だ。／最悪（さいあく）だ。
+1286|You're being so dramatic.|大げさ（おおげさ）だよ。／ドラマチックすぎるよ。
+1287|You're out of your league.|身の程知らず（みのほどしらず）だよ。／君（きみ）の手（て）には負え（おえ）ない。
+1288|I'm so relieved.|安心（あんしん）したよ。／ホッとした。
+1289|He's crazy about you.|彼（かれ）は君（きみ）に夢中（むちゅう）だよ。／君にぞっこんだ。
+1290|How are we on time?|時間（じかん）はどうかな？／時間はあるかな？
+1291|Don't try to butter me up.|おべっか（おべっか）は使わ（つかわ）ないで。／機嫌（きげん）取り（とり）はやめて。
+1292|I do have feelings for you.|君（きみ）に気（き）があるんだ。／好き（すき）なんだ。
+1293|Don't keep me waiting.|はっきりと。／明白（めいはく）に。
+1294|You guys are so made for each other.|君たち（きみたち）は本当（ほんとう）にお似合い（におにあい）だね。／ベストカップルだ。
+1295|Suit yourself.|好き（すき）にしろよ。／勝手（かって）にすれば。
+1296|That should do it.|これで十分（じゅうぶん）だね。／うまくいったね。
+1297|I'm gonna go freshen up.|ちょっと身なり（みなり）を整えて（ととのえて）くる。／洗面所（せんめんじょ）に行ってくる。
+1298|You're wearing it backwards.|前後（ぜんご）逆（ぎゃく）に着（き）てるよ。／裏返し（うらがえし）だよ。
+1299|Will you be home for dinner?|夕食（ゆうしょく）までに帰って（かえって）くる？／夕食（ゆうしょく）いる？
+1300|I'm afraid we're out of stock.|あいにく在庫（ざいこ）切れ（ぎれ）です。／もうありません。
+1301|Good call.|いい判断（はんだん）だ。／名案（めいあん）だね。
+1302|I'm in the same boat.|気前（きまえ）よく。／たっぷり。
+1303|That's so touching.|豊富（ほうふ）に。／潤沢（じゅんたく）に。
+1304|I'm speechless.|言葉（ことば）が出ない（でない）。／絶句（ぜっく）したよ。
+1305|I don't know a thing.|十分（じゅうぶん）に。／足りる（たりる）だけ。
+1306|Where was I?|何（なに）の話（はなし）をしていたっけ？／どこまで話し（はなし）たかな？
+1307|Wanna grab some lunch?|満足（まんぞく）のいくように。／十分（じゅうぶん）に。
+1308|I had a rough night.|大変（たいへん）な夜（よ）だった。／散々（さんざん）な目（め）にあった。
+1309|This can't be happening.|こんなのありえない。／信じ（しんじ）られない。
+1310|Now you're talking.|その調子（ちょうし）だ。／やっと話（はなし）が通じ（つうじ）た。
+1311|You got that right.|成功（せいこう）して。／順調（じゅんちょう）に。
+1312|I don't see that happening.|そうはならないよ。／あり得ない（ありえない）話だ。
+1313|Not that I know of.|私（わたし）の知る限り（しるかぎり）ではないね。／聞い（きい）ていないよ。
+1314|Over my dead body.|豊か（ゆたか）に。／たっぷり。
+1315|I'm hoping for the best.|華やか（はなやか）に。／立派（りっぱ）に。
+1316|I'm down.|賛成（さんせい）だよ。／乗っ（のっ）た！
+1317|No way.|まさか。／ありえない。
+1318|Mind if I join you?|ご一緒（いっしょ）してもいい？／混ぜ（まぜ）てくれる？
+1319|Who cares?|優秀（ゆうしゅう）に。／抜きん出（ぬきんで）て。
+1320|It's not my place.|完璧（かんぺき）に。／理想（りそう）的（てき）に。
+1321|Follow your heart.|心の（こころの）ままに。／君（きみ）の気持ち（きもち）を信じて（しんじて）。
+1322|I wouldn't if I were you.|私（わたし）ならやめておくよ。／感心（かんしん）しないな。
+1323|Do your job.|ちゃんと仕事（しごと）しろ。／責任（せきにん）を果たせ（はたせ）。
+1324|It's all or nothing.|適切（てきせつ）に。／ちゃんと。
+1325|Behave yourself.|行儀（ぎょうぎ）よくしなさい。／大人しく（おとなしく）して。
+1326|What's in it for me?|私（わたし）に何の（なんの）得（とく）があるの？／見返り（みかえり）は何？
+1327|Shame on you!|正確（せいかく）に。／精密（せいみつ）に。
+1328|You're one to talk.|まさに。／そのまま。
+1329|You asked for it.|自業自得（じごうじとく）だね。／君（きみ）が招い（まねい）たことだ。
+1330|It serves you right!|ざまあみろ！／自業自得（じごうじとく）だ。
+1331|You catch on quick.|飲み込み（のみこみ）が早い（はやい）ね。／すぐ理解（りかい）したね。
+1332|Don't blow it.|台無し（だいなし）にするな。／失敗（しっぱい）しないで。
+1333|Then so be it.|それならそれでいい。／仕方（しかた）がない。
+1334|Watch your tongue!|言葉（ことば）に気をつけろ（きをつけろ）！／口（くち）を慎め（つつしめ）。
+1335|I want no part of it.|関わり（かかわり）たくない。／お断り（おことわり）だ。
+1336|Please don't butt in.|口出し（くちだし）しないで。／口（くち）を挟ま（はさま）ないで。
+1337|Brace yourself.|覚悟（かくご）しろ。／心（こころ）して。
+1338|Let's just call it even.|貸し借り（かしかり）なしにしよう。／お互い様（おたがいさま）だ。
+1339|It's a guy thing.|徹底（てってい）的（てき）に。／細部（さいぶ）まで。
+1340|She's gonna mooch off us.|完全に（かんぜんに）。／全（まった）く。
+1341|The same goes for you.|君（きみ）も同じ（おなじ）だよ。／お互い様（おたがいさま）だね。
+1342|Pull over right here.|ここに停めて（とめて）。／車（くるま）を寄せて（よせて）。
+1343|Hop in.|乗っ（のっ）て。／早く（はやく）入り（はいり）な。
+1344|Going my way?|同じ（おなじ）方向（ほうこう）かな？／乗っ（のっ）ていく？
+1345|You can't miss it.|絶対（ぜったい）に。／完全に（かんぜんに）。
+1346|I'm stuck in traffic.|渋滞（じゅうたい）に巻き込ま（まきこま）れている。／道（みち）が混んで（こんで）いる。
+1347|I can't afford it.|完全に（かんぜんに）。／十分に（じゅうぶんに）。
+1348|Take it up with your boss.|上司（じょうし）に相談（そうだん）して。／ボスと話し（はなし）なさい。
+1349|Would you scoot a little?|少し（すこし）避け（よけ）てくれる？／詰め（つめ）てくれる？
+1350|I can hold my head high.|胸（むね）を張れる（はれる）。／誇り（ほこり）に思える（おもえる）。
+1351|That's all I need.|それだけあれば十分（じゅうぶん）だ。／もう結構（けっこう）だ。
+1352|I'm doing my hair.|髪（かみ）を整えて（ととのえて）いるんだ。／セットしてるの。
+1353|Can you break a hundred?|100ドル（どる）札（さつ）を崩して（くずして）くれる？／お釣り（おつり）ある？
+1354|What an imagination you have.|機嫌（きげん）よく。／楽し（たのし）げに。
+1355|We've grown apart.|疎遠（そえん）になった。／心（こころ）が離れ（はなれ）た。
+1356|I just feel drained.|はっきりと。／明白（めいはく）に。
+1357|Get a grip!|しっかりして！／落ち着い（おちつい）て！
+1358|Can I tag along?|つい（つい）ていってもいい？／一緒（いっしょ）に行ける（いける）？
+1359|It's a hassle.|面倒（めんどう）だ。／手間（てま）がかかる。
+1360|So far, so good.|今のところ順調（じゅんちょう）だよ。／問題（もんだい）ない。
+1361|You haven't changed a bit.|全然（ぜんぜん）変わら（かわら）ないね。／昔（むかし）のままだ。
+1362|I'm laying low.|公家（おおやけ）に。／人前（ひとまえ）で。
+1363|Rock on!|最高（さいこう）だね！／頑張（がんば）れ！
+1364|It's hard to keep up.|つい（つい）ていくのが大変（たいへん）だ。／取り残さ（とりのこさ）れそうだ。
+1365|That makes two of us.|私（わたし）もだよ。／同じ（おなじ）だね。
+1366|There, there.|よしよし。／泣か（なか）ないで。
+1367|It was all for nothing.|無駄（むだ）だった。／骨折り損（ほねおりぞん）のくたびれ儲け（もうけ）だ。
+1368|There wasn't time.|時間（じかん）がなかったんだ。／間に合わ（まにあわ）なかった。
+1369|I'm in a bind.|困って（こまって）いるんだ。／板挟み（いたばさみ）だ。
+1370|He's always on the go.|彼（かれ）はいつも忙しく（いそがしく）している。／休ま（やすま）ないね。
+1371|I smell a rat.|効果（こうか）的（てき）に。／有効（ゆうこう）に。
+1372|I could eat a horse.|効率（こうりつ）的（てき）に。／手際（てぎわ）よく。
+1373|You're all missing my point.|成功（せいこう）して。／順調（じゅんちょう）に。
+1374|Pardon my language.|言葉遣い（ことばづかい）が悪くて（わるくて）失礼（しつれい）。／口（くち）が滑っ（すべっ）た。
+1375|Let's just talk turkey.|強く（つよく）。／猛烈（もうれつ）に。
+1376|I'll come to the point.|断固（だんこ）として。／しっかりと。
+1377|It carries no weight.|何の（なんの）価値（かち）もない。／重要（じゅうよう）じゃない。
+1378|Put your feet up.|安全（あんぜん）に。／無事（ぶじ）に。
+1379|Drop the subject.|この話（はなし）はやめよう。／話題（わだい）を変え（かえ）て。
+1380|Everything's up in the air.|適切（てきせつ）に。／ちゃんと。
+1381|Thanks for walking me home.|送って（おくって）くれてありがとう。／家（いえ）まで感謝（かんしゃ）だよ。
+1382|Speak of the devil!|噂（うわさ）をすれば影（かげ）！／ちょうど噂（うわさ）していたところだよ。
+1383|Heads or tails!|表（おもて）か裏（うら）か！／コイントスで決め（きめ）よう。
+1384|Just kicking in.|効き（きき）始めて（はじめて）きた。／少し（すこし）ずつ。
+1385|Put yourself out there.|自分（じぶん）を出して（だして）いこう。／一歩（いっぽ）踏み出し（ふみだし）て。
+1386|You're all I've got.|頼（たよ）れるのは君（きみ）だけだ。／君（きみ）しかいないんだ。
+1387|That figures.|正直（しょうじき）に。／ありのままに。
+1388|What's there to think about?|考える（かんがえる）までもないでしょ。／当たり前（あたりまえ）だよ。
+1389|It's out of my hands.|真実（しんじつ）。／誠（まこと）に。
+1390|Old habits die hard.|三つ子（みつご）の魂（たましい）百（ひゃく）まで。／癖（くせ）はなかなか抜け（ぬけ）ない。
+1391|Is that what I think it is?|これ、思って（おもって）る通りの（とおりの）もの？／まさかあれか？
+1392|Just go with it.|流れ（ながれ）に任せ（まかせ）よう。／そのままいこう。
+1393|In one ear and out the other.|はっきりと。／明白（めいはく）に。
+1394|Like father, like son.|この親（おや）にしてこの子（こ）あり。／そっくりだね。
+1395|We're not done here.|まだ終わって（おわって）ないよ。／話（はなし）はこれからだ。
+1396|Here goes nothing.|ダメもとでやってみよう。／いちかばちかだ。
+1397|It's now or never.|今（いま）しかない。／今（いま）やらなきゃいつやる。
+1398|I didn't sleep a wink.|一睡（いっすい）もできなかった。／まんじりともしなかった。
+1399|I'm just having a bad day.|今日（きょう）はつい（つい）てないだけ。／今日（きょう）はダメな日（ひ）なんだ。
+1400|You can't be serious.|熱心（ねっしん）に。／やる気（き）満々（まんまん）で。
+1401|Get the picture?|熱心（ねっしん）に。／熱狂（ねっきょう）的に。
+1402|You look awful.|しきりに。／切望（せつぼう）して。
+1403|Don't fall for it.|進ん（すすん）で。／快（こころよ）く。
+1404|Gut feeling|直ちに（ただちに）。／すぐさま。
+1405|Just go with your gut|喜んで（よろこんで）。／快（こころよ）く。
+1406|Spot on|幸せ（しあわせ）に。／満足（まんぞく）そうに。
+1407|On the spot|喜ば（よろこば）しいことに。／嬉（うれ）しさ全開（ぜんかい）で。
+1408|Put someone on the spot|陽気（ようき）に。／楽し（たのし）く。
+1409|Homie|機嫌（きげん）よく。／楽し（たのし）げに。
+1410|Run some errands|用事（ようじ）を済ませる（すませる）。／あちこち回る（まわる）。
+1411|Hit the road|はっきりと。／明白（めいはく）に。
+1412|Have a blast|明白（めいはく）に。／ありのままに。
+1413|Cut it out|明らかに（あきらかに）。／当然（とうぜん）。
+1414|Have a good one|良い（よい）一日（いちにち）を。／じゃあね。
+1415|Beats me|さっぱりわからない。／お手上げ（おてあげ）だ。
+1416|My heart skipped a beat|ドキッとした。／心臓（しんぞう）が止まる（とまる）かと思った。
+1417|Is there a wait?|オープンに。／公家（おおやけ）に。
+1418|Bang for the buck|自由（じゆう）に。／思い（おもい）のままに。
+1419|Out loud|声（こえ）に出して（だして）。／はっきりと。
+1420|It hits the spot|気前（きまえ）よく。／たっぷり。
+1421|Hang loose|気楽（きらく）にいこう。／リラックスして。
+1422|You name it|何（なに）でも。／ありとあらゆるもの。
+1423|Every cloud has a silver lining|どんな不幸（ふこう）にも幸い（さいわい）はある。／やまない雨（あめ）はない。
+1424|I was spread too thin|手（て）を広げ（ひろげ）すぎた。／余裕（よゆう）がなかった。
+1425|I got your back|私（わたし）がついているよ。／任せて（まかせて）。
+1426|Without further ado|効果（こうか）的（てき）に。／有効（ゆうこう）に。
+1427|Hands down|効率（こうりつ）的（てき）に。／手際（てぎわ）よく。
+1428|A walk in the park|成功（せいこう）して。／順調（じゅんちょう）に。
+1429|Show up|現れる（あらわれる）。／顔（かお）を出す（だす）。
+1430|Odds and ends|強く（つよく）。／猛烈（もうれつ）に。
+1431|I'm losing it|断固（だんこ）として。／しっかりと。
+1432|stutter|吃る（どもる）。／言葉（ことば）に詰まる（つまる）。
+1433|cervical disc stenosis|安全（あんぜん）に。／無事（ぶじ）に。
+1434|Social butterfly|社交（しゃこう）的（てき）な人（ひと）。／顔（かお）が広い（ひろい）人。
+1435|Social network|適切（てきせつ）に。／ちゃんと。
+1436|Social skills|ふさわしく。／適切（てきせつ）に。
+1437|Social responsibility|社会（しゃかい）的（てき）責任（せきにん）。／社会的使命（しめい）。
+1438|Societal norms|社会（しゃかい）的（てき）規範（きはん）。／世間（せけん）の常識（じょうしき）。
+1439|Go the extra mile|もう一（ひと）踏ん張り（ふんばり）する。／期待（きたい）以上（いじょう）のことをする。
+1440|Get the ball rolling|口火（くちび）を切る（きる）。／物事（ものごと）を始める（はじめる）。
+1441|Give it a shot|試し（ためし）にやってみる。／挑戦（ちょうせん）する。
+1442|Go out of one's way|正直（しょうじき）に。／ありのままに。
+1443|Get off the ground|軌道（きどう）に乗る（のる）。／本格（ほんかく）的（てき）に始まる（はじまる）。
+1444|For the sake of|真実（しんじつ）。／誠（まこと）に。
+1445|For the time being|当分（とうぶん）の間（あいだ）。／差し当たり（さしあたり）。
+1446|For a change|趣（おもむき）を変えて（かえて）。／気分（きぶん）転換（てんかん）に。
+1447|From time to time|時々（ときどき）。／たまに。
+1448|Through thick and thin|はっきりと。／明白（めいはく）に。
+1449|Force of nature|圧倒（あっとう）的（てき）な迫力（はくりょく）。／自然（しぜん）の力（ちから）。
+1450|Force of will|意志（いし）の力（ちから）。／強い（つよい）信念（しんねん）。
+1451|Force of personality|カリスマ性（せい）。／人柄（ひとがら）の強さ（つよさ）。
+1452|Force of impact|衝撃（しょうげき）の強さ（つよさ）。／影響（えいきょう）力（りょく）。
+1453|My allergies are acting up.|アレルギーが出て（でて）るんだ。／鼻（はな）がむずむずする。
+1454|Get off my back|放っておいて（ほうっておいて）。／干渉（かんしょう）しないで。
+1455|Lets pick up where we left off|熱心（ねっしん）に。／やる気（き）満々（まんまん）で。
+1456|I just bumped my elbow on the doorframe|ドアの枠（わく）に肘（ひじ）をぶつけちゃった。／痛（いた）い！
+1457|You have grit|君（きみ）には根性（こんじょう）があるね。／気骨（きこつ）がある。
+1458|You have guts|根性（こんじょう）があるね。／度胸（どきょう）がある。
+1459|Im a foodie|グルメなんだ。／食べる（たべる）のが大好き（だいすき）。
+1460|Its the last straw|これが最後（さいご）の決定（けってい）打（だ）だ。／もう我慢（がまん）できない。
+1461|Wanna catch a movie later?|強力（きょうりょく）に。／力強く（ちからづよく）。
+1462|It seems a bit likely|ありそうかな。／たぶんね。
+1463|It seemed a bit exaggerated|ちょっと誇張（こちょう）されてるみたいだ。／大げさ（おおげさ）だ。
+1464|Wish washy|優柔不断（ゆうじゅうふだん）。／はっきりしない。
+1465|Keep a lid on it|秘密（ひみつ）にしておいて。／伏せて（ふせて）おいて。
+1466|I'm not the type to regret things|後悔（こうかい）するタイプじゃないんだ。／過去（かこ）は振り返ら（ふりかえら）ない。
+1467|I am at a loss for words|言葉（ことば）が見つかり（みつかり）ません。／感極（かんきわ）まって話せない。
+1468|Is something bothering you?|広く（ひろく）。／広範囲（こうはんい）に。
+1469|It's nothing. Don't worry about it.|大まかに（おおまかに）。／幅広（はばひろ）く。
+1470|I'd rather die than suffer|苦しむ（くるしむ）くらいなら死ん（しん）だほうがましだ。／そんなの嫌（いや）だ。
+1471|Nerve racking|世界（せかい）的（てき）に。／地球（ちきゅう）規模（きぼ）で。
+1472|Butter up|国内（こくない）で。／家庭（かてい）内（ない）で。
+1473|Brown nose|地元（じもと）で。／その土地（とち）で。
+1474|Bumped into:|ばったり会っ（あっ）た：／偶然（ぐうぜん）遭遇（そうぐう）した。
+1475|Bumped against:|ぶつかった：／接触（せっしょく）した。
+1476|I bumped my toes on the doorframe|内部（ないぶ）で。／心（こころ）の中（なか）で。
+1477|Pushover|外部（がいぶ）で。／外見（がいけん）上（じょう）。
+1478|Are you spoken for?|精神（せいしん）的に（てきに）。／神聖（しんせい）に。
+1479|He is pretty camera shy|精神（せいしん）的に（てきに）。／頭（あたま）の中（なか）で。
+1480|Pull down to refresh|身体（しんたい）的に（てきに）。／肉体（にくたい）的（てき）に。
+1481|Not a word|心理（しんり）的に（てきに）。／精神（せいしん）状態（じょうたい）として。
+1482|Say less|感情（かんじょう）的（てき）に。／心情（しんじょう）として。
+1483|Don't sass me|社会（しゃかい）的に（てきに）。／付き合い（つきあい）で。

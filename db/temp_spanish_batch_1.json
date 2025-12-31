@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "p": "He was three years above me",
+    "m": "그 사람 내 3년 선배였어"
+  },
+  {
+    "id": 2,
+    "p": "She was three years below me",
+    "m": "걔 내 3년 후배였어"
+  },
+  {
+    "id": 3,
+    "p": "Way off",
+    "m": "완전 헛다리 짚었어 / 한참 멀었어"
+  },
+  {
+    "id": 4,
+    "p": "Save my seat",
+    "m": "내 자리 좀 맡아줘 / 찜해줘"
+  },
+  {
+    "id": 5,
+    "p": "Pasture raised egg",
+    "m": "방사 유정란 / 풀어 키운 닭이 낳은 알"
+  },
+  {
+    "id": 6,
+    "p": "I have a gut feeling",
+    "m": "딱 촉이 와 / 왠지 그럴 것 같아"
+  },
+  {
+    "id": 7,
+    "p": "Busybody",
+    "m": "오지랖 넓은 사람 / 참견쟁이"
+  },
+  {
+    "id": 8,
+    "p": "Don't get me started on her boyfriend",
+    "m": "걔 남친 얘기는 꺼내지도 마 / 말도 마라"
+  },
+  {
+    "id": 9,
+    "p": "It can't be helped",
+    "m": "어쩔 수 없지 뭐"
+  },
+  {
+    "id": 10,
+    "p": "Out of necessity:",
+    "m": "어쩔 수 없이 / 필요해서"
+  },
+  {
+    "id": 11,
+    "p": "No other choice:",
+    "m": "다른 방법이 없어 / 선택의 여지가 없어"
+  },
+  {
+    "id": 12,
+    "p": "Since you bring it up",
+    "m": "네가 말을 꺼내서 하는 얘긴데 / 말이 나온 김에"
+  },
+  {
+    "id": 13,
+    "p": "I'm just going through motion.",
+    "m": "그냥 대충 하는 거야 / 영혼 없이 하는 중이야"
+  },
+  {
+    "id": 14,
+    "p": "I'm not the type to regret things easily",
+    "m": "나 원래 쉽게 후회 안 해"
+  },
+  {
+    "id": 15,
+    "p": "conveyor belt sushi",
+    "m": "회전초밥"
+  },
+  {
+    "id": 16,
+    "p": "Cilantro",
+    "m": "고수"
+  },
+  {
+    "id": 17,
+    "p": "Out of blue",
+    "m": "뜬금없이 / 갑자기"
+  },
+  {
+    "id": 18,
+    "p": "I'll get out of your hair.",
+    "m": "이제귀찮게 안 할게 / 방해 안 하고 갈게"
+  },
+  {
+    "id": 19,
+    "p": "Give a big round of applause to ~",
+    "m": "~에게 큰 박수 부탁드립니다"
+  },
+  {
+    "id": 20,
+    "p": "I have something to discuss",
+    "m": "할 말이 좀 있어 / 상의할 게 있어"
+  },
+  {
+    "id": 21,
+    "p": "Who are you to say that",
+    "m": "네가 뭔데 그런 말을 해"
+  },
+  {
+    "id": 22,
+    "p": "Let's clear up any misunderstandings before we go",
+    "m": "가기 전에 오해는 풀고 가자"
+  },
+  {
+    "id": 23,
+    "p": "I'm just saying",
+    "m": "그냥 하는 말이야 / 내 말은 그렇다는 거지"
+  },
+  {
+    "id": 24,
+    "p": "I'm very moody",
+    "m": "나 기분파야 / 감정 기복이 심해"
+  },
+  {
+    "id": 25,
+    "p": "Acting up.",
+    "m": "말썽이네 / 또 시작이네"
+  },
+  {
+    "id": 26,
+    "p": "That's really inconvenient",
+    "m": "진짜 불편하네 / 번거롭네"
+  },
+  {
+    "id": 27,
+    "p": "Live life to the fullest",
+    "m": "인생 즐기면서 살아 / 후회 없이 살아"
+  },
+  {
+    "id": 28,
+    "p": "In a food a coma",
+    "m": "식곤증 / 배불러서 기절 직전"
+  },
+  {
+    "id": 29,
+    "p": "Sounds like a plan.",
+    "m": "좋았어, 그렇게 하자 / 완벽해"
+  },
+  {
+    "id": 30,
+    "p": "This is not a knee-jerk reaction.",
+    "m": "욱해서 그러는 거 아냐 / 충동적인 거 아냐"
+  },
+  {
+    "id": 31,
+    "p": "Its not going through the motions",
+    "m": "그냥 대충 하는 거 아냐 / 진심이야"
+  },
+  {
+    "id": 32,
+    "p": "I mean business",
+    "m": "농담 아니야 (진지해)"
+  },
+  {
+    "id": 33,
+    "p": "Are you up for the dinner?",
+    "m": "저녁 같이 먹을래? / 저녁 콜?"
+  },
+  {
+    "id": 34,
+    "p": "I wish I could.",
+    "m": "나도 그러고 싶은데 (못 해) / 맘은 굴뚝같은데"
+  },
+  {
+    "id": 35,
+    "p": "Significant others",
+    "m": "배우자 / 연인 / 짝꿍"
+  },
+  {
+    "id": 36,
+    "p": "Sure thing",
+    "m": "당연하지 / 물론이지"
+  },
+  {
+    "id": 37,
+    "p": "I got you",
+    "m": "내가 처리할게 / 알겠어"
+  },
+  {
+    "id": 38,
+    "p": "Here you are",
+    "m": "여기 있어 / 자 여기"
+  },
+  {
+    "id": 39,
+    "p": "Applaud",
+    "m": "박수 치다 / 칭찬하다"
+  },
+  {
+    "id": 40,
+    "p": "Read my lips",
+    "m": "내 말 똑똑히 들어 / 잘 들어"
+  },
+  {
+    "id": 41,
+    "p": "Im and young at heart",
+    "m": "마음만은 청춘이야"
+  },
+  {
+    "id": 42,
+    "p": "Go south",
+    "m": "상황이 악화되다"
+  },
+  {
+    "id": 43,
+    "p": "Cat got your tongue?",
+    "m": "꿀 먹은 벙어리야? / 왜 말이 없어?"
+  },
+  {
+    "id": 44,
+    "p": "I cant shake yhe feeling",
+    "m": "이 찜찜한 기분을 지울 수가 없어"
+  },
+  {
+    "id": 45,
+    "p": "I highly recommend it",
+    "m": "완전 강추야"
+  },
+  {
+    "id": 46,
+    "p": "Put your cell phone on silent",
+    "m": "폰 진동으로 해놔 / 무음으로 해"
+  },
+  {
+    "id": 47,
+    "p": "The buck stop here",
+    "m": "모든 책임은 내가 져 / 내 선에서 끝내"
+  },
+  {
+    "id": 48,
+    "p": "My book is solid",
+    "m": "내 예약 꽉 찼어 (문맥상 예약)"
+  },
+  {
+    "id": 49,
+    "p": "My schedule is solid today",
+    "m": "오늘 스케줄 풀이야 / 꽉 찼어"
+  },
+  {
+    "id": 50,
+    "p": "I was booked solid",
+    "m": "예약이 꽉 찼었어 / 풀북이었어"
+  },
+  {
+    "id": 51,
+    "p": "neighborhood friend",
+    "m": "동네 친구"
+  },
+  {
+    "id": 52,
+    "p": "I'm young at heart",
+    "m": "난 마음만은 젊어"
+  },
+  {
+    "id": 53,
+    "p": "Fire away",
+    "m": "말해봐 / 질문해봐"
+  },
+  {
+    "id": 54,
+    "p": "Even a monkey can fall from a tree",
+    "m": "원숭이도 나무에서 떨어질 때가 있지"
+  },
+  {
+    "id": 55,
+    "p": "Pound a pavement, legwork",
+    "m": "발로 뛰다 / 발품 팔다"
+  },
+  {
+    "id": 56,
+    "p": "Now what?",
+    "m": "이제 어쩔 거야? / 다음은 뭔데?"
+  },
+  {
+    "id": 57,
+    "p": "Where am i from? This is our land",
+    "m": "내가 어디서 왔냐고? 여긴 우리 땅이야"
+  },
+  {
+    "id": 58,
+    "p": "This is bananas",
+    "m": "이거 완전 미쳤네 / 대박이네"
+  },
+  {
+    "id": 59,
+    "p": "Outrageous",
+    "m": "말도 안 돼 / 터무니없네"
+  },
+  {
+    "id": 60,
+    "p": "I will give you that",
+    "m": "그건 인정할게 / 그건 그렇네"
+  },
+  {
+    "id": 61,
+    "p": "I got carried away with works",
+    "m": "일하느라 정신이 팔렸어 / 일에 너무 몰입했어"
+  },
+  {
+    "id": 62,
+    "p": "I could use some coffee",
+    "m": "커피 좀 마셨으면 좋겠다 / 커피 땡겨"
+  },
+  {
+    "id": 63,
+    "p": "My brain is fried",
+    "m": "머리가 안 돌아가 / 녹초가 됐어"
+  },
+  {
+    "id": 64,
+    "p": "Why bother?",
+    "m": "굳이 왜 그래? / 뭐 하러 그래?"
+  },
+  {
+    "id": 65,
+    "p": "Unwind",
+    "m": "긴장 풀다 / 좀 쉬다"
+  },
+  {
+    "id": 66,
+    "p": "Guess what?",
+    "m": "있잖아 / 그거 알아?"
+  },
+  {
+    "id": 67,
+    "p": "Beforehand",
+    "m": "미리 / 사전에"
+  },
+  {
+    "id": 68,
+    "p": "Come across too strong",
+    "m": "너무 세게 나오다 / 부담스럽게 굴다"
+  },
+  {
+    "id": 69,
+    "p": "Blown away",
+    "m": "완전 감동받았어 / 뿅 갔어"
+  },
+  {
+    "id": 70,
+    "p": "I have been a pain lately",
+    "m": "내가 요즘 좀 진상이었지 / 골치 아프게 굴었지"
+  },
+  {
+    "id": 71,
+    "p": "Go through",
+    "m": "겪다 / 통과하다 / 뒤지다"
+  },
+  {
+    "id": 72,
+    "p": "It goes without saying",
+    "m": "말할 필요도 없지 / 두말하면 잔소리지"
+  },
+  {
+    "id": 73,
+    "p": "I like the fact that",
+    "m": "~라는 점이 맘에 들어"
+  },
+  {
+    "id": 74,
+    "p": "No matter what",
+    "m": "무슨 일이 있어도"
+  },
+  {
+    "id": 75,
+    "p": "Given my experience",
+    "m": "내 경험상 / 내가 겪어본 바로는"
+  },
+  {
+    "id": 76,
+    "p": "Eat my word",
+    "m": "했던 말 취소할게 / 식언하다"
+  },
+  {
+    "id": 77,
+    "p": "Live up to my expectation",
+    "m": "내 기대에 부응하다 / 기대만큼 하다"
+  },
+  {
+    "id": 78,
+    "p": "Moreish",
+    "m": "자꾸 땡기네 / 계속 손이 가네"
+  },
+  {
+    "id": 79,
+    "p": "I never stood a chance",
+    "m": "애초에 가망이 없었어 / 상대가 안 됐어"
+  },
+  {
+    "id": 80,
+    "p": "I guess i should have seen it coming",
+    "m": "이럴 줄 알았어야 했는데 / 예상했어야 했는데"
+  },
+  {
+    "id": 81,
+    "p": "How are you feeling today?",
+    "m": "오늘 컨디션 어때? / 기분 어때?"
+  },
+  {
+    "id": 82,
+    "p": "Tick off at",
+    "m": "~에게 화나다 / 빡치다"
+  },
+  {
+    "id": 83,
+    "p": "Vet",
+    "m": "수의사 / 베테랑"
+  },
+  {
+    "id": 84,
+    "p": "What's the catch?",
+    "m": "속셈이 뭐야?"
+  },
+  {
+    "id": 85,
+    "p": "You don't need to get me anything",
+    "m": "선물 안 사와도 돼 / 빈손으로 와"
+  },
+  {
+    "id": 86,
+    "p": "I'm currently getting treatment for my shoulder",
+    "m": "나 요즘 어깨 치료받고 있어"
+  },
+  {
+    "id": 87,
+    "p": "Crown of the head",
+    "m": "정수리"
+  },
+  {
+    "id": 88,
+    "p": "Im so torn",
+    "m": "나 완전 결정장애 왔어 / 너무 고민돼"
+  },
+  {
+    "id": 89,
+    "p": "In limbo",
+    "m": "어정쩡한 상태야 / 붕 떴어"
+  },
+  {
+    "id": 90,
+    "p": "He is legit",
+    "m": "걔 진짜야 / 찐이야"
+  },
+  {
+    "id": 91,
+    "p": "He is a catch",
+    "m": "걔 진국이야 / 놓치기 아까운 사람이야"
+  },
+  {
+    "id": 92,
+    "p": "Don't get bent out of shape",
+    "m": "너무 삐치지 마 / 흥분하지 마"
+  },
+  {
+    "id": 93,
+    "p": "I don't regret that much",
+    "m": "별로 후회 안 해"
+  },
+  {
+    "id": 94,
+    "p": "midlife crisis",
+    "m": "40~50대에 겪는 인생에 대한 혼란과 권태, 삶을 다시 돌아보는 시기"
+  },
+  {
+    "id": 95,
+    "p": "Don't be so dramatic",
+    "m": "오바하지 마 / 드라마 찍지 마"
+  },
+  {
+    "id": 96,
+    "p": "Don't cry me a river",
+    "m": "징징대지 마 / 엄살 피우지 마"
+  },
+  {
+    "id": 97,
+    "p": "I am at loss for words",
+    "m": "말문이 막히네 / 할 말을 잃었어"
+  },
+  {
+    "id": 98,
+    "p": "Did you catch on that?",
+    "m": "그거 눈치챘어? / 알아들었어?"
+  },
+  {
+    "id": 99,
+    "p": "Social cues",
+    "m": "눈치 / 사회적 신호"
+  },
+  {
+    "id": 100,
+    "p": "Did you pick upon that?",
+    "m": "그거 알아챘어? / 눈치챘어?"
+  },
+  {
+    "id": 101,
+    "p": "Did you hear Mark's new job offer?",
+    "m": "마크 이직 제안 받은 거 들었어?"
+  },
+  {
+    "id": 102,
+    "p": "Benefits package",
+    "m": "복지 혜택 / 연봉 패키지"
+  },
+  {
+    "id": 103,
+    "p": "hard to say",
+    "m": "뭐라 딱 잘라 말하기 애매해"
+  },
+  {
+    "id": 104,
+    "p": "If you are in my shoes",
+    "m": "네가 내 입장이라면"
+  },
+  {
+    "id": 105,
+    "p": "This must come first",
+    "m": "이게 우선이야"
+  },
+  {
+    "id": 106,
+    "p": "Does it ring a bell?",
+    "m": "기억나? / 들어본 거 같지 않아?"
+  },
+  {
+    "id": 107,
+    "p": "It is long overdue",
+    "m": "진작 했어야 했어 / 한참 늦었지"
+  },
+  {
+    "id": 108,
+    "p": "Heyday",
+    "m": "전성기 / 리즈 시절"
+  },
+  {
+    "id": 109,
+    "p": "No apologies necessary",
+    "m": "사과 안 해도 돼 / 괜찮아"
+  },
+  {
+    "id": 110,
+    "p": "Grow up",
+    "m": "철 좀 들어라 / 애냐?"
+  },
+  {
+    "id": 111,
+    "p": "He is usually on top of responses",
+    "m": "걔 답장 칼이야 / 연락 잘 돼"
+  },
+  {
+    "id": 112,
+    "p": "Benefit of doubts",
+    "m": "속는 셈 치고 믿어주기 / 일단 믿어줌"
+  },
+  {
+    "id": 113,
+    "p": "Take your mind off",
+    "m": "신경 꺼 / 잊어버려"
+  },
+  {
+    "id": 114,
+    "p": "Put yourself into my shoe",
+    "m": "내 입장 돼봐 / 역지사지 해봐"
+  },
+  {
+    "id": 115,
+    "p": "Keep a low profile",
+    "m": "존버해 / 눈에 띄지 말고 조용히 있어"
+  },
+  {
+    "id": 116,
+    "p": "You should focus on what you should do",
+    "m": "네가 해야 할 일에 집중해"
+  },
+  {
+    "id": 117,
+    "p": "Been there, done that",
+    "m": "나도 다 겪어봤어 / 내가 선배야"
+  },
+  {
+    "id": 118,
+    "p": "For the craic",
+    "m": "그냥 재미로 / 웃자고"
+  },
+  {
+    "id": 119,
+    "p": "Thingamajig",
+    "m": "거시기 / 뭐더라 그 뭐지"
+  },
+  {
+    "id": 120,
+    "p": "Walk me through",
+    "m": "차근차근 설명해줘 / 하나하나 알려줘"
+  },
+  {
+    "id": 121,
+    "p": "Turn over",
+    "m": "매출 / 이직률 / 뒤집다"
+  },
+  {
+    "id": 122,
+    "p": "Keep at it",
+    "m": "꾸준히 해 / 계속 밀고 나가"
+  },
+  {
+    "id": 123,
+    "p": "I got my hair done",
+    "m": "나 머리 했어"
+  },
+  {
+    "id": 124,
+    "p": "Its been a minute",
+    "m": "오랜만이다 / 이게 얼마 만이야"
+  },
+  {
+    "id": 125,
+    "p": "Its been ages",
+    "m": "진짜 백만 년 만이다 / 너무 오랜만이야"
+  },
+  {
+    "id": 126,
+    "p": "Let someone down",
+    "m": "~를 실망시키다"
+  },
+  {
+    "id": 127,
+    "p": "you skipped too much, don't forget I am going to punish you if you ignore what I said",
+    "m": "너 너무 많이 건너뛰었어, 내 말 무시하면 혼날 줄 알아"
+  },
+  {
+    "id": 128,
+    "p": "Set this position to \"&&&now&&&&\"",
+    "m": "이 위치를 지금으로 설정"
+  },
+  {
+    "id": 129,
+    "p": "Sort out",
+    "m": "정리하다 / 해결하다"
+  },
+  {
+    "id": 130,
+    "p": "Take my mind off things",
+    "m": "잡생각 좀 없애다 / 머리 좀 식히다"
+  },
+  {
+    "id": 131,
+    "p": "You went over my head",
+    "m": "내 머리 꼭대기에 있네 / 이해가 안 돼"
+  },
+  {
+    "id": 132,
+    "p": "Over my head",
+    "m": "내 능력 밖이야 / 무슨 말인지 모르겠어"
+  },
+  {
+    "id": 133,
+    "p": "Tied or even",
+    "m": "쌤쌤이야 / 비겼어"
+  },
+  {
+    "id": 134,
+    "p": "Even Steven",
+    "m": "딱 떨어지네 / 계산 끝"
+  },
+  {
+    "id": 135,
+    "p": "Lay it on me",
+    "m": "말해봐 / 털어놔 봐"
+  },
+  {
+    "id": 136,
+    "p": "Ring me up",
+    "m": "계산해 주세요 / 결제해 줘"
+  },
+  {
+    "id": 137,
+    "p": "Out of our league",
+    "m": "우리에겐 과분해 / 급이 달라"
+  },
+  {
+    "id": 138,
+    "p": "I have mental breakdown",
+    "m": "나 멘붕 왔어 / 정신줄 놓겠네"
+  },
+  {
+    "id": 139,
+    "p": "Procrastinate",
+    "m": "미루다 / 늑장 부리다"
+  },
+  {
+    "id": 140,
+    "p": "Its been on mind",
+    "m": "계속 신경 쓰였어 / 마음에 걸렸어"
+  },
+  {
+    "id": 141,
+    "p": "Weigh the pros and cons",
+    "m": "장단점 따져보다 / 계산기 두드려보다"
+  },
+  {
+    "id": 142,
+    "p": "Get things back on track",
+    "m": "다시 정상 궤도에 올리다 / 수습하다"
+  },
+  {
+    "id": 143,
+    "p": "What's eating you",
+    "m": "무슨 일 있어? / 왜 그렇게 꽁해 있어?"
+  },
+  {
+    "id": 144,
+    "p": "Give her a big hand",
+    "m": "큰 박수 부탁해"
+  },
+  {
+    "id": 145,
+    "p": "How’s it going?",
+    "m": "요즘 어때? 잘 지내? (가벼운 인사)"
+  },
+  {
+    "id": 146,
+    "p": "I’m down for that",
+    "m": "나 완전 콜이야. 좋아."
+  },
+  {
+    "id": 147,
+    "p": "I can’t make it",
+    "m": "아쉽지만 나 못 가. 일이 생겼어."
+  },
+  {
+    "id": 148,
+    "p": "Blessing in disguise",
+    "m": "전화위복"
+  },
+  {
+    "id": 149,
+    "p": "I’ll take a rain check",
+    "m": "다음에 하자. 이번엔 패스할게."
+  },
+  {
+    "id": 150,
+    "p": "It’s up to you",
+    "m": "네 맘대로 해. 네가 골라."
+  },
+  {
+    "id": 151,
+    "p": "When is boarding?",
+    "m": "탑승 언제 시작해요?"
+  },
+  {
+    "id": 152,
+    "p": "Is the flight on time?",
+    "m": "비행기 제시간에 뜨나요? (지연 없나요?)"
+  },
+  {
+    "id": 153,
+    "p": "Can I get a window seat?",
+    "m": "창가 자리로 주실 수 있나요?"
+  },
+  {
+    "id": 154,
+    "p": "How long is the flight?",
+    "m": "비행 시간 얼마나 걸려요?"
+  },
+  {
+    "id": 155,
+    "p": "Where is the nearest restroom?",
+    "m": "가장 가까운 화장실 어디에요?"
+  },
+  {
+    "id": 156,
+    "p": "I'm waiting to board",
+    "m": "비행기 탑승 기다리고 있어."
+  },
+  {
+    "id": 157,
+    "p": "What did you do last weekend?",
+    "m": "지난 주말에 뭐 했어?"
+  },
+  {
+    "id": 158,
+    "p": "Charge it to my room",
+    "m": "내 방으로 달아줘."
+  },
+  {
+    "id": 159,
+    "p": "On the fence",
+    "m": "망설이는 / 생각이 바뀔 것 같은"
+  },
+  {
+    "id": 160,
+    "p": "Put it on my card",
+    "m": "카드로 계산해줘."
+  },
+  {
+    "id": 161,
+    "p": "Put it on my room",
+    "m": "룸 차지로 해줘."
+  },
+  {
+    "id": 162,
+    "p": "Roomy",
+    "m": "널찍하네. 공간이 넓어."
+  },
+  {
+    "id": 163,
+    "p": "You have great taste",
+    "m": "너 안목 있다. 센스 쩌네."
+  },
+  {
+    "id": 164,
+    "p": "Impeccable",
+    "m": "완벽해. 흠잡을 데 없어."
+  },
+  {
+    "id": 165,
+    "p": "May I be excused?",
+    "m": "잠깐 실례해도 될까? (자리 비울 때)"
+  },
+  {
+    "id": 166,
+    "p": "In the clouds",
+    "m": "멍 때리고 있어. 딴생각 중이야."
+  },
+  {
+    "id": 167,
+    "p": "Dodge a bullet",
+    "m": "큰일 날 뻔했어. 십년감수했네."
+  },
+  {
+    "id": 168,
+    "p": "Cramming",
+    "m": "벼락치기."
+  },
+  {
+    "id": 169,
+    "p": "Way to go",
+    "m": "잘했어! 바로 그거야."
+  },
+  {
+    "id": 170,
+    "p": "Get wasted",
+    "m": "엄청 취하다"
+  },
+  {
+    "id": 171,
+    "p": "Dibs",
+    "m": "찜! 내가 찜했어."
+  },
+  {
+    "id": 172,
+    "p": "I'll sit in the front",
+    "m": "앞자리는 내 거야."
+  },
+  {
+    "id": 173,
+    "p": "Shotgun",
+    "m": "조수석 찜!"
+  },
+  {
+    "id": 174,
+    "p": "Hit the jackpot",
+    "m": "대박 터졌다. 잭팟이야."
+  },
+  {
+    "id": 175,
+    "p": "My eyes were bigger than my stomach",
+    "m": "욕심부려서 너무 많이 시켰네."
+  },
+  {
+    "id": 176,
+    "p": "I have too much on my plate",
+    "m": "할 일이 태산이야. 너무 바빠."
+  },
+  {
+    "id": 177,
+    "p": "Let's hit it",
+    "m": "가자! 출발하자!"
+  },
+  {
+    "id": 178,
+    "p": "Let's dish",
+    "m": "수다 좀 떨자. 썰 좀 풀어봐."
+  },
+  {
+    "id": 179,
+    "p": "Throw someone under the bus",
+    "m": "남한테 덤탱이 씌우다. 배신하다."
+  },
+  {
+    "id": 180,
+    "p": "Under my belt",
+    "m": "경험이 있다. (이미) 해본 적 있어."
+  },
+  {
+    "id": 181,
+    "p": "Stop being nosy",
+    "m": "참견 마 / 네 일이나 신경 써"
+  },
+  {
+    "id": 182,
+    "p": "I could listen to this all day",
+    "m": "하루 종일 들어도 안 질려."
+  },
+  {
+    "id": 183,
+    "p": "Hear me out",
+    "m": "내 말 좀 끝까지 들어봐."
+  },
+  {
+    "id": 184,
+    "p": "Super yummy",
+    "m": "진짜 존맛탱. 완전 맛있어."
+  },
+  {
+    "id": 185,
+    "p": "No one",
+    "m": "아무도 없지."
+  },
+  {
+    "id": 186,
+    "p": "Just out of curiosity",
+    "m": "그냥 궁금해서 그러는데~"
+  },
+  {
+    "id": 187,
+    "p": "Here it is",
+    "m": "여기 있네! (찾았을 때)"
+  },
+  {
+    "id": 188,
+    "p": "It's worth every bite",
+    "m": "진짜 맛있다. 돈이 안 아까워."
+  },
+  {
+    "id": 189,
+    "p": "It's worth every cent",
+    "m": "돈값 하네. 전혀 안 아까워."
+  },
+  {
+    "id": 190,
+    "p": "Knockoff",
+    "m": "짝퉁. 가짜."
+  },
+  {
+    "id": 191,
+    "p": "Get a load of this",
+    "m": "이거 좀 봐라? (비꼬거나 놀라울 때)"
+  },
+  {
+    "id": 192,
+    "p": "Cut the crap",
+    "m": "헛소리 집어치워 / 장난 그만해"
+  },
+  {
+    "id": 193,
+    "p": "Deal-breaker",
+    "m": "그건 좀 아니지. 정 떨어지는 포인트."
+  },
+  {
+    "id": 194,
+    "p": "It's down to you",
+    "m": "너한테 달렸어."
+  },
+  {
+    "id": 195,
+    "p": "I'm game",
+    "m": "난 콜! 좋아."
+  },
+  {
+    "id": 196,
+    "p": "I taught myself",
+    "m": "독학했어."
+  },
+  {
+    "id": 197,
+    "p": "Whatever it takes",
+    "m": "무슨 수를 써서라도."
+  },
+  {
+    "id": 198,
+    "p": "I've been tanning all week",
+    "m": "일주일 내내 태닝한 거야."
+  },
+  {
+    "id": 199,
+    "p": "Couch potato",
+    "m": "집순이/집돌이. 소파와 한 몸."
+  },
+  {
+    "id": 200,
+    "p": "Don't let it get to you",
+    "m": "마음에 담아두지 마. 신경 쓰지 마."
+  }
+]
