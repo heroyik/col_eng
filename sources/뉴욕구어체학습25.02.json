@@ -1764,39 +1764,75 @@
   },
   {
     "primary": "Good for you!",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "잘됐다! (진심으로 축하할 때)",
+    "similar": [
+      "Happy for you.",
+      "Nice move.",
+      "Good job.",
+      "Well done.",
+      "Congrats."
+    ],
+    "example": "A: I finally finished my marathon training.\nB: Good for you, deadass! That's a huge accomplishment.\nA: No cap, I'm feeling so much stronger now.\nB: For real, you worked hard for it. Levels, man.\nA: Preciate the support, for real.\nB: You already know."
   },
   {
     "primary": "Lucky you.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "운 좋네. (부러움을 나타낼 때)",
+    "similar": [
+      "Must be nice.",
+      "Lucked out.",
+      "Favored.",
+      "Fortunate.",
+      "Winner."
+    ],
+    "example": "A: My boss gave me next week off with full pay.\nB: Lucky you, deadass! I'm still tryna get one day off.\nA: No cap? Your job is trippin'.\nB: For real, I might need to start looking elsewhere.\nA: Lowkey worth it if they don't value your time.\nB: Facts."
   },
   {
     "primary": "Good to know.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "좋은 정보네. (참고할게)",
+    "similar": [
+      "Thanks for the heads up.",
+      "Noted.",
+      "Useful info.",
+      "I'll keep that in mind.",
+      "Word."
+    ],
+    "example": "A: The L train isn't running tonight after 10.\nB: Good to know, deadass. I was about to take it home.\nA: Facts, better take the G or a bus instead.\nB: For real, preciate the lookout, no cap.\nA: Any time, stay safe.\nB: Word."
   },
   {
     "primary": "Thanks anyway.",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "어쨌든 고마워. (도움은 못 받았어도 예의상)",
+    "similar": [
+      "Preciate it still.",
+      "Thanks regardless.",
+      "All good.",
+      "No worries.",
+      "Thanks for trying."
+    ],
+    "example": "A: Sorry, I couldn't find those extra monitor cables.\nB: Thanks anyway, deadass. I'll just order some online.\nA: No cap, I checked everywhere in the back.\nB: For real, it's all good. Don't even trip.\nA: Say less, catch you later.\nB: Bet."
   },
   {
     "primary": "What do you mean?",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "무슨 뜻이야? (설명을 요구할 때)",
+    "similar": [
+      "Explain.",
+      "What you sayin'?",
+      "I don't follow.",
+      "Break it down.",
+      "Come again?"
+    ],
+    "example": "A: The project is lowkey trippin' right now.\nB: What do you mean? I thought we were ahead of schedule.\nA: Deadass, the client just changed the whole scope.\nB: For real? That's straight garbage, no cap.\nA: Facts, we gotta jump on a call and fix it.\nB: Word, I'm ready."
   },
   {
     "primary": "What are you talking about?",
-    "meaning": "",
-    "similar": [],
-    "example": ""
+    "meaning": "무슨 소리 하는 거야? (황당하거나 이해 안 갈 때)",
+    "similar": [
+      "No sense.",
+      "You trippin'.",
+      "What's that mean?",
+      "Speak clearly.",
+      "I'm lost."
+    ],
+    "example": "A: I heard we're moving the office to New Jersey.\nB: What are you talking about? No way, deadass.\nA: Facts, the intern's uncle's cousin said so.\nB: For real? That intern is always trippin', no cap.\nA: I hope so, Jersey is too far.\nB: Word."
   },
   {
     "primary": "Don't get me wrong.",
