@@ -9,7 +9,6 @@ A premium, high-performance web application designed to search and discover auth
 - **Premium NYC Slang**: Adherence to current, trendy NYC colloquialisms (e.g., "deadass", "no cap", "facts", "trippin'", "brick", "vertical drink").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
-- **Enter Key Trigger**: Immediate search results update on hitting "Enter" for a faster user experience.
 - **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results).
 - **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue and maximizing content visibility.
 - **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
