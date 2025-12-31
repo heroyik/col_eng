@@ -5,46 +5,39 @@ A premium, high-performance web application designed to search and discover auth
 ## ✨ Features
 
 - **Expression of the Day**: A premium, daily-changing expression featured prominently on the home screen to encourage unparalleled discovery.
-- **NYC-Style Content**: A rich database of 850+ expressions, including the newly added `뉴욕구어체학습2025` dataset, each enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example.
-- **Premium NYC Slang**: Adherence to current, trendy NYC colloquialisms (e.g., "deadass", "no cap", "facts", "trippin'", "brick", "vertical drink").
+- **Vast Database**: A rich database of **1,479+ expressions**, curated for real-world utility and high-frequency usage in NYC and professional settings.
+- **NYC-Style Content**: Each expression is enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example, reflecting current trends (e.g., "deadass", "no cap", "facts", "brick").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
-- **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file (e.g., `20251231_COL_ENG_213.json`), containing only essential fields.
+- **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file, containing only essential fields.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
-- **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results).
-- **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue and maximizing content visibility.
+- **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue.
 - **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
 - **Smart Deduplication & Curation**: The database is algorithmically curated to maintain zero duplicates and high-quality learning content.
-- **Wildcard Search**: Type `*` in the search box to view all expressions currently stored in the database.
-- **Cross-Browser Styling**: Safari-ready glassmorphism effects using `-webkit-backdrop-filter`.
-- **Improved Readability**: Enhanced text contrast, distinct example blocks, and refined typography (Outfit & Playfair Display).
+- **Standardized Data Schema**: Every document is mapped with a consistent `expression_XXXX` ID and an internal `id` field for superior administration.
 
 ## 📊 Datasets
 
 The application utilizes several specialized datasets for a comprehensive learning experience:
 
-- **NYC Colloquial 2025**: 213 high-frequency NYC expressions, recently enriched with trendy slang, meanings, and realistic A/B dialogues.
+- **Full Enriched Collection**: 1,479 high-frequency expressions, enriched with colloquial meanings and realistic A/B dialogues.
+- **NY Colloquial 2025**: Specialized dataset focusing on the latest NYC and SNS-driven slang.
 - **OPIC AL Prep**: Expressions specifically curated for achieving Advanced Low level in English proficiency tests.
-- **Legacy Collection**: 600+ generalized colloquialisms for broad vocabulary building.
 
 ## 🛠️ Technology Stack
 
 - **Frontend**: Vanilla HTML5, CSS3 (Custom Design System with -webkit prefixes for glassmorphism)
 - **Logic**: JavaScript (ES6+ Modules)
 - **Backend/Database**: Firebase Firestore
-- **Hosting**: Firebase Hosting
+- **Hosting**: Firebase Hosting / Netlify
 
 ## 🔍 Search Logic & UI Architecture
 
 To provide a superior user experience with standard Firestore (which has limited partial search capabilities), this app uses a refined client-side filtering strategy:
 
 1. **Initial Load**: All expressions are fetched from the `EnglishExpressions` collection on page load.
-2. **Multi-Field Filtering**: The search query is matched against the following fields (case-insensitive):
-    - `primary`: The title/main expression.
-    - `meaning`: The definition or Korean translation.
-    - `similar`: An array of synonyms or related phrases.
-    - `example`: The usage example or conversation snippet.
-3. **Persistent State**: The UI separates the results grid from status messages. This prevents search logic from breaking when results are cleared or updated repeatedly.
-4. **Trigger**: Search updates live as you type (300ms debounce) or instantly when you press **Enter**.
+2. **Multi-Field Filtering**: The search query is matched against `primary`, `meaning`, `similar`, and `example` fields (case-insensitive).
+3. **Trigger**: Search updates live as you type (300ms debounce) or instantly when you press **Enter**.
+4. **Wildcard Search**: Type `*` in the search box to view all expressions currently stored in the database.
 
 ## 🚀 Getting Started
 
@@ -52,49 +45,26 @@ To provide a superior user experience with standard Firestore (which has limited
 
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
-- Documents should follow this schema:
-  - `primary` (string): The main English expression.
-  - `meaning` (string): The meaning or translation.
-  - `similar` (array): A list of synonyms.
-  - `example` (string): A usage example.
 
-### Installation
+### Schema Requirements
+- `id` (number): Standardized incrementing ID.
+- `primary` (string): The main English expression.
+- `meaning` (string): The meaning or translation.
+- `similar` (array): A list of synonyms.
+- `example` (string): A usage example.
 
-1. Clone the repository:
+## 🛡️ Data Integrity & Administration
 
-   ```bash
-   git clone https://github.com/heroyik/col_eng.git
-   cd col_eng
-   ```
+This project employs a suite of custom Node.js scripts for professional database management:
 
-2. Configure Firebase:
-   Update the `firebaseConfig` object in `app.js` with your project's credentials.
-
-3. Run locally:
-   You can use any static server. For example:
-
-   ```bash
-   npx serve .
-   ```
-
-## 📸 Screenshots
-
-![Initial View](https://raw.githubusercontent.com/heroyik/col_eng/master/previews/app_initial_view.png)
-*Modern glassmorphism search interface.*
+- **[export_expressions.js](file:///c:/Users/heroy/COL_ENG/sources/export_expressions.js)**: Optimized Firestore export using `.select()` for high-speed, selective field backups.
+- **[reinitialize_and_upload.js](file:///c:/Users/heroy/COL_ENG/sources/reinitialize_and_upload.js)**: Automated collection reinitialization with standardized document ID mapping (`expression_XXXX`).
+- **Batch Upload**: REST API-based uploader for efficient handling of large datasets within quota limits.
+- **Smart Deduplication**: Custom algorithm to detect and remove near-match duplicates using Levenshtein distance analysis.
 
 ## 📄 License
 
 MIT License - feel free to use and modify for your own projects!
-
-## 🛡️ Data Integrity & Management
-
-This project employs a suite of custom Node.js scripts to ensure a clean, high-quality database:
-
-- **Batch Upload**: REST API-based uploader for efficient handling of large datasets (500+ records).
-- **Automated Renaming**: Migrated legacy numeric IDs (e.g., `680`) to a standardized `expression_ID` format.
-- **Smart Deduplication**: Custom algorithm to detect and remove near-match duplicates using Levenshtein distance analysis.
-- **Enrichment Pipeline**: Automated enrichment process to add synonyms and dialogue examples to raw text inputs.
-- **JSON Backup/Export**: Client-side data serialization logic for instant local backups of the enriched expression database, strictly filtered to `primary`, `meaning`, `similar`, and `example` fields.
 
 ## 📧 Contact & Maintenance
 
