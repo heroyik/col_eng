@@ -261,7 +261,7 @@ function renderEmptyState() {
       displayDate = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, "0")}/${String(now.getDate()).padStart(2, "0")}`;
     }
 
-    statsDisplay.textContent = `As of ${displayDate}, ${expressions.length} expressions are available`;
+    statsDisplay.textContent = `${expressions.length} expressions as of ${displayDate}`;
     statsDisplay.classList.remove("hidden");
 
     console.log("Rendering Empty State. Daily Expression:", dailyExpression);
