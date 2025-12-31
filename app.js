@@ -362,7 +362,7 @@ function downloadCacheData() {
 
   const now = new Date();
   const dateStringForFile = `${now.getFullYear()}${String(now.getMonth() + 1).padStart(2, "0")}${String(now.getDate()).padStart(2, "0")}`;
-  const filename = `COL_ENG_${dateStringForFile}.json`;
+  const filename = `${dateStringForFile}_COL_ENG_${expressions.length}.json`;
 
   // Map to only include requested fields: primary, meaning, similar, example
   const exportData = expressions.map(({ primary, meaning, similar, example }) => ({
