@@ -5,17 +5,26 @@ A premium, high-performance web application designed to search and discover auth
 ## ✨ Features
 
 - **Expression of the Day**: A premium, daily-changing expression featured prominently on the home screen to encourage unparalleled discovery.
-- **NYC-Style Content**: A rich database of 850+ expressions, each enriched with 5 modern, context-aware synonyms and a 6-line realistic dialogue example.
+- **NYC-Style Content**: A rich database of 850+ expressions, including the newly added `뉴욕구어체학습2025` dataset, each enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example.
+- **Premium NYC Slang**: Adherence to current, trendy NYC colloquialisms (e.g., "deadass", "no cap", "facts", "trippin'", "brick", "vertical drink").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
 - **Enter Key Trigger**: Immediate search results update on hitting "Enter" for a faster user experience.
 - **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results).
 - **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue and maximizing content visibility.
 - **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
-- **Smart Deduplication**: The database is algorithmically curated to maintain zero duplicates for a clean learning experience.
+- **Smart Deduplication & Curation**: The database is algorithmically curated to maintain zero duplicates and high-quality learning content.
 - **Wildcard Search**: Type `*` in the search box to view all expressions currently stored in the database.
 - **Cross-Browser Styling**: Safari-ready glassmorphism effects using `-webkit-backdrop-filter`.
 - **Improved Readability**: Enhanced text contrast, distinct example blocks, and refined typography (Outfit & Playfair Display).
+
+## 📊 Datasets
+
+The application utilizes several specialized datasets for a comprehensive learning experience:
+
+- **NYC Colloquial 2025**: 213 high-frequency NYC expressions, recently enriched with trendy slang, meanings, and realistic A/B dialogues.
+- **OPIC AL Prep**: Expressions specifically curated for achieving Advanced Low level in English proficiency tests.
+- **Legacy Collection**: 600+ generalized colloquialisms for broad vocabulary building.
 
 ## 🛠️ Technology Stack
 
