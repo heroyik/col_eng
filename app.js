@@ -261,8 +261,21 @@ function renderEmptyState() {
       displayDate = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, "0")}/${String(now.getDate()).padStart(2, "0")}`;
     }
 
-    statsDisplay.textContent = `${expressions.length} expressions as of ${displayDate}`;
+    const downloadLink = document.createElement("a");
+    downloadLink.href = "#";
+    downloadLink.className = "stats-link";
+    downloadLink.id = "downloadDataBtn";
+    downloadLink.textContent = `${expressions.length} expressions as of ${displayDate}`;
+    
+    statsDisplay.innerHTML = "";
+    statsDisplay.appendChild(downloadLink);
     statsDisplay.classList.remove("hidden");
+
+    // Add click listener for download
+    downloadLink.addEventListener("click", (e) => {
+      e.preventDefault();
+      downloadCacheData();
+    });
 
     console.log("Rendering Empty State. Daily Expression:", dailyExpression);
 
@@ -343,6 +356,32 @@ searchInput.addEventListener("keydown", (e) => {
     performSearch(searchTerm);
   }
 });
+
+// Download Functionality
+function downloadCacheData() {
+  if (!expressions || expressions.length === 0) {
+    console.warn("No data available for download.");
+    return;
+  }
+
+  const now = new Date();
+  const dateStringForFile = `${now.getFullYear()}${String(now.getMonth() + 1).padStart(2, "0")}${String(now.getDate()).padStart(2, "0")}`;
+  const filename = `COL_ENG_${dateStringForFile}.json`;
+
+  const blob = new Blob([JSON.stringify(expressions, null, 2)], {
+    type: "application/json",
+  });
+  const url = URL.createObjectURL(blob);
+
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a); // Append to body for Safari support
+  a.click();
+  document.body.removeChild(a);
+
+  setTimeout(() => URL.revokeObjectURL(url), 100);
+}
 
 // Initial Fetch
 fetchAllExpressions();
