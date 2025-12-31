@@ -1,0 +1,3324 @@
+[
+  {
+    "primary": "Is this place open today?",
+    "meaning": "가장 기본적인 표현",
+    "similar": [
+      "Are you guys open today?",
+      "Are you open right now?",
+      "Y’all open today?",
+      "Are you doing business today?",
+      "You open today?",
+      "You guys open or nah?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "Are you guys open today?",
+    "meaning": "더 자연스럽고 친근한 느낌",
+    "similar": [
+      "Is this place open today?",
+      "Are you open right now?",
+      "Y’all open today?",
+      "Are you doing business today?",
+      "You open today?",
+      "You guys open or nah?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "Are you open right now?",
+    "meaning": "지금 영업 중인지 확인할 때",
+    "similar": [
+      "Is this place open today?",
+      "Are you guys open today?",
+      "Y’all open today?",
+      "Are you doing business today?",
+      "You open today?",
+      "You guys open or nah?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "Y’all open today?",
+    "meaning": "미국 남부나 친근한 느낌 (뉴욕에서도 일부 사용)",
+    "similar": [
+      "Is this place open today?",
+      "Are you guys open today?",
+      "Are you open right now?",
+      "Are you doing business today?",
+      "You open today?",
+      "You guys open or nah?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "Are you doing business today?",
+    "meaning": "덜 자주 쓰이지만 가능",
+    "similar": [
+      "Is this place open today?",
+      "Are you guys open today?",
+      "Are you open right now?",
+      "Y’all open today?",
+      "You open today?",
+      "You guys open or nah?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "You open today?",
+    "meaning": "\"Are\" 생략하고 더 편하게 말하기",
+    "similar": [
+      "Is this place open today?",
+      "Are you guys open today?",
+      "Are you open right now?",
+      "Y’all open today?",
+      "Are you doing business today?",
+      "You guys open or nah?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "You guys open or nah?",
+    "meaning": "젊은 층이나 SNS에서 쓰는 가벼운 톤",
+    "similar": [
+      "Is this place open today?",
+      "Are you guys open today?",
+      "Are you open right now?",
+      "Y’all open today?",
+      "Are you doing business today?",
+      "You open today?"
+    ],
+    "examples": [
+      "A: Hey, are you guys open today?",
+      "B: Yeah, we’re open till 8!",
+      "A: Sweet, I’ll stop by later."
+    ]
+  },
+  {
+    "primary": "Figures.",
+    "meaning": "가장 짧고 쿨한 반응 (예상했던 일이라는 뜻)",
+    "similar": [
+      "Called it.",
+      "Knew it.",
+      "Of course.",
+      "Sounds about right."
+    ],
+    "examples": [
+      "A: Dude, they raised the prices again.",
+      "B: Figures.",
+      "A: He showed up late again.",
+      "B: Called it.",
+      "A: Guess what? The train got delayed again.",
+      "B: Sounds about right.",
+      "A: She totally bailed on the plan.",
+      "B: Knew it."
+    ]
+  },
+  {
+    "primary": "Called it.",
+    "meaning": "\"내가 딱 그렇게 될 줄 알았지!\" (예측이 맞았을 때)",
+    "similar": [
+      "Figures.",
+      "Knew it.",
+      "Of course.",
+      "Sounds about right."
+    ],
+    "examples": [
+      "A: Dude, they raised the prices again.",
+      "B: Figures.",
+      "A: He showed up late again.",
+      "B: Called it.",
+      "A: Guess what? The train got delayed again.",
+      "B: Sounds about right.",
+      "A: She totally bailed on the plan.",
+      "B: Knew it."
+    ]
+  },
+  {
+    "primary": "Knew it.",
+    "meaning": "\"그럴 줄 알았어!\" (심플하고 강한 느낌)",
+    "similar": [
+      "Figures.",
+      "Called it.",
+      "Of course.",
+      "Sounds about right."
+    ],
+    "examples": [
+      "A: Dude, they raised the prices again.",
+      "B: Figures.",
+      "A: He showed up late again.",
+      "B: Called it.",
+      "A: Guess what? The train got delayed again.",
+      "B: Sounds about right.",
+      "A: She totally bailed on the plan.",
+      "B: Knew it."
+    ]
+  },
+  {
+    "primary": "Of course.",
+    "meaning": "\"당연하지, 뭐.\" (살짝 빈정거리는 뉘앙스 가능)",
+    "similar": [
+      "Figures.",
+      "Called it.",
+      "Knew it.",
+      "Sounds about right."
+    ],
+    "examples": [
+      "A: Dude, they raised the prices again.",
+      "B: Figures.",
+      "A: He showed up late again.",
+      "B: Called it.",
+      "A: Guess what? The train got delayed again.",
+      "B: Sounds about right.",
+      "A: She totally bailed on the plan.",
+      "B: Knew it."
+    ]
+  },
+  {
+    "primary": "Sounds about right.",
+    "meaning": "\"딱 예상한 대로네.\" (상황에 따라 살짝 비꼬는 느낌 가능)",
+    "similar": [
+      "Figures.",
+      "Called it.",
+      "Knew it.",
+      "Of course."
+    ],
+    "examples": [
+      "A: Dude, they raised the prices again.",
+      "B: Figures.",
+      "A: He showed up late again.",
+      "B: Called it.",
+      "A: Guess what? The train got delayed again.",
+      "B: Sounds about right.",
+      "A: She totally bailed on the plan.",
+      "B: Knew it."
+    ]
+  },
+  {
+    "primary": "Duh",
+    "meaning": "",
+    "similar": [
+      "Obviously.",
+      "No kidding.",
+      "Well, yeah.",
+      "What else is new?",
+      "Told you."
+    ],
+    "examples": [
+      "A: The Wi-Fi here sucks.",
+      "B: Duh. It’s a coffee shop, not an office.",
+      "A: He totally forgot my birthday.",
+      "B: No kidding. He forgets everything.",
+      "A: Ugh, the subway’s delayed again.",
+      "B: What else is new?",
+      "A: I told you this movie was gonna be bad.",
+      "B: Duh. It has a 20% on Rotten Tomatoes."
+    ]
+  },
+  {
+    "primary": "Going through a phase",
+    "meaning": "\"사춘기 겪는 중\" (특히 반항적인 행동을 할 때)",
+    "similar": [
+      "Teen angst",
+      "Moody teenager",
+      "Rebellious phase",
+      "Hormonal mess"
+    ],
+    "examples": [
+      "A: My little sister screamed at my mom for no reason.",
+      "B: She’s probably just going through a phase.",
+      "A: Ugh, my cousin is so annoying these days.",
+      "B: Teen angst. It’ll pass.",
+      "A: My brother slammed his door again.",
+      "B: Moody teenager vibes. Just ignore him.",
+      "A: She dyed her hair pink and skipped school.",
+      "B: Sounds like a rebellious phase to me.",
+      "A: He’s been crying over the dumbest things.",
+      "B: Hormonal mess. Been there."
+    ]
+  },
+  {
+    "primary": "Teen angst",
+    "meaning": "\"사춘기 특유의 불안과 반항\"",
+    "similar": [
+      "Going through a phase",
+      "Moody teenager",
+      "Rebellious phase",
+      "Hormonal mess"
+    ],
+    "examples": [
+      "A: My little sister screamed at my mom for no reason.",
+      "B: She’s probably just going through a phase.",
+      "A: Ugh, my cousin is so annoying these days.",
+      "B: Teen angst. It’ll pass.",
+      "A: My brother slammed his door again.",
+      "B: Moody teenager vibes. Just ignore him.",
+      "A: She dyed her hair pink and skipped school.",
+      "B: Sounds like a rebellious phase to me.",
+      "A: He’s been crying over the dumbest things.",
+      "B: Hormonal mess. Been there."
+    ]
+  },
+  {
+    "primary": "Moody teenager",
+    "meaning": "\"기분 변화 심한 사춘기 청소년\"",
+    "similar": [
+      "Going through a phase",
+      "Teen angst",
+      "Rebellious phase",
+      "Hormonal mess"
+    ],
+    "examples": [
+      "A: My little sister screamed at my mom for no reason.",
+      "B: She’s probably just going through a phase.",
+      "A: Ugh, my cousin is so annoying these days.",
+      "B: Teen angst. It’ll pass.",
+      "A: My brother slammed his door again.",
+      "B: Moody teenager vibes. Just ignore him.",
+      "A: She dyed her hair pink and skipped school.",
+      "B: Sounds like a rebellious phase to me.",
+      "A: He’s been crying over the dumbest things.",
+      "B: Hormonal mess. Been there."
+    ]
+  },
+  {
+    "primary": "Rebellious phase",
+    "meaning": "\"반항기\"",
+    "similar": [
+      "Going through a phase",
+      "Teen angst",
+      "Moody teenager",
+      "Hormonal mess"
+    ],
+    "examples": [
+      "A: My little sister screamed at my mom for no reason.",
+      "B: She’s probably just going through a phase.",
+      "A: Ugh, my cousin is so annoying these days.",
+      "B: Teen angst. It’ll pass.",
+      "A: My brother slammed his door again.",
+      "B: Moody teenager vibes. Just ignore him.",
+      "A: She dyed her hair pink and skipped school.",
+      "B: Sounds like a rebellious phase to me.",
+      "A: He’s been crying over the dumbest things.",
+      "B: Hormonal mess. Been there."
+    ]
+  },
+  {
+    "primary": "Hormonal mess",
+    "meaning": "\"호르몬 폭발로 감정 기복 심한 상태\"",
+    "similar": [
+      "Going through a phase",
+      "Teen angst",
+      "Moody teenager",
+      "Rebellious phase"
+    ],
+    "examples": [
+      "A: My little sister screamed at my mom for no reason.",
+      "B: She’s probably just going through a phase.",
+      "A: Ugh, my cousin is so annoying these days.",
+      "B: Teen angst. It’ll pass.",
+      "A: My brother slammed his door again.",
+      "B: Moody teenager vibes. Just ignore him.",
+      "A: She dyed her hair pink and skipped school.",
+      "B: Sounds like a rebellious phase to me.",
+      "A: He’s been crying over the dumbest things.",
+      "B: Hormonal mess. Been there."
+    ]
+  },
+  {
+    "primary": "Grow out of it",
+    "meaning": "\"시간 지나면 저절로 나아질 거야.\"",
+    "similar": [
+      "Move past it",
+      "Get over it",
+      "Outgrow it",
+      "Come around"
+    ],
+    "examples": [
+      "A: My little brother is always arguing with my parents these days.",
+      "B: He’ll grow out of it. It’s just a phase.",
+      "A: She used to be so rebellious, but she’s actually chill now.",
+      "B: Yeah, I guess she finally moved past it.",
+      "A: He gets so emotional over nothing.",
+      "B: He’ll outgrow it. Give it time.",
+      "A: My sister refused to talk to me for a week.",
+      "B: She’ll come around. Just let her be.",
+      "A: I used to be super angsty too.",
+      "B: Same, but we all get over it eventually."
+    ]
+  },
+  {
+    "primary": "Move past it",
+    "meaning": "\"그 시기를 지나가다, 극복하다.\"",
+    "similar": [
+      "Grow out of it",
+      "Get over it",
+      "Outgrow it",
+      "Come around"
+    ],
+    "examples": [
+      "A: My little brother is always arguing with my parents these days.",
+      "B: He’ll grow out of it. It’s just a phase.",
+      "A: She used to be so rebellious, but she’s actually chill now.",
+      "B: Yeah, I guess she finally moved past it.",
+      "A: He gets so emotional over nothing.",
+      "B: He’ll outgrow it. Give it time.",
+      "A: My sister refused to talk to me for a week.",
+      "B: She’ll come around. Just let her be.",
+      "A: I used to be super angsty too.",
+      "B: Same, but we all get over it eventually."
+    ]
+  },
+  {
+    "primary": "Get over it",
+    "meaning": "\"극복하다, 벗어나다.\"",
+    "similar": [
+      "Grow out of it",
+      "Move past it",
+      "Outgrow it",
+      "Come around"
+    ],
+    "examples": [
+      "A: My little brother is always arguing with my parents these days.",
+      "B: He’ll grow out of it. It’s just a phase.",
+      "A: She used to be so rebellious, but she’s actually chill now.",
+      "B: Yeah, I guess she finally moved past it.",
+      "A: He gets so emotional over nothing.",
+      "B: He’ll outgrow it. Give it time.",
+      "A: My sister refused to talk to me for a week.",
+      "B: She’ll come around. Just let her be.",
+      "A: I used to be super angsty too.",
+      "B: Same, but we all get over it eventually."
+    ]
+  },
+  {
+    "primary": "Outgrow it",
+    "meaning": "\"나이가 들면서 자연스럽게 벗어나다.\"",
+    "similar": [
+      "Grow out of it",
+      "Move past it",
+      "Get over it",
+      "Come around"
+    ],
+    "examples": [
+      "A: My little brother is always arguing with my parents these days.",
+      "B: He’ll grow out of it. It’s just a phase.",
+      "A: She used to be so rebellious, but she’s actually chill now.",
+      "B: Yeah, I guess she finally moved past it.",
+      "A: He gets so emotional over nothing.",
+      "B: He’ll outgrow it. Give it time.",
+      "A: My sister refused to talk to me for a week.",
+      "B: She’ll come around. Just let her be.",
+      "A: I used to be super angsty too.",
+      "B: Same, but we all get over it eventually."
+    ]
+  },
+  {
+    "primary": "Come around",
+    "meaning": "\"태도가 바뀌다, 마음을 열다.\"",
+    "similar": [
+      "Grow out of it",
+      "Move past it",
+      "Get over it",
+      "Outgrow it"
+    ],
+    "examples": [
+      "A: My little brother is always arguing with my parents these days.",
+      "B: He’ll grow out of it. It’s just a phase.",
+      "A: She used to be so rebellious, but she’s actually chill now.",
+      "B: Yeah, I guess she finally moved past it.",
+      "A: He gets so emotional over nothing.",
+      "B: He’ll outgrow it. Give it time.",
+      "A: My sister refused to talk to me for a week.",
+      "B: She’ll come around. Just let her be.",
+      "A: I used to be super angsty too.",
+      "B: Same, but we all get over it eventually."
+    ]
+  },
+  {
+    "primary": "Audience",
+    "meaning": "일반적인 공연, 연설, 쇼 등을 보는 사람들",
+    "similar": [
+      "Crowd",
+      "Fans",
+      "Spectators",
+      "Viewers"
+    ],
+    "examples": [
+      "A: How was the concert last night?",
+      "B: The crowd was insane! Everyone was jumping and screaming.",
+      "A: Did you see the game?",
+      "B: Yeah, the spectators were on fire!",
+      "A: Her speech was so powerful.",
+      "B: The audience was totally mesmerized.",
+      "A: That YouTube live got so many viewers!",
+      "B: Yeah, people couldn’t stop watching.",
+      "A: The fans went crazy when she walked on stage.",
+      "B: Of course, she’s a legend!"
+    ]
+  },
+  {
+    "primary": "Crowd",
+    "meaning": "콘서트, 스포츠 경기, 거리 공연 등에서의 \"관중\"",
+    "similar": [
+      "Audience",
+      "Fans",
+      "Spectators",
+      "Viewers"
+    ],
+    "examples": [
+      "A: How was the concert last night?",
+      "B: The crowd was insane! Everyone was jumping and screaming.",
+      "A: Did you see the game?",
+      "B: Yeah, the spectators were on fire!",
+      "A: Her speech was so powerful.",
+      "B: The audience was totally mesmerized.",
+      "A: That YouTube live got so many viewers!",
+      "B: Yeah, people couldn’t stop watching.",
+      "A: The fans went crazy when she walked on stage.",
+      "B: Of course, she’s a legend!"
+    ]
+  },
+  {
+    "primary": "Fans",
+    "meaning": "특정한 가수, 배우, 스포츠 팀을 보러 온 팬들",
+    "similar": [
+      "Audience",
+      "Crowd",
+      "Spectators",
+      "Viewers"
+    ],
+    "examples": [
+      "A: How was the concert last night?",
+      "B: The crowd was insane! Everyone was jumping and screaming.",
+      "A: Did you see the game?",
+      "B: Yeah, the spectators were on fire!",
+      "A: Her speech was so powerful.",
+      "B: The audience was totally mesmerized.",
+      "A: That YouTube live got so many viewers!",
+      "B: Yeah, people couldn’t stop watching.",
+      "A: The fans went crazy when she walked on stage.",
+      "B: Of course, she’s a legend!"
+    ]
+  },
+  {
+    "primary": "Spectators",
+    "meaning": "스포츠 경기나 이벤트에서 보는 사람들 (좀 더 공식적)",
+    "similar": [
+      "Audience",
+      "Crowd",
+      "Fans",
+      "Viewers"
+    ],
+    "examples": [
+      "A: How was the concert last night?",
+      "B: The crowd was insane! Everyone was jumping and screaming.",
+      "A: Did you see the game?",
+      "B: Yeah, the spectators were on fire!",
+      "A: Her speech was so powerful.",
+      "B: The audience was totally mesmerized.",
+      "A: That YouTube live got so many viewers!",
+      "B: Yeah, people couldn’t stop watching.",
+      "A: The fans went crazy when she walked on stage.",
+      "B: Of course, she’s a legend!"
+    ]
+  },
+  {
+    "primary": "Viewers",
+    "meaning": "TV나 온라인 방송을 보는 사람들",
+    "similar": [
+      "Audience",
+      "Crowd",
+      "Fans",
+      "Spectators"
+    ],
+    "examples": [
+      "A: How was the concert last night?",
+      "B: The crowd was insane! Everyone was jumping and screaming.",
+      "A: Did you see the game?",
+      "B: Yeah, the spectators were on fire!",
+      "A: Her speech was so powerful.",
+      "B: The audience was totally mesmerized.",
+      "A: That YouTube live got so many viewers!",
+      "B: Yeah, people couldn’t stop watching.",
+      "A: The fans went crazy when she walked on stage.",
+      "B: Of course, she’s a legend!"
+    ]
+  },
+  {
+    "primary": "Leech",
+    "meaning": "직역 그대로 \"거머리\", 남에게 빌붙는 사람",
+    "similar": [
+      "Freeloader",
+      "Clingy",
+      "Moocher",
+      "Energy vampire"
+    ],
+    "examples": [
+      "A: Ugh, he’s always borrowing money and never paying back.",
+      "B: Yeah, such a leech.",
+      "A: My roommate never buys groceries but eats all of mine.",
+      "B: Sounds like a classic moocher.",
+      "A: My girlfriend texts me every five minutes.",
+      "B: Dude, that’s way too clingy.",
+      "A: He’s always complaining and draining my energy.",
+      "B: Energy vampire vibes. Stay away."
+    ]
+  },
+  {
+    "primary": "Freeloader",
+    "meaning": "\"얻어먹기만 하는 사람\" (경제적으로 빌붙는 느낌)",
+    "similar": [
+      "Leech",
+      "Clingy",
+      "Moocher",
+      "Energy vampire"
+    ],
+    "examples": [
+      "A: Ugh, he’s always borrowing money and never paying back.",
+      "B: Yeah, such a leech.",
+      "A: My roommate never buys groceries but eats all of mine.",
+      "B: Sounds like a classic moocher.",
+      "A: My girlfriend texts me every five minutes.",
+      "B: Dude, that’s way too clingy.",
+      "A: He’s always complaining and draining my energy.",
+      "B: Energy vampire vibes. Stay away."
+    ]
+  },
+  {
+    "primary": "Clingy",
+    "meaning": "\"찐득하게 들러붙는 사람\" (연인이나 친구 관계에서)",
+    "similar": [
+      "Leech",
+      "Freeloader",
+      "Moocher",
+      "Energy vampire"
+    ],
+    "examples": [
+      "A: Ugh, he’s always borrowing money and never paying back.",
+      "B: Yeah, such a leech.",
+      "A: My roommate never buys groceries but eats all of mine.",
+      "B: Sounds like a classic moocher.",
+      "A: My girlfriend texts me every five minutes.",
+      "B: Dude, that’s way too clingy.",
+      "A: He’s always complaining and draining my energy.",
+      "B: Energy vampire vibes. Stay away."
+    ]
+  },
+  {
+    "primary": "Moocher",
+    "meaning": "\"맨날 남한테 얻어먹는 사람\"",
+    "similar": [
+      "Leech",
+      "Freeloader",
+      "Clingy",
+      "Energy vampire"
+    ],
+    "examples": [
+      "A: Ugh, he’s always borrowing money and never paying back.",
+      "B: Yeah, such a leech.",
+      "A: My roommate never buys groceries but eats all of mine.",
+      "B: Sounds like a classic moocher.",
+      "A: My girlfriend texts me every five minutes.",
+      "B: Dude, that’s way too clingy.",
+      "A: He’s always complaining and draining my energy.",
+      "B: Energy vampire vibes. Stay away."
+    ]
+  },
+  {
+    "primary": "Energy vampire",
+    "meaning": "\"에너지를 빨아먹는 사람\" (감정적으로 힘들게 하는 사람)",
+    "similar": [
+      "Leech",
+      "Freeloader",
+      "Clingy",
+      "Moocher"
+    ],
+    "examples": [
+      "A: Ugh, he’s always borrowing money and never paying back.",
+      "B: Yeah, such a leech.",
+      "A: My roommate never buys groceries but eats all of mine.",
+      "B: Sounds like a classic moocher.",
+      "A: My girlfriend texts me every five minutes.",
+      "B: Dude, that’s way too clingy.",
+      "A: He’s always complaining and draining my energy.",
+      "B: Energy vampire vibes. Stay away."
+    ]
+  },
+  {
+    "primary": "It’s freezing out!",
+    "meaning": "\"밖에 얼어 죽겠다!\"",
+    "similar": [
+      "It’s cold as hell!",
+      "It’s brick outside!",
+      "My ears are about to fall off!",
+      "I’m literally turning into an icicle."
+    ],
+    "examples": [
+      "A: Bro, why aren’t you wearing a hat?",
+      "B: I forgot, and now my ears are about to fall off!",
+      "A: Ugh, I hate winter. It’s freezing out!",
+      "B: Yeah, it’s brick outside. Let’s get inside.",
+      "A: Man, it’s cold as hell today!",
+      "B: No joke, I’m literally turning into an icicle."
+    ]
+  },
+  {
+    "primary": "It’s cold as hell!",
+    "meaning": "\"엄청나게 춥다!\" (강조하는 표현)",
+    "similar": [
+      "It’s freezing out!",
+      "It’s brick outside!",
+      "My ears are about to fall off!",
+      "I’m literally turning into an icicle."
+    ],
+    "examples": [
+      "A: Bro, why aren’t you wearing a hat?",
+      "B: I forgot, and now my ears are about to fall off!",
+      "A: Ugh, I hate winter. It’s freezing out!",
+      "B: Yeah, it’s brick outside. Let’s get inside.",
+      "A: Man, it’s cold as hell today!",
+      "B: No joke, I’m literally turning into an icicle."
+    ]
+  },
+  {
+    "primary": "It’s brick outside!",
+    "meaning": "뉴욕 슬랭으로 \"엄청 춥다!\"",
+    "similar": [
+      "It’s freezing out!",
+      "It’s cold as hell!",
+      "My ears are about to fall off!",
+      "I’m literally turning into an icicle."
+    ],
+    "examples": [
+      "A: Bro, why aren’t you wearing a hat?",
+      "B: I forgot, and now my ears are about to fall off!",
+      "A: Ugh, I hate winter. It’s freezing out!",
+      "B: Yeah, it’s brick outside. Let’s get inside.",
+      "A: Man, it’s cold as hell today!",
+      "B: No joke, I’m literally turning into an icicle."
+    ]
+  },
+  {
+    "primary": "My ears are about to fall off!",
+    "meaning": "\"귀 떨어질 것 같아!\"",
+    "similar": [
+      "It’s freezing out!",
+      "It’s cold as hell!",
+      "It’s brick outside!",
+      "I’m literally turning into an icicle."
+    ],
+    "examples": [
+      "A: Bro, why aren’t you wearing a hat?",
+      "B: I forgot, and now my ears are about to fall off!",
+      "A: Ugh, I hate winter. It’s freezing out!",
+      "B: Yeah, it’s brick outside. Let’s get inside.",
+      "A: Man, it’s cold as hell today!",
+      "B: No joke, I’m literally turning into an icicle."
+    ]
+  },
+  {
+    "primary": "I’m literally turning into an icicle.",
+    "meaning": "\"나 진짜 얼음 조각 될 것 같아.\"",
+    "similar": [
+      "It’s freezing out!",
+      "It’s cold as hell!",
+      "It’s brick outside!",
+      "My ears are about to fall off!"
+    ],
+    "examples": [
+      "A: Bro, why aren’t you wearing a hat?",
+      "B: I forgot, and now my ears are about to fall off!",
+      "A: Ugh, I hate winter. It’s freezing out!",
+      "B: Yeah, it’s brick outside. Let’s get inside.",
+      "A: Man, it’s cold as hell today!",
+      "B: No joke, I’m literally turning into an icicle."
+    ]
+  },
+  {
+    "primary": "Intriguing, fascinating",
+    "meaning": "",
+    "similar": [
+      "Intriguing",
+      "Fascinating",
+      "Hooked",
+      "Captivating",
+      "Spellbinding"
+    ],
+    "examples": [
+      "A: Did you watch that new sci-fi movie?",
+      "B: Yeah, the storyline was really intriguing. I couldn’t stop thinking about it!",
+      "A: I just finished that book you recommended.",
+      "B: Right? It’s fascinating, isn’t it?",
+      "A: The way he explains the universe is so cool.",
+      "B: I know! His lectures are totally mind-blowing.",
+      "A: I started a new drama, and I’m already hooked.",
+      "B: Same! The storyline is so captivating."
+    ]
+  },
+  {
+    "primary": "Thought provoking",
+    "meaning": "",
+    "similar": [
+      "Deep",
+      "Profound",
+      "Philosophical"
+    ],
+    "examples": [
+      "A: That speech really made me think about life.",
+      "B: Yeah, it was so thought-provoking.",
+      "A: The book you gave me changed the way I see the world.",
+      "B: I know, it’s really eye-opening.",
+      "A: That debate was actually really deep.",
+      "B: Yeah, some of the points were really profound.",
+      "A: I just watched this crazy documentary on society.",
+      "B: Was it mind-blowing or just thought-provoking?"
+    ]
+  },
+  {
+    "primary": "We go way back",
+    "meaning": "우린 정말 오래전부터 알고 지낸 사이야",
+    "similar": [
+      "We’ve known each other forever.",
+      "We’ve been through a lot together.",
+      "We’re childhood friends.",
+      "We’ve been tight since day one.",
+      "We’re like family.",
+      "We go way back."
+    ],
+    "examples": [
+      "A: How do you know Chris?",
+      "B: Oh, we go way back. We met in high school.",
+      "A: You and Emily seem really close.",
+      "B: Yeah, we’ve known each other forever.",
+      "A: You and Jake still hang out?",
+      "B: Of course! We’ve been tight since day one.",
+      "A: How long have you been friends with Mark?",
+      "B: Man, we go way back. We’ve been through a lot together."
+    ]
+  },
+  {
+    "primary": "It takes me back",
+    "meaning": "그때가 떠오르네",
+    "similar": [
+      "That brings back memories.",
+      "I feel so nostalgic.",
+      "That hits me right in the feels.",
+      "Major throwback.",
+      "It takes me back."
+    ],
+    "examples": [
+      "A: Wow, they’re playing our favorite childhood song!",
+      "B: Man, this takes me back!",
+      "A: Look at this picture of us from 10 years ago.",
+      "B: Whoa, that brings back memories.",
+      "A: I found our old high school yearbook.",
+      "B: Major throwback! Let me see!",
+      "A: Remember when we used to play this video game all night?",
+      "B: Yeah, that hits me right in the feels."
+    ]
+  },
+  {
+    "primary": "Fill out this form",
+    "meaning": "이 양식을 작성하세요",
+    "similar": [
+      "Can you fill this out?",
+      "Please complete this form.",
+      "Just sign this real quick.",
+      "I need you to fill this in.",
+      "Knock this form out for me."
+    ],
+    "examples": [
+      "A: Before we start, can you fill this out?",
+      "B: Sure, no problem.",
+      "A: Hey, I need you to fill this in before the appointment.",
+      "B: Alright, I’ll do it now.",
+      "A: Can you sign this real quick?",
+      "B: Yeah, just give me a sec.",
+      "A: We just need you to complete this form.",
+      "B: Got it, I’ll hand it back in a minute."
+    ]
+  },
+  {
+    "primary": "It doesn't ring a bell",
+    "meaning": "기억이 안 나",
+    "similar": [
+      "I don’t recall.",
+      "Doesn’t sound familiar.",
+      "Not ringing any bells.",
+      "I have no memory of that.",
+      "Drawing a blank.",
+      "It doesn’t ring a bell.",
+      "I’m drawing a blank."
+    ],
+    "examples": [
+      "A: Do you remember Sarah from college?",
+      "B: Hmm… doesn’t ring a bell.",
+      "A: You’ve seen this movie before, right?",
+      "B: I have no memory of that.",
+      "A: You met my friend Jake last year!",
+      "B: Sorry, not ringing any bells.",
+      "A: What was the name of that restaurant we went to?",
+      "B: Ugh, I’m totally drawing a blank."
+    ]
+  },
+  {
+    "primary": "He called off the project. That's music to my ears. I was already spread too thin",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: The boss decided to scrap the project.",
+      "B: Oh, that’s music to my ears! I was already juggling too much.",
+      "A: They pulled the plug on the expansion plan.",
+      "B: Thank God! I had way too much on my plate already."
+    ]
+  },
+  {
+    "primary": "I could use some coffee",
+    "meaning": "",
+    "similar": [
+      "I need a coffee fix.",
+      "I wouldn’t say no to a coffee.",
+      "I’m dying for a coffee.",
+      "I could really go for a coffee right now.",
+      "I need some caffeine in my system.",
+      "I could use some coffee.",
+      "I could really go for a coffee."
+    ],
+    "examples": [
+      "A: You look tired.",
+      "B: Yeah, I could use some coffee right now.",
+      "A: Want me to grab you a coffee?",
+      "B: Oh, I wouldn’t say no to that!",
+      "A: Dude, you okay?",
+      "B: No, I’m dying for a coffee.",
+      "A: Wanna stop by a café?",
+      "B: Yes! I could really go for a coffee right now."
+    ]
+  },
+  {
+    "primary": "You're on a roll",
+    "meaning": "You",
+    "similar": [
+      "You’re killing it!",
+      "You’re on fire!",
+      "Can’t stop, won’t stop!",
+      "You’re unstoppable.",
+      "You’re crushing it!",
+      "You’re on a roll."
+    ],
+    "examples": [
+      "A: You got another A on your test?",
+      "B: Yep!",
+      "A: Man, you’re on a roll!",
+      "A: You’ve won five games in a row.",
+      "B: I know, I’m on fire!",
+      "A: Another deal closed?",
+      "B: Yep, I’m killing it this month.",
+      "A: You’re crushing it at the gym, dude!",
+      "B: Can’t stop, won’t stop!"
+    ]
+  },
+  {
+    "primary": "The deal fell through",
+    "meaning": "It didn’t pan out",
+    "similar": [
+      "The deal didn’t go through.",
+      "It fell apart.",
+      "It didn’t pan out.",
+      "They backed out.",
+      "The whole thing went south.",
+      "The deal fell through."
+    ],
+    "examples": [
+      "A: How’s the merger going?",
+      "B: Ugh, the deal fell through.",
+      "A: I thought you were closing the deal today.",
+      "B: Yeah, but they backed out last minute.",
+      "A: Did you guys sign the contract?",
+      "B: No, it didn’t pan out.",
+      "A: What happened with that investment?",
+      "B: Man, the whole thing went south."
+    ]
+  },
+  {
+    "primary": "What's your guilty pleasure?",
+    "meaning": "",
+    "similar": [
+      "Stalking celebs on Instagram",
+      "Singing in the shower like a rockstar"
+    ],
+    "examples": [
+      "A: What’s your guilty pleasure?",
+      "B: Honestly? Watching cringey TikToks for hours.",
+      "A: Do you have any guilty pleasures?",
+      "B: Yeah… I still listen to early 2000s boy bands.",
+      "A: What’s something you love but don’t want to admit?",
+      "B: Ugh, I secretly love super cheesy rom-coms."
+    ]
+  },
+  {
+    "primary": "It's a my cheat day",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Are you really getting a double cheeseburger?",
+      "B: Yep! It’s my cheat day.",
+      "A: Bro, you just ate two donuts.",
+      "B: Calories don’t count today!",
+      "A: You’re getting dessert too?!",
+      "B: Treat yourself, man!",
+      "A: You usually eat super clean.",
+      "B: Yeah, but diet starts tomorrow."
+    ]
+  },
+  {
+    "primary": "For lack of a better word",
+    "meaning": "I guess you could say…",
+    "similar": [],
+    "examples": [
+      "A: What was the vibe at the party?",
+      "B: Uh… for lack of a better word, chaotic.",
+      "A: How would you describe your boss?",
+      "B: For lack of a better term, a total perfectionist.",
+      "A: What was the movie like?",
+      "B: It was, for lack of a better way to put it, a complete disaster.",
+      "A: Is he a good leader?",
+      "B: I mean, for lack of a better word, he’s… intense."
+    ]
+  },
+  {
+    "primary": "It is what it is",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: The company changed the policy again.",
+      "B: Ugh, it is what it is.",
+      "A: I got stuck in traffic for two hours.",
+      "B: Damn… that sucks, but it is what it is.",
+      "A: The restaurant ran out of our favorite dish.",
+      "B: Ah, well. That’s life.",
+      "A: My laptop just crashed before I could save my work.",
+      "B: What can you do?"
+    ]
+  },
+  {
+    "primary": "Right off the bat",
+    "meaning": "From the get-go",
+    "similar": [],
+    "examples": [
+      "A: How was the interview?",
+      "B: Right off the bat, they asked me a tough question.",
+      "A: Did you like him?",
+      "B: Yeah, right off the bat, we just clicked.",
+      "A: When did you know you wanted the job?",
+      "B: Honestly? From the get-go.",
+      "A: She rejected your offer?",
+      "B: Yeah, straight up. No hesitation."
+    ]
+  },
+  {
+    "primary": "From day one",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How long have you guys been close?",
+      "B: Oh, from day one. We just clicked.",
+      "A: Did you like your new job?",
+      "B: Nah, I knew from the get-go it wasn’t for me.",
+      "A: They’ve been arguing a lot lately.",
+      "B: Honestly, they’ve had issues since day one.",
+      "A: When did you know she was the one?",
+      "B: From the very beginning!"
+    ]
+  },
+  {
+    "primary": "Better safe than sorry",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Should I bring a jacket?",
+      "B: Yeah, better safe than sorry.",
+      "A: Do you really think we need travel insurance?",
+      "B: Of course! Can’t be too careful.",
+      "A: Should I print an extra copy of the report?",
+      "B: Yeah, just to be on the safe side.",
+      "A: I think I’ll double-check my answers.",
+      "B: Good idea. No harm in being cautious."
+    ]
+  },
+  {
+    "primary": "Better moving than not",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I don’t know if I should apply for this job…",
+      "B: Just go for it! Better to take action than do nothing.",
+      "A: I feel like my progress is too slow.",
+      "B: Slow progress is still progress. Keep it moving!",
+      "A: I don’t know if this idea will work…",
+      "B: You miss 100% of the shots you don’t take!",
+      "A: I’m afraid of making the wrong choice.",
+      "B: Hey, better to keep moving than stay stuck."
+    ]
+  },
+  {
+    "primary": "You can never be too careful",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Do I really need a jacket?",
+      "B: You can never be too careful. It might get cold later.",
+      "A: Should we bring extra water?",
+      "B: Yeah, just to be on the safe side.",
+      "A: Do you think I should back up my files?",
+      "B: Of course! Better safe than sorry.",
+      "A: Do we really need travel insurance?",
+      "B: I mean, you never know. It’s better to be safe."
+    ]
+  },
+  {
+    "primary": "Right up my alley",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Wanna go check out that new jazz bar?",
+      "B: Oh, that’s right up my alley!",
+      "A: This new fantasy novel just came out.",
+      "B: Ooh, that’s totally my thing!",
+      "A: They’re looking for someone who loves social media marketing.",
+      "B: That’s right in my wheelhouse!",
+      "A: This restaurant has a super cozy aesthetic.",
+      "B: 100% my vibe. Let’s go!"
+    ]
+  },
+  {
+    "primary": "This is for me",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: They’re giving out free coffee samples!",
+      "B: Oh, this is for me!",
+      "A: I found this cute little bookstore café.",
+      "B: OMG, that’s totally my thing!",
+      "A: This festival is all about indie music and chill vibes.",
+      "B: Ooh, this has my name written all over it!",
+      "A: Let’s book a beach vacation next month.",
+      "B: Yes! This is exactly what I need."
+    ]
+  },
+  {
+    "primary": "Good with people",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: We need someone who’s good with people for this role.",
+      "B: Oh, then Alex is perfect. He’s a total people person.",
+      "A: How does she make friends so easily?",
+      "B: She’s just a social butterfly.",
+      "A: I’m not the best at networking events…",
+      "B: It’s okay! You don’t have to be a natural with people. Just be yourself!",
+      "A: He’s always surrounded by people.",
+      "B: Yeah, he’s super charismatic."
+    ]
+  },
+  {
+    "primary": "Bless you",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: \"Bless you!\"",
+      "B: \"Thanks!\"",
+      "A: \"Bless you… again!\"",
+      "B: \"I know, my allergies are killing me.\"",
+      "A: \"You good?\"",
+      "B: \"Yeah, just a little dust.\"",
+      "A: \"Gesundheit!\"",
+      "B: \"Oh, thanks!\""
+    ]
+  },
+  {
+    "primary": "I have a hunch, gut feeling",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Do you think she likes him?",
+      "B: I have a hunch. She keeps looking at him.",
+      "A: Are you sure we should go this way?",
+      "B: I have a gut feeling this is the right path.",
+      "A: Do you think it’ll rain today?",
+      "B: Something tells me it will.",
+      "A: Are you sure this deal will go through?",
+      "B: I don’t know why, but I just know it.",
+      "A: Should we trust him?",
+      "B: My instincts are telling me no."
+    ]
+  },
+  {
+    "primary": "Just go with your gut\r\nWhat does your gut say?",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I don’t know which job offer to take…",
+      "B: Just go with your gut!",
+      "A: I feel like something’s off about him…",
+      "B: Trust your gut. If you feel weird, there’s probably a reason.",
+      "A: Should I take the risk or play it safe?",
+      "B: What does your gut say?",
+      "A: I can’t decide between these two options.",
+      "B: Go with your first instinct. Don’t overthink it."
+    ]
+  },
+  {
+    "primary": "Spot on, on the spot, put someone on the spot",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: What did you think of my presentation?",
+      "B: Spot on! You explained everything perfectly.",
+      "A: How did he react when you told him?",
+      "B: He was shocked. I told him on the spot.",
+      "A: The professor asked me a question I wasn’t prepared for.",
+      "B: Ugh, he totally put you on the spot!"
+    ]
+  },
+  {
+    "primary": "We go way back",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How do you know Chris?",
+      "B: Oh, we go way back. We met in high school.",
+      "A: You and Emily seem really close.",
+      "B: Yeah, we’ve known each other forever.",
+      "A: You and Jake still hang out?",
+      "B: Of course! We’ve been tight since day one.",
+      "A: How long have you been friends with Mark?",
+      "B: Man, we go way back. We’ve been through a lot together."
+    ]
+  },
+  {
+    "primary": "Homie",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Who’s that guy you were talking to?",
+      "B: Oh, that’s my homie from high school.",
+      "A: We’ve been friends for 10 years now.",
+      "B: For real? That’s a real homie right there!",
+      "A: I don’t know if I can trust him.",
+      "B: Nah, he’s good. He’s been my homie since day one.",
+      "A: Yo homie, what’s the move tonight?",
+      "B: Let’s hit up that new bar downtown!"
+    ]
+  },
+  {
+    "primary": "Run some errands\r\nHit the road\r\nGet it together\r\nKeep it together\r\nPut it together\r\nHave a blast\r\nCut it out",
+    "meaning": "",
+    "similar": [],
+    "examples": []
+  },
+  {
+    "primary": "You'd better be off",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: It’s already 11 PM!",
+      "B: Yeah, you’d better be off before it gets too late.",
+      "A: I have an early meeting tomorrow.",
+      "B: Then you should get going.",
+      "A: The party was fun, but I think it’s time to head out.",
+      "B: Yeah, let’s make a move.",
+      "A: The train leaves in 10 minutes!",
+      "B: We’d better get a move on!"
+    ]
+  },
+  {
+    "primary": "I had trouble sleeping",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: You look so tired.",
+      "B: Yeah, I had trouble sleeping last night.",
+      "A: Did you sleep well?",
+      "B: Not really, I was tossing and turning all night.",
+      "A: Why do you look so out of it?",
+      "B: I barely got any sleep.",
+      "A: Why are you drinking so much coffee?",
+      "B: I was up all night working on my project."
+    ]
+  },
+  {
+    "primary": "Have a good one",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Alright, I gotta go.",
+      "B: Cool, have a good one!",
+      "A: Thanks for your help today.",
+      "B: No problem! Have a great one!",
+      "A: I’ll see you tomorrow.",
+      "B: Alright, take it easy!",
+      "A: Heading home now?",
+      "B: Yeah, catch you later!"
+    ]
+  },
+  {
+    "primary": "I had a blast",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How was the trip?",
+      "B: It was amazing! I had a blast!",
+      "A: Did you enjoy the party?",
+      "B: Yeah, I had so much fun!",
+      "A: That concert was insane!",
+      "B: I know, I had the time of my life!",
+      "A: Thanks for coming today!",
+      "B: No problem! I had a great time!"
+    ]
+  },
+  {
+    "primary": "Beats me",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Do you know where Jake went?",
+      "B: Beats me! I haven’t seen him all day.",
+      "A: What’s the answer to this question?",
+      "B: No clue.",
+      "A: Why is the subway so delayed?",
+      "B: I have no idea.",
+      "A: When did they change the meeting time?",
+      "B: Search me! I wasn’t even told."
+    ]
+  },
+  {
+    "primary": "Dunno",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: When’s the deadline?",
+      "B: Dunno. You should ask the manager.",
+      "A: Are they dating?",
+      "B: Dunno, but they sure act like it.",
+      "A: Where’s Alex?",
+      "B: Beats me. Haven’t seen him all day.",
+      "A: Do we have a test tomorrow?",
+      "B: Not sure.",
+      "A: How long will this meeting take?",
+      "B: Who knows?"
+    ]
+  },
+  {
+    "primary": "My heart skipped a beat",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How did you feel when you almost missed your flight?",
+      "B: Man, my heart skipped a beat! I thought I was gonna miss it.",
+      "A: He finally asked you out?! How did you feel?",
+      "B: My heart skipped a beat! I couldn’t believe it.",
+      "A: I heard a weird noise outside my window last night.",
+      "B: Ugh, my heart would’ve skipped a beat too.",
+      "A: I saw my childhood crush today!",
+      "B: No way! Your heart totally skipped a beat, huh?"
+    ]
+  },
+  {
+    "primary": "Girls...",
+    "meaning": "",
+    "similar": [],
+    "examples": []
+  },
+  {
+    "primary": "Is there a wait?",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Hi, we’re a party of four. Is there a wait?",
+      "B: Yes, about 20 minutes.",
+      "A: How long is the wait right now?",
+      "B: About 30 minutes, but you can wait at the bar.",
+      "A: Do we need to wait, or is there an open table?",
+      "B: You’re in luck! We have one available now.",
+      "A: Is there a line for takeout orders?",
+      "B: Nope, you can order right away!"
+    ]
+  },
+  {
+    "primary": "It's on me",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Let’s split the bill.",
+      "B: Nah, it’s on me!",
+      "A: How much do I owe you?",
+      "B: Nothing! This one's on me.",
+      "A: You don’t have to pay for my coffee.",
+      "B: No worries, my treat!",
+      "A: Shoot, I forgot my wallet.",
+      "B: Don’t worry, I got you!"
+    ]
+  },
+  {
+    "primary": "Bang for the buck, solid deal",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: This hotel room is huge, and it’s only $80 a night!",
+      "B: Wow, that’s serious bang for the buck!",
+      "A: I got this smartwatch for half the price during the sale.",
+      "B: That’s a solid deal!",
+      "A: The lunch special here is only $10, and you get a full meal!",
+      "B: Sounds like a good bang for the buck!",
+      "A: I found a laptop for $300, brand new.",
+      "B: That’s a solid deal! You should get it."
+    ]
+  },
+  {
+    "primary": "It's warm for November",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Wow, it’s really warm today.",
+      "B: Yeah, it’s warm for November!",
+      "A: I thought it’d be colder by now.",
+      "B: Same! This is warmer than usual for November.",
+      "A: It’s still so nice outside.",
+      "B: Not bad for November, huh?",
+      "A: I wasn’t expecting this kind of weather in November.",
+      "B: Right? It’s unusually warm for this time of year."
+    ]
+  },
+  {
+    "primary": "Good for the price",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How’s that budget hotel?",
+      "B: It’s good for the price!",
+      "A: Is that $10 pizza any good?",
+      "B: Not bad for the price!",
+      "A: This speaker isn’t high-end, but it’s decent.",
+      "B: Yeah, pretty decent for the price.",
+      "A: $5 for a coffee?",
+      "B: It’s expensive, but at least it’s worth the money."
+    ]
+  },
+  {
+    "primary": "Out loud",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Can you say that out loud?",
+      "B: Sure! \"The answer is B!\"",
+      "A: You’re laughing. What’s funny?",
+      "B: Oh, I was just reading something funny out loud.",
+      "A: Did you just say something?",
+      "B: Oops, I was thinking out loud.",
+      "A: I can’t hear you.",
+      "B: Okay, I’ll speak up!"
+    ]
+  },
+  {
+    "primary": "I'm just thinking out loud",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Do you really think we should move to another city?",
+      "B: Oh no, I’m just thinking out loud.",
+      "A: Did you mean that seriously?",
+      "B: Nah, just throwing ideas out there.",
+      "A: Are you saying we should fire him?",
+      "B: Whoa, not saying that! Just thinking out loud.",
+      "A: Should we really spend that much money?",
+      "B: Don’t mind me, just thinking out loud."
+    ]
+  },
+  {
+    "primary": "entertain an idea",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Would you ever move to another country?",
+      "B: Hmm, I’ve never really entertained that idea before.",
+      "A: Should we try launching this new product?",
+      "B: It’s worth entertaining the idea. Let’s discuss it.",
+      "A: Are you seriously thinking about quitting your job?",
+      "B: I’m just entertaining the idea for now.",
+      "A: Would you ever consider a long-distance relationship?",
+      "B: I don’t know… but I’ll give it some thought."
+    ]
+  },
+  {
+    "primary": "Bang for your buck",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Is that budget phone any good?",
+      "B: Yeah, it’s a great bang for your buck!",
+      "A: $20 for all-you-can-eat sushi?",
+      "B: That’s the best bang for your buck!",
+      "A: Should I get these wireless earbuds?",
+      "B: Definitely. For this price, they’re totally worth every penny.",
+      "A: I got this jacket for 70% off.",
+      "B: No way! That’s a steal!"
+    ]
+  },
+  {
+    "primary": "It hits the spot",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How’s the iced coffee?",
+      "B: Mmm, it hits the spot!",
+      "A: Was that ramen good?",
+      "B: Oh yeah, it really hit the spot!",
+      "A: This milkshake is so refreshing.",
+      "B: Right? Just what I was craving!",
+      "A: That was a long day… I need a cold beer.",
+      "B: Same! That would be exactly what I need."
+    ]
+  },
+  {
+    "primary": "This build up is crazy",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Bro, this movie build-up is crazy!",
+      "B: I know, I can’t take this suspense!",
+      "A: The way this song builds up is insane.",
+      "B: Right? The drop is gonna be legendary!",
+      "A: This game is so close, the build-up is crazy!",
+      "B: Yeah, I’m on the edge of my seat!",
+      "A: I can feel the tension in this episode.",
+      "B: Same! The suspense is killing me!"
+    ]
+  },
+  {
+    "primary": "It's penny for your thought",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: You’ve been quiet for a while. A penny for your thoughts?",
+      "B: Oh, I was just thinking about my weekend plans.",
+      "A: You seem lost in thought.",
+      "B: Yeah, I’m trying to figure something out.",
+      "A: Why so quiet?",
+      "B: Just tired, nothing much.",
+      "A: Something on your mind? You look stressed.",
+      "B: Yeah, just work stuff."
+    ]
+  },
+  {
+    "primary": "Get worked up",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Ugh, my boss gave me extra work again!",
+      "B: I know it’s annoying, but don’t get worked up over it.",
+      "A: He totally freaked out when he saw the mistake.",
+      "B: Yeah, he gets worked up too easily.",
+      "A: She gets all riled up over the smallest things.",
+      "B: I know, she needs to chill.",
+      "A: I was just a few minutes late, and my mom totally lost it!",
+      "B: Whoa, sounds like she got worked up for no reason."
+    ]
+  },
+  {
+    "primary": "Oh great, it is what it is",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: The game got postponed due to the rain.",
+      "B: Oh great, it is what it is.",
+      "A: I failed my driving test again.",
+      "B: That sucks, but it is what it is. Just try again.",
+      "A: My boss just assigned me extra work at the last minute.",
+      "B: Ugh, nothing we can do about it.",
+      "A: The restaurant is full, so we have to wait an hour.",
+      "B: Oh well, that’s life."
+    ]
+  },
+  {
+    "primary": "What's the hurry?",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Hurry up! We need to leave now!",
+      "B: What’s the hurry? The train doesn’t leave for another 20 minutes.",
+      "A: Come on, let’s go!",
+      "B: Chill out, what’s the rush?",
+      "A: I need to finish this ASAP!",
+      "B: Relax, we still have plenty of time.",
+      "A: Walk faster!",
+      "B: Why are you in such a rush?"
+    ]
+  },
+  {
+    "primary": "What's the holdup?",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: We should have left 10 minutes ago. What’s the holdup?",
+      "B: Sorry! I couldn’t find my keys.",
+      "A: We’ve been in line forever.",
+      "B: Yeah, what’s taking so long?",
+      "A: Why aren’t we moving?",
+      "B: I don’t know, but what’s the holdup?",
+      "A: The food should be here by now.",
+      "B: Let me call and ask what’s the delay."
+    ]
+  },
+  {
+    "primary": "Hang loose",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I’m so stressed about this test.",
+      "B: Hang loose, man. You got this!",
+      "A: We’re running late!",
+      "B: Chill out, we’ll make it on time.",
+      "A: Should I plan everything in detail?",
+      "B: Nah, just go with the flow.",
+      "A: I don’t know what to do in this situation.",
+      "B: Keep it cool, you’ll figure it out."
+    ]
+  },
+  {
+    "primary": "You name it",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Do you have any vegan options?",
+      "B: Of course! Salads, smoothies, plant-based burgers—you name it!",
+      "A: I need some help moving this weekend.",
+      "B: Just say the word! I’ll be there.",
+      "A: I don’t know what I want to eat.",
+      "B: We have everything—burgers, pasta, sushi—you name it!",
+      "A: Can I get some advice on my project?",
+      "B: Whatever you need, you name it!"
+    ]
+  },
+  {
+    "primary": "You pull it off",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I didn’t think I could finish the project on time.",
+      "B: But you pulled it off! Great job!",
+      "A: Do you think I can wear this bright yellow jacket?",
+      "B: Of course! You can totally pull it off!",
+      "A: I was so nervous before my performance.",
+      "B: No worries, you nailed it!",
+      "A: That was a tough challenge.",
+      "B: Yeah, but you made it work!"
+    ]
+  },
+  {
+    "primary": "Thank you, you made my day",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I got you your favorite coffee.",
+      "B: Thank you! You totally made my day!",
+      "A: You did an amazing job on your project.",
+      "B: Wow, that compliment just made my day!",
+      "A: I found your lost wallet!",
+      "B: No way! You made my week!",
+      "A: I really appreciate your help.",
+      "B: No problem! Happy to brighten your day!"
+    ]
+  },
+  {
+    "primary": "Could be worse",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Ugh, traffic is bad today.",
+      "B: Yeah, but could be worse. At least we’re moving.",
+      "A: I only got a B on my test.",
+      "B: Hey, could be worse! At least you passed!",
+      "A: I lost my phone, but I found it an hour later.",
+      "B: Well, could’ve been worse! At least you got it back.",
+      "A: My flight got delayed.",
+      "B: That sucks, but at least it’s not canceled. Could be worse!"
+    ]
+  },
+  {
+    "primary": "Hit me with it",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I have something important to tell you.",
+      "B: Alright, hit me with it!",
+      "A: I know a crazy rumor about Jake.",
+      "B: Spill the beans!",
+      "A: The boss just sent an email about the project.",
+      "B: Lay it on me.",
+      "A: I need to tell you something, but it’s not good.",
+      "B: Give it to me straight.",
+      "A: I just got some wild news.",
+      "B: I’m all ears!"
+    ]
+  },
+  {
+    "primary": "I am committed to Poland",
+    "meaning": "",
+    "similar": [],
+    "examples": []
+  },
+  {
+    "primary": "Every cloud has a silver lining.",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I can’t believe I failed the test.",
+      "B: Don’t worry, every cloud has a silver lining. Maybe this will motivate you to do even better next time.",
+      "A: I lost my job today…",
+      "B: That’s tough, but remember—when one door closes, another one opens.",
+      "A: This breakup is the worst thing ever.",
+      "B: I know it feels that way now, but things will get better.",
+      "A: Everything is going wrong today.",
+      "B: Hey, look on the bright side. At least tomorrow is a new day!"
+    ]
+  },
+  {
+    "primary": "Silver lining is",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I totally failed my test today.",
+      "B: That sucks, but the silver lining is you can retake it next week.",
+      "A: Our flight got delayed by three hours!",
+      "B: Ugh, but the silver lining is we have more time to grab food.",
+      "A: I lost my phone at the party.",
+      "B: That’s rough, but the silver lining is at least you had fun!",
+      "A: I didn’t get the job I wanted.",
+      "B: That’s disappointing, but looking on the bright side, maybe a better opportunity is waiting for you."
+    ]
+  },
+  {
+    "primary": "I'm on a roll",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: You just won three rounds in a row!",
+      "B: I know, I’m on a roll!",
+      "A: Wow, you’ve been closing so many deals lately.",
+      "B: Yeah, I’m on fire!",
+      "A: You’re doing great on your diet.",
+      "B: Thanks! I’m really in the zone.",
+      "A: Another A on your test?",
+      "B: Yup! I’m killing it this semester."
+    ]
+  },
+  {
+    "primary": "I was spread too thin, I was in way over my head",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: You look exhausted. What happened?",
+      "B: I was spread too thin. I took on way too many tasks this week.",
+      "A: How was the new project?",
+      "B: Honestly? I was in way over my head. It was way too complicated for me.",
+      "A: Why didn’t you finish the report?",
+      "B: I had too much on my plate. I just couldn’t get to it.",
+      "A: How’s your new job?",
+      "B: Man, I bit off more than I could chew. It’s way harder than I expected."
+    ]
+  },
+  {
+    "primary": "I've already incorporated your suggestions",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Did you update the report with my suggestions?",
+      "B: Yep! I’ve already incorporated your suggestions.",
+      "A: I think we should change the layout a little.",
+      "B: I’ve already taken your feedback into account. Check it out!",
+      "A: Hey, don’t forget to fix those typos I mentioned.",
+      "B: No worries, I’ve already made those updates.",
+      "A: I sent you some changes for the website design.",
+      "B: Got it! Your suggestions have already been implemented."
+    ]
+  },
+  {
+    "primary": "Jerk off",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Ugh, that guy keeps cutting people in line.",
+      "B: What a jerk!",
+      "A: He ghosted her after three dates.",
+      "B: Wow, what a douchebag.",
+      "A: He keeps bragging about his new car.",
+      "B: That guy is such a tool."
+    ]
+  },
+  {
+    "primary": "He will jerk you off",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Should I ask Mark for help?",
+      "B: I wouldn’t. He will just mess with you.",
+      "A: My new manager seems really strict.",
+      "B: Yeah, he will give you a hard time.",
+      "A: I think Jake is being nice to me.",
+      "B: Be careful, he will play you if you're not careful."
+    ]
+  },
+  {
+    "primary": "I'm around",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Are you at home?",
+      "B: Yeah, I’m around.",
+      "A: Can you help me move some stuff later?",
+      "B: Sure! I’m around if you need me.",
+      "A: Where are you? I need to talk.",
+      "B: I’m in the area. Let’s meet up.",
+      "A: Will you be at the office today?",
+      "B: Yeah, I’ll be around all day."
+    ]
+  },
+  {
+    "primary": "I got your back",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I’m so nervous about this presentation.",
+      "B: Don’t stress, I got your back!",
+      "A: I don’t know if I can do this alone.",
+      "B: You’re not alone, I got you.",
+      "A: I think I messed up…",
+      "B: No worries, I got your back.",
+      "A: I need some help moving this weekend.",
+      "B: Of course, I got you!"
+    ]
+  },
+  {
+    "primary": "IMO",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Is that a good phone to buy?",
+      "B: IMO, it’s not worth the price.",
+      "A: Should we switch to a different brand?",
+      "B: TBH, I think we should.",
+      "A: What do you think of her new haircut?",
+      "B: FWIW, I love it!",
+      "A: Should we delay the project?",
+      "B: Just my two cents, but I think we should wait."
+    ]
+  },
+  {
+    "primary": "Keep warm, stay healthy, stay cozy, bundle up",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: It’s getting so cold these days.",
+      "B: Yeah, stay cozy and keep warm!",
+      "A: I’m heading out now.",
+      "B: It’s freezing outside! Bundle up!",
+      "A: I’ve been feeling a bit under the weather.",
+      "B: Oh no, stay healthy and take care!",
+      "A: I love staying in and watching movies on cold days.",
+      "B: Same! Perfect time to stay cozy with a blanket."
+    ]
+  },
+  {
+    "primary": "It hits the spot",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I was so thirsty. This iced tea is amazing!",
+      "B: Right? It hits the spot!",
+      "A: After that long run, this burger tastes even better.",
+      "B: Yeah, that really hit the spot!",
+      "A: It’s freezing outside. This hot cocoa is just what I needed.",
+      "B: Agreed! So satisfying!",
+      "A: I’ve been craving ramen all day.",
+      "B: Well, enjoy! I bet it’ll hit the spot!"
+    ]
+  },
+  {
+    "primary": "Refreshingly cool",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Wow, this iced coffee is so good.",
+      "B: Yeah, it’s refreshingly cool!",
+      "A: The breeze feels amazing after that heat.",
+      "B: Right? It’s so crisp and cool.",
+      "A: I needed this cold soda after a long day.",
+      "B: Super refreshing, right?",
+      "A: The pool water is perfect today.",
+      "B: Nice and cool!"
+    ]
+  },
+  {
+    "primary": "Vertical drink",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Do you have time to sit down for a coffee?",
+      "B: Not really, I’ll just grab one to drink on the go.",
+      "A: Why are you drinking so fast?",
+      "B: I need to leave soon, so I just chugged my coffee.",
+      "A: Let’s stop by that standing bar for a quick drink.",
+      "B: Sounds good! I love those spots."
+    ]
+  },
+  {
+    "primary": "It speaks volumes",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: He didn’t even show up to his best friend’s wedding.",
+      "B: Wow. That speaks volumes.",
+      "A: They had a meeting, but he wasn’t invited.",
+      "B: That says a lot about what they think of him.",
+      "A: She looked so happy when she got the job offer.",
+      "B: Yeah, her smile spoke volumes!",
+      "A: He donated all his money to charity.",
+      "B: That makes a strong statement about his character."
+    ]
+  },
+  {
+    "primary": "Speak for itself",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: He doesn’t need to explain. His work speaks for itself.",
+      "B: Exactly! The quality of his work is enough to show his talent.",
+      "A: Why don’t you defend yourself?",
+      "B: My actions speak for themselves. I don’t need to say anything more.",
+      "A: Did you see the new car?",
+      "B: Wow, that car speaks for itself. It looks amazing!",
+      "A: Why do you think he’s so successful?",
+      "B: Well, the results speak for themselves."
+    ]
+  },
+  {
+    "primary": "It was a steal",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: I got this leather jacket for only $30!",
+      "B: No way! That was a steal!",
+      "A: Look at these brand-new shoes. Guess how much?",
+      "B: I don’t know… $150?",
+      "A: Nope! $50!",
+      "B: Whoa, that’s a crazy deal!",
+      "A: I found a MacBook on sale for half the price.",
+      "B: What a bargain! You got it for a steal!",
+      "A: This couch was originally $500, but I got it for $100!",
+      "B: That’s such a good deal!"
+    ]
+  },
+  {
+    "primary": "We should stock up it's a steal",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Look at this! Toilet paper is 80% off!",
+      "B: Whoa! We should stock up. It’s a steal!",
+      "A: These snacks are buy one, get one free.",
+      "B: Let’s buy in bulk. It’s such a good deal!",
+      "A: This wine is ridiculously cheap today.",
+      "B: Time to stock up! This price is crazy!",
+      "A: I just found my favorite cereal at half price.",
+      "B: Let’s grab a few more before the sale ends!"
+    ]
+  },
+  {
+    "primary": "without further ado",
+    "meaning": "",
+    "similar": [],
+    "examples": []
+  },
+  {
+    "primary": "What's good here",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: This place looks great! What’s good here?",
+      "B: Their pasta is amazing! You should try it.",
+      "A: I’ve never been here before. What do you recommend?",
+      "B: Our iced caramel latte is really popular!",
+      "A: I can’t decide… What’s the best thing on the menu?",
+      "B: Our signature burger is a customer favorite!",
+      "A: Hey, I’m visiting for the first time. What’s popular here?",
+      "B: You have to try the tacos!"
+    ]
+  },
+  {
+    "primary": "plot charts",
+    "meaning": "차트를 그리다",
+    "similar": [
+      "create charts",
+      "graph data"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "install packages",
+    "meaning": "패키지를 설치하다",
+    "similar": [
+      "install software",
+      "install libraries"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "save images",
+    "meaning": "이미지를 저장하다",
+    "similar": [
+      "store images",
+      "save pictures"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "access images",
+    "meaning": "이미지에 접근하다",
+    "similar": [
+      "open images",
+      "retrieve images"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "(be) disabled",
+    "meaning": "비활성화되어 있다",
+    "similar": [
+      "be deactivated",
+      "be turned off"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "will not work",
+    "meaning": "작동하지 않는다",
+    "similar": [
+      "won’t function",
+      "fail to work"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "do not attempt",
+    "meaning": "시도하지 마세요",
+    "similar": [
+      "do not try",
+      "refrain from trying"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "desired output format",
+    "meaning": "원하는 출력 형식",
+    "similar": [
+      "preferred format",
+      "expected output format"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "take precedence",
+    "meaning": "우선시되다",
+    "similar": [
+      "have priority",
+      "come first"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "ignore (the) guidelines",
+    "meaning": "지침을 무시하다",
+    "similar": [
+      "disregard the guidelines",
+      "pay no attention to the guidelines"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "clear and logical headings",
+    "meaning": "명확하고 논리적인 제목",
+    "similar": [
+      "well-structured headings",
+      "organized headings"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "keep paragraphs short",
+    "meaning": "문단을 짧게 유지하다",
+    "similar": [
+      "use brief paragraphs",
+      "keep paragraphs concise"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "dense text blocks",
+    "meaning": "빽빽한 문단",
+    "similar": [
+      "long blocks of text",
+      "wall of text"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "bullet points",
+    "meaning": "글머리 기호",
+    "similar": [
+      "bulleted list items",
+      "bullet list"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "numbered lists",
+    "meaning": "번호 매긴 목록",
+    "similar": [
+      "ordered lists",
+      "lists with numbers"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "key takeaways",
+    "meaning": "핵심 요점",
+    "similar": [
+      "main points",
+      "key points"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "grouped ideas",
+    "meaning": "묶인 아이디어",
+    "similar": [
+      "related ideas",
+      "ideas grouped together"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "unordered lists",
+    "meaning": "순서 없는 목록",
+    "similar": [
+      "bulleted lists",
+      "non-numbered lists"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "ordered lists",
+    "meaning": "순서 있는 목록",
+    "similar": [
+      "numbered lists",
+      "enumerated lists"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "flow logically",
+    "meaning": "논리적으로 이어지다",
+    "similar": [
+      "progress logically",
+      "be logically organized"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "scan and understand key points quickly",
+    "meaning": "핵심 요점을 빠르게 파악하다",
+    "similar": [
+      "skim and grasp main points quickly",
+      "quickly get the gist"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "readability",
+    "meaning": "가독성",
+    "similar": [
+      "ease of reading",
+      "legibility"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "preserve any and all citations",
+    "meaning": "모든 인용을 그대로 유지하다",
+    "similar": [
+      "keep all citations intact",
+      "retain every citation"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "embed citations",
+    "meaning": "인용을 삽입하다",
+    "similar": [
+      "insert citations",
+      "include citations"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "at the beginning of paragraphs",
+    "meaning": "문단의 시작 부분에",
+    "similar": [
+      "at paragraph start",
+      "at the start of paragraphs"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "mention the sources",
+    "meaning": "출처를 언급하다",
+    "similar": [
+      "cite the sources",
+      "refer to the sources"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "in front of headers",
+    "meaning": "헤더 앞에",
+    "similar": [
+      "before headers",
+      "before headings"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "What's up?",
+    "meaning": "별일 없어?",
+    "similar": [
+      "How's it going?",
+      "What's new?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "How's it going?",
+    "meaning": "어떻게 지내?",
+    "similar": [
+      "How are you doing?",
+      "How are things?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "How have you been?",
+    "meaning": "잘 지냈어?",
+    "similar": [
+      "How are you lately?",
+      "How's life?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "What are you up to?",
+    "meaning": "뭐해?",
+    "similar": [
+      "What are you doing?",
+      "Anything going on?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Long time no see.",
+    "meaning": "오랜만이야.",
+    "similar": [
+      "It's been a while.",
+      "I haven't seen you in ages."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "No worries.",
+    "meaning": "괜찮아.",
+    "similar": [
+      "No problem.",
+      "It's all good."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Take your time.",
+    "meaning": "천천히 해.",
+    "similar": [
+      "No rush.",
+      "There's no hurry."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "That makes sense.",
+    "meaning": "이해가 돼.",
+    "similar": [
+      "I see.",
+      "I get it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I got it.",
+    "meaning": "알았어.",
+    "similar": [
+      "Understood.",
+      "All right."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm not sure.",
+    "meaning": "잘 모르겠어.",
+    "similar": [
+      "Not sure.",
+      "I don't know."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Let me check.",
+    "meaning": "한번 확인해 볼게.",
+    "similar": [
+      "I'll find out.",
+      "Let me see."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Sounds good.",
+    "meaning": "좋아.",
+    "similar": [
+      "Works for me.",
+      "That sounds great."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Hang on a sec.",
+    "meaning": "잠깐만.",
+    "similar": [
+      "Hold on a sec.",
+      "Just a moment."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'll be right back.",
+    "meaning": "곧 돌아올게.",
+    "similar": [
+      "BRB.",
+      "Back in a moment."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Gotta go.",
+    "meaning": "이만 가볼게.",
+    "similar": [
+      "Got to run.",
+      "I need to go."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm on my way.",
+    "meaning": "가는 중이야.",
+    "similar": [
+      "On my way.",
+      "Almost there."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It is what it is.",
+    "meaning": "어쩔 수 없지.",
+    "similar": [
+      "That's how it is.",
+      "Can't change it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "By the way...",
+    "meaning": "그나저나,",
+    "similar": [
+      "Incidentally,",
+      "On another note"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "As far as I know.",
+    "meaning": "내가 알기론 그래.",
+    "similar": [
+      "To my knowledge,",
+      "From what I know"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I mean...",
+    "meaning": "내 말은,",
+    "similar": [
+      "What I mean is,",
+      "In other words"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I guess so.",
+    "meaning": "그런 것 같아.",
+    "similar": [
+      "I suppose so.",
+      "I think so."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm fine with that.",
+    "meaning": "난 괜찮아.",
+    "similar": [
+      "Fine by me.",
+      "I'm okay with that."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Why not?",
+    "meaning": "좋지.",
+    "similar": [
+      "Sure.",
+      "Sounds good."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "That's awesome!",
+    "meaning": "대박이다!",
+    "similar": [
+      "That's great!",
+      "How cool!"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "That's too bad.",
+    "meaning": "안됐네.",
+    "similar": [
+      "That's unfortunate.",
+      "What a pity."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "No way!",
+    "meaning": "말도 안 돼!",
+    "similar": [
+      "Seriously?",
+      "You've got to be kidding!"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Are you kidding me?",
+    "meaning": "장난해?",
+    "similar": [
+      "Are you serious?",
+      "You've got to be joking!"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm just kidding.",
+    "meaning": "그냥 농담이야.",
+    "similar": [
+      "Just joking.",
+      "Only kidding."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Just in case.",
+    "meaning": "혹시 모르니까.",
+    "similar": [
+      "To be safe.",
+      "As a precaution."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Never mind.",
+    "meaning": "신경 쓰지 마.",
+    "similar": [
+      "Forget it.",
+      "Don't worry about it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It's up to you.",
+    "meaning": "네가 결정해.",
+    "similar": [
+      "Your choice.",
+      "You decide."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Make sense?",
+    "meaning": "이해 돼?",
+    "similar": [
+      "Do you understand?",
+      "Get it?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Gotcha.",
+    "meaning": "알겠어.",
+    "similar": [
+      "Understood.",
+      "I get it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'll pass.",
+    "meaning": "난 됐어.",
+    "similar": [
+      "I'll skip it.",
+      "Not this time."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It's not a big deal.",
+    "meaning": "별거 아니야.",
+    "similar": [
+      "No biggie.",
+      "It's nothing."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I owe you one.",
+    "meaning": "너한테 신세 졌어.",
+    "similar": [
+      "I owe you big time.",
+      "I'll return the favor."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Keep in touch.",
+    "meaning": "계속 연락하자.",
+    "similar": [
+      "Stay in touch.",
+      "Don't be a stranger."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Take it easy.",
+    "meaning": "무리하지 마.",
+    "similar": [
+      "Relax.",
+      "Take care."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It's been a while.",
+    "meaning": "진짜 오랜만이야.",
+    "similar": [
+      "It's been ages.",
+      "It's been so long."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Fingers crossed.",
+    "meaning": "잘 되길 바래.",
+    "similar": [
+      "Hope for the best.",
+      "Let's hope so."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Good for you!",
+    "meaning": "잘 됐다!",
+    "similar": [
+      "Congratulations!",
+      "Way to go!"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Lucky you.",
+    "meaning": "좋겠다.",
+    "similar": [
+      "You're so lucky.",
+      "Must be nice."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Good to know.",
+    "meaning": "알아 둬서 좋네.",
+    "similar": [
+      "Useful to know.",
+      "Glad to hear that."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Thanks anyway.",
+    "meaning": "그래도 고마워.",
+    "similar": [
+      "Thank you though.",
+      "I appreciate it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "What do you mean?",
+    "meaning": "무슨 뜻이야?",
+    "similar": [
+      "I'm not sure what you mean.",
+      "What's that supposed to mean?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "What are you talking about?",
+    "meaning": "무슨 소리야?",
+    "similar": [
+      "I don't get it.",
+      "What do you mean by that?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Don't get me wrong.",
+    "meaning": "오해하지 마.",
+    "similar": [
+      "Don't misunderstand me.",
+      "Let me be clear."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "No hard feelings.",
+    "meaning": "기분 나쁘게 받지 마.",
+    "similar": [
+      "No ill will.",
+      "We're still cool."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm not in the mood.",
+    "meaning": "그럴 기분 아니야.",
+    "similar": [
+      "I don't feel like it.",
+      "Not feeling it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I can't help it.",
+    "meaning": "어쩔 수 없어.",
+    "similar": [
+      "Can't be helped.",
+      "I have no choice."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Let's call it a day.",
+    "meaning": "오늘은 이만 끝내자.",
+    "similar": [
+      "Let's wrap it up.",
+      "Time to finish for today."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Suit yourself.",
+    "meaning": "네 마음대로 해.",
+    "similar": [
+      "Do as you wish.",
+      "It's your call."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "The more, the merrier.",
+    "meaning": "많을수록 더 재밌지.",
+    "similar": [
+      "The more the better.",
+      "The more people",
+      "the more fun."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "So far, so good.",
+    "meaning": "지금까지는 괜찮아.",
+    "similar": [
+      "Everything is good so far.",
+      "All good up to now."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'll take care of it.",
+    "meaning": "내가 알아서 할게.",
+    "similar": [
+      "I'll handle it.",
+      "Leave it to me."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm all ears.",
+    "meaning": "잘 듣고 있어.",
+    "similar": [
+      "I'm listening.",
+      "You have my full attention."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I can't wait.",
+    "meaning": "너무 기대돼.",
+    "similar": [
+      "I'm excited.",
+      "Looking forward to it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It was a close call.",
+    "meaning": "아슬아슬했어.",
+    "similar": [
+      "That was close.",
+      "Nearly missed it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "There you go.",
+    "meaning": "바로 그거야.",
+    "similar": [
+      "That's it.",
+      "You got it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Here we go.",
+    "meaning": "자, 간다!",
+    "similar": [
+      "Let's start.",
+      "Off we go."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "ASAP",
+    "meaning": "가능한 빨리.",
+    "similar": [
+      "As soon as possible.",
+      "Right away."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I have no idea.",
+    "meaning": "전혀 모르겠어.",
+    "similar": [
+      "Beats me.",
+      "I haven't got a clue."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It's not my thing.",
+    "meaning": "내 취향 아니야.",
+    "similar": [
+      "Not my cup of tea.",
+      "I'm not into it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Let's get to the point.",
+    "meaning": "본론으로 들어가자.",
+    "similar": [
+      "Let's cut to the chase.",
+      "Get on with it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "You name it.",
+    "meaning": "말만 해.",
+    "similar": [
+      "Whatever you say.",
+      "Anything you want."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm running late.",
+    "meaning": "나 좀 늦을 것 같아.",
+    "similar": [
+      "I'll be late.",
+      "Running behind schedule."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It slipped my mind.",
+    "meaning": "깜빡 잊었어.",
+    "similar": [
+      "I forgot.",
+      "Totally forgot about it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm starving.",
+    "meaning": "배고파 죽겠어.",
+    "similar": [
+      "I'm really hungry.",
+      "I'm famished."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'm stuffed.",
+    "meaning": "배불러 죽겠어.",
+    "similar": [
+      "I'm very full.",
+      "I couldn't eat another bite."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Let's grab a bite.",
+    "meaning": "간단히 뭐 좀 먹자.",
+    "similar": [
+      "Let's get something to eat.",
+      "Want to go eat?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Give me a break.",
+    "meaning": "좀 봐줘.",
+    "similar": [
+      "Cut me some slack.",
+      "Come on",
+      "really?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I get it.",
+    "meaning": "이해했어.",
+    "similar": [
+      "I understand.",
+      "Got it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I knew it.",
+    "meaning": "역시 그럴 줄 알았어.",
+    "similar": [
+      "I expected that.",
+      "What did I tell you?"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Not a chance.",
+    "meaning": "절대 안 돼.",
+    "similar": [
+      "No way.",
+      "Absolutely not."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It depends.",
+    "meaning": "상황에 따라 달라.",
+    "similar": [
+      "That depends.",
+      "Depends on the situation."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "You never know.",
+    "meaning": "어떻게 될지 모르는 거야.",
+    "similar": [
+      "Anything could happen.",
+      "Can't be sure."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'll let you know.",
+    "meaning": "알려 줄게.",
+    "similar": [
+      "I'll inform you.",
+      "I'll keep you posted."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Hope that helps.",
+    "meaning": "도움이 됐으면 좋겠어.",
+    "similar": [
+      "I hope that was helpful.",
+      "Hopefully that helps."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I appreciate it.",
+    "meaning": "정말 고마워.",
+    "similar": [
+      "Thank you so much.",
+      "Much appreciated."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "That's the plan.",
+    "meaning": "그게 계획이야.",
+    "similar": [
+      "That's what we're going to do.",
+      "That's the idea."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Time will tell.",
+    "meaning": "시간이 지나면 알게 되겠지.",
+    "similar": [
+      "Eventually we'll see.",
+      "Only time will tell."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It's worth a try.",
+    "meaning": "시도해 볼 만해.",
+    "similar": [
+      "Might as well try.",
+      "It's worth a shot."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Let's get started.",
+    "meaning": "시작하자.",
+    "similar": [
+      "Let's begin.",
+      "Let's start."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I see what you mean.",
+    "meaning": "무슨 말인지 알겠어.",
+    "similar": [
+      "I understand your point.",
+      "I get what you're saying."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "That reminds me...",
+    "meaning": "그 말 들으니 생각났는데,",
+    "similar": [
+      "Speaking of that,",
+      "Now that you mention it"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "I'll get back to you.",
+    "meaning": "다시 알려줄게.",
+    "similar": [
+      "I'll reply later.",
+      "I'll let you know later."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "It's out of my hands.",
+    "meaning": "내가 어쩔 수 없는 일이야.",
+    "similar": [
+      "It's beyond my control.",
+      "I can't do anything about it."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Speak of the devil.",
+    "meaning": "호랑이도 제 말하면 온다.",
+    "similar": [
+      "We were just talking about you.",
+      "What a coincidence!"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Keep me posted.",
+    "meaning": "계속 알려줘.",
+    "similar": [
+      "Keep me updated.",
+      "Let me know what happens."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Let me know.",
+    "meaning": "알려줘.",
+    "similar": [
+      "Tell me.",
+      "Keep me informed."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "No doubt about it.",
+    "meaning": "의심의 여지가 없어.",
+    "similar": [
+      "Without a doubt.",
+      "Absolutely."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Long story short, ...",
+    "meaning": "간단히 말하자면,",
+    "similar": [
+      "In short,",
+      "To cut a long story short"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "LOL",
+    "meaning": "너무 웃겨.",
+    "similar": [
+      "LMAO",
+      "ROFL"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "OMG",
+    "meaning": "세상에!",
+    "similar": [
+      "Oh my goodness",
+      "Holy cow!"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "BRB",
+    "meaning": "금방 올게.",
+    "similar": [
+      "Be right back",
+      "Back in a sec."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "TTYL",
+    "meaning": "나중에 이야기하자.",
+    "similar": [
+      "Talk to you later",
+      "Catch you later."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "IDK",
+    "meaning": "모르겠어.",
+    "similar": [
+      "I don't know",
+      "Dunno"
+    ],
+    "examples": []
+  },
+  {
+    "primary": "FYI",
+    "meaning": "참고로,",
+    "similar": [
+      "For your information",
+      "Just so you know."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "My bad.",
+    "meaning": "내 잘못이야.",
+    "similar": [
+      "My mistake",
+      "Sorry about that."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "That sucks.",
+    "meaning": "최악이네.",
+    "similar": [
+      "What a bummer",
+      "That's a shame."
+    ],
+    "examples": []
+  },
+  {
+    "primary": "Cont",
+    "meaning": "",
+    "similar": [],
+    "examples": []
+  },
+  {
+    "primary": "Hands down",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Who’s the funniest person in our group?",
+      "B: Oh, hands down, it’s Jake!",
+      "A: What’s the best show on Netflix right now?",
+      "B: Stranger Things, hands down.",
+      "A: Which coffee shop has the best lattes?",
+      "B: Blue Bottle, hands down!",
+      "A: Is she the best dancer in the class?",
+      "B: Hands down! No one even comes close."
+    ]
+  },
+  {
+    "primary": "Walk in the park",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Was the driving test hard?",
+      "B: Nah, it was a walk in the park!",
+      "A: Do you think you can finish the report by tonight?",
+      "B: Of course! It’s a piece of cake.",
+      "A: How was your first day at work?",
+      "B: Honestly, it was easy peasy. Nothing too difficult.",
+      "A: Was fixing the sink difficult?",
+      "B: Nope, no sweat at all!"
+    ]
+  },
+  {
+    "primary": "What are the odds?",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Guess what? I just bumped into my high school teacher… in Paris!",
+      "B: What are the odds?! That’s crazy!",
+      "A: My new coworker is my childhood neighbor.",
+      "B: Seriously? What are the chances?",
+      "A: We got the same seat numbers on the plane.",
+      "B: No way! What are the odds of that happening?",
+      "A: I met someone at the party who has the exact same birthday as me.",
+      "B: Small world!"
+    ]
+  },
+  {
+    "primary": "Show up, turn up",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: Did Mark show up to the meeting?",
+      "B: Nope. He didn’t even text.",
+      "A: What time did she turn up at the party?",
+      "B: Like 1 a.m. She was super late.",
+      "A: Are you gonna come through tonight?",
+      "B: You know it! Wouldn’t miss it for the world.",
+      "A: He didn’t show up again…",
+      "B: Ugh, third time this week."
+    ]
+  },
+  {
+    "primary": "Odds and ends",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: What’s in that box?",
+      "B: Just some odds and ends I didn’t want to throw away.",
+      "A: Do you need help organizing your room?",
+      "B: Yeah, especially this drawer full of bits and pieces.",
+      "A: What are all these wires and screws for?",
+      "B: No idea. Just random junk I collected over time.",
+      "A: I’m donating stuff. Want any of these odds and ends?",
+      "B: Hmm, I’ll take a look. Never know what might be useful."
+    ]
+  },
+  {
+    "primary": "I'm losing it",
+    "meaning": "",
+    "similar": [],
+    "examples": [
+      "A: How’s studying for finals going?",
+      "B: Ugh, I’m losing it. I haven’t slept in two days.",
+      "A: You okay?",
+      "B: No! My computer crashed again. I’m seriously losing it.",
+      "A: Why are you laughing so hard?",
+      "B: That video was so stupid—I’m losing it.",
+      "A: Are you crying?",
+      "B: I’m just tired. I think I’m losing it a little…"
+    ]
+  },
+  {
+    "primary": "Same for me, please.",
+    "meaning": "저도 같은 걸로 주세요",
+    "similar": [
+      "I’ll have the same.",
+      "Make it two.",
+      "Same here.",
+      "Ditto."
+    ],
+    "examples": [
+      "A: I’ll take the chicken burrito with extra guac.",
+      "B: Same for me, please.",
+      "A: One caramel macchiato.",
+      "B: Make it two.",
+      "A: I’ll get the salmon bowl.",
+      "B: I’ll have what she’s having.",
+      "A: I’m ordering a vanilla latte.",
+      "B: Same here."
+    ]
+  },
+  {
+    "primary": "I’ll have the same.",
+    "meaning": "저도 그걸로 할게요",
+    "similar": [
+      "Same for me, please.",
+      "Make it two.",
+      "Same here.",
+      "Ditto."
+    ],
+    "examples": [
+      "A: I’ll take the chicken burrito with extra guac.",
+      "B: Same for me, please.",
+      "A: One caramel macchiato.",
+      "B: Make it two.",
+      "A: I’ll get the salmon bowl.",
+      "B: I’ll have what she’s having.",
+      "A: I’m ordering a vanilla latte.",
+      "B: Same here."
+    ]
+  },
+  {
+    "primary": "Make it two.",
+    "meaning": "두 개 주세요 (같은 거요)",
+    "similar": [
+      "Same for me, please.",
+      "I’ll have the same.",
+      "Same here.",
+      "Ditto."
+    ],
+    "examples": [
+      "A: I’ll take the chicken burrito with extra guac.",
+      "B: Same for me, please.",
+      "A: One caramel macchiato.",
+      "B: Make it two.",
+      "A: I’ll get the salmon bowl.",
+      "B: I’ll have what she’s having.",
+      "A: I’m ordering a vanilla latte.",
+      "B: Same here."
+    ]
+  },
+  {
+    "primary": "Same here.",
+    "meaning": "나도 같은 거",
+    "similar": [
+      "Same for me, please.",
+      "I’ll have the same.",
+      "Make it two.",
+      "Ditto."
+    ],
+    "examples": [
+      "A: I’ll take the chicken burrito with extra guac.",
+      "B: Same for me, please.",
+      "A: One caramel macchiato.",
+      "B: Make it two.",
+      "A: I’ll get the salmon bowl.",
+      "B: I’ll have what she’s having.",
+      "A: I’m ordering a vanilla latte.",
+      "B: Same here."
+    ]
+  },
+  {
+    "primary": "Ditto.",
+    "meaning": "나도 (아주 캐주얼)",
+    "similar": [
+      "Same for me, please.",
+      "I’ll have the same.",
+      "Make it two.",
+      "Same here."
+    ],
+    "examples": [
+      "A: I’ll take the chicken burrito with extra guac.",
+      "B: Same for me, please.",
+      "A: One caramel macchiato.",
+      "B: Make it two.",
+      "A: I’ll get the salmon bowl.",
+      "B: I’ll have what she’s having.",
+      "A: I’m ordering a vanilla latte.",
+      "B: Same here."
+    ]
+  }
+]

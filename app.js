@@ -25,6 +25,12 @@ const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const expressionsRef = collection(db, "EnglishExpressions");
 
+// Cache Configuration
+const CACHE_KEY = "col_eng_expressions";
+const CACHE_DATE_KEY = "col_eng_last_fetch_date";
+
+
+
 const searchInput = document.getElementById("searchInput");
 const resultsContainer = document.getElementById("resultsContainer");
 const loadingState = document.getElementById("loadingState");
@@ -42,33 +48,53 @@ let expressions = [];
 let dailyExpression = null;
 let debounceTimer;
 
-// Fetch expressions once on load
+// Fetch expressions with caching
 async function fetchAllExpressions() {
   try {
-    const q = query(expressionsRef, orderBy("primary", "asc"));
-    const querySnapshot = await getDocs(q);
-    expressions = [];
-    querySnapshot.forEach((doc) => {
-      expressions.push({ id: doc.id, ...doc.data() });
-    });
-    console.log(`Loaded ${expressions.length} expressions.`);
+    const now = new Date();
+    const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+    
+    const cachedData = localStorage.getItem(CACHE_KEY);
+    const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
+
+    if (cachedData && cachedDate === today) {
+      expressions = JSON.parse(cachedData);
+      console.log(`Loaded ${expressions.length} expressions from cache (Date: ${cachedDate}).`);
+    } else {
+      console.log("Cache expired or missing. Fetching from Firestore...");
+      const q = query(expressionsRef, orderBy("primary", "asc"));
+      const querySnapshot = await getDocs(q);
+      
+      expressions = [];
+      querySnapshot.forEach((doc) => {
+        expressions.push({ id: doc.id, ...doc.data() });
+      });
+
+      if (expressions.length > 0) {
+        // Update cache
+        localStorage.setItem(CACHE_KEY, JSON.stringify(expressions));
+        localStorage.setItem(CACHE_DATE_KEY, today);
+        console.log(`Fetched and cached ${expressions.length} expressions.`);
+      }
+    }
+
+    // Always pick a random expression from the available list
+    if (expressions.length > 0) {
+      dailyExpression = expressions[Math.floor(Math.random() * expressions.length)];
+    }
+
 
     if (expressions.length === 0) {
-      console.warn("Database returned 0 expressions.");
+      console.warn("No expressions found.");
     }
 
-    // Pick a random expression for the day
-    if (expressions.length > 0) {
-      dailyExpression =
-        expressions[Math.floor(Math.random() * expressions.length)];
-    }
-
-    renderEmptyState(); // Update UI with total count
+    renderEmptyState();
   } catch (error) {
     console.error("Error fetching expressions:", error);
     renderErrorState(error);
   }
 }
+
 
 function renderErrorState(error) {
   loadingState.classList.add("hidden");
@@ -224,22 +250,22 @@ function renderEmptyState() {
   noResultsState.classList.add("hidden");
 
   if (expressions.length > 0) {
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = String(now.getMonth() + 1).padStart(2, "0");
-    const day = String(now.getDate()).padStart(2, "0");
-    const formattedDate = `${year}/${month}/${day}`;
-
-    statsDisplay.textContent = `(${formattedDate}, total number of expressions: ${expressions.length})`;
-    statsDisplay.classList.remove("hidden");
-
-    // Fallback: Pick a random expression if not already picked
-    if (!dailyExpression && expressions.length > 0) {
-      dailyExpression =
-        expressions[Math.floor(Math.random() * expressions.length)];
+    const cacheDate = localStorage.getItem(CACHE_DATE_KEY);
+    let displayDate = "";
+    
+    if (cacheDate) {
+      // Convert YYYY-MM-DD to YYYY/MM/DD for display
+      displayDate = cacheDate.replace(/-/g, "/");
+    } else {
+      const now = new Date();
+      displayDate = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, "0")}/${String(now.getDate()).padStart(2, "0")}`;
     }
 
+    statsDisplay.textContent = `As of ${displayDate}, ${expressions.length} expressions are available`;
+    statsDisplay.classList.remove("hidden");
+
     console.log("Rendering Empty State. Daily Expression:", dailyExpression);
+
 
     if (dailyExpression) {
       initialStateMessage.classList.add("hidden");
