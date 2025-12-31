@@ -1,4 +1,4 @@
-console.info("COL_ENG App Version: 20251231.2");
+console.info("COL_ENG App Version: 20251231.4");
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import {
   getFirestore,

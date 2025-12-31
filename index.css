@@ -358,14 +358,22 @@ h1 {
     padding: 2rem 0;
   }
 
-  /* Add padding back to text elements since container padding was removed */
-  .empty-state p,
+  /* Target the specific initial message instead of all p tags in empty-state */
+  #initialStateMessage,
   .stats-text {
     padding: 0 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 0.5rem;
+  }
+
+  .example-text {
+    text-align: left !important;
+  }
+
+  .highlight {
+    display: inline !important;
   }
 
   .stats-count {
@@ -473,6 +481,7 @@ footer a:hover::after {
   line-height: 1.8;
   font-family: inherit;
   white-space: pre-line; /* Naturally handles newlines without needing br styling */
+  text-align: left; /* Ensure dialogue is always left-aligned, overriding any parent centering */
 }
 
 /* Removed problematic br styling that caused unnecessary breaks */
@@ -480,7 +489,7 @@ footer a:hover::after {
 .highlight {
   color: var(--primary);
   font-weight: 700;
-  display: inline;
+  display: inline !important;
 }
 
 /* Error State */
