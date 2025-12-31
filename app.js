@@ -364,7 +364,15 @@ function downloadCacheData() {
   const dateStringForFile = `${now.getFullYear()}${String(now.getMonth() + 1).padStart(2, "0")}${String(now.getDate()).padStart(2, "0")}`;
   const filename = `COL_ENG_${dateStringForFile}.json`;
 
-  const blob = new Blob([JSON.stringify(expressions, null, 2)], {
+  // Map to only include requested fields: primary, meaning, similar, example
+  const exportData = expressions.map(({ primary, meaning, similar, example }) => ({
+    primary,
+    meaning,
+    similar,
+    example
+  }));
+
+  const blob = new Blob([JSON.stringify(exportData, null, 2)], {
     type: "application/json",
   });
   const url = URL.createObjectURL(blob);

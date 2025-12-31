@@ -8,7 +8,7 @@ A premium, high-performance web application designed to search and discover auth
 - **NYC-Style Content**: A rich database of 850+ expressions, including the newly added `뉴욕구어체학습2025` dataset, each enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example.
 - **Premium NYC Slang**: Adherence to current, trendy NYC colloquialisms (e.g., "deadass", "no cap", "facts", "trippin'", "brick", "vertical drink").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
-- **Enriched Data Export**: A premium, two-line UI footer that displays the total record count and provides a clickable "Feel free to download all expressions in json format" link for instant dataset backups.
+- **Enriched Data Export**: A premium, two-line UI footer that allows users to download the local cache as a cleaned `COL_ENG_YYYYMMDD.json` file containing only the essential `primary`, `meaning`, `similar`, and `example` fields.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
 - **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results).
 - **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue and maximizing content visibility.
@@ -94,7 +94,7 @@ This project employs a suite of custom Node.js scripts to ensure a clean, high-q
 - **Automated Renaming**: Migrated legacy numeric IDs (e.g., `680`) to a standardized `expression_ID` format.
 - **Smart Deduplication**: Custom algorithm to detect and remove near-match duplicates using Levenshtein distance analysis.
 - **Enrichment Pipeline**: Automated enrichment process to add synonyms and dialogue examples to raw text inputs.
-- **JSON Backup/Export**: Client-side data serialization logic for instant local backups of the enriched expression database.
+- **JSON Backup/Export**: Client-side data serialization logic for instant local backups of the enriched expression database, strictly filtered to `primary`, `meaning`, `similar`, and `example` fields.
 
 ## 📧 Contact & Maintenance
 
