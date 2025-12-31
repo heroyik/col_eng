@@ -261,18 +261,14 @@ function renderEmptyState() {
       displayDate = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, "0")}/${String(now.getDate()).padStart(2, "0")}`;
     }
 
-    const downloadLink = document.createElement("a");
-    downloadLink.href = "#";
-    downloadLink.className = "stats-link";
-    downloadLink.id = "downloadDataBtn";
-    downloadLink.textContent = `${expressions.length} expressions as of ${displayDate}`;
-    
-    statsDisplay.innerHTML = "";
-    statsDisplay.appendChild(downloadLink);
+    statsDisplay.innerHTML = `
+      <p class="stats-count">${expressions.length} expressions as of ${displayDate}</p>
+      <a href="#" class="stats-link" id="downloadDataBtn">Feel free to download all expressions in json format</a>
+    `;
     statsDisplay.classList.remove("hidden");
 
     // Add click listener for download
-    downloadLink.addEventListener("click", (e) => {
+    document.getElementById("downloadDataBtn").addEventListener("click", (e) => {
       e.preventDefault();
       downloadCacheData();
     });

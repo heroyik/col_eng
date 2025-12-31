@@ -8,7 +8,7 @@ A premium, high-performance web application designed to search and discover auth
 - **NYC-Style Content**: A rich database of 850+ expressions, including the newly added `뉴욕구어체학습2025` dataset, each enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example.
 - **Premium NYC Slang**: Adherence to current, trendy NYC colloquialisms (e.g., "deadass", "no cap", "facts", "trippin'", "brick", "vertical drink").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
-- **Enriched Data Export**: A dynamic, premium hyperlink that allows users to download the entire local expression cache as a timestamped JSON file (`COL_ENG_YYYYMMDD.json`) for offline study or backup.
+- **Enriched Data Export**: A premium, two-line UI footer that displays the total record count and provides a clickable "Feel free to download all expressions in json format" link for instant dataset backups.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
 - **Persistent UI Logic**: Improved state management that separates search results from status elements (Loading, Initial, No Results).
 - **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue and maximizing content visibility.
