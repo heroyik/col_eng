@@ -50,7 +50,7 @@ let dailyExpression = null;
 let debounceTimer;
 
 // Fetch expressions with caching
-async function fetchAllExpressions() {
+async function fetchAllExpressions(forceUpdate = false) {
   try {
     const now = new Date();
     const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
@@ -58,11 +58,17 @@ async function fetchAllExpressions() {
     const cachedData = localStorage.getItem(CACHE_KEY);
     const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
 
-    if (cachedData && cachedDate === today) {
+    if (!forceUpdate && cachedData && cachedDate === today) {
       expressions = JSON.parse(cachedData);
       console.log(`Loaded ${expressions.length} expressions from cache (Date: ${cachedDate}).`);
     } else {
-      console.log("Cache expired or missing. Fetching from Firestore...");
+      if (forceUpdate) {
+        console.log("Forced update triggered. Fetching fresh data from Firestore...");
+        renderLoading(true);
+      } else {
+        console.log("Cache expired or missing. Fetching from Firestore...");
+      }
+
       const q = query(expressionsRef, orderBy("primary", "asc"));
       const querySnapshot = await getDocs(q);
       
@@ -93,6 +99,8 @@ async function fetchAllExpressions() {
   } catch (error) {
     console.error("Error fetching expressions:", error);
     renderErrorState(error);
+  } finally {
+    if (forceUpdate) renderLoading(false);
   }
 }
 
@@ -113,6 +121,13 @@ function renderErrorState(error) {
 
 // Search function
 function performSearch(searchTerm) {
+  if (searchTerm.toLowerCase() === "forcedownload") {
+    console.log("Forced download command detected.");
+    searchInput.value = ""; // Clear input
+    fetchAllExpressions(true); // Trigger forced update
+    return;
+  }
+
   if (searchTerm === "*") {
     console.log("Wildcard search triggered");
     renderResults(expressions);
