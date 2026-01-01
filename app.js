@@ -74,6 +74,8 @@ async function fetchAllExpressions(forceUpdate = false) {
       
       expressions = [];
       querySnapshot.forEach((doc) => {
+        // Firestore data inherently contains the new fields if they exist in the document
+        // spread operator ...doc.data() will include japanese, chinese, vietnamese, spanish
         expressions.push({ id: doc.id, ...doc.data() });
       });
 
@@ -152,7 +154,11 @@ function performSearch(searchTerm) {
         s.toLowerCase().includes(lowerSearch)
       );
       const inExample = item.example?.toLowerCase().includes(lowerSearch);
-
+      // Optional: Search in translations too? 
+      // User didn't explicitly ask for search in translations, but it might be useful. 
+      // Staying strict to requirement: "User did not ask for search update, only display."
+      // So I will stick to existing search logic for now to avoid scope creep and I/O implications (though strictly local).
+      
       return inPrimary || inMeaning || inSimilar || inExample;
     });
 
@@ -164,26 +170,28 @@ function performSearch(searchTerm) {
   }
 }
 
-function renderResults(results) {
-  resultsContainer.innerHTML = "";
+function createExpressionCardHTML(item) {
+  const translations = [
+    { lang: 'Japanese', value: item.japanese },
+    { lang: 'Chinese', value: item.chinese },
+    { lang: 'Vietnamese', value: item.vietnamese },
+    { lang: 'Spanish', value: item.spanish }
+  ].filter(t => t.value); // Only show if translation exists
 
-  if (results.length === 0) {
-    resultCount.classList.add("hidden");
-    noResultsState.classList.remove("hidden");
-    return;
-  }
+  const translationBlock = translations.length > 0 
+    ? `
+      <div class="translation-container">
+        ${translations.map(t => `
+          <div class="translation-row">
+            <span class="lang-label">${t.lang}</span>
+            <span class="lang-text">${t.value}</span>
+          </div>
+        `).join('')}
+      </div>
+    ` 
+    : '';
 
-  const suffix = results.length === 1 ? "result" : "results";
-  resultCount.textContent = `${results.length} ${suffix} found`;
-  resultCount.classList.remove("hidden");
-  resultsContainer.classList.remove("hidden"); // Show container when results exist
-
-  noResultsState.classList.add("hidden");
-  initialState.classList.add("hidden");
-
-  resultsContainer.innerHTML = results
-    .map(
-      (item) => `
+  return `
         <article class="expression-card">
             <div class="card-header">
                 <h3 class="text">${item.primary}</h3>
@@ -217,10 +225,29 @@ function renderResults(results) {
             `
                 : ""
             }
+            ${translationBlock}
         </article>
-    `
-    )
-    .join("");
+    `;
+}
+
+function renderResults(results) {
+  resultsContainer.innerHTML = "";
+
+  if (results.length === 0) {
+    resultCount.classList.add("hidden");
+    noResultsState.classList.remove("hidden");
+    return;
+  }
+
+  const suffix = results.length === 1 ? "result" : "results";
+  resultCount.textContent = `${results.length} ${suffix} found`;
+  resultCount.classList.remove("hidden");
+  resultsContainer.classList.remove("hidden"); // Show container when results exist
+
+  noResultsState.classList.add("hidden");
+  initialState.classList.add("hidden");
+
+  resultsContainer.innerHTML = results.map(createExpressionCardHTML).join("");
 }
 
 function highlightKeywords(text, keywords) {
@@ -302,40 +329,7 @@ function renderEmptyState() {
             </svg>
             Expression of the Day
           </h2>
-          <article class="expression-card">
-              <div class="card-header">
-                  <h3 class="text">${dailyExpression.primary}</h3>
-                  <span class="meaning">${dailyExpression.meaning}</span>
-              </div>
-              ${
-                dailyExpression.similar &&
-                Array.isArray(dailyExpression.similar)
-                  ? `
-                  <div class="synonyms-list">
-                      ${dailyExpression.similar
-                        .map((syn) => `<span class="synonym-tag">${syn}</span>`)
-                        .join("")}
-                  </div>
-              `
-                  : ""
-              }
-              ${
-                dailyExpression.example
-                  ? `
-                  <div class="example-box">
-                      <span class="example-label">Example Usage</span>
-                      <p class="example-text">${highlightKeywords(
-                        dailyExpression.example,
-                        [
-                          dailyExpression.primary,
-                          ...(dailyExpression.similar || []),
-                        ]
-                      )}</p>
-                  </div>
-              `
-                  : ""
-              }
-          </article>
+          ${createExpressionCardHTML(dailyExpression)}
         </div>
       `;
     }
@@ -381,12 +375,16 @@ function downloadCacheData() {
   const filename = `${dateStringForFile}_COL_ENG_${expressions.length}.json`;
   console.log("Generating download:", filename);
 
-  // Map to only include requested fields: primary, meaning, similar, example
-  const exportData = expressions.map(({ primary, meaning, similar, example }) => ({
+  // Map to include requested fields: primary, meaning, similar, example AND translations
+  const exportData = expressions.map(({ primary, meaning, similar, example, japanese, chinese, vietnamese, spanish }) => ({
     primary,
     meaning,
     similar,
-    example
+    example,
+    japanese,
+    chinese,
+    vietnamese,
+    spanish
   }));
 
   const blob = new Blob([JSON.stringify(exportData, null, 2)], {

@@ -550,3 +550,51 @@ input[type="search"] {
 #searchInput {
   border-radius: 20px;
 }
+
+/* Translation Block Styles */
+.translation-container {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.translation-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.lang-label {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 0.75rem; /* Smaller, tag-like */
+  color: var(--text-secondary); /* Muted color */
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  min-width: 80px; /* Align text nicely */
+  flex-shrink: 0;
+}
+
+.lang-text {
+  color: var(--text-primary);
+  font-weight: 400;
+}
+
+/* Mobile adjustments */
+@media (max-width: 480px) {
+  .translation-row {
+    flex-direction: column;
+    gap: 0.2rem;
+    align-items: flex-start;
+  }
+
+  .lang-label {
+    min-width: auto;
+    font-size: 0.7rem;
+  }
+}
