@@ -1,0 +1,5932 @@
+ID: 1
+Primary: He was three years above me
+Chinese: 他比我高三届 (Tā bǐ wǒ gāo sān jiè) / 他大我三岁 (Tā dà wǒ sān suì)
+-------------------
+ID: 2
+Primary: She was three years below me
+Chinese: 她比我低三届 (Tā bǐ wǒ dī sān jiè) / 她小我三岁 (Tā xiǎo wǒ sān suì)
+-------------------
+ID: 3
+Primary: Way off
+Chinese: 差远了 (Chà yuǎn le) / 完全不着边 (Wánquán bùzháo biān)
+-------------------
+ID: 4
+Primary: Save my seat
+Chinese: 帮我占个座 (Bāng wǒ zhàn gè zuò) / 帮我留个位子 (Bāng wǒ liú gè wèizi)
+-------------------
+ID: 5
+Primary: Pasture raised egg
+Chinese: 散养蛋 (Sànyǎng dàn) / 柴鸡蛋 (Cháijīdàn)
+-------------------
+ID: 6
+Primary: I have a gut feeling
+Chinese: 我有预感 (Wǒ yǒu yùgǎn) / 我直觉很准 (Wǒ zhíjué hěn zhǔn)
+-------------------
+ID: 7
+Primary: Busybody
+Chinese: 爱管闲事的人 (Ài guǎn xiánshì de rén) / 事儿妈 (Shìrmā)
+-------------------
+ID: 8
+Primary: Don't get me started on her boyfriend
+Chinese: 别跟我提她男朋友 (Bié gēn wǒ tí tā nánpéngyou) / 提她男朋友我就烦 (Tí tā nánpéngyou wǒ jiù fán)
+-------------------
+ID: 9
+Primary: It can't be helped
+Chinese: 没办法 (Méi bànfǎ) / 这也是没办法的事 (Zhè yěshì méibànfǎ de shì)
+-------------------
+ID: 10
+Primary: Out of necessity:
+Chinese: 出于必要 (Chūyú bìyào) / 迫不得已 (pò bù dé yǐ)
+-------------------
+ID: 11
+Primary: No other choice:
+Chinese: 别无选择 (Bié wú xuǎnzé) / 没得选 (méi de xuǎn)
+-------------------
+ID: 12
+Primary: Since you bring it up
+Chinese: 既然你提到了 (Jìrán nǐ tídào le) / 说到这儿 (shuō dào zhèr)
+-------------------
+ID: 13
+Primary: I'm just going through motion.
+Chinese: 我只是走个过场 (Wǒ zhǐshì zǒu gè guòchǎng) / 应付一下 (yìngfù yīxià)
+-------------------
+ID: 14
+Primary: I'm not the type to regret things easily
+Chinese: 我不是那种容易后悔的人 (Wǒ bùshì nàzhǒng róngyì hòuhuǐ de rén) / 我很少后悔 (wǒ hěn shǎo hòuhuǐ)
+-------------------
+ID: 15
+Primary: conveyor belt sushi
+Chinese: 回转寿司 (Huízhuǎn shòusī) / 旋转寿司 (xuánzhuǎn shòusī)
+-------------------
+ID: 16
+Primary: Cilantro
+Chinese: 香菜 (Xiāngcài) / 芫荽 (yán suī)
+-------------------
+ID: 17
+Primary: Out of blue
+Chinese: 突然 (Tūrán) / 冷不丁 (lěng bù dīng)
+-------------------
+ID: 18
+Primary: I'll get out of your hair.
+Chinese: 我就不打扰你了 (Wǒ jiù bù dǎrǎo nǐ le) / 我不麻烦你了 (wǒ bù máfan nǐ le)
+-------------------
+ID: 19
+Primary: Give a big round of applause to ~
+Chinese: 把掌声送给... (Bǎ zhǎngshēng sòng gěi...) / 让我们为...鼓掌 (ràng wǒmen wèi... gǔzhǎng)
+-------------------
+ID: 20
+Primary: I have something to discuss
+Chinese: 我有事想跟你谈谈 (Wǒ yǒu shì xiǎng gēn nǐ tántán) / 我有事想商量 (wǒ yǒu shì xiǎng shāngliáng)
+-------------------
+ID: 21
+Primary: Who are you to say that
+Chinese: 你凭什么这么说 (Nǐ píng shénme zhème shuō) / 轮得到你说吗 (lúndédào nǐ lái shuō ma)
+-------------------
+ID: 22
+Primary: Let's clear up any misunderstandings before we go
+Chinese: 咱们把误会解开 (Zánmen bǎ wùhuì jiěkāi) / 咱们把话说清楚 (zánmen bǎ huà shuō qīngchu)
+-------------------
+ID: 23
+Primary: I'm just saying
+Chinese: 我只是随便说说 (Wǒ zhǐshì suíbiàn shuōshuo) / 别当真 (bié dāngzhēn)
+-------------------
+ID: 24
+Primary: I'm very moody
+Chinese: 我很情绪化 (Wǒ hěn qíngxùhuà) / 我喜怒无常 (xǐnùwúcháng)
+-------------------
+ID: 25
+Primary: Acting up.
+Chinese: 出毛病了 (Chū máobìng le) / 闹脾气了 (nào píqì le)
+-------------------
+ID: 26
+Primary: That's really inconvenient
+Chinese: 真不方便 (Zhēn bù fāngbiàn) / 太麻烦了 (tài máfán le)
+-------------------
+ID: 27
+Primary: Live life to the fullest
+Chinese: 尽情享受生活 (Jìnqíng xiǎngshòu shēnghuó) / 活得精彩 (huó de jīngcǎi)
+-------------------
+ID: 28
+Primary: In a food a coma
+Chinese: 饭气攻心 (Fànqì gōngxīn) / 吃饱了犯困 (chī bǎo le fànkùn)
+-------------------
+ID: 29
+Primary: Sounds like a plan.
+Chinese: 听起来不错 (Tīng qǐlái bùcuò) / 就这么办 (jiù zhème bàn)
+-------------------
+ID: 30
+Primary: This is not a knee-jerk reaction.
+Chinese: 这不是一时冲动 (Zhè bùshì yīshí chōngdòng) / 这是考虑过的 (zhè shì kǎolǜ guò de)
+-------------------
+ID: 31
+Primary: Its not going through the motions
+Chinese: 我可不是应付了事 (Wǒ kě bùshì yìngfù liǎoshì) / 我很当回事 (wǒ hěn dāng huí shì)
+-------------------
+ID: 32
+Primary: I mean business
+Chinese: 我是认真的 (Wǒ shì rènzhēn de) / 我不是在开玩笑 (wǒ bùshì zài kāiwánxiào)
+-------------------
+ID: 33
+Primary: Are you up for the dinner?
+Chinese: 你想一起吃晚饭吗 (Nǐ xiǎng yīqǐ chī wǎnfàn ma) / 赏光一起吃个饭吗 (shǎngguāng yīqǐ chī gè fàn ma)
+-------------------
+ID: 34
+Primary: I wish I could.
+Chinese: 我也想去，但不行 (Wǒ yě xiǎng qù, dàn bùxíng) / 倒是想去，可是有事 (dàoshì xiǎng qù, kěshì yǒushì)
+-------------------
+ID: 35
+Primary: Significant others
+Chinese: 另一半 (Lìngyī bàn) / 家属 (jiāshǔ)
+-------------------
+ID: 36
+Primary: Sure thing
+Chinese: 没问题 (Méi wèntí) / 当然可以 (dāngrán kěyǐ)
+-------------------
+ID: 37
+Primary: I got you
+Chinese: 我帮你 (Wǒ bāng nǐ) / 包在我身上 (bāo zài wǒ shēnshang)
+-------------------
+ID: 38
+Primary: Here you are
+Chinese: 给你 (Gěi nǐ) / 拿着 (názhe)
+-------------------
+ID: 39
+Primary: Applaud
+Chinese: 鼓掌 (Gǔzhǎng) / 喝彩 (hècǎi)
+-------------------
+ID: 40
+Primary: Read my lips
+Chinese: 听好了 (Tīng hǎo le) / 仔细听 (zǐxì tīng)
+-------------------
+ID: 41
+Primary: Im and young at heart
+Chinese: 心态年轻 (Xīntài niánqīng) / 老顽童 (lǎowántóng)
+-------------------
+ID: 42
+Primary: Go south
+Chinese: 走下坡路 (Zǒu xiàpōlù) / 越来越糟 (yuè lái yuè zāo)
+-------------------
+ID: 43
+Primary: Cat got your tongue?
+Chinese: 哑巴了? (Yǎba le?) / 怎么不说话? (zěnme bù shuōhuà?)
+-------------------
+ID: 44
+Primary: I cant shake yhe feeling
+Chinese: 我总觉得不对劲 (Wǒ zǒng juéde bùduìjìn) / 这种感觉挥之不去 (zhèzhǒng gǎnjué huīzhībùqù)
+-------------------
+ID: 45
+Primary: I highly recommend it
+Chinese: 我强烈推荐 (Wǒ qiángliè tuījiàn) / 值得一试 (zhídé yī shì)
+-------------------
+ID: 46
+Primary: Put your cell phone on silent
+Chinese: 手机调成静音 (Shǒujī tiáo chéng jìngyīn) / 设为无声 (shè wèi wúshēng)
+-------------------
+ID: 47
+Primary: The buck stop here
+Chinese: 我说了算 (Wǒ shuōle suàn) / 我全权负责 (wǒ quánquán fùzé)
+-------------------
+ID: 48
+Primary: My book is solid
+Chinese: 预订满了 (Yùdìng mǎn le) / 没位子了 (méi wèizi le)
+-------------------
+ID: 49
+Primary: My schedule is solid today
+Chinese: 我的日程排满了 (Wǒ de rìchéng pái mǎn le) / 我今天很忙 (wǒ jīntiān hěn máng)
+-------------------
+ID: 50
+Primary: I was booked solid
+Chinese: 之前约满了 (Zhīqián yuē mǎn le) / 早就订光了 (zǎojiù dìngguāng le)
+-------------------
+ID: 51
+Primary: neighborhood friend
+Chinese: 街坊邻居 (Jiēfang línjū) / 发小儿 (Fàxiǎoer)
+-------------------
+ID: 52
+Primary: I'm young at heart
+Chinese: 我心态很年轻 (Wǒ xīntài hěn niánqīng) / 我人老心不老 (Wǒ rén lǎo xīn bù lǎo)
+-------------------
+ID: 53
+Primary: Fire away
+Chinese: 尽管问 (Jǐnguǎn wèn) / 有话直说 (Yǒu huà zhíshuō)
+-------------------
+ID: 54
+Primary: Even a monkey can fall from a tree
+Chinese: 人有失手 (Rén yǒu shīshǒu) / 智者千虑必有一失 (Zhìzhě qiānlǜ bì yǒu yī shī)
+-------------------
+ID: 55
+Primary: Pound a pavement, legwork
+Chinese: 跑腿儿 (Pǎotuǐr) / 亲自去跑 (Qīnzì qù pǎo)
+-------------------
+ID: 56
+Primary: Now what?
+Chinese: 接下来怎么办? (Jiēxiàlái zěnmebàn?) / 然后呢? (Ránhòu ne?)
+-------------------
+ID: 57
+Primary: Where am i from? This is our land
+Chinese: 这是咱们的地盘 (Zhè shì zánmen de dìpán) / 我们是这儿的主人 (Wǒmen shì zhèr de zhǔrén)
+-------------------
+ID: 58
+Primary: This is bananas
+Chinese: 太疯狂了 (Tài fēngkuáng le) / 简直不可理喻 (Jiǎnzhí bùkě lǐyù)
+-------------------
+ID: 59
+Primary: Outrageous
+Chinese: 太离谱了 (Tài lípǔ le) / 岂有此理 (Qǐyǒucǐlǐ)
+-------------------
+ID: 60
+Primary: I will give you that
+Chinese: 这我得承认 (Zhè wǒ děi chéngrèn) / 这一点我服你 (Zhè yīdiǎn wǒ fú nǐ)
+-------------------
+ID: 61
+Primary: I got carried away with works
+Chinese: 我工作太投入了 (Wǒ gōngzuò tài tóurù le) / 我忙得忘乎所以了 (Wǒ máng de wànghūsuǒyǐ le)
+-------------------
+ID: 62
+Primary: I could use some coffee
+Chinese: 我得来杯咖啡 (Wǒ děi lái bēi kāfēi) / 我想喝杯咖啡 (Wǒ xiǎng hē bēi kāfēi)
+-------------------
+ID: 63
+Primary: My brain is fried
+Chinese: 我脑子都要炸了 (Wǒ nǎozi dōu yào zhà le) / 脑子不够用了 (Nǎozi bùgòu yòng le)
+-------------------
+ID: 64
+Primary: Why bother?
+Chinese: 何必呢? (Hébì ne?) / 费那个劲干嘛? (Fèi nàge jìn gànmá?)
+-------------------
+ID: 65
+Primary: Unwind
+Chinese: 放松一下 (Fàngsōng yīxià) / 歇会儿 (Xiē huìr)
+-------------------
+ID: 66
+Primary: Guess what?
+Chinese: 你猜怎么着? (Nǐ cāi zěnmezháo?) / 跟你说个事儿 (Gēn nǐ shuō gè shìr)
+-------------------
+ID: 67
+Primary: Beforehand
+Chinese: 预先 (Yùxiān) / 事先 (Shìxiān)
+-------------------
+ID: 68
+Primary: Come across too strong
+Chinese: 表现得太强势了 (Biǎoxiàn de tài qiángshì le) / 给人感觉太冲了 (Gěi rén gǎnjué tài chōng le)
+-------------------
+ID: 69
+Primary: Blown away
+Chinese: 被惊艳到了 (Bèi jīngyàn dào le) / 佩服得五体投地 (Pèifú de wǔtǐtóudì)
+-------------------
+ID: 70
+Primary: I have been a pain lately
+Chinese: 我最近挺招人烦的 (Wǒ zuìjìn tǐng zhāorénfán de) / 我最近很难搞 (Wǒ zuìjìn hěn nángǎo)
+-------------------
+ID: 71
+Primary: Go through
+Chinese: 经历 (Jīnglì) / 遭受 (Zāoshòu)
+-------------------
+ID: 72
+Primary: It goes without saying
+Chinese: 不言而喻 (Bùyán'éryù) / 那还用说 (Nà hái yòng shuō)
+-------------------
+ID: 73
+Primary: I like the fact that
+Chinese: 我就喜欢这一点 (Wǒ jiù xǐhuan zhè yīdiǎn) / 我很欣赏... (Wǒ hěn xīnshǎng...)
+-------------------
+ID: 74
+Primary: No matter what
+Chinese: 不管怎样 (Bùguǎn zěnyàng) / 无论如何 (Wúlùn rúhé)
+-------------------
+ID: 75
+Primary: Given my experience
+Chinese: 根据我的经验 (Gēnjù wǒ de jīngyàn) / 照我看来 (Zhào wǒ kànlái)
+-------------------
+ID: 76
+Primary: Eat my word
+Chinese: 收回我说的话 (Shōuhuí wǒ shuō de huà) / 打脸了 (Dǎliǎn le)
+-------------------
+ID: 77
+Primary: Live up to my expectation
+Chinese: 没辜负我的期望 (Méi gūfù wǒ de qīwàng) / 正如我所料 (Zhèngrú wǒ suǒ liào)
+-------------------
+ID: 78
+Primary: Moreish
+Chinese: 好听到上瘾 (Hǎotīng dào shàngyǐn) / 吃不够 (Chī bùgòu) (for food)
+-------------------
+ID: 79
+Primary: I never stood a chance
+Chinese: 我根本没机会 (Wǒ gēnběn méi jīhuì) / 我毫无胜算 (Wǒ háowú shèngsuàn)
+-------------------
+ID: 80
+Primary: I guess i should have seen it coming
+Chinese: 我早该想到的 (Wǒ zǎo gāi xiǎngdào de) / 我早该料到会这样 (Wǒ zǎo gāi liàodào huì zhèyàng)
+-------------------
+ID: 81
+Primary: How are you feeling today?
+Chinese: 你今天感觉怎么样? (Nǐ jīntiān gǎnjué zěnmeyàng?)
+-------------------
+ID: 82
+Primary: Tick off at
+Chinese: 惹恼 (Rěnǎo) / 让...生气 (Ràng... shēngqì)
+-------------------
+ID: 83
+Primary: Vet
+Chinese: 兽医 (Shòuyī) / 审查 (Shěnchá) (verb)
+-------------------
+ID: 84
+Primary: What's the catch?
+Chinese: 有什么条件? (Yǒu shénme tiáojiàn?) / 没那么简单吧? (Méi nàme jiǎndān ba?)
+-------------------
+ID: 85
+Primary: You don't need to get me anything
+Chinese: 不用给我买什么 (Bùyòng gěi wǒ mǎi shénme) / 别破费了 (Bié pòfèi le)
+-------------------
+ID: 86
+Primary: I'm currently getting treatment for my shoulder
+Chinese: 我肩膀正在做治疗 (Wǒ jiānbǎng zhèngzài zuò zhìliáo)
+-------------------
+ID: 87
+Primary: Crown of the head
+Chinese: 头顶 (Tóudǐng)
+-------------------
+ID: 88
+Primary: Im so torn
+Chinese: 我很纠结 (Wǒ hěn jiūjié) / 我左右为难 (Wǒ zuǒyòu wéinán)
+-------------------
+ID: 89
+Primary: In limbo
+Chinese: 悬而未决 (Xuán'érwèijué) / 没着落 (Méi zhuóluò)
+-------------------
+ID: 90
+Primary: He is legit
+Chinese: 他很正规 (Tā hěn zhèngguī) / 他很靠谱 (Tā hěn kàopǔ)
+-------------------
+ID: 91
+Primary: He is a catch
+Chinese: 他是个好对象 (Tā shì gè hǎo duìxiàng) / 他是个抢手货 (Tā shì gè qiǎngshǒuhuò)
+-------------------
+ID: 92
+Primary: Don't get bent out of shape
+Chinese: 别不高兴 (Bié bù gāoxìng) / 别急眼 (Bié jíyǎn)
+-------------------
+ID: 93
+Primary: I don't regret that much
+Chinese: 我没什么好后悔的 (Wǒ méi shénme hǎo hòuhuǐ de)
+-------------------
+ID: 94
+Primary: midlife crisis
+Chinese: 中年危机 (Zhōngnián wēijī)
+-------------------
+ID: 95
+Primary: Don't be so dramatic
+Chinese: 别太夸张 (Bié tài kuāzhāng) / 别戏精了 (Bié xìjīng le)
+-------------------
+ID: 96
+Primary: Don't cry me a river
+Chinese: 别跟我哭诉 (Bié gēn wǒ kūsù) / 少来这套 (Shǎo lái zhè tào)
+-------------------
+ID: 97
+Primary: I am at loss for words
+Chinese: 我无语了 (Wǒ wúyǔ le) / 我都不知道说什么好了 (Wǒ dōu bù zhīdào shuō shénme hǎo le)
+-------------------
+ID: 98
+Primary: Did you catch on that?
+Chinese: 你懂了吗? (Nǐ dǒng le ma?) / 你明白我的意思了吗? (Nǐ míngbai wǒ de yìsi le ma?)
+-------------------
+ID: 99
+Primary: Social cues
+Chinese: 社交暗示 (Shèjiāo ànshì) / 眼力见儿 (Yǎnlìjiànr)
+-------------------
+ID: 100
+Primary: Did you pick upon that?
+Chinese: 你注意到了吗? (Nǐ zhùyì dào le ma?) / 你听出来了吗? (Nǐ tīng chūlái le ma?)
+-------------------
+ID: 101
+Primary: Did you hear Mark's new job offer?
+Chinese: 你听说Mark的新工作了吗? (Nǐ tīngshuō Mark de xīn gōngzuò le ma?)
+-------------------
+ID: 102
+Primary: Benefits package
+Chinese: 福利待遇 (Fúlì dàiyù)
+-------------------
+ID: 103
+Primary: hard to say
+Chinese: 很难说 (Hěn nánshuō) / 说不准 (Shuōbuzhǔn)
+-------------------
+ID: 104
+Primary: If you are in my shoes
+Chinese: 如果你是我 (Rúguǒ nǐ shì wǒ) / 换做是你 (Huànzuò shì nǐ)
+-------------------
+ID: 105
+Primary: This must come first
+Chinese: 这个得优先 (Zhège děi yōuxiān) / 这是当务之急 (Zhè shì dāngwùzhījí)
+-------------------
+ID: 106
+Primary: Does it ring a bell?
+Chinese: 听着耳熟吗? (Tīngzhe ěrshú ma?) / 有印象吗? (Yǒu yìnxiàng ma?)
+-------------------
+ID: 107
+Primary: It is long overdue
+Chinese: 早就该这样了 (Zǎojiù gāi zhèyàng le)
+-------------------
+ID: 108
+Primary: Heyday
+Chinese: 全盛时期 (Quánshèng shíqī) / 黄金时代 (Huángjīn shídài)
+-------------------
+ID: 109
+Primary: No apologies necessary
+Chinese: 不用道歉 (Bùyòng dàoqiàn) / 没事儿 (Méishìr)
+-------------------
+ID: 110
+Primary: Grow up
+Chinese: 成熟点 (Chéngshú diǎn) / 长大点吧 (Zhǎngdà diǎn ba)
+-------------------
+ID: 111
+Primary: He is usually on top of responses
+Chinese: 他回复通常很及时 (Tā huífù tōngcháng hěn jíshí)
+-------------------
+ID: 112
+Primary: Benefit of doubts
+Chinese: 姑且信之 (Gūqiě xìn zhī) / 把人往好处想 (Bǎ rén wǎng hǎochù xiǎng)
+-------------------
+ID: 113
+Primary: Take your mind off
+Chinese: 转移注意力 (Zhuǎnyí zhùyìlì) / 别想那事儿了 (Bié xiǎng nà shìr le)
+-------------------
+ID: 114
+Primary: Put yourself into my shoe
+Chinese: 你换位思考一下 (Nǐ huànwèisīkǎo yīxià) / 你站在我的立场想想 (Nǐ zhàn zài wǒ de lìchǎng xiǎngxiang)
+-------------------
+ID: 115
+Primary: Keep a low profile
+Chinese: 保持低调 (Bǎochí dīdiào) / 别太张扬 (Bié tài zhāngyáng)
+-------------------
+ID: 116
+Primary: You should focus on what you should do
+Chinese: 你应该专注于你该做的事 (Nǐ yīnggāi zhuānzhù yú nǐ gāi zuò de shì)
+-------------------
+ID: 117
+Primary: Been there, done that
+Chinese: 过来人 (Guòláirén) / 早经历过了 (Zǎo jīnglì guò le)
+-------------------
+ID: 118
+Primary: For the craic
+Chinese: 为了好玩 (Wèile hǎowán) / 图个乐呵 (Tú gè lèhē)
+-------------------
+ID: 119
+Primary: Thingamajig
+Chinese: 那个叫什么来着 (Nàge jiào shénme láizhe) / 那个东西 (Nàge dōngxi)
+-------------------
+ID: 120
+Primary: Walk me through
+Chinese: 给我讲讲 (Gěi wǒ jiǎngjiang) / 带我过一遍 (Dài wǒ guò yībiàn)
+-------------------
+ID: 121
+Primary: Turn over
+Chinese: 移交 (Yíjiāo) / 翻过来 (Fān guòlái)
+-------------------
+ID: 122
+Primary: Keep at it
+Chinese: 坚持下去 (Jiānchí xiàqù) / 别松劲 (Bié sōngjìn)
+-------------------
+ID: 123
+Primary: I got my hair done
+Chinese: 我做了头发 (Wǒ zuò le tóufa)
+-------------------
+ID: 124
+Primary: Its been a minute
+Chinese: 有阵子了 (Yǒu zhènzi le) / 过了好一会儿了 (Guò le hǎo yīhuìr le)
+-------------------
+ID: 125
+Primary: Its been ages
+Chinese: 好久了 (Hǎojiǔ le) / 八百年了 (Bābǎinián le)
+-------------------
+ID: 126
+Primary: Let someone down
+Chinese: 让某人失望 (Ràng mǒurén shīwàng) / 放鸽子 (Fànggēzi)
+-------------------
+ID: 127
+Primary: you skipped too much, don't forget I am going to punish you if you ignore what I said
+Chinese: 你跳过太多了，别忘了你要是无视我说的话我可要惩罚你 (Nǐ tiàoguò tài duō le, bié wàngle nǐ yàoshi wúshì wǒ shuō de huà wǒ kě yào chéngfá nǐ)
+-------------------
+ID: 128
+Primary: Set this position to "&&&now&&&&"
+Chinese: 把位置设为"&&&now&&&&" (Bǎ wèizhì shè wéi "&&&now&&&&")
+-------------------
+ID: 129
+Primary: Sort out
+Chinese: 解决 (Jiějué) / 理清 (Lǐqīng)
+-------------------
+ID: 130
+Primary: Take my mind off things
+Chinese: 散散心 (Sànsanxīn) /不想那些烦心事 (Bù xiǎng nàxiē fánxīnshì)
+-------------------
+ID: 131
+Primary: You went over my head
+Chinese: 你说得太深奥了 (Nǐ shuō de tài shēn'ào le) / 我没听懂 (Wǒ méi tīngdǒng)
+-------------------
+ID: 132
+Primary: Over my head
+Chinese: 太难懂了 (Tài nándǒng le) / 超出我的理解范围 (Chāochū wǒ de lǐjiě fànwéi)
+-------------------
+ID: 133
+Primary: Tied or even
+Chinese: 打平了 (Dǎpíng le) / 不分胜负 (Bùfēnshèngfù)
+-------------------
+ID: 134
+Primary: Even Steven
+Chinese: 互不相欠 (Hùbùxiāngqiàn) / 扯平了 (Chěpíng le)
+-------------------
+ID: 135
+Primary: Lay it on me
+Chinese: 直说吧 (Zhíshuō ba) / 告诉我吧 (Gàosu wǒ ba)
+-------------------
+ID: 136
+Primary: Ring me up
+Chinese: 结账 (Jiézhàng) / 给...打电话 (Gěi... dǎ diànhuà)
+-------------------
+ID: 137
+Primary: Out of our league
+Chinese: 高攀不起 (Gāopānbùqǐ) / 配不上 (Pèibùshàng)
+-------------------
+ID: 138
+Primary: I have mental breakdown
+Chinese: 我崩溃了 (Wǒ bēngkuì le) / 我心态崩了 (Wǒ xīntài bēng le)
+-------------------
+ID: 139
+Primary: Procrastinate
+Chinese: 拖延 (Tuōyán) / 磨蹭 (Móceng)
+-------------------
+ID: 140
+Primary: Its been on mind
+Chinese: 一直在我心头 (Yīzhí zài wǒ xīntóu) / 一直挂念着 (Yīzhí guàniànzhe)
+-------------------
+ID: 141
+Primary: Weigh the pros and cons
+Chinese: 权衡利弊 (Quánhéng lìbì)
+-------------------
+ID: 142
+Primary: Get things back on track
+Chinese: 让一切重回正轨 (Ràng yīqiè chóng huí zhèngguǐ)
+-------------------
+ID: 143
+Primary: What's eating you
+Chinese: 你在烦恼什么? (Nǐ zài fánnǎo shénme?) / 什么事让你心烦? (Shénme shì ràng nǐ xīnfán?)
+-------------------
+ID: 144
+Primary: Give her a big hand
+Chinese: 给她热烈鼓掌 (Gěi tā rèliè gǔzhǎng)
+-------------------
+ID: 145
+Primary: How’s it going?
+Chinese: 怎么样? (Zěnmeyàng?) / 还好吗? (Hái hǎo ma?)
+-------------------
+ID: 146
+Primary: I’m down for that
+Chinese: 我没问题 (Wǒ méi wèntí) / 我愿意 (Wǒ yuànyì)
+-------------------
+ID: 147
+Primary: I can’t make it
+Chinese: 我去不了 (Wǒ qù bù liǎo) / 我赶不上了 (Wǒ gǎnbùshàng le)
+-------------------
+ID: 148
+Primary: Blessing in disguise
+Chinese: 塞翁失马焉知非福 (Sàiwēngshīmǎ yānzhīfēifú) / 因祸得福 (Yīnhuòdéfú)
+-------------------
+ID: 149
+Primary: I’ll take a rain check
+Chinese: 下次吧 (Xiàcì ba) / 改天吧 (Gǎitiān ba)
+-------------------
+ID: 150
+Primary: It’s up to you
+Chinese: 由你决定 (Yóu nǐ juédìng) / 听你的 (Tīng nǐ de)
+-------------------
+ID: 151
+Primary: When is boarding?
+Chinese: 什么时候登机? (Shénme shíhòu dēngjī?)
+-------------------
+ID: 152
+Primary: Is the flight on time?
+Chinese: 航班准点吗? (Hángbān zhǔndiǎn ma?)
+-------------------
+ID: 153
+Primary: Can I get a window seat?
+Chinese: 能给我个靠窗的座位吗? (Néng gěi wǒ gè kàochuāng de zuòwèi ma?)
+-------------------
+ID: 154
+Primary: How long is the flight?
+Chinese: 飞多久? (Fēi duōjiǔ?) / 航程多长时间? (Hángchéng duō cháng shíjiān?)
+-------------------
+ID: 155
+Primary: Where is the nearest restroom?
+Chinese: 最近的洗手间在哪儿? (Zuìjìn de xǐshǒujiān zài nǎr?)
+-------------------
+ID: 156
+Primary: I'm waiting to board
+Chinese: 我在等登机 (Wǒ zài děng dēngjī)
+-------------------
+ID: 157
+Primary: What did you do last weekend?
+Chinese: 你上周末干什么了? (Nǐ shàng zhōumò gàn shénme le?)
+-------------------
+ID: 158
+Primary: Charge it to my room
+Chinese: 挂我房账上 (Guà wǒ fáng zhàng shàng)
+-------------------
+ID: 159
+Primary: On the fence
+Chinese: 犹豫不决 (Yóuyùbùjué) / 还在观望 (Hái zài guānwàng)
+-------------------
+ID: 160
+Primary: Put it on my card
+Chinese: 刷我的卡 (Shuā wǒ de kǎ)
+-------------------
+ID: 161
+Primary: Put it on my room
+Chinese: 记我房间账上 (Jì wǒ fángjiān zhàng shàng)
+-------------------
+ID: 162
+Primary: Roomy
+Chinese: 宽敞 (Kuānchang)
+-------------------
+ID: 163
+Primary: You have great taste
+Chinese: 你品味真好 (Nǐ pǐnwèi zhēn hǎo)
+-------------------
+ID: 164
+Primary: Impeccable
+Chinese: 无可挑剔 (Wúkětiāotì) / 完美 (Wánměi)
+-------------------
+ID: 165
+Primary: May I be excused?
+Chinese: 我可以失陪一下吗? (Wǒ kěyǐ shīpéi yīxià ma?)
+-------------------
+ID: 166
+Primary: In the clouds
+Chinese: 心不在焉 (Xīnbùzàiyān) / 魂游天外 (Húnyóutiānwài)
+-------------------
+ID: 167
+Primary: Dodge a bullet
+Chinese: 躲过一劫 (Duǒguò yī jié) / 幸免于难 (Xìngmiǎnyúnàn)
+-------------------
+ID: 168
+Primary: Cramming
+Chinese: 临时抱佛脚 (Línshí bàofójiǎo) / 突击复习 (Tūjī fùxí)
+-------------------
+ID: 169
+Primary: Way to go
+Chinese: 干得好 (Gàn de hǎo) / 太棒了 (Tài bàng le)
+-------------------
+ID: 170
+Primary: Get wasted
+Chinese: 喝大了 (Hē dà le) / 烂醉如泥 (Lànzuìrání)
+-------------------
+ID: 171
+Primary: Dibs
+Chinese: 我预定了 (Wǒ yùdìng le) / 它是我的了 (Tā shì wǒ de le)
+-------------------
+ID: 172
+Primary: I'll sit in the front
+Chinese: 我坐前面 (Wǒ zuò qiánmian)
+-------------------
+ID: 173
+Primary: Shotgun
+Chinese: 副驾驶座 (Fùjiàshǐ zuò)
+-------------------
+ID: 174
+Primary: Hit the jackpot
+Chinese: 中大奖了 (Zhòng dàjiǎng le) / 走大运了 (Zǒu dàyùn le)
+-------------------
+ID: 175
+Primary: My eyes were bigger than my stomach
+Chinese: 眼大肚子小 (Yǎn dà dùzi xiǎo)
+-------------------
+ID: 176
+Primary: I have too much on my plate
+Chinese: 我实在是太忙了 (Wǒ shízài shì tài máng le) / 我忙不过来了 (Wǒ máng bù guòlái le)
+-------------------
+ID: 177
+Primary: Let's hit it
+Chinese: 走吧 (Zǒu ba) / 开始吧 (Kāishǐ ba)
+-------------------
+ID: 178
+Primary: Let's dish
+Chinese: 聊聊吧 (Liáoliao ba) / 八卦一下 (Bāguà yīxià)
+-------------------
+ID: 179
+Primary: Throw someone under the bus
+Chinese: 背刺 (Bèicì) / 拿人挡枪 (Ná rén dǎngqiāng)
+-------------------
+ID: 180
+Primary: Under my belt
+Chinese: 经验丰富 (Jīngyàn fēngfù) / 掌握了 (Zhǎngwò le)
+-------------------
+ID: 181
+Primary: Stop being nosy
+Chinese: 别多管闲事 (Bié duōguǎnxiánshì)
+-------------------
+ID: 182
+Primary: I could listen to this all day
+Chinese: 这话我爱听 (Zhèhuà wǒ ài tīng) / 百听不厌 (Bǎitīngbùyàn)
+-------------------
+ID: 183
+Primary: Hear me out
+Chinese: 听我说完 (Tīng wǒ shuō wán)
+-------------------
+ID: 184
+Primary: Super yummy
+Chinese: 超级好吃 (Chāojí hǎochī) / 美味极了 (Měiwèi jí le)
+-------------------
+ID: 185
+Primary: No one
+Chinese: 没人 (Méi rén)
+-------------------
+ID: 186
+Primary: Just out of curiosity
+Chinese: 纯属好奇 (Chúnshǔ hàoqí) / 就随便问问 (Jiù suíbiàn wènwen)
+-------------------
+ID: 187
+Primary: Here it is
+Chinese: 给你 (Gěi nǐ) / 在这儿呢 (Zài zhèr ne)
+-------------------
+ID: 188
+Primary: It's worth every bite
+Chinese: 每一口都值 (Měi yīkǒu dōu zhí) / 太好吃了 (Tài hǎochī le)
+-------------------
+ID: 189
+Primary: It's worth every cent
+Chinese: 物有所值 (Wùyǒusuǒzhí) / 这钱花得值 (Zhè qián huā de zhí)
+-------------------
+ID: 190
+Primary: Knockoff
+Chinese: 山寨货 (Shānzhài huò) / 仿品 (Fǎngpǐn)
+-------------------
+ID: 191
+Primary: Get a load of this
+Chinese: 快看这个 (Kuài kàn zhège) / 瞧瞧这个 (Qiáoqiao zhège)
+-------------------
+ID: 192
+Primary: Cut the crap
+Chinese: 别废话了 (Bié fèihuà le) / 少来这套 (Shǎo lái zhè tào)
+-------------------
+ID: 193
+Primary: Deal-breaker
+Chinese: 底线 (Dǐxiàn) / 没得商量 (Méi de shāngliang)
+-------------------
+ID: 194
+Primary: It's down to you
+Chinese: 全看你了 (Quán kàn nǐ le) / 就靠你了 (Jiù kào nǐ le)
+-------------------
+ID: 195
+Primary: I'm game
+Chinese: 我加入 (Wǒ jiārù) / 算我一个 (Suàn wǒ yīgè)
+-------------------
+ID: 196
+Primary: I taught myself
+Chinese: 我自学的 (Wǒ zìxué de)
+-------------------
+ID: 197
+Primary: Whatever it takes
+Chinese: 不惜一切代价 (Bùxī yīqiè dàijià)
+-------------------
+ID: 198
+Primary: I've been tanning all week
+Chinese: 我晒了一周的日光浴 (Wǒ shài le yī zhōu de rìguāngyù)
+-------------------
+ID: 199
+Primary: Couch potato
+Chinese: 电视迷 (Diànshìmí) / 懒虫 (Lǎnchóng)
+-------------------
+ID: 200
+Primary: Don't let it get to you
+Chinese: 别往心里去 (Bié wǎng xīnlǐ qù) / 别受影响 (Bié shòu yǐngxiǎng)
+-------------------
+ID: 201
+Primary: Find yourself in
+Chinese: 发现自己处于... (Fāxiàn zìjǐ chǔyú...) / 不知不觉... (Bùzhībùjué...)
+-------------------
+ID: 202
+Primary: Skim through
+Chinese: 略读 (Lüèdú) / 浏览一下 (Liúlǎn yīxià)
+-------------------
+ID: 203
+Primary: So be it
+Chinese: 那就这样吧 (Nà jiù zhèyàng ba) / 随它去吧 (Suí tā qù ba)
+-------------------
+ID: 204
+Primary: Made for each other
+Chinese: 天生一对 (Tiānshēng yīduì)
+-------------------
+ID: 205
+Primary: Well begun is half done
+Chinese: 好的开始是成功的一半 (Hǎo de kāishǐ shì chénggōng de yībàn)
+-------------------
+ID: 206
+Primary: Butter someone up
+Chinese: 拍马屁 (Pāimǎpì) / 讨好某人 (Tǎohǎo mǒurén)
+-------------------
+ID: 207
+Primary: Taken in by the ad
+Chinese: 被广告骗了 (Bèi guǎnggào piàn le)
+-------------------
+ID: 208
+Primary: By any chance
+Chinese: 哪怕万一 (Nǎpà wànyī) / 有没有可能 (Yǒu méiyǒu kěnéng)
+-------------------
+ID: 209
+Primary: I have a weak stomach
+Chinese: 我胃不好 (Wǒ wèi bù hǎo)
+-------------------
+ID: 210
+Primary: Down it
+Chinese: 干了 (Gān le) / 一口闷 (Yīkǒumēn)
+-------------------
+ID: 211
+Primary: Don't rub it in
+Chinese: 别往伤口上撒盐 (Bié wǎng shāngkǒu shàng sǎyán) / 别哪壶不开提哪壶 (Bié nǎhúbùkāitínǎhú)
+-------------------
+ID: 212
+Primary: He has feelings for you
+Chinese: 他对你有意思 (Tā duì nǐ yǒu yìsi)
+-------------------
+ID: 213
+Primary: Fall for
+Chinese: 爱上 (Àishàng) / 被...骗了 (Bèi... piàn le)
+-------------------
+ID: 214
+Primary: Iffy
+Chinese: 没准儿 (Méizhǔnr) / 有点悬 (Yǒudiǎn xuán)
+-------------------
+ID: 215
+Primary: Behold
+Chinese: 看哪 (Kàn na) / 瞧 (Qiáo)
+-------------------
+ID: 216
+Primary: Dean's list
+Chinese: 院长名单 (Yuànzhǎng míngdān) / 优秀学生名单 (Yōuxiù xuésheng míngdān)
+-------------------
+ID: 217
+Primary: Don't try to pull a fast one
+Chinese: 别想耍花招 (Bié xiǎng shuǎ huāzhāo) / 别想骗我 (Bié xiǎng piàn wǒ)
+-------------------
+ID: 218
+Primary: Got pranked
+Chinese: 被整了 (Bèi zhěng le) / 被恶作剧了 (Bèi èzuòjù le)
+-------------------
+ID: 219
+Primary: Step on it
+Chinese: 踩油门 (Cǎi yóumén) / 开快点 (Kāi kuài diǎn)
+-------------------
+ID: 220
+Primary: Gold digger
+Chinese: 拜金女 (Bàijīnnǚ)
+-------------------
+ID: 221
+Primary: You're all talk
+Chinese: 光说不练 (Guāngshuōbùliàn) / 嘴炮 (Zuǐpào)
+-------------------
+ID: 222
+Primary: I go along with that
+Chinese: 我同意 (Wǒ tóngyì) / 我赞成 (Wǒ zànchéng)
+-------------------
+ID: 223
+Primary: My hands are full
+Chinese: 我忙得不可开交 (Wǒ máng de bùkěkāijiāo)
+-------------------
+ID: 224
+Primary: Fender bender
+Chinese: 小剐蹭 (Xiǎo guǎcèng)
+-------------------
+ID: 225
+Primary: I can’t afford to slack off
+Chinese: 我可不敢偷懒 (Wǒ kě bùgǎn tōulǎn)
+-------------------
+ID: 226
+Primary: Play it by ear
+Chinese: 见机行事 (Jiànjīxíngshì) / 看着办 (Kànzhe bàn)
+-------------------
+ID: 227
+Primary: Takes one to know one
+Chinese: 彼此彼此 (Bǐcǐ bǐcǐ) / 你也一样 (Nǐ yě yīyàng)
+-------------------
+ID: 228
+Primary: By word of mouth
+Chinese: 口碑 (Kǒubēi) / 口口相传 (Kǒukǒuxiāngchuán)
+-------------------
+ID: 229
+Primary: I feel nauseous
+Chinese: 我想吐 (Wǒ xiǎng tù) / 我有点恶心 (Wǒ yǒudiǎn ěxin)
+-------------------
+ID: 230
+Primary: Catch my breath
+Chinese: 喘口气 (Chuǎn kǒu qì)
+-------------------
+ID: 231
+Primary: Breaking in new shoes
+Chinese: 磨合新鞋 (Móhé xīn xié)
+-------------------
+ID: 232
+Primary: Take your mind off anything
+Chinese: 转移注意力 (Zhuǎnyí zhùyìlì)
+-------------------
+ID: 233
+Primary: Give the cold shoulder
+Chinese: 冷落 (Lěngluò) / 不理睬 (Bù lǐcǎi)
+-------------------
+ID: 234
+Primary: None taken
+Chinese: 没事 (Méishì) / 我没在意 (Wǒ méi zàiyì)
+-------------------
+ID: 235
+Primary: Should've thought that through
+Chinese: 早该想清楚的 (Zǎo gāi xiǎng qīngchu de)
+-------------------
+ID: 236
+Primary: I don’t want to pry
+Chinese: 我不想打听隐私 (Wǒ bù xiǎng dǎting yǐnsī)
+-------------------
+ID: 237
+Primary: Pull a Tom Sawyer
+Chinese: 忽悠别人替自己干活 (Hūyou biérén tì zìjǐ gànhuó) (Literally: Pull a Tom Sawyer)
+-------------------
+ID: 238
+Primary: Nothing to lose
+Chinese: 没什么可失去的 (Méi shénme kě shīqù de) / 大不了就这样 (Dàbùliǎo jiù zhèyàng)
+-------------------
+ID: 239
+Primary: Eyes are bigger than your stomach
+Chinese: 眼大肚子小 (Yǎn dà dùzi xiǎo)
+-------------------
+ID: 240
+Primary: Talk is cheap
+Chinese: 说得轻巧 (Shuō de qīngqiǎo)
+-------------------
+ID: 241
+Primary: The whole package
+Chinese: 完美的对象 (Wánměi de duìxiàng) / 啥都有 (Shá dōu yǒu)
+-------------------
+ID: 242
+Primary: Follow your gut
+Chinese: 跟着感觉走 (Gēnzhe gǎnjué zǒu) / 听从直觉 (Tīngcóng zhíjué)
+-------------------
+ID: 243
+Primary: My heart is fluttering
+Chinese: 我心怦怦跳 (Wǒ xīn pēngpēng tiào) / 我小鹿乱撞 (Wǒ xiǎolùluànzhuàng)
+-------------------
+ID: 244
+Primary: Feelings fade
+Chinese: 感情淡了 (Gǎnqíng dàn le)
+-------------------
+ID: 245
+Primary: Stop rubbing it in
+Chinese: 别显摆了 (Bié xiǎnbai le) / 别往伤口上撒盐了 (Bié wǎng shāngkǒu shàng sǎyán le)
+-------------------
+ID: 246
+Primary: It just goes to show
+Chinese: 这就证明了 (Zhè jiù zhèngmíng le) / 可见 (Kějiàn)
+-------------------
+ID: 247
+Primary: Mind over matter
+Chinese: 精神战胜物质 (Jīngshén zhànshèng wùzhì) / 意志力 (Yìzhìlì)
+-------------------
+ID: 248
+Primary: Bounce ideas off you
+Chinese: 跟你碰碰想法 (Gēn nǐ pèngpeng xiǎngfǎ) / 跟你商量一下 (Gēn nǐ shāngliang yīxià)
+-------------------
+ID: 249
+Primary: Sense of belonging
+Chinese: 归属感 (Guīshǔgǎn)
+-------------------
+ID: 250
+Primary: Pamper myself
+Chinese: 犒劳自己 (Kàoláo zìjǐ)
+-------------------
+ID: 251
+Primary: Indulge myself
+Chinese: 放纵自己 (Fàngzòng zìjǐ) / 对自己好点 (Duì zìjǐ hǎo diǎn)
+-------------------
+ID: 252
+Primary: It's too shabby
+Chinese: 太寒酸了 (Tài hánsuān le) / 太破旧了 (Tài pòjiù le)
+-------------------
+ID: 253
+Primary: Not too shabby
+Chinese: 还不赖 (Hái bùlài) / 挺好的 (Tǐng hǎo de)
+-------------------
+ID: 254
+Primary: It sounds corny
+Chinese: 听起来很老土 (Tīngqǐlái hěn lǎotǔ) / 听起来很肉麻 (Tīngqǐlái hěn ròumá)
+-------------------
+ID: 255
+Primary: It might sound obvious
+Chinese: 这可能听起来很明显 (Zhè kěnéng tīngqǐlái hěn míngxiǎn) / 这不是废话吗 (Zhè bùshì fèihuà ma)
+-------------------
+ID: 256
+Primary: Look who's talking
+Chinese: 瞧瞧谁在说话 (Qiáoqiao shéi zài shuōhuà) / 也不看看你自己 (Yě bù kànkan nǐ zìjǐ)
+-------------------
+ID: 257
+Primary: Pressed for time
+Chinese: 时间紧迫 (Shíjiān jǐnpò) / 赶时间 (Gǎnshíjiān)
+-------------------
+ID: 258
+Primary: Matter of time
+Chinese: 时间问题 (Shíjiān wèntí) / 迟早的事 (Chízǎo de shì)
+-------------------
+ID: 259
+Primary: The clock is ticking
+Chinese: 时间不多了 (Shíjiān bùduō le) / 没时间了 (Méi shíjiān le)
+-------------------
+ID: 260
+Primary: Your best bet
+Chinese: 你最好的选择 (Nǐ zuìhǎo de xuǎnzé) / 最好...... (Zuìhǎo......)
+-------------------
+ID: 261
+Primary: I'm not myself today
+Chinese: 我今天不在状态 (Wǒ jīntiān bù zài zhuàngtài)
+-------------------
+ID: 262
+Primary: Get it together
+Chinese: 振作起来 (Zhènzuò qǐlái) / 搞搞清楚 (Gǎogǎo qīngchu)
+-------------------
+ID: 263
+Primary: Come back down to earth
+Chinese: 别做白日梦了 (Bié zuò báirìmèng le) / 脚踏实地点 (Jiǎotàshídì diǎn)
+-------------------
+ID: 264
+Primary: Deadlines are looming
+Chinese: 截止日期快到了 (Jiézhǐ rìqī kuài dào le) / 马上到期了 (Mǎshàng dàoqī le)
+-------------------
+ID: 265
+Primary: Juggling a lot
+Chinese: 忙得团团转 (Máng de tuántuánzhuàn) / 分身乏术 (Fēnshēnfáshù)
+-------------------
+ID: 266
+Primary: Outdoorsy
+Chinese: 户外型 (Hùwàixíng) / 喜欢户外活动的 (Xǐhuan hùwài huódòng de)
+-------------------
+ID: 267
+Primary: Catch my drift?
+Chinese: 你懂我意思吗? (Nǐ dǒng wǒ yìsi ma?) / 明白了吗? (Míngbai le ma?)
+-------------------
+ID: 268
+Primary: Family function
+Chinese: 家庭聚会 (Jiātíng jùhuì)
+-------------------
+ID: 269
+Primary: Scoot over
+Chinese: 挪一挪 (Nuóyīnuó) / 挤一挤 (Jǐyījǐ)
+-------------------
+ID: 270
+Primary: Keep it together
+Chinese: 稳住 (Wěnzhù) / 别崩溃 (Bié bēngkuì)
+-------------------
+ID: 271
+Primary: Keep your cool
+Chinese: 保持冷静 (Bǎochí lěngjìng) / 别冲动 (Bié chōngdòng)
+-------------------
+ID: 272
+Primary: It's beautiful out
+Chinese: 外面天气真好 (Wàimian tiānqì zhēn hǎo)
+-------------------
+ID: 273
+Primary: Don't flatter yourself
+Chinese: 别自作多情了 (Bié zìzuòduōqíng le) / 别往自己脸上贴金了 (Bié wǎng zìjǐ liǎnshàng tiējīn le)
+-------------------
+ID: 274
+Primary: Stop pestering me
+Chinese: 别缠着我 (Bié chánzhe wǒ) / 别烦我 (Bié fán wǒ)
+-------------------
+ID: 275
+Primary: Knock yourself out
+Chinese: 请便 (Qǐngbiàn) / 随便你 (Suíbiàn nǐ)
+-------------------
+ID: 276
+Primary: Run it by you
+Chinese: 跟你商量一下 (Gēn nǐ shāngliang yīxià) / 问问你的意见 (Wènwen nǐ de yìjiàn)
+-------------------
+ID: 277
+Primary: Drafting
+Chinese: 起草 (Qǐcǎo) / 打草稿 (Dǎ cǎogǎo)
+-------------------
+ID: 278
+Primary: Same difference
+Chinese: 半斤八两 (Bànjīnbāliǎng) / 没啥区别 (Méishá qūbié)
+-------------------
+ID: 279
+Primary: Don't make a scene
+Chinese: 别闹了 (Bié nào le) / 别丢人现眼了 (Bié diūrénxiànyǎn le)
+-------------------
+ID: 280
+Primary: Don’t take it out on me
+Chinese: 别拿我撒气 (Bié ná wǒ sāqì) / 别把气撒我身上 (Bié bǎ qì sā wǒ shēnshàng)
+-------------------
+ID: 281
+Primary: So petty
+Chinese: 太小心眼了 (Tài xiǎoxīnyǎn le) / 斤斤计较 (Jīnjīnjìjiào)
+-------------------
+ID: 282
+Primary: Good things are coming
+Chinese: 好事将近 (Hǎoshì jiāngjìn) / 好日子在后头呢 (Hǎo rìzi zài hòutou ne)
+-------------------
+ID: 283
+Primary: You're killing it
+Chinese: 你太棒了 (Nǐ tài bàng le) / 你做得太好了 (Nǐ zuò de tài hǎo le)
+-------------------
+ID: 284
+Primary: You crushed it
+Chinese: 你干得漂亮 (Nǐ gàn de piàoliang) / 完胜 (Wánshèng)
+-------------------
+ID: 285
+Primary: Mind-blowing
+Chinese: 太震撼了 (Tài zhènhàn le) / 脑洞大开 (Nǎodòngdàkāi)
+-------------------
+ID: 286
+Primary: Doormat
+Chinese: 受气包 (Shòuqìbāo) / 软柿子 (Ruǎnshìzi)
+-------------------
+ID: 287
+Primary: Caught me off guard
+Chinese: 让我措手不及 (Ràng wǒ cuòshǒubùjí) / 吓我一跳 (Xià wǒ yī tiào)
+-------------------
+ID: 288
+Primary: Ex-wife
+Chinese: 前妻 (Qiánqī)
+-------------------
+ID: 289
+Primary: I still have a long way to go
+Chinese: 我还差得远呢 (Wǒ hái chà de yuǎn ne)
+-------------------
+ID: 290
+Primary: Long way to go
+Chinese: 路还长着呢 (Lù hái chángzhe ne) / 任重道远 (Rènzhòngdàoyuǎn)
+-------------------
+ID: 291
+Primary: Listen to yourself
+Chinese: 听听你自己说的话 (Tīngting nǐ zìjǐ shuō de huà)
+-------------------
+ID: 292
+Primary: Face the music
+Chinese: 承担后果 (Chéngdān hòuguǒ) / 面对现实 (Miànduì xiànshí)
+-------------------
+ID: 293
+Primary: I can't even
+Chinese: 我无语了 (Wǒ wúyǔ le) / 我受不了了 (Wǒ shòubùliǎo le)
+-------------------
+ID: 294
+Primary: Autumn blues
+Chinese: 悲秋 (Bēiqiū) / 秋季抑郁 (Qiūjì yìyù)
+-------------------
+ID: 295
+Primary: Delulu is the solulu
+Chinese: 甚至不清是唯一的解药 (Shènzhì bùqīng shì wéiyī de jiěyào) / 敢想才会有 (Gǎnxiǎng cái huì yǒu) (Internet slang: Delulu is the solulu)
+-------------------
+ID: 296
+Primary: Bring it on
+Chinese: 放马过来 (Fàngmǎguòlái) / 尽管来吧 (Jǐnguǎn lái ba)
+-------------------
+ID: 297
+Primary: Out of the question
+Chinese: 绝不可能 (Jué bù kěnéng) / 没门儿 (Méiménr)
+-------------------
+ID: 298
+Primary: Touch grass
+Chinese: 出去走走 (Chūqù zǒuzou) / 别老宅着 (Bié lǎo zhāizhe) (Literal: touch grass)
+-------------------
+ID: 299
+Primary: Fake it 'til you make it
+Chinese: 装久了就成真的了 (Zhuāng jiǔ le jiù chéng zhēn de le) / 弄假成真 (Nòngjiǎchéngzhēn)
+-------------------
+ID: 300
+Primary: Sipping on coffee
+Chinese: 抿着咖啡 (Mǐnzhe kāfēi)
+-------------------
+ID: 301
+Primary: Cut me dead
+Chinese: 当我不存在 (Dāng wǒ bù cúnzài) / 无视我 (Wúshì wǒ)
+-------------------
+ID: 302
+Primary: Take ones to know one
+Chinese: 彼此彼此 (Bǐcǐ bǐcǐ) / 你也一样 (Nǐ yě yīyàng)
+-------------------
+ID: 303
+Primary: Don't kill the vibe
+Chinese: 别扫兴 (Bié sǎoxìng) / 别破坏气氛 (Bié pòhuài qìfēn)
+-------------------
+ID: 304
+Primary: Have you lost weight?
+Chinese: 你瘦了吗? (Nǐ shòu le ma?)
+-------------------
+ID: 305
+Primary: It's too greasy
+Chinese: 太油了 (Tài yóu le) / 太油腻了 (Tài yóunì le)
+-------------------
+ID: 306
+Primary: We bonded so quickly
+Chinese: 我们很快就熟络了 (Wǒmen hěn kuài jiù shúluò le) / 我们一见如故 (Wǒmen yījiànrúgù)
+-------------------
+ID: 307
+Primary: I called in sick
+Chinese: 我打电话请病假了 (Wǒ dǎ diànhuà qǐng bìngjià le)
+-------------------
+ID: 308
+Primary: Cut back
+Chinese: 削减 (Xuējiǎn) / 少吃点 (Shǎo chī diǎn)
+-------------------
+ID: 309
+Primary: Sneak out of
+Chinese: 溜走 (Liūzǒu) / 偷跑 (Tōupǎo)
+-------------------
+ID: 310
+Primary: Set someone up with
+Chinese: 撮合某人 (Cuōhé mǒurén) / 给某人介绍对象 (Gěi mǒurén jièshào duìxiàng)
+-------------------
+ID: 311
+Primary: Here we go again
+Chinese: 又来了 (Yòu lái le)
+-------------------
+ID: 312
+Primary: I don't want to twist your arm
+Chinese: 我不想强迫你 (Wǒ bù xiǎng qiǎngpò nǐ)
+-------------------
+ID: 313
+Primary: That’s rich coming from you
+Chinese: 你自己也不咋地 (Nǐ zìjǐ yě bù zǎ dì) / 亏你好意思说 (Kuī nǐ hǎoyìsi shuō)
+-------------------
+ID: 314
+Primary: Now we're talking
+Chinese: 这就对了 (Zhè jiù duì le) / 这才像话 (Zhè cái xiànghuà)
+-------------------
+ID: 315
+Primary: Don't count your chickens before they hatch
+Chinese: 别高兴得太早 (Bié gāoxìng de tài zǎo) / 八字还没一撇呢 (Bāzì hái méi yīpiě ne)
+-------------------
+ID: 316
+Primary: How do you like it?
+Chinese: 你觉得怎么样? (Nǐ juéde zěnmeyàng?)
+-------------------
+ID: 317
+Primary: Throw a party
+Chinese: 办派对 (Bàn pàiduì) / 搞个聚会 (Gǎo gè jùhuì)
+-------------------
+ID: 318
+Primary: Don't read too much into it
+Chinese: 别想太多 (Bié xiǎng tài duō) / 别过度解读 (Bié guòdù jiědú)
+-------------------
+ID: 319
+Primary: It doesn't hurt to ask
+Chinese: 问问又没坏处 (Wènwen yòu méi huàichu) / 问问也无妨 (Wènwen yě wúfáng)
+-------------------
+ID: 320
+Primary: It cracks me up
+Chinese: 笑死我了 (Xiào sǐ wǒ le)
+-------------------
+ID: 321
+Primary: I'd rather not
+Chinese: 我宁愿不要 (Wǒ nìngyuàn bùyào) / 还是算了吧 (Háishì suàn le ba)
+-------------------
+ID: 322
+Primary: Picky
+Chinese: 挑剔 (Tiāotì) / 事儿多 (Shìr duō)
+-------------------
+ID: 323
+Primary: I care about you
+Chinese: 我在乎你 (Wǒ zàihu nǐ) / 我关心你 (Wǒ guānxīn nǐ)
+-------------------
+ID: 324
+Primary: Don’t get your hopes up
+Chinese: 别抱太大希望 (Bié bào tài dà xīwàng)
+-------------------
+ID: 325
+Primary: Handful
+Chinese: 难搞的人 (Nángǎo de rén) / 棘手的事 (Jíshǒu de shì)
+-------------------
+ID: 326
+Primary: How shall I put it?
+Chinese: 怎么说呢? (Zěnme shuō ne?)
+-------------------
+ID: 327
+Primary: Put my dog down
+Chinese: 给我的狗安乐死 (Gěi wǒ de gǒu ānlèsǐ)
+-------------------
+ID: 328
+Primary: Kiss up, kick down
+Chinese: 欺下媚上 (Qīxià mèishàng)
+-------------------
+ID: 329
+Primary: White elephant
+Chinese: 累赘 (Lé赘) / 华而不实的东西 (Huá'érbùshí de dōngxi)
+-------------------
+ID: 330
+Primary: Crispy on the outside, tender on the inside
+Chinese: 外酥里嫩 (Wàisūlǐnèn)
+-------------------
+ID: 331
+Primary: He came out of nowhere
+Chinese: 他突然冒出来的 (Tā tūrán mào chūlái de)
+-------------------
+ID: 332
+Primary: Scarlet
+Chinese: 猩红 (Xīnghóng)
+-------------------
+ID: 333
+Primary: Catch me up
+Chinese: 跟我说说最新情况 (Gēn wǒ shuōshuo zuìxīn qíngkuàng) / 给我补补课 (Gěi wǒ bǔbǔ kè)
+-------------------
+ID: 334
+Primary: I got mugged
+Chinese: 我被抢了 (Wǒ bèi qiǎng le)
+-------------------
+ID: 335
+Primary: Don’t get me wrong / hear me out
+Chinese: 别误会 (Bié wùhuì) / 听我解释 (Tīng wǒ jiěshì)
+-------------------
+ID: 336
+Primary: Iconic
+Chinese: 标志性的 (Biāozhìxìng de) / 经典的 (Jīngdiǎn de)
+-------------------
+ID: 337
+Primary: Drafty
+Chinese: 漏风 (Lòufēng) / 有穿堂风 (Yǒu chuāntángfēng)
+-------------------
+ID: 338
+Primary: Masseur / Masseuse
+Chinese: 按摩师 (Ànmóshī)
+-------------------
+ID: 339
+Primary: It's frustrating
+Chinese: 太让人抓狂了 (Tài ràng rén zhuākuáng le) / 很挫败 (Hěn cuòbài)
+-------------------
+ID: 340
+Primary: Low-key
+Chinese: 低调 (Dīdiào) / 这种感觉淡淡的 (Zhèzhǒng gǎnjué dàndàn de)
+-------------------
+ID: 341
+Primary: Don't stand out
+Chinese: 别太显眼 (Bié tài xiǎnyǎn) / 别出风头 (Bié chū fēngtou)
+-------------------
+ID: 342
+Primary: Safe haven
+Chinese: 避风港 (Bìfēnggǎng) / 安全地带 (Ānquán dìdài)
+-------------------
+ID: 343
+Primary: Don't be so extra
+Chinese: 别太戏精 (Bié tài xìjīng) / 别太夸张 (Bié tài kuāzhāng)
+-------------------
+ID: 344
+Primary: I feel drained
+Chinese: 我累瘫了 (Wǒ lèitān le) / 被掏空了 (Bèi tāokōng le)
+-------------------
+ID: 345
+Primary: Serves you right
+Chinese: 活该 (Huógāi) / 自作自受 (Zìzuòzìshòu)
+-------------------
+ID: 346
+Primary: I’m up for it / I’m down
+Chinese: 我愿意 (Wǒ yuànyì) / 算我一个 (Suàn wǒ yīgè)
+-------------------
+ID: 347
+Primary: That's a bummer
+Chinese: 真扫兴 (Zhēn sǎoxìng) / 太可惜了 (Tài kěxī le)
+-------------------
+ID: 348
+Primary: She's got a big mouth
+Chinese: 她嘴巴很大 (Tā zuǐba hěn dà) / 她守不住秘密 (Tā shǒubuzhù mìmì)
+-------------------
+ID: 349
+Primary: Ham-fisted
+Chinese: 笨手笨脚 (Bènshǒubènjiǎo)
+-------------------
+ID: 350
+Primary: One thing led to another
+Chinese: 事情就那样发生了 (Shìqing jiù nàyàng fāshēng le) / 后来就... (Hòulái jiù...)
+-------------------
+ID: 351
+Primary: What on earth are you doing?
+Chinese: 你到底在干什么? (Nǐ dàodǐ zài gàn shénme?)
+-------------------
+ID: 352
+Primary: Soak up the sun
+Chinese: 晒太阳 (Shài tàiyáng) / 享受阳光 (Xiǎngshòu yángguāng)
+-------------------
+ID: 353
+Primary: I caught him red-handed
+Chinese: 我抓了他个现行 (Wǒ zhuā le tā gè xiànxíng)
+-------------------
+ID: 354
+Primary: I can't resist a draft beer on a hot day like this
+Chinese: 这么热的天，我抗拒不了扎啤 (Zhème rè de tiān, wǒ kàngjù bùliǎo zhāpí)
+-------------------
+ID: 355
+Primary: How about you?
+Chinese: 你呢? (Nǐ ne?)
+-------------------
+ID: 356
+Primary: That's what I need
+Chinese: 这正是我需要的 (Zhè zhèngshì wǒ xūyào de)
+-------------------
+ID: 357
+Primary: life stages and transitions
+Chinese: 人生阶段和转折 (Rénshēng jiēduàn hé zhuǎnzhé)
+-------------------
+ID: 358
+Primary: Suck up
+Chinese: 拍马屁 (Pāimǎpì) / 讨好 (Tǎohǎo)
+-------------------
+ID: 359
+Primary: Good husband material
+Chinese: 好老公的料 (Hǎo lǎogōng de liào)
+-------------------
+ID: 360
+Primary: I mix things up
+Chinese: 我搞混了 (Wǒ gǎohùn le)
+-------------------
+ID: 361
+Primary: It's growing on me
+Chinese: 我越来越喜欢它了 (Wǒ yuèláiyuè xǐhuan tā le)
+-------------------
+ID: 362
+Primary: Who would've thought?
+Chinese: 谁能想到呢? (Shéi néng xiǎngdào ne?)
+-------------------
+ID: 363
+Primary: Artful Dodger
+Chinese: 机灵鬼 (Jīlíngguǐ) / 狡猾的家伙 (Jiǎohuá de jiāhuo)
+-------------------
+ID: 364
+Primary: Captivating
+Chinese: 迷人的 (Mírén de) / 这种感觉太棒了 (Zhèzhǒng gǎnjué tài bàng le)
+-------------------
+ID: 365
+Primary: BFF
+Chinese: 死党 (Sǐdǎng) / 永远最好的朋友 (Yǒngyuǎn zuìhǎo de péngyou)
+-------------------
+ID: 366
+Primary: Stab in the back
+Chinese: 背后捅刀子 (Bèihòu tǒng dāozi)
+-------------------
+ID: 367
+Primary: Take a stab at
+Chinese: 尝试一下 (Chángshì yīxià) / 试着做 (Shìzhe zuò)
+-------------------
+ID: 368
+Primary: That’s my thing not yours
+Chinese: 那是我的事，不关你事 (Nà shì wǒ de shì, bù guān nǐ shì) / 那是我的强项 (Nà shì wǒ de qiángxiàng)
+-------------------
+ID: 369
+Primary: Went ghost
+Chinese: 玩失踪 (Wán shīzōng) / 突然消失 (Tūrán xiāoshī)
+-------------------
+ID: 370
+Primary: Without a doubt
+Chinese: 毫无疑问 (Háowúyíwèn) / 肯定 (Kěndìng)
+-------------------
+ID: 371
+Primary: Apparently
+Chinese: 显然 (Xiǎnrán) / 看来 (Kànlái)
+-------------------
+ID: 372
+Primary: On my own
+Chinese: 靠我自己 (Kào wǒ zìjǐ) / 独自一人 (Dúzì yīrén)
+-------------------
+ID: 373
+Primary: Dumpster fire
+Chinese: 一团糟 (Yītuánzāo) / 烂摊子 (Làntānzi)
+-------------------
+ID: 374
+Primary: Chaperone
+Chinese: 监护人 (Jiānhùrén) / 伴护 (Bànhù)
+-------------------
+ID: 375
+Primary: Break free
+Chinese: 挣脱 (Zhèngtuō) / 获得自由 (Huòdé zìyóu)
+-------------------
+ID: 376
+Primary: Sounds very rehearsed
+Chinese: 听起来像背好的 (Tīngqǐlái xiàng bèihǎo de) / 听起来很假 (Tīngqǐlái hěn jiǎ)
+-------------------
+ID: 377
+Primary: Severance pay
+Chinese: 遣散费 (Qiǎnsànfèi)
+-------------------
+ID: 378
+Primary: Cry me a river
+Chinese: 我不信你那一套 (Wǒ bù xìn nǐ nà yī tào) / 省省吧 (Shěngsheng ba)
+-------------------
+ID: 379
+Primary: Don’t play dumb / innocent
+Chinese: 别装傻 (Bié zhuāngshǎ) / 别装无辜 (Bié zhuāng wúgū)
+-------------------
+ID: 380
+Primary: Low profile
+Chinese: 低调 (Dīdiào)
+-------------------
+ID: 381
+Primary: The noodles are soggy
+Chinese: 面条坨了 (Miàntiáo tuó le)
+-------------------
+ID: 382
+Primary: I won an award at the art contest
+Chinese: 我在艺术比赛中获奖了 (Wǒ zài yìshù bǐsài zhōng huòjiǎng le)
+-------------------
+ID: 383
+Primary: Apple of my eye
+Chinese: 掌上明珠 (Zhǎngshàngmíngzhū) / 最珍爱的人 (Zuì zhēn'ài de rén)
+-------------------
+ID: 384
+Primary: My leg fell asleep
+Chinese: 我腿麻了 (Wǒ tuǐ má le)
+-------------------
+ID: 385
+Primary: I didn't pick it
+Chinese: 不是我选的 (Bùshì wǒ xuǎn de)
+-------------------
+ID: 386
+Primary: I have a lot on my plate
+Chinese: 我有一大堆事儿 (Wǒ yǒu yī dà duī shìr) / 我忙死了 (Wǒ máng sǐ le)
+-------------------
+ID: 387
+Primary: We'll start from there
+Chinese: 我们从那儿开始 (Wǒmen cóng nàr kāishǐ)
+-------------------
+ID: 388
+Primary: Your fly is open
+Chinese: 你拉链开了 (Nǐ lāliàn kāi le)
+-------------------
+ID: 389
+Primary: Pizza doesn't judge
+Chinese: 披萨不会评判你 (Pīsà bùhuì píngpàn nǐ) / 吃就完了 (Chī jiù wán le)
+-------------------
+ID: 390
+Primary: I better be off
+Chinese: 我得走了 (Wǒ děi zǒu le)
+-------------------
+ID: 391
+Primary: You can't just leave
+Chinese: 你不能就这么走了 (Nǐ bùnéng jiù zhème zǒu le)
+-------------------
+ID: 392
+Primary: Think it through
+Chinese: 想清楚 (Xiǎng qīngchu) / 深思熟虑 (Shēnsīshúlǜ)
+-------------------
+ID: 393
+Primary: Little did I know
+Chinese: 我一点都不知道 (Wǒ yīdiǎn dōu bù zhīdào) / 谁能想到 (Shéi néng xiǎngdào)
+-------------------
+ID: 394
+Primary: Post-credit scene
+Chinese: 片尾彩蛋 (Piànwěi cǎidàn)
+-------------------
+ID: 395
+Primary: Intact
+Chinese: 完好无损 (Wánhǎowúsǔn)
+-------------------
+ID: 396
+Primary: That's so random
+Chinese: 太莫名其妙了 (Tài mòmíngqímiào le) / 太突然了 (Tài tūrán le)
+-------------------
+ID: 397
+Primary: Newlyweds
+Chinese: 新婚夫妇 (Xīnhūn fūfù)
+-------------------
+ID: 398
+Primary: Left-wing
+Chinese: 左翼 (Zuǒyì)
+-------------------
+ID: 399
+Primary: Technically speaking
+Chinese: 严格来说 (Yángé láishuō) / 技术上讲 (Jìshù shàng jiǎng)
+-------------------
+ID: 400
+Primary: I hate to admit it
+Chinese: 虽然我不想承认 (Suīrán wǒ bù xiǎng chéngrèn)
+-------------------
+ID: 401
+Primary: Off you go
+Chinese: 去吧 (Qù ba) / 走你 (Zǒu nǐ)
+-------------------
+ID: 402
+Primary: Why couldn't I bring myself to say it?
+Chinese: 我怎么就说不出口呢? (Wǒ zěnme jiù shuōbu chūkǒu ne?)
+-------------------
+ID: 403
+Primary: Eat your fill
+Chinese: 吃个够 (Chī gè gòu) / 尽管吃 (Jǐnguǎn chī)
+-------------------
+ID: 404
+Primary: Touch and go
+Chinese: 一触即发 (Yīchùjífā) / 这种感觉很微妙 (Zhèzhǒng gǎnjué hěn wēimiào)
+-------------------
+ID: 405
+Primary: I felt so troubled
+Chinese: 我很纠结 (Wǒ hěn jiūjié) / 我很苦恼 (Wǒ hěn kǔnǎo)
+-------------------
+ID: 406
+Primary: Say what? I'm lost
+Chinese: 说什么? 我没听懂 (Shuō shénme? Wǒ méi tīngdǒng) / 啥? 我懵了 (Shá? Wǒ měng le)
+-------------------
+ID: 407
+Primary: I wish
+Chinese: 想得美 (Xiǎng de měi) / 但愿如此 (Dànyuàn rúcǐ)
+-------------------
+ID: 408
+Primary: Not happening
+Chinese: 没门儿 (Méiménr) / 这事儿没戏 (Zhè shìr méixì)
+-------------------
+ID: 409
+Primary: Pregame
+Chinese: 预热 (Yùrè) / 喝两杯再走 (Hē liǎngbēi zài zǒu)
+-------------------
+ID: 410
+Primary: Born and raised
+Chinese: 土生土长 (Tǔshēngtǔzhǎng)
+-------------------
+ID: 411
+Primary: Music to my ears
+Chinese: 中听 (Zhōngtīng) / 这话我爱听 (Zhèhuà wǒ ài tīng)
+-------------------
+ID: 412
+Primary: Cut to the chase / get to the point
+Chinese: 直奔主题 (Zhíbènzhǔtí) / 说重点 (Shuō zhòngdiǎn)
+-------------------
+ID: 413
+Primary: I'm running 20 minutes late
+Chinese: 我晚了20分钟 (Wǒ wǎn le èrshí fēnzhōng)
+-------------------
+ID: 414
+Primary: Get busted
+Chinese: 被抓现行 (Bèi zhuā xiànxíng) / 露馅了 (Lòuxiàn le)
+-------------------
+ID: 415
+Primary: Walk me through that day
+Chinese: 跟我讲讲那天的事 (Gēn wǒ jiǎngjiang nàtiān de shì)
+-------------------
+ID: 416
+Primary: What's the angle?
+Chinese: 什么意图? (Shénme yìtú?) / 什么角度? (Shénme jiǎodù?)
+-------------------
+ID: 417
+Primary: Snapped
+Chinese: 炸毛了 (Zhàmáo le) / 崩溃了 (Bēngkuì le)
+-------------------
+ID: 418
+Primary: Accomplice
+Chinese: 同伙 (Tónghuǒ) / 共犯 (Gòngfàn)
+-------------------
+ID: 419
+Primary: Visit someone
+Chinese: 拜访某人 (Bàifǎng mǒurén) / 串门 (Chuànmén)
+-------------------
+ID: 420
+Primary: I don't have it on me
+Chinese: 我没带在身上 (Wǒ méi dài zài shēnshàng)
+-------------------
+ID: 421
+Primary: The line starts back there
+Chinese: 队尾在那边 (Duìwěi zài nàbian)
+-------------------
+ID: 422
+Primary: Sever
+Chinese: 切断 (Qiēduàn) / 断绝 (Duànjué)
+-------------------
+ID: 423
+Primary: Go big or go home
+Chinese: 要么做大要么回家 (Yàome zuò dà yàome huíjiā) / 豁出去了 (Huōchūqu le)
+-------------------
+ID: 424
+Primary: I was rash
+Chinese: 我太鲁莽了 (Wǒ tài lǔmǎng le) / 我太冲动了 (Wǒ tài chōngdòng le)
+-------------------
+ID: 425
+Primary: You seem gaunt
+Chinese: 你看起来很憔悴 (Nǐ kànqǐlái hěn qiáocuì)
+-------------------
+ID: 426
+Primary: Sing like a canary
+Chinese: 全招了 (Quán zhāo le) / 供认不讳 (Gòngrènbùhuì)
+-------------------
+ID: 427
+Primary: Eat someone out of house and home
+Chinese: 把某人吃穷了 (Bǎ mǒurén chī qióng le)
+-------------------
+ID: 428
+Primary: Eating him up inside
+Chinese: 让他内心备受煎熬 (Ràng tā nèixīn bèishòu jiān'áo)
+-------------------
+ID: 429
+Primary: It figures
+Chinese: 虽迟但到 (Suī chí dàn dào) / 怪不得 (Guàibude)
+-------------------
+ID: 430
+Primary: Curse someone out
+Chinese: 痛骂某人 (Tòngmà mǒurén) / 爆粗口 (Bào cūkǒu)
+-------------------
+ID: 431
+Primary: One way or the other
+Chinese: 不管怎样 (Bùguǎn zěnyàng) / 迟早 (Chízǎo)
+-------------------
+ID: 432
+Primary: Twists and turns
+Chinese: 曲折 (Qūzhé) / 跌宕起伏 (Diēdàngqǐfú)
+-------------------
+ID: 433
+Primary: Reward someone handsomely
+Chinese: 重赏某人 (Zhòngshǎng mǒurén)
+-------------------
+ID: 434
+Primary: Bite the bullet
+Chinese: 咬紧牙关 (Yǎojǐnyáguān) / 硬着头皮 (Yìngzhe tóupí)
+-------------------
+ID: 435
+Primary: At all costs
+Chinese: 不惜一切代价 (Bùxī yīqiè dàijià)
+-------------------
+ID: 436
+Primary: A bolt from the blue
+Chinese: 晴天霹雳 (Qíngtiānpīlì)
+-------------------
+ID: 437
+Primary: Falling apart
+Chinese: 分崩离析 (Fēnbēnglíxī) / 崩溃 (Bēngkuì)
+-------------------
+ID: 438
+Primary: Think straight
+Chinese: 思路清晰 (Sīlù qīngxī) / 不犯糊涂 (Bù fàn hútu)
+-------------------
+ID: 439
+Primary: Migraine
+Chinese: 偏头痛 (Piāntóutòng)
+-------------------
+ID: 440
+Primary: Leave someone out
+Chinese: 冷落某人 (Lěngluò mǒurén) / 不带某人玩 (Bù dài mǒurén wán)
+-------------------
+ID: 441
+Primary: I wouldn't know
+Chinese: 我哪知道 (Wǒ nǎ zhīdào)
+-------------------
+ID: 442
+Primary: Don't get worked up
+Chinese: 别激动 (Bié jīdòng) / 别上火 (Bié shànghuǒ)
+-------------------
+ID: 443
+Primary: Will you take it to my room?
+Chinese: 能帮我拿回房间吗? (Néng bāng wǒ ná huí fángjiān ma?)
+-------------------
+ID: 444
+Primary: I'll have the same
+Chinese: 我也要一样的 (Wǒ yě yào yīyàng de)
+-------------------
+ID: 445
+Primary: I've been meaning to tell you
+Chinese: 我一直想告诉你 (Wǒ yīzhí xiǎng gàosu nǐ)
+-------------------
+ID: 446
+Primary: Care for another?
+Chinese: 再来一个? (Zài lái yīgè?)
+-------------------
+ID: 447
+Primary: Feel for
+Chinese: 同情 (Tóngqíng) / 替...感到难过 (Tì... gǎndào nánguò)
+-------------------
+ID: 448
+Primary: How long has it been?
+Chinese: 多久了? (Duōjiǔ le?)
+-------------------
+ID: 449
+Primary: How have you been?
+Chinese: 你最近怎么样? (Nǐ zuìjìn zěnmeyàng?)
+-------------------
+ID: 450
+Primary: Outlier
+Chinese: 局外人 (Júwàirén) / 异类 (Yìlèi)
+-------------------
+ID: 451
+Primary: I could use some
+Chinese: 我正好需要 (Wǒ zhènghǎo xūyào) / 我想来点 (Wǒ xiǎng lái diǎn)
+-------------------
+ID: 452
+Primary: Have a way with
+Chinese: 擅长 (Shàncháng) / 有一套 (Yǒu yī tào)
+-------------------
+ID: 453
+Primary: You're a natural
+Chinese: 你真是个天才 (Nǐ zhēnshì gè tiāncái) / 你天生就是干这个的 (Nǐ tiānshēng jiùshì gàn zhège de)
+-------------------
+ID: 454
+Primary: You have a way with words
+Chinese: 你真会说话 (Nǐ zhēn huì shuōhuà) / 你口才真好 (Nǐ kǒucái zhēn hǎo)
+-------------------
+ID: 455
+Primary: It just came naturally to me
+Chinese: 我自然而然就会了 (Wǒ zìrán'érrán jiù huì le)
+-------------------
+ID: 456
+Primary: Ballpark it
+Chinese: 估算一下 (Gūsuàn yīxià) / 给个大概 (Gěi gè dàgài)
+-------------------
+ID: 457
+Primary: You're very disciplined
+Chinese: 你很自律 (Nǐ hěn zìlǜ)
+-------------------
+ID: 458
+Primary: It gives me chills
+Chinese: 让我起鸡皮疙瘩 (Ràng wǒ qǐ jīpígēda)
+-------------------
+ID: 459
+Primary: I got in the habit of
+Chinese: 我养成了...的习惯 (Wǒ yǎngchéng le... de xíguàn)
+-------------------
+ID: 460
+Primary: Let me make it up to you
+Chinese: 让我补偿你 (Ràng wǒ bǔcháng nǐ)
+-------------------
+ID: 461
+Primary: I'm feeling under the weather
+Chinese: 我身体不太舒服 (Wǒ shēntǐ bù tài shūfu) / 我有点不舒服 (Wǒ yǒudiǎn bù shūfu)
+-------------------
+ID: 462
+Primary: Blow up
+Chinese: 发火 (Fāhuǒ) / 爆发 (Bàofā) (also: 爆红 bàohóng for fame)
+-------------------
+ID: 463
+Primary: As good as it gets
+Chinese: 最好也就这样了 (Zuìhǎo yě jiù zhèyàng le) / 已经很完美了 (Yǐjīng hěn wánměi le)
+-------------------
+ID: 464
+Primary: Quit cold turkey
+Chinese: 突然戒掉 (Tūrán jièdiào) / 一次性戒断 (Yīcìxìng jièduàn)
+-------------------
+ID: 465
+Primary: Legit
+Chinese: 正宗 (Zhèngzōng) / 靠谱 (Kàopǔ)
+-------------------
+ID: 466
+Primary: He's no match for me
+Chinese: 他不是我的对手 (Tā bùshì wǒ de duìshǒu)
+-------------------
+ID: 467
+Primary: Easy does it
+Chinese: 慢慢来 (Mànman lái) / 别着急 (Bié zháojí)
+-------------------
+ID: 468
+Primary: Okie dokie
+Chinese: 好哒 (Hǎo da) / 没问题 (Méi wèntí)
+-------------------
+ID: 469
+Primary: Meh
+Chinese: 一般般 (Yībānbān) / 无感 (Wúgǎn)
+-------------------
+ID: 470
+Primary: It makes sense
+Chinese: 有道理 (Yǒu dàolǐ) / 说得通 (Shuōdetōng)
+-------------------
+ID: 471
+Primary: The air quality is bad
+Chinese: 空气质量很差 (Kōngqì zhìliàng hěn chà)
+-------------------
+ID: 472
+Primary: Chill guy
+Chinese: 淡定哥 (Dàndìng gē) / 佛系青年 (Fóxì qīngnián)
+-------------------
+ID: 473
+Primary: This will do the trick
+Chinese: 这就行了 (Zhè jiù xíng le) / 这就管用了 (Zhè jiù guǎnyòng le)
+-------------------
+ID: 474
+Primary: The whole shebang
+Chinese: 全套 (Quántào) / 所有东西 (Suǒyǒu dōngxi)
+-------------------
+ID: 475
+Primary: Easy peasy
+Chinese: 小菜一碟 (Xiǎocàiyīdié) / 轻而易举 (Qīng'éryìjǔ)
+-------------------
+ID: 476
+Primary: Chip on his shoulder
+Chinese: 好斗 (Hàodòu) / 愤世嫉俗 (Fènshìjísú)
+-------------------
+ID: 477
+Primary: Prickly attitude
+Chinese: 带刺的态度 (Dài cì de tàidù) / 很难相处 (Hěn nán xiāngchǔ)
+-------------------
+ID: 478
+Primary: I get that a lot
+Chinese: 经常有人这么说 (Jīngcháng yǒu rén zhème shuō)
+-------------------
+ID: 479
+Primary: Take it vertically
+Chinese: 站着喝 (Zhànzhe hē) / 不醉不归 (Bùzuìbùguī) (Depends on context, often means 'take it standing up' for bad news too)
+-------------------
+ID: 480
+Primary: Troll
+Chinese: 喷子 (Pēnzi) / 杠精 (Gàngjīng)
+-------------------
+ID: 481
+Primary: I'm freaking out
+Chinese: 我快疯了 (Wǒ kuài fēng le) / 我吓坏了 (Wǒ xiàhuài le)
+-------------------
+ID: 482
+Primary: Is this place open today?
+Chinese: 这地方今天开门吗? (Zhè dìfang jīntiān kāimén ma?)
+-------------------
+ID: 483
+Primary: Going through a phase
+Chinese: 正处于某个阶段 (Zhèng chǔyú mǒuge jiēduàn) / 叛逆期 (Pànnìqī) (often implies this)
+-------------------
+ID: 484
+Primary: Grow out of it
+Chinese: 长大就好了 (Zhǎngdà jiù hǎo le) / 会慢慢改掉的 (Huì mànman gǎidiào de)
+-------------------
+ID: 485
+Primary: Audience
+Chinese: 观众 (Guānzhòng) / 听众 (Tīngzhòng)
+-------------------
+ID: 486
+Primary: Leech
+Chinese: 吸血鬼 (Xīxuèguǐ) / 寄生虫 (Jìshēngchóng) (metaphorical)
+-------------------
+ID: 487
+Primary: It’s freezing out!
+Chinese: 外面冷死了! (Wàimian lěng sǐ le!)
+-------------------
+ID: 488
+Primary: Thought provoking
+Chinese: 发人深省 (Fārénshēnxǐng) / 引人深思 (Yǐnrénshēnsī)
+-------------------
+ID: 489
+Primary: Spill the beans or keep silent
+Chinese: 要么招了，要么闭嘴 (Yàome zhāo le, yàome bìzuǐ)
+-------------------
+ID: 490
+Primary: He called off the project.
+Chinese: 他取消了那个项目 (Tā qǔxiāo le nàge xiàngmù)
+-------------------
+ID: 491
+Primary: It's my cheat day
+Chinese: 今天是我的放纵日 (Jīntiān shì wǒ de fàngzòng rì) / 今天可以随便吃 (Jīntiān kěyǐ suíbiàn chī)
+-------------------
+ID: 492
+Primary: I had trouble sleeping
+Chinese: 我睡不好 (Wǒ shuì bù hǎo) / 我失眠了 (Wǒ shīmián le)
+-------------------
+ID: 493
+Primary: I had a blast
+Chinese: 我玩得很嗨 (Wǒ wán de hěn hāi) / 太好玩了 (Tài hǎowán le)
+-------------------
+ID: 494
+Primary: Dunno
+Chinese: 不知道 (Bù zhīdào) / 咋知道 (Zǎ zhīdào)
+-------------------
+ID: 495
+Primary: Girls...
+Chinese: 姐妹们... (Jiěmèimen...)
+-------------------
+ID: 496
+Primary: It's on me
+Chinese: 我请客 (Wǒ qǐngkè) / 算我账上 (Suàn wǒ zhàng shàng)
+-------------------
+ID: 497
+Primary: It's warm for November
+Chinese: 在这个时候算暖和的了 (Zài zhège shíhou suàn nuǎnhuo de le)
+-------------------
+ID: 498
+Primary: Good for the price
+Chinese: 性价比很高 (Xìngjiàbǐ hěn gāo)
+-------------------
+ID: 499
+Primary: I'm just thinking out loud
+Chinese: 我就是随口一说 (Wǒ jiùshì suíkǒu yī shuō) / 我就是瞎想 (Wǒ jiùshì xiāxiǎng)
+-------------------
+ID: 500
+Primary: Don’t read into that much
+Chinese: 别想太多 (Bié xiǎng tài duō) / 别过度解读 (Bié guòdù jiědú)
+-------------------
+ID: 501
+Primary: entertain an idea
+Chinese: 考虑一下这个想法 (Kǎolǜ yīxià zhège xiǎngfǎ)
+-------------------
+ID: 502
+Primary: Bang for your buck
+Chinese: 物超所值 (Wùchāosuǒzhí) / 很划算 (Hěn huásuàn)
+-------------------
+ID: 503
+Primary: This build up is crazy
+Chinese: 这铺垫也太疯狂了 (Zhè pūdiàn yě tài fēngkuáng le) / 气氛烘托太过了 (Qìfēn hōngtuō tài guò le)
+-------------------
+ID: 504
+Primary: It's penny for your thought
+Chinese: 说说在你想什么 (Shuōshuo zài nǐ xiǎng shénme)
+-------------------
+ID: 505
+Primary: Get worked up
+Chinese: 激动 (Jīdòng) / 上头 (Shàngtóu)
+-------------------
+ID: 506
+Primary: What's the hurry?
+Chinese: 急什么? (Jí shénme?)
+-------------------
+ID: 507
+Primary: What's the holdup?
+Chinese: 磨蹭什么呢? (Móceng shénme ne?) / 为什么耽搁了? (Wèishéme dānge le?)
+-------------------
+ID: 508
+Primary: You pull it off
+Chinese: 你做到了 (Nǐ zuòdào le) / 你搞定了 (Nǐ gǎodìng le)
+-------------------
+ID: 509
+Primary: Could be worse
+Chinese: 可能会更糟 (Kěnéng huì gèng zāo) / 知足吧 (Zhīzú ba)
+-------------------
+ID: 510
+Primary: Hit me with it
+Chinese: 说吧 (Shuō ba) / 告诉我 (Gàosu wǒ)
+-------------------
+ID: 511
+Primary: I am committed to Poland
+Chinese: 我决定去波兰了 (Wǒ juédìng qù Bōlán le)
+-------------------
+ID: 512
+Primary: Silver lining is
+Chinese: 好的一面是 (Hǎo de yīmiàn shì) / 不幸中的万幸是 (Bùxìng zhōng de wànxìng shì)
+-------------------
+ID: 513
+Primary: I'm on a roll
+Chinese: 我很顺 (Wǒ hěn shùn) / 我手气很壮 (Wǒ shǒuqì hěn zhuàng)
+-------------------
+ID: 514
+Primary: I've already incorporated your suggestions
+Chinese: 我已经把你的建议加进去了 (Wǒ yǐjīng bǎ nǐ de jiànyì jiā jìnqù le)
+-------------------
+ID: 515
+Primary: Jerk off
+Chinese: 混蛋 (Húndàn) / 敷衍 (Fūyǎn)
+-------------------
+ID: 516
+Primary: He will jerk you off
+Chinese: 他会耍你的 (Tā huì shuǎ nǐ de)
+-------------------
+ID: 517
+Primary: I'm around
+Chinese: 我就在附近 (Wǒ jiù zài fùjìn) / 我一直在 (Wǒ yīzhí zài)
+-------------------
+ID: 518
+Primary: IMO
+Chinese: 在我看来 (Zài wǒ kànlái)
+-------------------
+ID: 519
+Primary: Keep warm
+Chinese: 注意保暖 (Zhùyì bǎonuǎn)
+-------------------
+ID: 520
+Primary: Refreshingly cool
+Chinese: 沁人心脾的凉爽 (Qìnrénxīnpí de liángshuǎng)
+-------------------
+ID: 521
+Primary: Step on your toes
+Chinese: 得罪人 (Dézuì rén) / 抢风头 (Qiǎng fēngtou)
+-------------------
+ID: 522
+Primary: Vertical drink
+Chinese: 站着喝两杯 (Zhànzhe hē liǎngbēi)
+-------------------
+ID: 523
+Primary: It speaks volumes
+Chinese: 胜过千言万语 (Shèngguò qiānyánwànyǔ) / 很有说服力 (Hěn yǒu shuōfúlì)
+-------------------
+ID: 524
+Primary: Speak for itself
+Chinese: 不言自明 (Bùyánzìmíng)
+-------------------
+ID: 525
+Primary: It was a steal
+Chinese: 太便宜了 (Tài piányi le) / 捡到宝了 (Jiǎndào bǎo le)
+-------------------
+ID: 526
+Primary: We should stock up it's a steal
+Chinese: 我们得囤点货，这太便宜了 (Wǒmen děi tún diǎn huò, zhè tài piányi le)
+-------------------
+ID: 527
+Primary: What's good here
+Chinese: 这儿什么好吃? (Zhèr shénme hǎochī?)
+-------------------
+ID: 528
+Primary: plot charts
+Chinese: 绘制图表 (Huìzhì túbiǎo)
+-------------------
+ID: 529
+Primary: install packages
+Chinese: 安装包 (Ānzhuāng bāo)
+-------------------
+ID: 530
+Primary: save images
+Chinese: 保存图片 (Bǎocún túpiàn)
+-------------------
+ID: 531
+Primary: access images
+Chinese: 获取图片 (Huòqǔ túpiàn)
+-------------------
+ID: 532
+Primary: Never even crossed my mind
+Chinese: 压根儿没想过 (Yàgēnr méi xiǎngguò)
+-------------------
+ID: 533
+Primary: (be) disabled
+Chinese: 被禁用 (Bèi jìnyòng)
+-------------------
+ID: 534
+Primary: will not work
+Chinese: 不管用 (Bù guǎnyòng)
+-------------------
+ID: 535
+Primary: do not attempt
+Chinese: 别尝试 (Bié chángshì)
+-------------------
+ID: 536
+Primary: desired output format
+Chinese: 期望的输出格式 (Qīwàng de shūchū géshì)
+-------------------
+ID: 537
+Primary: take precedence
+Chinese: 优先 (Yōuxiān) / 占上风 (Zhàn shàngfēng)
+-------------------
+ID: 538
+Primary: ignore (the) guidelines
+Chinese: 无视准则 (Wúshì zhǔnzé)
+-------------------
+ID: 539
+Primary: clear and logical headings
+Chinese: 清晰且有逻辑的标题 (Qīngxī qiě yǒu luójí de biāotí)
+-------------------
+ID: 540
+Primary: keep paragraphs short
+Chinese: 段落要短 (Duànluò yào duǎn)
+-------------------
+ID: 541
+Primary: dense text blocks
+Chinese: 密密麻麻的文字 (Mìmimámá de wénzì)
+-------------------
+ID: 542
+Primary: bullet points
+Chinese: 要点 (Yàodiǎn) / 符号列表 (Fúhào lièbiǎo)
+-------------------
+ID: 543
+Primary: Condescending
+Chinese: 居高临下的 (Jūgāolínxià de) / 傲慢的 (Àomàn de)
+-------------------
+ID: 544
+Primary: numbered lists
+Chinese: 编号列表 (Biānhào lièbiǎo)
+-------------------
+ID: 545
+Primary: key takeaways
+Chinese: 关键要点 (Guānjiàn yàodiǎn)
+-------------------
+ID: 546
+Primary: grouped ideas
+Chinese: 归纳观点 (Guīnà guāndiǎn)
+-------------------
+ID: 547
+Primary: unordered lists
+Chinese: 无序列表 (Wúxù lièbiǎo)
+-------------------
+ID: 548
+Primary: ordered lists
+Chinese: 有序列表 (Yǒuxù lièbiǎo)
+-------------------
+ID: 549
+Primary: flow logically
+Chinese: 逻辑通顺 (Luójí tōngshùn)
+-------------------
+ID: 550
+Primary: scan and understand key points quickly
+Chinese: 快速浏览并理解要点 (Kuàisù liúlǎn bìng lǐjiě yàodiǎn)
+-------------------
+ID: 551
+Primary: readability
+Chinese: 可读性 (Kědúxìng)
+-------------------
+ID: 552
+Primary: preserve any and all citations
+Chinese: 保留所有引用 (Bǎoliú suǒyǒu yǐnyòng)
+-------------------
+ID: 553
+Primary: embed citations
+Chinese: 嵌入引用 (Qiànrù yǐnyòng)
+-------------------
+ID: 554
+Primary: Patronizing
+Chinese: 摆架子的 (Bǎi jiàzi de) / 甚至凌人的 (Shèngqìlíngrén de)
+-------------------
+ID: 555
+Primary: at the beginning of paragraphs
+Chinese: 在段落开头 (Zài duànluò kāitóu)
+-------------------
+ID: 556
+Primary: mention the sources
+Chinese: 提及来源 (Tíjí láiyuán)
+-------------------
+ID: 557
+Primary: in front of headers
+Chinese: 在标题前面 (Zài biāotí qiánmian)
+-------------------
+ID: 558
+Primary: What's up?
+Chinese: 怎么了? (Zěnme le?) / 咋样啊? (Zǎyàng a?)
+-------------------
+ID: 559
+Primary: Long time no see.
+Chinese: 好久不见 (Hǎojiǔ bùjiàn)
+-------------------
+ID: 560
+Primary: No worries.
+Chinese: 别担心 (Bié dānxīn) / 没事儿 (Méishìr)
+-------------------
+ID: 561
+Primary: Take your time.
+Chinese: 慢慢来 (Mànman lái)
+-------------------
+ID: 562
+Primary: I got it.
+Chinese: 我懂了 (Wǒ dǒng le) / 收到了 (Shōudào le)
+-------------------
+ID: 563
+Primary: I'm not sure.
+Chinese: 我不确定 (Wǒ bù quèdìng) / 我拿不准 (Wǒ nábuzhǔn)
+-------------------
+ID: 564
+Primary: Let me check.
+Chinese: 我查一下 (Wǒ chá yīxià)
+-------------------
+ID: 565
+Primary: Cocky
+Chinese: 自以为是 (Zìyǐwéishì) / 臭屁 (Chòupì)
+-------------------
+ID: 566
+Primary: Sounds good.
+Chinese: 听起来不错 (Tīngqǐlái bùcuò)
+-------------------
+ID: 567
+Primary: Hang on a sec.
+Chinese: 等一下 (Děng yīxià)
+-------------------
+ID: 568
+Primary: I'll be right back.
+Chinese: 我马上回来 (Wǒ mǎshàng huílái)
+-------------------
+ID: 569
+Primary: Gotta go.
+Chinese: 我得走了 (Wǒ děi zǒu le) / 挂了啊 (Guà le a)
+-------------------
+ID: 570
+Primary: I'm on my way.
+Chinese: 我在路上了 (Wǒ zài lùshàng le) / 马上到 (Mǎshàng dào)
+-------------------
+ID: 571
+Primary: By the way...
+Chinese: 顺便说一下 (Shùnbiàn shuō yīxià)
+-------------------
+ID: 572
+Primary: As far as I know.
+Chinese: 据我所知 (Jù wǒ suǒ zhī)
+-------------------
+ID: 573
+Primary: I mean...
+Chinese: 我是说... (Wǒ shì shuō...)
+-------------------
+ID: 574
+Primary: I guess so.
+Chinese: 大概是吧 (Dàgài shì ba) / 我猜也是 (Wǒ cāi yěshì)
+-------------------
+ID: 575
+Primary: I'm fine with that.
+Chinese: 我没意见 (Wǒ méi yìjiàn) / 我都可以 (Wǒ dōu kěyǐ)
+-------------------
+ID: 576
+Primary: spiritual awakening (monk-like mindset)
+Chinese: 精神觉醒 (Jīngshén juéxǐng) / 佛系心态 (Fóxì xīntài)
+-------------------
+ID: 577
+Primary: Why not?
+Chinese: 为什么不呢? (Wèishéme bù ne?) / 好哇 (Hǎo wa)
+-------------------
+ID: 578
+Primary: That's awesome!
+Chinese: 太棒了! (Tài bàng le!)
+-------------------
+ID: 579
+Primary: That's too bad.
+Chinese: 太遗憾了 (Tài yíhàn le) / 真糟糕 (Zhēn zāogāo)
+-------------------
+ID: 580
+Primary: Are you kidding me?
+Chinese: 你在开玩笑吗? (Nǐ zài kāiwánxiào ma?)
+-------------------
+ID: 581
+Primary: I'm just kidding.
+Chinese: 我开玩笑的 (Wǒ kāiwánxiào de) / 逗你玩呢 (Dòu nǐ wán ne)
+-------------------
+ID: 582
+Primary: Just in case.
+Chinese: 以防万一 (Yǐfángwànyī)
+-------------------
+ID: 583
+Primary: Never mind.
+Chinese: 算了 (Suàn le) / 没事了 (Méishì le)
+-------------------
+ID: 584
+Primary: It's up to you.
+Chinese: 听你的 (Tīng nǐ de) / 由你定 (Yóu nǐ dìng)
+-------------------
+ID: 585
+Primary: I'll pass.
+Chinese: 我就不去了 (Wǒ jiù bù qù le) / 我过 (Wǒ guò)
+-------------------
+ID: 586
+Primary: It's not a big deal.
+Chinese: 没什么大不了的 (Méi shénme dàbùliǎo de)
+-------------------
+ID: 587
+Primary: Better late than never
+Chinese: 迟做总比不做好 (Chí zuò zǒng bǐ bù zuò hǎo)
+-------------------
+ID: 588
+Primary: Keep in touch.
+Chinese: 保持联系 (Bǎochí liánxì) / 常联系 (Cháng liánxì)
+-------------------
+ID: 589
+Primary: Take it easy.
+Chinese: 放轻松 (Fàng qīngsōng) / 别太累 (Bié tài lèi)
+-------------------
+ID: 590
+Primary: It's been a while.
+Chinese: 好久没见了 (Hǎojiǔ méi jiàn le)
+-------------------
+ID: 591
+Primary: Fingers crossed.
+Chinese: 祈祷 (Qídǎo) / 但愿一切顺利 (Dànyuàn yīqiè shùnlì)
+-------------------
+ID: 592
+Primary: Good for you!
+Chinese: 真为你高兴! (Zhēn wéi nǐ gāoxìng!)
+-------------------
+ID: 593
+Primary: Lucky you.
+Chinese: 你真幸运 (Nǐ zhēn xìngyùn)
+-------------------
+ID: 594
+Primary: Good to know.
+Chinese: 很高兴知道这个 (Hěn gāoxìng zhīdào zhège) / 收到 (Shōudào)
+-------------------
+ID: 595
+Primary: Thanks anyway.
+Chinese: 不管怎样谢谢了 (Bùguǎn zěnyàng xièxie le) / 谢啦 (Xiè la)
+-------------------
+ID: 596
+Primary: What do you mean?
+Chinese: 你什么意思? (Nǐ shénme yìsi?)
+-------------------
+ID: 597
+Primary: What are you talking about?
+Chinese: 你在说什么啊? (Nǐ zài shuō shénme a?)
+-------------------
+ID: 598
+Primary: What’s the hold up?
+Chinese: 磨蹭什么呢? (Móceng shénme ne?)
+-------------------
+ID: 599
+Primary: Don't get me wrong.
+Chinese: 别误会 (Bié wùhuì)
+-------------------
+ID: 600
+Primary: No hard feelings.
+Chinese: 别往心里去 (Bié wǎng xīnlǐ qù) / 别介意 (Bié jièyì)
+-------------------
+ID: 601
+Primary: I'm not in the mood.
+Chinese: 我没心情 (Wǒ méi xīnqíng)
+-------------------
+ID: 602
+Primary: I can't help it.
+Chinese: 我没办法 (Wǒ méi bànfǎ) / 我忍不住 (Wǒ rěnbuzhù)
+-------------------
+ID: 603
+Primary: The more, the merrier.
+Chinese: 多多益善 (Duōduōyìshàn) / 人越多越热闹 (Rén yuè duō yuè rènào)
+-------------------
+ID: 604
+Primary: I'll take care of it.
+Chinese: 我来搞定 (Wǒ lái gǎodìng) / 交给我吧 (Jiāo gěi wǒ ba)
+-------------------
+ID: 605
+Primary: I'm all ears.
+Chinese: 洗耳恭听 (Xǐ'ěrgōngtīng) / 我听着呢 (Wǒ tīngzhe ne)
+-------------------
+ID: 606
+Primary: I can't wait.
+Chinese: 我等不及了 (Wǒ děngbují le)
+-------------------
+ID: 607
+Primary: It was a close call.
+Chinese: 好险 (Hǎo xiǎn) / 差点就完蛋了 (Chàdiǎn jiù wándàn le)
+-------------------
+ID: 608
+Primary: There you go.
+Chinese: 好了 (Hǎo le) / 就这样 (Jiù zhèyàng)
+-------------------
+ID: 609
+Primary: Barking up the wrong tree
+Chinese: 找错人了 (Zhǎo cuò rén le) / 搞错了方向 (Gǎo cuò le fāngxiàng)
+-------------------
+ID: 610
+Primary: Here we go.
+Chinese: 又来了 (Yòu lái le) / 开始了 (Kāishǐ le)
+-------------------
+ID: 611
+Primary: ASAP
+Chinese: 越快越好 (Yuè kuài yuè hǎo)
+-------------------
+ID: 612
+Primary: I have no idea.
+Chinese: 我完全不知道 (Wǒ wánquán bù zhīdào) / 我毫无头绪 (Wǒ háowú tóuxù)
+-------------------
+ID: 613
+Primary: It's not my thing.
+Chinese: 这不是我的菜 (Zhè bùshì wǒ de cài) / 我不感兴趣 (Wǒ bù gǎn xìngqù)
+-------------------
+ID: 614
+Primary: Let's get to the point.
+Chinese: 说重点 (Shuō zhòngdiǎn) / 别绕圈子 (Bié ràoquānzi)
+-------------------
+ID: 615
+Primary: I'm running late.
+Chinese: 我快迟到了 (Wǒ kuài chídào le)
+-------------------
+ID: 616
+Primary: It slipped my mind.
+Chinese: 我忘了 (Wǒ wàng le) / 我给忘了 (Wǒ gěi wàng le)
+-------------------
+ID: 617
+Primary: I'm starving.
+Chinese: 我饿死了 (Wǒ è sǐ le)
+-------------------
+ID: 618
+Primary: I'm stuffed.
+Chinese: 我撑死了 (Wǒ chēng sǐ le)
+-------------------
+ID: 619
+Primary: Let's grab a bite.
+Chinese: 去吃点东西吧 (Qù chī diǎn dōngxi ba)
+-------------------
+ID: 620
+Primary: It’s worth the wait
+Chinese: 值得等待 (Zhídé děngdài)
+-------------------
+ID: 621
+Primary: Give me a break.
+Chinese: 饶了我吧 (Ráo le wǒ ba) / 得了吧 (Dé le ba)
+-------------------
+ID: 622
+Primary: Not a chance.
+Chinese: 没门儿 (Méiménr) / 不可能 (Bù kěnéng)
+-------------------
+ID: 623
+Primary: It depends.
+Chinese: 看情况 (Kàn qíngkuàng)
+-------------------
+ID: 624
+Primary: You never know.
+Chinese: 世事难料 (Shìshì nánliào) / 谁知道呢 (Shéi zhīdào ne)
+-------------------
+ID: 625
+Primary: I'll let you know.
+Chinese: 我会通知你的 (Wǒ huì tōngzhī nǐ de) / 回头告诉你 (Huítóu gàosu nǐ)
+-------------------
+ID: 626
+Primary: Hope that helps.
+Chinese: 希望能帮到你 (Xīwàng néng bāng dào nǐ)
+-------------------
+ID: 627
+Primary: I appreciate it.
+Chinese: 我很感激 (Wǒ hěn gǎnjī) / 谢了 (Xiè le)
+-------------------
+ID: 628
+Primary: That's the plan.
+Chinese: 就这么定了 (Jiù zhème dìng le) / 计划就是这样 (Jìhuà jiùshì zhèyàng)
+-------------------
+ID: 629
+Primary: Time will tell.
+Chinese: 日久见人心 (Rìjiǔ jiàn rénxīn) / 时间会证明一切 (Shíjiān huì zhèngmíng yīqiè)
+-------------------
+ID: 630
+Primary: It's worth a try.
+Chinese: 值得一试 (Zhídé yī shì)
+-------------------
+ID: 631
+Primary: Whole shebang
+Chinese: 全套 (Quántào) / 所有的东西 (Suǒyǒu de dōngxi)
+-------------------
+ID: 632
+Primary: Let's get started.
+Chinese: 我们开始吧 (Wǒmen kāishǐ ba)
+-------------------
+ID: 633
+Primary: That reminds me...
+Chinese: 那让我想起了... (Nà ràng wǒ xiǎngqǐ le...)
+-------------------
+ID: 634
+Primary: I'll get back to you.
+Chinese: 我回头回复你 (Wǒ huítóu huífù nǐ) / 我再联系你 (Wǒ zài liánxì nǐ)
+-------------------
+ID: 635
+Primary: Keep me posted.
+Chinese: 有消息告诉我 (Yǒu xiāori gàosu wǒ) / 随时联系 (Suíshí liánxì)
+-------------------
+ID: 636
+Primary: Let me know.
+Chinese: 告诉我一声 (Gàosu wǒ yīshēng)
+-------------------
+ID: 637
+Primary: No doubt about it.
+Chinese: 毫无疑问 (Háowúyíwèn)
+-------------------
+ID: 638
+Primary: LOL
+Chinese: 哈哈 (Hāhā) / 笑死 (Xiàosǐ)
+-------------------
+ID: 639
+Primary: OMG
+Chinese: 天哪 (Tiān na)
+-------------------
+ID: 640
+Primary: BRB
+Chinese: 马上回来 (Mǎshàng huílái)
+-------------------
+ID: 641
+Primary: TTYL
+Chinese: 回头聊 (Huítóu liáo)
+-------------------
+ID: 642
+Primary: Nailed it
+Chinese: 搞定了 (Gǎodìng le) / 完美 (Wánměi)
+-------------------
+ID: 643
+Primary: IDK
+Chinese: 不知道 (Bù zhīdào)
+-------------------
+ID: 644
+Primary: FYI
+Chinese: 供参考 (Gōng cānkǎo) / 跟你说一声 (Gēn nǐ shuō yīshēng)
+-------------------
+ID: 645
+Primary: My bad.
+Chinese: 我的错 (Wǒ de cuò) / 怪我 (Guài wǒ)
+-------------------
+ID: 646
+Primary: That sucks.
+Chinese: 糟透了 (Zāo tòu le) / 真倒霉 (Zhēn dǎoméi)
+-------------------
+ID: 647
+Primary: Cont
+Chinese: 未完待续 (Wèiwándàixù)
+-------------------
+ID: 648
+Primary: Walk in the park
+Chinese: 小菜一碟 (Xiǎocàiyīdié) / 轻轻松松 (Qīngqīngsōngsōng)
+-------------------
+ID: 649
+Primary: Same here.
+Chinese: 我也一样 (Wǒ yě yīyàng) / 彼此彼此 (Bǐcǐ bǐcǐ)
+-------------------
+ID: 650
+Primary: All ears
+Chinese: 洗耳恭听 (Xǐ'ěrgōngtīng)
+-------------------
+ID: 651
+Primary: Chin up
+Chinese: 振作起来 (Zhènzuò qǐlái) / 别灰心 (Bié huīxīn)
+-------------------
+ID: 652
+Primary: Ham-fisted, clumsy 
+Chinese: 笨手笨脚 (Bènshǒubènjiǎo)
+-------------------
+ID: 653
+Primary: I stand by it
+Chinese: 我坚持我的观点 (Wǒ jiānchí wǒ de guāndiǎn) / 我不后悔 (Wǒ bù hòuhuǐ)
+-------------------
+ID: 654
+Primary: Cut corners
+Chinese: 偷工减料 (Tōugōngjiǎnliào) / 走捷径 (Zǒu jiéjìng)
+-------------------
+ID: 655
+Primary: Don’t bring it up
+Chinese: 别提了 (Bié tí le) / 哪壶不开提哪壶 (Nǎhúbùkāitínǎhú)
+-------------------
+ID: 656
+Primary: I am on the edge
+Chinese: 我快崩溃了 (Wǒ kuài bēngkuì le) / 我紧张死了 (Wǒ jǐnzhāng sǐ le)
+-------------------
+ID: 657
+Primary: Walk on the eggshell
+Chinese: 如履薄冰 (Rúlǚbóbīng) / 小心翼翼 (Xiǎoxīnyìyì)
+-------------------
+ID: 658
+Primary: Fizzle out
+Chinese: 不了了之 (Bùliǎoliǎozhī) / 黄了 (Huáng le)
+-------------------
+ID: 659
+Primary: Drift apart
+Chinese: 渐行渐远 (Jiànxíngjiànyuǎn) / 疏远了 (Shūyuǎn le)
+-------------------
+ID: 660
+Primary: You of all people
+Chinese: 居然是你 (Jūrán shì nǐ) / 怎么会是你 (Zěnme huì shì nǐ)
+-------------------
+ID: 661
+Primary: Way ahead of you
+Chinese: 我早就想到了 (Wǒ zǎojiù xiǎngdào le) / 我遥遥领先 (Wǒ yáoyáo lǐngxiān)
+-------------------
+ID: 662
+Primary: What are the odds?
+Chinese: 真巧啊 (Zhēn qiǎo a) / 这种几率太小了 (Zhèzhǒng jīlǜ tài xiǎo le)
+-------------------
+ID: 663
+Primary: Respectful of time
+Chinese: 守时 (Shǒushí) / 尊重时间 (Zūnzhòng shíjiān)
+-------------------
+ID: 664
+Primary: Scratch that
+Chinese: 算我没说 (Suàn wǒ méi shuō) / 划掉重来 (Huàdiào chónglái)
+-------------------
+ID: 665
+Primary: Can’t take a hint
+Chinese: 听不懂暗示 (Tīngbudǒng ànshì) / 没眼力见儿 (Méi yǎnlìjiànr)
+-------------------
+ID: 666
+Primary: For what it’s worth
+Chinese: 不管有没有用 (Bùguǎn yǒu méiyǒu yòng) / 聊胜于无 (Liáoshèngyúwú)
+-------------------
+ID: 667
+Primary: Snap at
+Chinese: 凶某人 (Xiōng mǒurén) / 冲某人发火 (Chōng mǒurén fāhuǒ)
+-------------------
+ID: 668
+Primary: Put me on the spot
+Chinese: 让我难堪 (Ràng wǒ nánkān) / 让我下不来台 (Ràng wǒ xiàbuláitái)
+-------------------
+ID: 669
+Primary: Comfort food
+Chinese: 治愈系食物 (Zhìyùxì shíwù) / 开心果 (Kāixīnguǒ) (metaphorical)
+-------------------
+ID: 670
+Primary: It’s on me
+Chinese: 我请客 (Wǒ qǐngkè) / 算我的 (Suàn wǒ de)
+-------------------
+ID: 671
+Primary: Split the bill
+Chinese: AA制 (AA zhì) / 平摊费用 (Píngtān fèiyòng)
+-------------------
+ID: 672
+Primary: Cliquey
+Chinese: 搞小团体 (Gǎo xiǎo tuántǐ) / 排外 (Páiwài)
+-------------------
+ID: 673
+Primary: cured mackerel
+Chinese: 腌鲭鱼 (Yān qīngyú)
+-------------------
+ID: 674
+Primary: Sleep in
+Chinese: 睡懒觉 (Shuìlǎnjiào)
+-------------------
+ID: 675
+Primary: Overslept
+Chinese: 睡过头了 (Shuì guòtóu le)
+-------------------
+ID: 676
+Primary: Underestimate
+Chinese: 低估 (Dīgū) / 小看 (Xiǎokàn)
+-------------------
+ID: 677
+Primary: Gullible
+Chinese: 耳根子软 (Ěrgēnzi ruǎn) /好骗 (Hǎo piàn)
+-------------------
+ID: 678
+Primary: Annoying, irritating, pissed off, fed up with 
+Chinese: 烦人 (Fánrén) / 惹人生气 (Rě rén shēngqì)
+-------------------
+ID: 679
+Primary: Tick off, salty 
+Chinese: 惹毛 (Rěmáo) / 酸了 (Suān le) (Salty)
+-------------------
+ID: 680
+Primary: Sorry doesn’t cut it
+Chinese: 光道歉没用 (Guāng dàoqiàn méi yòng) / 道歉解决不了问题 (Dàoqiàn jiějué bùliǎo wèntí)
+-------------------
+ID: 681
+Primary: She's all grown up
+Chinese: 她长大了 (Tā zhǎngdà le)
+-------------------
+ID: 682
+Primary: Take it with a grain of salt
+Chinese: 半信半疑 (Bànxìnbànyí) / 别全信 (Bié quán xìn)
+-------------------
+ID: 683
+Primary: Thinking out loud
+Chinese: 自言自语 (Zìyánzìyǔ) / 随口说说 (Suíkǒu shuōshuo)
+-------------------
+ID: 684
+Primary: Ditto
+Chinese: 我也一样 (Wǒ yě yīyàng) / 同上 (Tóng shàng)
+-------------------
+ID: 685
+Primary: I didn’t sign up for this
+Chinese: 我可没答应这个 (Wǒ kě méi dāying zhège) / 这不是我想要的 (Zhè bùshì wǒ xiǎngyào de)
+-------------------
+ID: 686
+Primary: I’m not cut out for
+Chinese: 我不是那块料 (Wǒ bùshì nà kuài liào) / 我干不来这个 (Wǒ gàn bù lái zhège)
+-------------------
+ID: 687
+Primary: What a bummer
+Chinese: 真扫兴 (Zhēn sǎoxìng) / 太可惜了 (Tài kěxī le)
+-------------------
+ID: 688
+Primary: Get on my nerve
+Chinese: 让我心烦 (Ràng wǒ xīnfán) / 惹我生气 (Rě wǒ shēngqì)
+-------------------
+ID: 689
+Primary: Give me some credit
+Chinese: 肯定一下我吧 (Kěndìng yīxià wǒ ba) / 相信我一次 (Xiāngxìn wǒ yīcì)
+-------------------
+ID: 690
+Primary: Find myself in
+Chinese: 发现自己处于... (Fāxiàn zìjǐ chǔyú...)
+-------------------
+ID: 691
+Primary: If you ever feel like ~
+Chinese: 如果你想...的话 (Rúguǒ nǐ xiǎng... dehuà)
+-------------------
+ID: 692
+Primary: Keep thing on track
+Chinese: 保持正轨 (Bǎochí zhèngguǐ) / 按计划进行 (Àn jìhuà jìnxíng)
+-------------------
+ID: 693
+Primary: Stop complaining / don't be so dramatic / cry me a river
+Chinese: 别抱怨了 (Bié bàoyuàn le) / 别太夸张 (Bié tài kuāzhāng)
+-------------------
+ID: 694
+Primary: I'll take the heat
+Chinese: 我来背锅 (Wǒ lái bēiguō) / 我来承担责任 (Wǒ lái chéngdān zérèn)
+-------------------
+ID: 695
+Primary: I'm stuck between A and B.
+Chinese: 我左右为难 (Wǒ zuǒyòu wéinán)
+-------------------
+ID: 696
+Primary: sleep on it
+Chinese: 再考虑一晚 (Zài kǎolǜ yī wǎn) / 明天再说 (Míngtiān zàishuō)
+-------------------
+ID: 697
+Primary: You are quite bold / You've got some nerve
+Chinese: 你真大胆 (Nǐ zhēn dàdǎn) / 你脸皮真厚 (Nǐ liǎnpí zhēn hòu)
+-------------------
+ID: 698
+Primary: Keep it to yourself / Keep a lid on it
+Chinese: 别告诉别人 (Bié gàosu biérén) / 守口如瓶 (Shǒukǒurúpíng)
+-------------------
+ID: 699
+Primary: If you are clued in, you'll get it / If you know, you know 
+Chinese: 懂的都懂 (Dǒng de dōu dǒng)
+-------------------
+ID: 700
+Primary: I'm just browsing
+Chinese: 我就随便看看 (Wǒ jiù suíbiàn kànkan)
+-------------------
+ID: 701
+Primary: Mind your tongue / Watch your language
+Chinese: 注意言辞 (Zhùyì yáncí) / 说话客气点 (Shuōhuà kèqi diǎn)
+-------------------
+ID: 702
+Primary: Getting cold feet
+Chinese: 临场脱逃 (Línchǎng tuōtáo) / 犯怵 (Fànchù)
+-------------------
+ID: 703
+Primary: Apples and oranges
+Chinese: 截然不同 (Jiérán bùtóng) / 根本不是一回事 (Gēnběn bùshì yī huí shì)
+-------------------
+ID: 704
+Primary: Get a life
+Chinese: 去过你自己的生活吧 (Qùguò nǐ zìjǐ de shēnghuó ba) / 找点正经事做 (Zhǎo diǎn zhèngjing shì zuò)
+-------------------
+ID: 705
+Primary: Don't dwell on it / Move on / Don't linger on it
+Chinese: 别再想了 (Bié zài xiǎng le) / 往前看 (Wǎng qián kàn)
+-------------------
+ID: 706
+Primary: People never change
+Chinese: 江山易改本性难移 (Jiāngshān yì gǎi běnxìng nán yí) / 本性难移 (Běnxìng nán yí)
+-------------------
+ID: 707
+Primary: That's my jam
+Chinese: 那是我的最爱 (Nà shì wǒ de zuì'ài) / 我就喜欢这个 (Wǒ jiù xǐhuan zhège)
+-------------------
+ID: 708
+Primary: Live vicariously through
+Chinese: 通过他人间接体验 (Tōngguò tārén jiànjiē tǐyàn) / 代入感 (Dàirùgǎn)
+-------------------
+ID: 709
+Primary: What's the damage?
+Chinese: 多少钱? (Duōshǎo qián?) / 花了多少? (Huāle duōshǎo?)
+-------------------
+ID: 710
+Primary: I was born this way
+Chinese: 我天生就这样 (Wǒ tiānshēng jiù zhèyàng) / 生来如此 (Shēnglái rúcǐ)
+-------------------
+ID: 711
+Primary: The bottom line is
+Chinese: 关键在于 (Guānjiàn zàiyú) / 归根结底 (Guīgēnjiédǐ)
+-------------------
+ID: 712
+Primary: Don't poke the bear
+Chinese: 别惹是生非 (Bié rěshìshēngfēi) / 别捅马蜂窝 (Bié tǒng mǎfēngwō)
+-------------------
+ID: 713
+Primary: Let's see how it goes
+Chinese: 走着瞧吧 (Zǒuzheqiáo ba) / 看看再说 (Kànkan zàishuō)
+-------------------
+ID: 714
+Primary: No brainer
+Chinese: 显而易见的事 (Xiǎn'éryìjiàn de shì) / 想都不用想 (Xiǎng dōu bùyòng xiǎng)
+-------------------
+ID: 715
+Primary: Come to think of it
+Chinese: 经你这么一说 (Jīng nǐ zhème yī shuō) / 想起来了 (Xiǎng qǐlái le)
+-------------------
+ID: 716
+Primary: Put in a good word for me
+Chinese: 替我美言几句 (Tì wǒ měiyán jǐ jù) / 帮我说好话 (Bāng wǒ shuō hǎohuà)
+-------------------
+ID: 717
+Primary: I'm wiped out
+Chinese: 我累垮了 (Wǒ lèi kuǎ le) / 精疲力竭 (Jīngpílìjié)
+-------------------
+ID: 718
+Primary: She walked all over me
+Chinese: 她对我呼来喝去 (Tā duì wǒ hū lái hè qù) / 她根本不把我放在眼里 (Tā gēnběn bù bǎ wǒ fàng zài yǎn lǐ)
+-------------------
+ID: 719
+Primary: Don't be so hard on yourself
+Chinese: 别对自己太苛刻 (Bié duì zìjǐ tài kēkè) / 别太为难自己 (Bié tài wéinán zìjǐ)
+-------------------
+ID: 720
+Primary: He's moody when he's starving
+Chinese: 他一饿就脾气暴躁 (Tā yī è jiù píqi bàozào) / 饿肚子让他心情不好 (È dùzi ràng tā xīnqíng bù hǎo)
+-------------------
+ID: 721
+Primary: it just popped up in my mind / It just occurred to me
+Chinese: 我突然想到 (Wǒ tūrán xiǎngdào) / 脑子里灵光一现 (Nǎozi lǐ língguāng yī xiàn)
+-------------------
+ID: 722
+Primary: Long legs run in the family
+Chinese: 长腿是家传的 (Cháng tuǐ shì jiāchuán de) / 我们家都是大长腿 (Wǒmen jiā dōu shì dà cháng tuǐ)
+-------------------
+ID: 723
+Primary: Apple doesn't fall far from the tree
+Chinese: 有其父必有其子 (Yǒu qí fù bì yǒu qí zǐ) / 孩子随爹妈 (Háizi suí diēmā)
+-------------------
+ID: 724
+Primary: out of the blue
+Chinese: 突然 (Tūrán) / 冷不丁地 (Lěngbùdīng de)
+-------------------
+ID: 725
+Primary: Once in a blue moon
+Chinese: 罕见 (Hǎnjiàn) / 千载难逢 (Qiānzǎinánféng)
+-------------------
+ID: 726
+Primary: He has an audacity to show up here
+Chinese: 他居然还有脸来这儿 (Tā jūrán hái yǒu liǎn lái zhèr) / 胆子不小敢露面 (Dǎnzi bù xiǎo gǎn lòumiàn)
+-------------------
+ID: 727
+Primary: that being said, be cautious 
+Chinese: 虽说如此，还是要小心 (Suīshuō rúcǐ, háishì yào xiǎoxīn) / 话虽这么说但我还是得提醒你 (Huà suī zhème shuō dàn wǒ háishì děi tíxǐng nǐ)
+-------------------
+ID: 728
+Primary: It gives me a chill
+Chinese: 瑟瑟发抖 (Sèsè fādǒu) / 让我感到一阵恶寒 (Ràng wǒ gǎndào yīzhèn èhán)
+-------------------
+ID: 729
+Primary: You seemed a little far fetched
+Chinese: 你这说法有点离谱 (Nǐ zhè shuōfǎ yǒudiǎn lípǔ) / 听起来不太靠谱 (Tīng qǐlái bù tài kàopǔ)
+-------------------
+ID: 730
+Primary: I'm a second away from buying that
+Chinese: 我马上就要买了 (Wǒ mǎshàng jiù yào mǎi le) / 差一点就剁手了 (Chà yīdiǎnr jiù duòshǒu le)
+-------------------
+ID: 731
+Primary: What do you take me for?
+Chinese: 你把我当成什么人了? (Nǐ bǎ wǒ dàngchéng shénme rén le?) / 瞧不起谁呢 (Qiáobùqǐ shéi ne)
+-------------------
+ID: 732
+Primary: I got carried away
+Chinese: 我做得过火了 (Wǒ zuò de guòhuǒ le) / 一时冲动 (Yīshí chōngdòng)
+-------------------
+ID: 733
+Primary: I'm not big on holding things with regret.
+Chinese: 我不是个爱后悔的人 (Wǒ bùshì gè ài hòuhuǐ de rén) / 往事随风 (Wǎngshì suí fēng)
+-------------------
+ID: 734
+Primary: In one ear, out the other 
+Chinese: 左耳进右耳出 (Zuǒ ěr jìn yòu ěr chū) / 当成耳边风 (Dàngchéng ěrbiānfēng)
+-------------------
+ID: 735
+Primary: best quote
+Chinese: 最低报价 (Zuìdī bàojià) / 最优价格 (Zuìyōu jiàgé)
+-------------------
+ID: 736
+Primary: I wasn't born yesterday
+Chinese: 我又不是三岁小孩 (Wǒ yòu bùshì sān suì xiǎohái) / 我也走南闯北过 (Wǒ yě zǒunánchuǎngběi guò)
+-------------------
+ID: 737
+Primary: Let's take a raincheck
+Chinese: 改天吧 (Gǎitiān ba) / 下次再说 (Xiàcì zàishuō)
+-------------------
+ID: 738
+Primary: There he goes again, acting up again 
+Chinese: 他又开始了 (Tā yòu kāishǐ le) / 没完没了了 (Méiwánméiliǎo le)
+-------------------
+ID: 739
+Primary: That's my two cents
+Chinese: 这只是我的个人观点 (Zhè zhǐshì wǒ de gèrén guāndiǎn) / 拙见 (Zhuójiàn)
+-------------------
+ID: 740
+Primary: Hear me out, read my lips 
+Chinese: 听我说完 (Tīng wǒ shuō wán) / 听清楚了 (Tīng qīngchu le)
+-------------------
+ID: 741
+Primary: I didn't see this coming / I couldn't expect this
+Chinese: 始料未及 (Shǐliào wèi jí) / 真没想到 (Zhēn méi xiǎngdào)
+-------------------
+ID: 742
+Primary: I'm still green at heart / I'm young at heart
+Chinese: 心态年轻 (Xīntài niánqīng) / 老当益壮 (Lǎodāngyìzhuàng)
+-------------------
+ID: 743
+Primary: I can't shake the feeling
+Chinese: 这种感觉挥之不去 (Zhè zhǒng gǎnjué huīzhībùqù) / 总觉得哪里不对劲 (Zǒng juéde nǎlǐ bù duìjìn)
+-------------------
+ID: 744
+Primary: Read the room
+Chinese: 察言观色 (Cháyánguānsè) / 看看场合 (Kànkan chǎnghé)
+-------------------
+ID: 745
+Primary: I can't recommend it enough
+Chinese: 强烈推荐 (Qiángliè tuījiàn) / 怎么夸都不为过 (Zěnme kuā dōu bù wéigo)
+-------------------
+ID: 746
+Primary: Pick up on that / catch on to that / take a hint
+Chinese: 领会 (Lǐnghuì) / 识趣 (Shíqù)
+-------------------
+ID: 747
+Primary: kitchenware
+Chinese: 厨具 (Chújù) / 厨房用品 (Chúfáng yòngpǐn)
+-------------------
+ID: 748
+Primary: Yapper
+Chinese: 话痨 (Huàláo) / 碎嘴子 (Suìzuǐzi)
+-------------------
+ID: 749
+Primary: give or take
+Chinese: 大约 (Dàyuē) / 上下浮动 (Shàngxià fúdòng)
+-------------------
+ID: 750
+Primary: Hit it off
+Chinese: 投缘 (Tóuyuán) / 一见如故 (Yījiànrúgù)
+-------------------
+ID: 751
+Primary: He is a legit, catch 
+Chinese: 他真是个不可多得的好对象 (Tā zhēnshì gè bùkěduōdé de hǎo duìxiàng) / 一等一的好人选 (Yīděngyī de hǎo rénxuǎn)
+-------------------
+ID: 752
+Primary: Swallow your pride
+Chinese: 放下身段 (Fàngxià shēnduàn) / 委曲求全 (Wěiqūqiúquán)
+-------------------
+ID: 753
+Primary: Go bananas
+Chinese: 欣喜若狂 (Xīnxǐruòkuáng) / 发疯 (Fāfēng)
+-------------------
+ID: 754
+Primary: Cagey
+Chinese: 守口如瓶 (Shǒukǒurúpíng) / 故弄玄虚 (Gùnòngxuánxū)
+-------------------
+ID: 755
+Primary: First things first
+Chinese: 先说正事儿 (Xiān shuō zhèngshìr) / 凡事有先后 (Fánshì yǒu xiānhòu)
+-------------------
+ID: 756
+Primary: best friend
+Chinese: 至交 (Zhìjiāo) / 死党 (Sǐdǎng)
+-------------------
+ID: 757
+Primary: Off day
+Chinese: 运气不好的一天 (Yùnqì bù hǎo de yītiān) / 状态不佳 (Zhuàngtài bùjiā)
+-------------------
+ID: 758
+Primary: buyer's remorse
+Chinese: 剁手后的后悔 (Duòshǒu hòu de hòuhuǐ) / 买后悔了 (Mǎi hòuhuǐ le)
+-------------------
+ID: 759
+Primary: While at it
+Chinese: 顺便 (Shùnbiàn) / 捎带手 (Shāodàishǒu)
+-------------------
+ID: 760
+Primary: Live a little
+Chinese: 享受生活 (Xiǎngshòu shēnghuó) / 活出点样来 (Huó chū diǎn yàng lái)
+-------------------
+ID: 761
+Primary: Lo and behold
+Chinese: 结果你瞧 (Jiéguǒ nǐ qiáo) / 居然 (Jūrán)
+-------------------
+ID: 762
+Primary: To a t
+Chinese: 恰到好处 (Qiàdàohǎochù) / 分毫不差 (Fēnháo bù chà)
+-------------------
+ID: 763
+Primary: Spitting image
+Chinese: 简直一模一样 (Jiǎnzhí yīmúyīyàng) / 像从一个模子里刻出来的 (Xiàng cóng yīgè múzi lǐ kè chūlái de)
+-------------------
+ID: 764
+Primary: Ill at ease
+Chinese: 局促不安 (Júcù bù'ān) / 心里不得劲 (Xīnlǐ bù déjìn)
+-------------------
+ID: 765
+Primary: Over the moon
+Chinese: 快活疯了 (Kuàihuó fēng le) / 乐不可支 (Lèbùkězhī)
+-------------------
+ID: 766
+Primary: Double standard
+Chinese: 双标 (Shuāng biāo) / 严以待人宽以律己 (Yányǐ dàirén kuānyǐ lǜjǐ)
+-------------------
+ID: 767
+Primary: Cost an arm and a leg
+Chinese: 贵得离谱 (Guì de lípǔ) / 要了老命了 (Yàole lǎomìng le)
+-------------------
+ID: 768
+Primary: In one piece
+Chinese: 完好无损 (Wánhǎowúsǔn) / 平安无事 (Píng'ānwúshì)
+-------------------
+ID: 769
+Primary: Got stood up
+Chinese: 被放鸽子了 (Bèi fàng gēzi le) / 惨遭爽约 (Cǎnzāo shuǎngyuē)
+-------------------
+ID: 770
+Primary: Wishy washy
+Chinese: 优柔寡断 (Yōuróuguǎduàn) / 磨磨唧唧 (Mómójījī)
+-------------------
+ID: 771
+Primary: Force of habit
+Chinese: 习惯使然 (Xíguàn shǐrán) / 老毛病又犯了 (Lǎo máobìng yòu fàn le)
+-------------------
+ID: 772
+Primary: At a loss for words, speechless 
+Chinese: 语塞 (Yǔsè) / 哑口无言 (Yǎkǒuwúyán)
+-------------------
+ID: 773
+Primary: In a food coma
+Chinese: 吃撑了犯困 (Chī chēng le fànkùn) / 醉饭 (Zuìfàn)
+-------------------
+ID: 774
+Primary: You dig?
+Chinese: 你懂吗? (Nǐ dǒng ma?) / 明白我的意思吧 (Míngbai wǒ de yìsi ba)
+-------------------
+ID: 775
+Primary: Dig in
+Chinese: 开吃吧 (Kāichī ba) / 别客气 (Bié kèqi)
+-------------------
+ID: 776
+Primary: No knee jerk reaction
+Chinese: 别急着下结论 (Bié jízhe xià jiélùn) / 沉住气 (Chénzhùqì)
+-------------------
+ID: 777
+Primary: Meet me half way
+Chinese: 各退一步 (Gè tuì yībù) / 折中一下 (Zhézhōng yīxià)
+-------------------
+ID: 778
+Primary: It goes without saying that
+Chinese: 显而易见 (Xiǎn'éryìjiàn) / 自不待言 (Zì bùdài yán)
+-------------------
+ID: 779
+Primary: In good hands
+Chinese: 托付得当 (Tuōfù dédàng) / 放心带 (Fàngxīn dài)
+-------------------
+ID: 780
+Primary: Cut me some slack
+Chinese: 饶了我吧 (Ráo le wǒ ba) / 别逼得太紧 (Bié bī de tài jǐn)
+-------------------
+ID: 781
+Primary: It's been on my mind
+Chinese: 我一直记挂着 (Wǒ yīzhí jìguà zhe) / 耿耿于怀 (Gěnggěngyúhuái)
+-------------------
+ID: 782
+Primary: Penny for your thoughts
+Chinese: 跟我说说你在想什么呢 (Gēn wǒ shuōshuo nǐ zài xiǎng shénme ne) / 吐个槽吧 (Tǔ gè cáo ba)
+-------------------
+ID: 783
+Primary: Chip in
+Chinese: 凑份子 (Còufènzi) / 帮点小忙 (Bāng diǎn xiǎománg)
+-------------------
+ID: 784
+Primary: Pitch in
+Chinese: 齐心协力 (Qíxīnxiélì) / 各尽其能 (Gè jìn qí néng)
+-------------------
+ID: 785
+Primary: Give it up for her
+Chinese: 为她喝彩 (Wèi tā hècǎi) / 掌声响起来 (Zhǎngshēng xiǎng qǐlái)
+-------------------
+ID: 786
+Primary: This is news to me
+Chinese: 我也也是刚听说 (Wǒ yěshì gāng tīngshuō) / 闻所未闻 (Wénsuǒwèiwén)
+-------------------
+ID: 787
+Primary: Are you dense?
+Chinese: 你脑子转不过弯吗? (Nǐ nǎozi zhuàn bùguò wān ma?) / 缺根筋 (Quē gēn jīn)
+-------------------
+ID: 788
+Primary: I m doomed
+Chinese: 我死定了 (Wǒ sǐ dìng le) / 完蛋了 (Wándàn le)
+-------------------
+ID: 789
+Primary: Get under my skin
+Chinese: 让我心烦意乱 (Ràng wǒ xīnfányìluàn) / 惹毛我 (Rě máo wǒ)
+-------------------
+ID: 790
+Primary: I will sort it out
+Chinese: 我来搞定 (Wǒ lái gǎodìng) / 我会处理好的 (Wǒ huì chǔlǐ hǎo de)
+-------------------
+ID: 791
+Primary: Does that ring a bell?
+Chinese: 有印象吗? (Yǒu yìngxiàng ma?) / 听着耳熟吗 (Tīngzhe ěrshú ma)
+-------------------
+ID: 792
+Primary: I should have thought that through
+Chinese: 我该自始至终考虑周全的 (Wǒ gāi zìshǐzhìzhōng kǎolǜ zhōuquán de) / 欠考虑 (Qiàn kǎolǜ)
+-------------------
+ID: 793
+Primary: bestie
+Chinese: 闺蜜 (Guīmì) / 死党 (Sǐdǎng)
+-------------------
+ID: 794
+Primary: You'd better be off
+Chinese: 你最好快走吧 (Nǐ zuìhǎo kuài zǒu ba) / 赶紧动身 (Gǎnjǐ dòngshēn)
+-------------------
+ID: 795
+Primary: A sense of belongings
+Chinese: 归属感 (Guīshǔgǎn) / 容身之地 (Róngshēn zhī dì)
+-------------------
+ID: 796
+Primary: Picture is worth a thousand words, you will see 
+Chinese: 百闻不如一见 (Bǎiwén bùrú yījiàn) / 事实胜于雄辩 (Shìshí shèng yú xióngbiàn)
+-------------------
+ID: 797
+Primary: Walk me through it, break it down for me 
+Chinese: 给我讲解一遍 (Gěi wǒ jiǎngjiě yībiàn) / 细说一下 (Xìshuō yīxià)
+-------------------
+ID: 798
+Primary: No wonder
+Chinese: 怪不得 (Guàibùdé) / 难怪 (Nánguài)
+-------------------
+ID: 799
+Primary: If anything
+Chinese: 如果非要说的话 (Rúguǒ fēiyào shuō de huà) / 相反 (Xiāngfǎn)
+-------------------
+ID: 800
+Primary: Better yet
+Chinese: 更好的是 (Gèng hǎo de shì) / 索性 (Suǒxìng)
+-------------------
+ID: 801
+Primary: frustrated my younger sister
+Chinese: 气坏了我妹妹 (Qì huài le wǒ mèimei) / 让我妹妹很郁闷 (Ràng wǒ mèimei hěn yùmèn)
+-------------------
+ID: 802
+Primary: Something feels off / I'm feeling under the weather
+Chinese: 感觉不太对劲 / 身体不太舒服 (Gǎnjué bù tài duìjìn / Shēntǐ bù tài shūfu) / 欠安 (Qiàn'ān)
+-------------------
+ID: 803
+Primary: I'm not myself
+Chinese: 我不在状态 (Wǒ bù zài zhuàngtài) / 我有点反常 (Wǒ yǒudiǎn fǎncháng)
+-------------------
+ID: 804
+Primary: Your best bet / Your go-to option
+Chinese: 你的最佳选择 / 首选 (Nǐ de zuìjiā xuǎnzé / Shǒuxuǎn) / 万全之策 (Wànquánzhīcè)
+-------------------
+ID: 805
+Primary: I'm a little pressed for time / Clock is ticking / Time is running out
+Chinese: 时间紧迫 (Shíjiān jǐnpò) / 没时间了 (Méi shíjiān le)
+-------------------
+ID: 806
+Primary: Can't hack it
+Chinese: 驾驭不了 (Jiàyù bùliǎo) / 吃不消 (Chībuxiāo)
+-------------------
+ID: 807
+Primary: It's going to sound corny / It might sound cheesy
+Chinese: 听起来可能有点俗气 (Tīng qǐlái kěnéng yǒudiǎn súqì) / 有点煽情 (Yǒudiǎn shānqíng)
+-------------------
+ID: 808
+Primary: It's not too shabby / Not that bad
+Chinese: 还凑合吧 (Hái còuhé ba) / 挺像那么回事的 (Tǐng xiàng nàme huí shì de)
+-------------------
+ID: 809
+Primary: A spa for some pampering
+Chinese: 去水疗放松一下 (Qù shuǐliáo fàngsōng yīxià) / 享受一下按摩 (Xiǎngshòu yīxià ànmó)
+-------------------
+ID: 810
+Primary: It just slipped out
+Chinese: 顺口就说出来了 (Shùnkǒu jiù shuō chūlái le) / 嘴快了 (Zuǐ kuài le)
+-------------------
+ID: 811
+Primary: Bitter sweet
+Chinese: 苦乐参半 (Kǔlè cānbàn) / 悲喜交加 (Bēixǐ jiāojiā)
+-------------------
+ID: 812
+Primary: Don’t flatter yourself / Don’t give yourself too much credit
+Chinese: 别往自己脸上贴金 (Bié wǎng zìjǐ liǎn shàng tiējīn) / 别臭美了 (Bié chòuměi le)
+-------------------
+ID: 813
+Primary: Stop pestering me / Enough with this / Stop nagging me
+Chinese: 别烦我了 (Bié fán wǒ le) / 别没完没了的 (Bié méiwánméiliǎo de)
+-------------------
+ID: 814
+Primary: Knock yourself out / Suit yourself
+Chinese: 请便吧 / 随你便 (Qǐngbiàn ba / Suí nǐ biàn) / 你看着办吧 (Nǐ kànzhe bàn ba)
+-------------------
+ID: 815
+Primary: Run it by you / Touch base with you
+Chinese: 跟你商量一下 (Gēn nǐ shāngliang yīxià) / 听听你的意见 (Tīngting nǐ de yìjiàn)
+-------------------
+ID: 816
+Primary: I've been busy
+Chinese: 我最近一直挺忙的 (Wǒ zuìjìn yīzhí tǐng máng de) / 俗事缠身 (Súshì chánshēn)
+-------------------
+ID: 817
+Primary: You will live
+Chinese: 你死不了 (Nǐ sǐ bùliǎo) / 这点小事难不倒你 (Zhè diǎn xiǎoshì nán bù dǎo nǐ)
+-------------------
+ID: 818
+Primary: Take under one's wing
+Chinese: 关照 (Guānzhào) / 提携 (Tíxié)
+-------------------
+ID: 819
+Primary: For nothing
+Chinese: 白忙活了 (Bái mánghuo le) / 徒劳无功 (Túláowúgōng)
+-------------------
+ID: 820
+Primary: I owe you one
+Chinese: 欠你一个人情 (Qiàn nǐ yīgè rénqíng) / 下次补偿你 (Xiàcì bǔcháng nǐ)
+-------------------
+ID: 821
+Primary: Something going on between
+Chinese: 关系不一般 (Guānxì bù yībān) / 眉来眼去 (Méiláiyǎnqù)
+-------------------
+ID: 822
+Primary: Clear the air
+Chinese: 消除误会 (Xiāochú wùhuì) / 把话摊开说 (Bǎ huà tānkāi shuō)
+-------------------
+ID: 823
+Primary: Get in the way
+Chinese: 妨碍 (Fáng'ài) / 碍事 (Àishì)
+-------------------
+ID: 824
+Primary: On edge
+Chinese: 神经紧绷 (Shénjīng jǐnbēng) / 处于崩溃边缘 (Chǔyú bēngkuì biānyuán)
+-------------------
+ID: 825
+Primary: Man!
+Chinese: 哎呀! (Āiyā!) / 天哪! (Tiān nǎ!)
+-------------------
+ID: 826
+Primary: Spring is in the air
+Chinese: 春意盎然 (Chūnyì àngrán) / 春天的气息 (Chūntiān de qìxī)
+-------------------
+ID: 827
+Primary: That's crazy
+Chinese: 太离谱了 (Tài lípǔ le) / 简直疯了 (Jiǎnzhí fēng le)
+-------------------
+ID: 828
+Primary: April Fools'
+Chinese: 万愚节玩笑 (Wànyújié wánxiào) / 愚人节快乐 (Yúrénjié kuàilè)
+-------------------
+ID: 829
+Primary: Behind someone's back
+Chinese: 背地里 (Bèidìlǐ) / 背着人 (Bèizhe rén)
+-------------------
+ID: 830
+Primary: Say hi to ~ for me
+Chinese: 代我向~问好 (Dài wǒ xiàng ~ wènhǎo) / 问个好 (Wèn gè hǎo)
+-------------------
+ID: 831
+Primary: No offense
+Chinese: 别介意 (Bié jièyì) / 冒犯了 (Màofàn le)
+-------------------
+ID: 832
+Primary: Follow me
+Chinese: 明白我的意思吗? (Míngbai wǒ de yìsi ma?) / 跟得上吗 (Gēn de shàng ma)
+-------------------
+ID: 833
+Primary: Chill out
+Chinese: 放松点儿 (Fàngsōng diǎnr) / 别紧张 (Bié jǐnzhāng)
+-------------------
+ID: 834
+Primary: tuition
+Chinese: 学费 (Xuéfèi) / 授课费 (Shòukèfèi)
+-------------------
+ID: 835
+Primary: Every other day
+Chinese: 每隔一天 (Měi gé yītiān) / 隔三差五 (Gésānchàwǔ)
+-------------------
+ID: 836
+Primary: Tell on someone
+Chinese: 打小报告 (Dǎ xiǎobàogào) / 告发 (Gàofā)
+-------------------
+ID: 837
+Primary: Overdo it
+Chinese: 做过头了 (Zuò guòtóu le) / 操劳过度 (Cāoláoguòdù)
+-------------------
+ID: 838
+Primary: Have a beef with
+Chinese: 跟某人有矛盾 (Gēn mǒurén yǒu máodùn) / 有过节 (Yǒu guòjié)
+-------------------
+ID: 839
+Primary: get by
+Chinese: 勉强糊口 (Miǎnqiǎng húkǒu) / 过得去 (Guò de qù)
+-------------------
+ID: 840
+Primary: Touched
+Chinese: 受感动 (Shòu gǎndòng) / 很有感触 (Hěn yǒu gǎnchù)
+-------------------
+ID: 841
+Primary: buttery
+Chinese: 油脂感丰富的 (Yóuzhīgǎn fēngfù de) / 顺滑如丝 (Shùnhuárúsī)
+-------------------
+ID: 842
+Primary: Doze off
+Chinese: 打盹儿 (Dǎdǔnr) / 睡着了 (Shuìzháo le)
+-------------------
+ID: 843
+Primary: Close call
+Chinese: 侥幸脱险 (Jiǎoxìng tuōxiǎn) / 虚惊一场 (Xūjīng yīchǎng)
+-------------------
+ID: 844
+Primary: In another color
+Chinese: 换个颜色 (Huàngè yánsè) / 同款不同色 (Tóngkuǎn bùtóng sè)
+-------------------
+ID: 845
+Primary: Lemon
+Chinese: 废品 (Fèipǐn) / 蹩脚货 (Biéjiǎohuò)
+-------------------
+ID: 846
+Primary: To-go box
+Chinese: 打包盒 (Dǎbāohé) / 打包袋 (Dǎbāodài)
+-------------------
+ID: 847
+Primary: Not having it
+Chinese: 不买账 (Bù mǎizhàng) / 不接受这一套 (Bù jiēshòu zhè yī tào)
+-------------------
+ID: 848
+Primary: Cut someone off
+Chinese: 打断别人讲话 (Dǎduàn biérén jiǎnghuà) / 拦腰斩断 (Lányāozhǎnduàn)
+-------------------
+ID: 849
+Primary: That's just the way it is
+Chinese: 事实就是这样 (Shìshí jiùshì zhèyàng) / 无可奈何 (Wúkěnàihé)
+-------------------
+ID: 850
+Primary: Spit it out
+Chinese: 直说吧 (Zhíshuō ba) / 别吞吞吐吐的 (Bié tūntūntǔtǔ de)
+-------------------
+ID: 851
+Primary: passed away and was cremated
+Chinese: 去世并火化了 (Qùshì bìng huǒhuà le) / 走了，已经火葬了 (Zǒu le, yǐjīng huǒzàng le)
+-------------------
+ID: 852
+Primary: Fall blues
+Chinese: 秋愁 (Qiūchóu) / 悲秋 (Bēiqiū)
+-------------------
+ID: 853
+Primary: Sit tight
+Chinese: 坐稳了 (Zuò wěn le) / 别乱动，等一下 (Bié luàndòng, děng yīxià)
+-------------------
+ID: 854
+Primary: Between jobs
+Chinese: 空窗期 (Kōngchuāngqī) / 在找工作呢 (Zài zhǎo gōngzuò ne)
+-------------------
+ID: 855
+Primary: Rub it in
+Chinese: 揭伤疤 (Jiē shāngbā) / 往伤口上撒盐 (Wǎng shāngkǒu shàng sā yán)
+-------------------
+ID: 856
+Primary: Bland
+Chinese: 淡而无味 (Dàn ér wúwèi) / 没滋味 (Méi zīwèi)
+-------------------
+ID: 857
+Primary: Eat it up
+Chinese: 全信了 (Quán xìn le) / 照单全收 (Zhàodānquánshōu)
+-------------------
+ID: 858
+Primary: Around the corner
+Chinese: 近在咫尺 (Jìn zài zhǐchǐ) / 就在眼前 (Jiù zài yǎnqián)
+-------------------
+ID: 859
+Primary: Somewhat
+Chinese: 多少有一点 (Duōshǎo yǒu yīdiǎn) / 某种程度上 (Mǒu zhǒng chéngdù shàng)
+-------------------
+ID: 860
+Primary: Take for granted
+Chinese: 习以为常 (Xíyǐwéicháng) / 觉得理所当然 (Juéde lǐsuǒdāngrán)
+-------------------
+ID: 861
+Primary: For good
+Chinese: 彻底 (Chèdǐ) / 永远地 (Yǒngyuǎn de)
+-------------------
+ID: 862
+Primary: Take it personally
+Chinese: 别往心里去 (Bié wǎng xīnlǐ qù) / 别计较 (Bié jìjiào)
+-------------------
+ID: 863
+Primary: Put it off until the last minute
+Chinese: 拖到最后一刻 (Tuō dào zuìhòu yīkè) / 临阵磨枪 (Línzhènmóqiāng)
+-------------------
+ID: 864
+Primary: Clingy
+Chinese: 粘人 (Niánrén) / 腻歪 (Nìwai)
+-------------------
+ID: 865
+Primary: Couldn't care less
+Chinese: 毫不在乎 (Háobù zàihu) / 关我屁事 (Guān wǒ pì shì)
+-------------------
+ID: 866
+Primary: Don't jinx it
+Chinese: 别乌鸦嘴 (Bié wūyāzuǐ) / 别说不吉利的 (Bié shuō bù jílì de)
+-------------------
+ID: 867
+Primary: stop yapping
+Chinese: 别嘚嘚了 (Bié dēde le) / 闭嘴 (Bìzuǐ)
+-------------------
+ID: 868
+Primary: check all the boxes
+Chinese: 符合所有要求 (Fúhé suǒyǒu yāoqiú) / 面面俱到 (Miànmiàn jùdào)
+-------------------
+ID: 869
+Primary: put it down before I forget
+Chinese: 随手记下来 (Suíshǒu jì xiàlái) / 趁还没忘赶紧写下来 (Chèn hái méi wàng gǎnjǐn xiě xiàlái)
+-------------------
+ID: 870
+Primary: nonchalant
+Chinese: 若无其事的 (Ruòwúqíshì de) / 淡定的 (Dàndìng de)
+-------------------
+ID: 871
+Primary: It's been unreal
+Chinese: 太不真实了 (Tài bù zhēnshí le) / 简直像做梦一样 (Jiǎnzhí xiàng zuòmèng yīyàng)
+-------------------
+ID: 872
+Primary: pulling all-nighters
+Chinese: 熬通宵 (Áo tōngxiāo) / 开夜车 (Kāiyèchē)
+-------------------
+ID: 873
+Primary: make someone's heart flutter
+Chinese: 心动 (Xīndòng) / 小鹿乱撞 (Xiǎolù luànzhuàng)
+-------------------
+ID: 874
+Primary: Am I delusional?
+Chinese: 我有幻觉吗? (Wǒ yǒu huànjué ma?) / 我在想入非非吗? (Wǒ zài xiǎngrù fēifēi ma?)
+-------------------
+ID: 875
+Primary: I can't possibly
+Chinese: 我可办不到 (Wǒ kě bànbùdào) / 实在是不行 (Shízài shì bùxíng)
+-------------------
+ID: 876
+Primary: Are you investing in shares market?
+Chinese: 你在炒股吗? (Nǐ zài chǎogǔ ma?) / 玩儿股票吗? (Wánr gǔpiào ma?)
+-------------------
+ID: 877
+Primary: stock market (news style)
+Chinese: 股市 (Gǔshì) / 证券市场 (Zhèngquàn shìchǎng)
+-------------------
+ID: 878
+Primary: pull it off
+Chinese: 搞定 (Gǎodìng) / 拿下了 (Náxià le)
+-------------------
+ID: 879
+Primary: no cap
+Chinese: 真不是盖的 (Zhēn bùshì gài de) / 真的，没骗你 (Zhēnde, méi piàn nǐ)
+-------------------
+ID: 880
+Primary: Fit the bill
+Chinese: 挺合适的 (Tǐng héshì de) / 正中下怀 (Zhèngzhòng xiàhuái)
+-------------------
+ID: 881
+Primary: I'm on the clock
+Chinese: 我上班呢 (Wǒ shàngbān ne) / 工作时间 (Gōngzuò shíjiān)
+-------------------
+ID: 882
+Primary: It's a bit foggy
+Chinese: 脑子有点糊涂 (Nǎozi yǒudiǎn hútu) / 模模糊糊的 (Mómóhūhū de)
+-------------------
+ID: 883
+Primary: I'm a light sleeper
+Chinese: 觉轻 (Jiàoqīng) / 睡觉警醒 (Shuìjiào jǐngxǐng)
+-------------------
+ID: 884
+Primary: I tend to be shy
+Chinese: 我这人比较腼腆 (Wǒ zhè rén bǐjiào miǎntiǎn) / 我比较害羞 (Wǒ bǐjiào hàixiū)
+-------------------
+ID: 885
+Primary: Camera shy
+Chinese: 怕镜头 (Pà jìngtóu) / 不上相 (Bù shàngxiàng)
+-------------------
+ID: 886
+Primary: It's as good as new.
+Chinese: 跟新的一样 (Gēn xīn de yīyàng) / 焕然一新 (Huànrán yīxīn)
+-------------------
+ID: 887
+Primary: They have a lot in common.
+Chinese: 志趣相投 (Zhìqù xiāngtóu) / 有很多共同点 (Yǒu hěnduō gòngtóngdiǎn)
+-------------------
+ID: 888
+Primary: That's typical of you.
+Chinese: 这很像你的风格 (Zhè hěn xiàng nǐ de fēnggé) / 真是你的作风 (Zhēnshì nǐ de zuòfēng)
+-------------------
+ID: 889
+Primary: You look after yourself.
+Chinese: 多多保重 (Duōduō bǎozhòng) / 照顾好你自己 (Zhàogù hǎo nǐ zìjǐ)
+-------------------
+ID: 890
+Primary: Go for it!
+Chinese: 放手去做吧! (Fàngshǒu qù zuò ba!) / 去干吧! (Qù gàn ba!)
+-------------------
+ID: 891
+Primary: He's a piece of work.
+Chinese: 真是个奇葩 (Zhēnshì gè qípā) / 真是个极品 (Zhēnshì gè jípǐn)
+-------------------
+ID: 892
+Primary: I won't let you down.
+Chinese: 我不会让你失望的 (Wǒ bùhuì ràng nǐ shīvàng de) / 包在我身上 (Bāo zài wǒ shēnshàng)
+-------------------
+ID: 893
+Primary: I've been trying to reach you.
+Chinese: 我一直都在联系你 (Wǒ yīzhí dōu zài liánxì nǐ) / 找你半天了 (Zhǎo nǐ bàntiān le)
+-------------------
+ID: 894
+Primary: It was a stroke of luck.
+Chinese: 真是走运 (Zhēnshì zǒuyùn) / 瞎猫碰上死耗子 (Xiāmāo pèngshàng sǐ hàozi)
+-------------------
+ID: 895
+Primary: Don't bottle up your feelings.
+Chinese: 别憋在心里 (Bié biē zài xīnlǐ) / 把话说出来 (Bǎ huà shuō chūlái)
+-------------------
+ID: 896
+Primary: Don't be shy
+Chinese: 别不好意思 (Bié bù hǎoyìsi) / 别害羞 (Bié hàixiū)
+-------------------
+ID: 897
+Primary: You're growing on me.
+Chinese: 我越来越喜欢你了 (Wǒ yuèláiyuè xǐhuan nǐ le) / 你挺招人喜欢的 (Nǐ tǐng zhāorén xǐhuan de)
+-------------------
+ID: 898
+Primary: I burnt the midnight oil.
+Chinese: 挑灯夜战 (Tiǎodēngyèzhàn) / 熬夜苦干 (Áoyè kǔgàn)
+-------------------
+ID: 899
+Primary: Shy of two minutes
+Chinese: 差两分钟 (Chà liǎng fēnzhōng) / 不到两分钟 (Bù dào liǎng fēnzhōng)
+-------------------
+ID: 900
+Primary: That would be the best case scenario.
+Chinese: 那是理想情况 (Nà shì lǐxiǎng qíngkuàng) / 最完美的打算 (Zuì wánměi de dǎsuàn)
+-------------------
+ID: 901
+Primary: I couldn't agree more.
+Chinese: 我完全赞同 (Wǒ wánquán zàntóng) / 你说得太对了 (Nǐ shuō de tài duì le)
+-------------------
+ID: 902
+Primary: I've got a memory like a sieve.
+Chinese: 我这脑子像漏斗 (Wǒ zhè nǎozi xiàng lòudǒu) / 贵人多忘事 (Guìrén duō wàngshì)
+-------------------
+ID: 903
+Primary: It's on the house.
+Chinese: 免单 (Miǎndān) / 这份算我们的 (Zhè fèn suàn wǒmen de)
+-------------------
+ID: 904
+Primary: I think you should get a second opinion.
+Chinese: 再咨询一下别处 (Zài zīxún yīxià biéchù) / 听听其他意见 (Tīngting qítā yìjiàn)
+-------------------
+ID: 905
+Primary: You are second to none.
+Chinese: 你是顶尖的 (Nǐ shì dǐngjiān de) / 独一无二 (Dúyīwú'èr)
+-------------------
+ID: 906
+Primary: Don't pull my leg.
+Chinese: 别逗我了 (Bié dòu wǒ le) / 别开完笑 (Bié kāiwánxiào)
+-------------------
+ID: 907
+Primary: I'm torn
+Chinese: 左右为难 (Zuǒyòu wéinán) / 挺纠结的 (Tǐng jiūjié de)
+-------------------
+ID: 908
+Primary: You have lost the plot.
+Chinese: 你糊涂了吧 (Nǐ hútu le ba) / 你搞错状况了 (Nǐ gǎocuò zhuàngkuàng le)
+-------------------
+ID: 909
+Primary: Let's just keep it between us.
+Chinese: 咱们私下知道就行 (Zánmen sīxià zhīdào jiù xíng) / 别外传 (Bié wàichuán)
+-------------------
+ID: 910
+Primary: You know the drill.
+Chinese: 老规矩了 (Lǎoguīju le) / 你懂得 (Nǐ dǒng de)
+-------------------
+ID: 911
+Primary: It's been a roller coaster ride.
+Chinese: 起起伏伏 (Qǐqǐfúfú) / 波折不断 (Bōzhé bùduàn)
+-------------------
+ID: 912
+Primary: I look up to you.
+Chinese: 向你学习 (Xiàng nǐ xuéxí) / 崇拜你 (Chóngbài nǐ)
+-------------------
+ID: 913
+Primary: It's overrated.
+Chinese: 名不副实 (Míngbùfùshí) / 也就那样吧 (Yějiù nàyàng ba)
+-------------------
+ID: 914
+Primary: Long story short
+Chinese: 长话短说 (Chánghuà duǎnshuō) / 总而言之 (Zǒng'éryánzhī)
+-------------------
+ID: 915
+Primary: I don't hold a grudge.
+Chinese: 我不记仇 (Wǒ bù jìchóu) / 我挺大度的 (Wǒ tǐng dàdù de)
+-------------------
+ID: 916
+Primary: I don't know off the top of my head.
+Chinese: 一下想不起来 (Yīxià xiǎng bù qǐlái) / 没底儿 (Méidǐr)
+-------------------
+ID: 917
+Primary: I'm fed up with it.
+Chinese: 受够了 (Shòugòu le) / 烦透了 (Fántòu le)
+-------------------
+ID: 918
+Primary: I've got a lot on my plate.
+Chinese: 忙得不可开交 (Máng de bùkě kāijiāo) / 事情一大堆 (Shìqing yīdàduī)
+-------------------
+ID: 919
+Primary: I'm bad with directions.
+Chinese: 路痴 (Lùchī) / 分不清东南西北 (Fēn bù qīng dōngnánxīběi)
+-------------------
+ID: 920
+Primary: How are you holding up?
+Chinese: 你还撑得住吗? (Nǐ hái chēng de zhù ma?) / 最近好吗? (Zuìjìn hǎo ma?)
+-------------------
+ID: 921
+Primary: All you have to do is do it.
+Chinese: 干就完了 (Gàn jiù wán le) / 做了再说 (Zuò le zàishuō)
+-------------------
+ID: 922
+Primary: What do you have in mind?
+Chinese: 你打算怎么办? (Nǐ dǎsuàn zěnme bàn?) / 你有什么主意? (Nǐ yǒu shénme zhǔyi?)
+-------------------
+ID: 923
+Primary: Don't be that way.
+Chinese: 别那样 (Bié nàyàng) / 别这副样子 (Bié zhè fù yàngzi)
+-------------------
+ID: 924
+Primary: Let's get the ball rolling.
+Chinese: 开始行动吧 (Kāishǐ xíngdòng ba) / 步入正轨 (Bùrù zhèngguǐ)
+-------------------
+ID: 925
+Primary: It costs an arm and a leg.
+Chinese: 贵得离谱 (Guì de lípǔ) / 宰人呢 (Zǎirén ne)
+-------------------
+ID: 926
+Primary: Don't go through the motions.
+Chinese: 别走过场 (Bié zǒuguòchǎng) / 别敷衍 (Bié fūyǎn)
+-------------------
+ID: 927
+Primary: You took the words right out of my mouth.
+Chinese: 英雄所见略同 (Yīngxióng suǒjiàn lüètóng) / 我正要这么说呢 (Wǒ zhèngyào zhème shuō ne)
+-------------------
+ID: 928
+Primary: You crossed the line.
+Chinese: 过分了啊 (Guòfèn le a) / 越界了 (Yuèjiè le)
+-------------------
+ID: 929
+Primary: He knows his stuff.
+Chinese: 他在行 (Tā zàiháng) / 他有两下子 (Tā yǒu liǎngxiàzi)
+-------------------
+ID: 930
+Primary: Hang in there!
+Chinese: 坚持住! (Jiānchí zhù!) / 挺住! (Tǐng zhù!)
+-------------------
+ID: 931
+Primary: You need to break the habit.
+Chinese: 改改这个毛病 (Gǎigǎi zhège máobìng) / 戒掉这个习惯 (Jièdiào zhège xíguàn)
+-------------------
+ID: 932
+Primary: You hit the nail on the head.
+Chinese: 一针见血 (Yīzhēnjiànxiě) / 说到点子上了 (Shuō dào diǎnzi shàng le)
+-------------------
+ID: 933
+Primary: My brain is not as good as it used to be.
+Chinese: 记性大不如前 (Jìxìng dà bùrú qián) / 脑子不好使了 (Nǎozi bù hǎoshǐ le)
+-------------------
+ID: 934
+Primary: I was ripped off.
+Chinese: 被宰了 (Bèi zǎi le) / 被坑了 (Bèi kēng le)
+-------------------
+ID: 935
+Primary: I am out and about
+Chinese: 外出了 (Wàichū le) / 在外面办事呢 (Zài wàimiàn bànshì ne)
+-------------------
+ID: 936
+Primary: I can't get that off my mind.
+Chinese: 挥之不去 (Huīzhībùqù) / 总是想着这事儿 (Zǒngshì xiǎngzhe zhè shìr)
+-------------------
+ID: 937
+Primary: Don't kid yourself.
+Chinese: 别自欺欺人了 (Bié zìqīqīrén le) / 别做白日梦了 (Bié zuò báirìmèng le)
+-------------------
+ID: 938
+Primary: It's no picnic.
+Chinese: 不容易 (Bù róngyì) / 挺费劲的 (Tǐng fèijìn de)
+-------------------
+ID: 939
+Primary: Just let it go.
+Chinese: 随它去吧 (Suí tā qù ba) / 算了吧 (Suàn le ba)
+-------------------
+ID: 940
+Primary: Come to your senses
+Chinese: 清醒点儿吧 (Qīngxǐng diǎnr ba) / 找回理智 (Zhǎohuí lǐzhì)
+-------------------
+ID: 941
+Primary: Let's call it a day.
+Chinese: 今天就到这儿吧 (Jīntiān jiù dào zhèr ba) / 散会 (Sànhuì)
+-------------------
+ID: 942
+Primary: Act your age.
+Chinese: 成熟点儿 (Chéngshú diǎnr) / 干点大人的事儿 (Gàn diǎn dàrén de shìr)
+-------------------
+ID: 943
+Primary: It went over my head.
+Chinese: 没听懂 (Méi tīng dǒng) / 深奥了点 (Shēn'ào le diǎn)
+-------------------
+ID: 944
+Primary: Are you open today?
+Chinese: 今天开门吗? (Jīntiān kāimén ma?) / 营业吗? (Yíngyè ma?)
+-------------------
+ID: 945
+Primary: Don't make a big deal.
+Chinese: 别小题大做 (Bié xiǎotídàzuò) / 别大惊小怪的 (Bié dàjīngxiǎoguài de)
+-------------------
+ID: 946
+Primary: In a nutshell.
+Chinese: 简而言之 (Jiǎn'éryánzhī) / 概括地说 (Gàikuò de shuō)
+-------------------
+ID: 947
+Primary: Don't spill the beans.
+Chinese: 别走漏风声 (Bié zǒulòu fēngshēng) / 守口如瓶 (Shǒukǒurúpíng)
+-------------------
+ID: 948
+Primary: Are you guys open?
+Chinese: 你们开业吗? (Nǐmen kāiyè ma?) / 营业中吗? (Yíngyèzhōng ma?)
+-------------------
+ID: 949
+Primary: I'm going to keep my eyes peeled.
+Chinese: 我会留意观察的 (Wǒ huì liúyì guānchá de) / 睁大眼睛找 (Zhēngdà yǎnjīng zhǎo)
+-------------------
+ID: 950
+Primary: I'm right behind you.
+Chinese: 我挺你 (Wǒ tǐng nǐ) / 我在你身后支持你 (Wǒ zài nǐ shēnhòu zhīchí nǐ)
+-------------------
+ID: 951
+Primary: There you go again.
+Chinese: 又来了 (Yòu lái le) / 老调重弹 (Lǎodiàochòngtán)
+-------------------
+ID: 952
+Primary: Figures.
+Chinese: 我就知道 (Wǒ jiù zhīdào) / 意料之中 (Yìliào zhī zhōng)
+-------------------
+ID: 953
+Primary: Duh
+Chinese: 废话 (Fèihuà) / 那还用说 (Nà hái yòng shuō)
+-------------------
+ID: 954
+Primary: Stop bugging me.
+Chinese: 别烦我 (Bié fán wǒ) / 别缠着我 (Bié chánzhe wǒ)
+-------------------
+ID: 955
+Primary: I've been there before.
+Chinese: 我也经历过 (Wǒ yě jīnglì guò) / 感同身受 (Gǎntóngshēnshòu)
+-------------------
+ID: 956
+Primary: We're working with a skeleton crew.
+Chinese: 人手严重不足 (Rénshǒu yánzhòng bùzú) / 只有几个核心人员 (Zhǐyǒu jǐ gè héxīn rényuán)
+-------------------
+ID: 957
+Primary: That's the thing.
+Chinese: 问题就在这儿 (Wèntí jiù zài zhèr) / 关键就在这儿 (Guānjiàn jiù zài zhèr)
+-------------------
+ID: 958
+Primary: Intriguing
+Chinese: 很有趣 (Hěn yǒuqu) / 挺勾人的 (Tǐng gōurén de)
+-------------------
+ID: 959
+Primary: It happens all the time.
+Chinese: 司空见惯了 (Sīkōngjiànguàn le) / 经常发生 (Jīngcháng fāshēng)
+-------------------
+ID: 960
+Primary: There is no smoking gun.
+Chinese: 没有铁证 (Méiyǒu tiězhèng) / 证据不足 (Zhèngjù bùzú)
+-------------------
+ID: 961
+Primary: I'm salty.
+Chinese: 我有点不爽 (Wǒ yǒudiǎn bùshuǎng) / 闹别扭呢 (Nào bièniu ne)
+-------------------
+ID: 962
+Primary: You don't want to know.
+Chinese: 你还是别知道的好 (Nǐ háishì bié zhīdào de hǎo) / 说来话长，别打听了 (Shuō lái huà cháng, bié dǎting le)
+-------------------
+ID: 963
+Primary: Fascinating
+Chinese: 非常迷人 (Fēicháng mírén) / 太引人入胜了 (Tài yǐnrénrùshèng le)
+-------------------
+ID: 964
+Primary: I got stuck in traffic.
+Chinese: 堵车了 (Dǔchē le) / 被堵在路上了 (Bèi dǔ zài lùshàng le)
+-------------------
+ID: 965
+Primary: It's a different kettle of fish.
+Chinese: 那是两码事 (Nà shì liǎng mǎ shì) / 截然不同 (Jiérán bùtóng)
+-------------------
+ID: 966
+Primary: Thought-provoking
+Chinese: 发人深省 (Fārénshēnxǐng) / 引发思考 (Yǐnfā sīkǎo)
+-------------------
+ID: 967
+Primary: I give you my word.
+Chinese: 我向你保证 (Wǒ xiàng nǐ bǎozhèng) / 我说话算数 (Wǒ shuōhuà suànshù)
+-------------------
+ID: 968
+Primary: It's a long story.
+Chinese: 说来话长 (Shuō lái huà cháng) / 一言难尽 (Yīyánnánjìn)
+-------------------
+ID: 969
+Primary: We've got to break the mold.
+Chinese: 得打破常规 (Děi dǎpò chángguī) / 另辟蹊径 (Lìngpìxījìng)
+-------------------
+ID: 970
+Primary: That's what I'm talking about!
+Chinese: 这就对了! (Zhè jiù duì le!) / 正是我要说的! (Zhèngshì wǒ yào shuō de!)
+-------------------
+ID: 971
+Primary: The damage is done.
+Chinese: 木已成舟 (Mùyǐchéngzhōu) / 无法挽回了 (Wúfǎ wǎnhuí le)
+-------------------
+ID: 972
+Primary: I can't sit still.
+Chinese: 坐不住 (Zuò bù zhù) / 闲不下来 (Xián bù xiàlái)
+-------------------
+ID: 973
+Primary: It's better than nothing.
+Chinese: 总比没有强 (Zǒng bǐ méiyǒu qiáng) / 聊胜于无 (Liáoshèngyúwú)
+-------------------
+ID: 974
+Primary: We go way back
+Chinese: 我们是老相识了 (Wǒmen shì lǎoxiāngshí le) / 老交情了 (Lǎojiāoqing le)
+-------------------
+ID: 975
+Primary: Stay focused.
+Chinese: 保持专注 (Bǎochí zhuānzhù) / 别分心 (Bié fēnxīn)
+-------------------
+ID: 976
+Primary: He was quite high maintenance.
+Chinese: 他挺难伺候的 (Tā tǐng nán cìhou de) / 事情真多 (Shìqing zhēn duō)
+-------------------
+ID: 977
+Primary: I went cold turkey.
+Chinese: 彻底戒了 (Chèdǐ jiè le) / 说断就断了 (Shuō duàn jiù duàn le)
+-------------------
+ID: 978
+Primary: It takes me back
+Chinese: 勾起了我的回忆 (Gōu qǐ le wǒ de huíyì) / 让人怀念 (Ràng rén huáiniàn)
+-------------------
+ID: 979
+Primary: Get with the program.
+Chinese: 跟上节奏 (Gēnshàng jiézòu) / 搞清楚状况 (Gǎo qīngchu zhuàngkuàng)
+-------------------
+ID: 980
+Primary: Give me a ballpark figure.
+Chinese: 给个大概数字 (Gěi gè dàgài shùzì) / 大约是多少 (Dàyuē shì duōshǎo)
+-------------------
+ID: 981
+Primary: What's your best guess?
+Chinese: 你觉得大概是多少? (Nǐ juéde dàgài shì duōshǎo?) / 凭直觉猜猜看 (Píng zhíjué cāicai kàn)
+-------------------
+ID: 982
+Primary: It's a pain in the neck.
+Chinese: 真烦人 (Zhēn fánrén) / 挺麻烦的 (Tǐng máfan de)
+-------------------
+ID: 983
+Primary: It keeps me on my toes.
+Chinese: 让我不敢松懈 (Ràng wǒ bùgǎn sōngxiè) / 保持警觉 (Bǎochí jǐngjué)
+-------------------
+ID: 984
+Primary: It blows me away.
+Chinese: 太震撼了 (Tài zhènhàn le) / 让我佩服得五体投地 (Ràng wǒ pèifú de wǔtǐtóudì)
+-------------------
+ID: 985
+Primary: I'm susceptible to it.
+Chinese: 我容易受这个影响 (Wǒ róngyì shòu zhège yǐngxiǎng) / 这是我的软肋 (Zhè shì wǒ de ruǎnlèi)
+-------------------
+ID: 986
+Primary: I'll level with you.
+Chinese: 我跟你实话实说吧 (Wǒ gēn nǐ shíhuàshíshuō ba) / 打开天窗说亮话 (Dǎkāitiānchuāng shuō liànghuà)
+-------------------
+ID: 987
+Primary: They had it coming.
+Chinese: 他那是活该 (Tā nà shì huógāi) / 咎由自取 (Jiùyóuzìqǔ)
+-------------------
+ID: 988
+Primary: I'll spare you the details.
+Chinese: 细节就不说了 (Xìjié jiù bù shuō le) / 长话短说 (Chánghuà duǎnshuō)
+-------------------
+ID: 989
+Primary: Bad news travels fast.
+Chinese: 好事不出门，坏事传千里 (Hǎoshì bù chūmén, huàishì chuán qiānlǐ) / 消息传得真快 (Xiāoxi chuán de zhēn kuài)
+-------------------
+ID: 990
+Primary: Why the long face?
+Chinese: 干嘛垂头丧气的? (Gànmá chuítóusàngqì de?) / 怎么不高兴了? (Zěnme bù gāoxìng le?)
+-------------------
+ID: 991
+Primary: What's the occasion?
+Chinese: 今天是什么日子? (Jīntiān shì shénme rìzi?) / 有什么喜事吗? (Yǒu shénme xǐshì ma?)
+-------------------
+ID: 992
+Primary: What's the matter?
+Chinese: 怎么了? (Zěnme le?) / 出什么事了? (Chū shénme shì le?)
+-------------------
+ID: 993
+Primary: He had a blast.
+Chinese: 他玩得很开心 (Tā wán de hěn kāixīn) / 他尽兴了 (Tā jìnxìng le)
+-------------------
+ID: 994
+Primary: Fill out this form
+Chinese: 填一下这张表 (Tián yīxià zhè zhāng biǎo) / 把表填了 (Bǎ biǎo tián le)
+-------------------
+ID: 995
+Primary: It doesn't ring a bell
+Chinese: 没印象 (Méi yìnxìang) / 听起来不耳熟 (Tīng qǐlái bù ěrshú)
+-------------------
+ID: 996
+Primary: It was put on ice.
+Chinese: 搁置了 (Gēzhì le) / 暂时停工了 (Zànshí tínggōng le)
+-------------------
+ID: 997
+Primary: You've lost me.
+Chinese: 我被你绕晕了 (Wǒ bèi nǐ rào yūn le) / 我没跟上 (Wǒ méi gēnshàng)
+-------------------
+ID: 998
+Primary: I'm on cloud nine.
+Chinese: 我太开心了 (Wǒ tài kāixīn le) / 乐坏了 (Lè huài le)
+-------------------
+ID: 999
+Primary: She was thirsty.
+Chinese: 她太渴望关注了 (Tā tài kěwàng guānzhù le) / 表现欲太强 (Biǎoxiànyù tài qiáng)
+-------------------
+ID: 1000
+Primary: There's nothing to it.
+Chinese: 这很简单 (Zhè hěn jiǎndān) / 没什么难的 (Méishénme nán de)
+-------------------
+ID: 1001
+Primary: But there's a twist.
+Chinese: 但有个反转 (Dàn yǒu gè fǎnzhuǎn) / 剧情有变 (Jùqíng yǒu biàn)
+-------------------
+ID: 1002
+Primary: We're out of the woods.
+Chinese: 脱离险境了 (Tuōlí xiǎnjìng le) / 渡过难关了 (Dùguò nánguān le)
+-------------------
+ID: 1003
+Primary: Let's play it by ear.
+Chinese: 见机行事 (Jiànjī xíngshì) / 到时候再说 (Dào shíhou zàishuō)
+-------------------
+ID: 1004
+Primary: Don't even bring it up.
+Chinese: 提都别提 (Tí dōu bié tí) / 别再说这事了 (Bié zài shuō zhè shì le)
+-------------------
+ID: 1005
+Primary: Your eyes are bigger than your stomach.
+Chinese: 贪多嚼不烂 (Tānduō jiáo bù làn) / 别眼大肚子小 (Bié yǎn dà dùzi xiǎo)
+-------------------
+ID: 1006
+Primary: It's not even close.
+Chinese: 差远了 (Chà yuǎn le) / 没法比 (Méifǎ bǐ)
+-------------------
+ID: 1007
+Primary: I don't blame you.
+Chinese: 我不怪你 (Wǒ bù guài nǐ) / 我理解你 (Wǒ lǐjiě nǐ)
+-------------------
+ID: 1008
+Primary: Don't let it bother you.
+Chinese: 别往心里去 (Bié wǎng xīnlǐ qù) / 别让它困扰你 (Bié ràng tā kùnrǎo nǐ)
+-------------------
+ID: 1009
+Primary: I'm at your service.
+Chinese: 随叫随到 (Suíjiàosuídào) / 为你效劳 (Wèi nǐ xiàoláo)
+-------------------
+ID: 1010
+Primary: She's cool as a cucumber.
+Chinese: 非常冷静 (Fēicháng lěngjìng) / 处变不惊 (Chǔbiànbùjīng)
+-------------------
+ID: 1011
+Primary: He's down to earth.
+Chinese: 很接地气 (Hěn jiēdìqì) / 很朴实 (Hěn pǔshí)
+-------------------
+ID: 1012
+Primary: We have to address the problem.
+Chinese: 得解决这个问题 (Děi jiějué zhège wèntí) / 必须正视问题 (Bìxū zhèngshì wèntí)
+-------------------
+ID: 1013
+Primary: How old do you think I am?
+Chinese: 你猜我多大? (Nǐ cāi wǒ duō dà?) / 你觉得我几岁? (Nǐ juéde wǒ jǐ suì?)
+-------------------
+ID: 1014
+Primary: It put me on the map.
+Chinese: 让我一举成名 (Ràng wǒ yījǔchéngmíng) / 让我在这一行有了地位 (Ràng wǒ zài zhè yī háng yǒu le dìwèi)
+-------------------
+ID: 1015
+Primary: They are selling like hot cakes.
+Chinese: 非常抢手 (Fēicháng qiǎngshǒu) / 像刚出锅的小吃一样卖得快 (Xiàng gāng chūguō de xiǎochī yīyàng mài de kuài)
+-------------------
+ID: 1016
+Primary: This is at the heart of the matter.
+Chinese: 这是问题的核心 (Zhè shì wèntí de héxīn) / 关键就在这儿 (Guānjiàn jiù zài zhèr)
+-------------------
+ID: 1017
+Primary: Who do you think I am?
+Chinese: 你把我当什么人了? (Nǐ bǎ wǒ dāng shénme rén le?) / 你以为我是谁? (Nǐ yǐwéi wǒ shì shuí?)
+-------------------
+ID: 1018
+Primary: It spiraled out of control.
+Chinese: 失控了 (Shīkòng le) / 局面一发不可收拾 (Júmiàn yīfābùkěshōushi)
+-------------------
+ID: 1019
+Primary: It quickly went viral.
+Chinese: 迅速走红 (Xùnsù zǒuhóng) / 很快就传开了 (Hěn kuài jiù chuánkāi le)
+-------------------
+ID: 1020
+Primary: At the end of the day.
+Chinese: 说到底 (Shuō dào dǐ) / 归根结底 (Guīgēnjiédǐ)
+-------------------
+ID: 1021
+Primary: He was full of beans.
+Chinese: 精力充沛 (Jīnglì chōngpèi) / 活力十足 (Huólì shízú)
+-------------------
+ID: 1022
+Primary: That is a tough nut to crack.
+Chinese: 这是块硬骨头 (Zhè shì kuài yìnggǔtou) / 挺难办的 (Tǐng nán bàn de)
+-------------------
+ID: 1023
+Primary: We will chew the fat.
+Chinese: 漫无目的地闲聊 (Mànwúmùdìde xiánliáo) / 叙叙旧 (Xùxùjiù)
+-------------------
+ID: 1024
+Primary: Don't let your guard down.
+Chinese: 别掉以轻心 (Bié diàoyǐqīngxīn) / 保持警惕 (Bǎochí jǐngtì)
+-------------------
+ID: 1025
+Primary: They promised the moon.
+Chinese: 他们漫天许诺 (Tāmen màntiān xǔnuò) / 乱开空头支票 (Luàn kāi kōngtóuzhīpiào)
+-------------------
+ID: 1026
+Primary: He's on track.
+Chinese: 进展顺利 (Jìnzhǎn shùnlì) / 在计划内 (Zài jìhuà nèi)
+-------------------
+ID: 1027
+Primary: It's not as bad as it seems.
+Chinese: 没那么糟糕 (Méi nàme zāogāo) / 情况还好 (Qíngkuàng hái hǎo)
+-------------------
+ID: 1028
+Primary: Calm your nerves.
+Chinese: 稳住情绪 (Wěnzhù qíngxù) / 别紧张 (Bié jǐnzhāng)
+-------------------
+ID: 1029
+Primary: It was a shot in the arm.
+Chinese: 打了一剂强心针 (Dǎ le yī jì qiángxīnzhēn) / 很大的鼓舞 (Hěn dà de gǔwǔ)
+-------------------
+ID: 1030
+Primary: That's the way the ball bounces.
+Chinese: 这就是命 (Zhè jiù shì mìng) / 事实就是这样 (Shìshí jiùshì zhèyàng)
+-------------------
+ID: 1031
+Primary: That's music to my ears
+Chinese: 这可太好了 (Zhè kě tài hǎo le) / 正合我意 (Zhènghé wǒ yì)
+-------------------
+ID: 1032
+Primary: He was not pulling his weight.
+Chinese: 他不尽职 (Tā bù jìnzhí) / 他出工不出力 (Tā chū gōng bù chū lì)
+-------------------
+ID: 1033
+Primary: I don't buy it.
+Chinese: 我不信 (Wǒ bù xìn) / 少来这套 (Shǎo lái zhè tào)
+-------------------
+ID: 1034
+Primary: I got all dolled up.
+Chinese: 打扮得很漂亮 (Dǎban de hěn piàoliang) / 花枝招展的 (Huāzhīzhāozhǎn de)
+-------------------
+ID: 1035
+Primary: You're on a roll
+Chinese: 你最近运气真好 (Nǐ zuìjìn yùnqi zhēn hǎo) / 你正在兴头上 (Nǐ zhèngzài xìingtóu shàng)
+-------------------
+ID: 1036
+Primary: The deal fell through
+Chinese: 成交不了了 (Chéngjiāo bù liǎo le) / 黄了 (Huáng le)
+-------------------
+ID: 1037
+Primary: I had a falling out with him.
+Chinese: 我和他闹翻了 (Wǒ hé tā nàofān le) / 我们产生隔阂了 (Wǒmen chǎnshēng géhé le)
+-------------------
+ID: 1038
+Primary: It's not rocket science.
+Chinese: 并不难 (Bìng bù nán) / 没什么深奥的 (Méishénme shēn'ào de)
+-------------------
+ID: 1039
+Primary: We all have to pick up the slack.
+Chinese: 咱们得补上空缺 (Zánmen děi bǔ shàng kòngquē) / 得把剩下的活儿干了 (Děi bǎ shèngxià de huór gàn le)
+-------------------
+ID: 1040
+Primary: I threw caution to the wind.
+Chinese: 豁出去了 (Huō chūqù le) / 不顾一切 (Bùgùyīqiè)
+-------------------
+ID: 1041
+Primary: Beauty is only skin deep.
+Chinese: 美貌只是表面的 (Měimào zhǐshì biǎomiàn de) / 心灵美才是真的美 (Xīnlíng měi cáishì zhēnde měi)
+-------------------
+ID: 1042
+Primary: I'm not good with words.
+Chinese: 我不善辞令 (Wǒ bùshàn cílìng) / 我挺笨嘴拙舌的 (Wǒ tǐng bènzuǐzhuōshé de)
+-------------------
+ID: 1043
+Primary: I'm running on fumes.
+Chinese: 精疲力竭 (Jīngpílìjié) / 累得快虚脱了 (Lèi de kuài xūtuō le)
+-------------------
+ID: 1044
+Primary: I call the shots.
+Chinese: 我说了算 (Wǒ shuō le suàn) / 我做主 (Wǒ zuòzhǔ)
+-------------------
+ID: 1045
+Primary: I have butterflies in my stomach.
+Chinese: 我心里忐忑不安 (Wǒ xīnlǐ tǎntè bù'ān) / 我挺紧张的 (Wǒ tǐng jǐnzhāng de)
+-------------------
+ID: 1046
+Primary: You've been left on read.
+Chinese: 被无视了 (Bèi wúshì le) / 已读不回 (Yǐ dú bù huí)
+-------------------
+ID: 1047
+Primary: She doted on me.
+Chinese: 她很疼我 (Tā hěn téng wǒ) / 她把我当个宝 (Tā bǎ wǒ dāng gè bǎo)
+-------------------
+ID: 1048
+Primary: I made it from scratch.
+Chinese: 从头开始做的 (Cóngtóu kāishǐ zuò de) / 纯手工制作 (Chún shǒugōng zhìzuò)
+-------------------
+ID: 1049
+Primary: Don't steal my thunder.
+Chinese: 别抢我的风头 (Bié qiǎng wǒ de fēngtóu) / 别抢我的功劳 (Bié qiǎng wǒ de gōngláo)
+-------------------
+ID: 1050
+Primary: He clammed up.
+Chinese: 他守口如瓶 (Tā shǒukǒurúpíng) / 他一言不发 (Tā yīyánbùfā)
+-------------------
+ID: 1051
+Primary: I would go on a spending spree.
+Chinese: 我要疯狂购物 (Wǒ yào fēngkuáng gòuwù) / 我要买买买 (Wǒ yào mǎi mǎi mǎi)
+-------------------
+ID: 1052
+Primary: I don't want to open up a can of worms.
+Chinese: 我不想惹麻烦 (Wǒ bùxiǎng rě máfan) / 我不想捅娄子 (Wǒ bùxiǎng tǒng lóuzi)
+-------------------
+ID: 1053
+Primary: It's my treat.
+Chinese: 我请客 (Wǒ qǐngkè) / 这顿算我的 (Zhè dùn suàn wǒ de)
+-------------------
+ID: 1054
+Primary: Snap out of it!
+Chinese: 振作点！ (Zhènzuò diǎn!) / 醒醒吧！ (Xǐngxǐng ba!)
+-------------------
+ID: 1055
+Primary: You got us into this mess.
+Chinese: 是你把我们害惨了 (Shì nǐ bǎ wǒmen hài cǎn le) / 都是你惹的祸 (Dōushì nǐ rě de huò)
+-------------------
+ID: 1056
+Primary: It's not what it looks like.
+Chinese: 不是你想的那样 (Búshì nǐ xiǎng de nàyàng) / 你误会了 (Nǐ wùhuì le)
+-------------------
+ID: 1057
+Primary: What's your guilty pleasure?
+Chinese: 你有什么坏习惯？ (Nǐ yǒu shénme huài xíguàn?) / 你的罪恶快感是什么？ (Nǐ de zuìè kuàigǎn shì shénme?)
+-------------------
+ID: 1058
+Primary: I got the short straw.
+Chinese: 我倒霉了 (Wǒ dǎoméi le) / 我抽到了下下签 (Wǒ chōudàole xiàxiàqiān)
+-------------------
+ID: 1059
+Primary: She truly is the GOAT.
+Chinese: 她真是永远的神 (Tā zhēnshì yǒngyuǎn de shén) / 她是绝对的传奇 (Tā shì juéduì de chuánqí)
+-------------------
+ID: 1060
+Primary: I've got a lot of mixed emotions.
+Chinese: 我百感交集 (Wǒ bǎigǎn jiāojí) / 我心情很复杂 (Wǒ xīnqíng hěn fùzá)
+-------------------
+ID: 1061
+Primary: I've seen worse.
+Chinese: 我见过更糟的 (Wǒ jiànguò gèng zāo de) / 这还不算最坏的 (Zhè hái búsuàn zuìhuài de)
+-------------------
+ID: 1062
+Primary: The tea tastes funny.
+Chinese: 这茶味道怪怪的 (Zhè chá wèidào guàiguài de) / 茶有点不对劲 (Chá yǒudiǎn búduìjìn)
+-------------------
+ID: 1063
+Primary: That's a steal.
+Chinese: 真便宜 (Zhēn piányi) / 简直是白菜价 (Jiǎnzhí shì báicàijià)
+-------------------
+ID: 1064
+Primary: Now is the time to decide.
+Chinese: 现在是做决定的时候了 (Xiànzài shì zuò juédìng de shíhou le) / 该拍板了 (Gāi pāibǎn le)
+-------------------
+ID: 1065
+Primary: I just winged it.
+Chinese: 我是临时发挥的 (Wǒ shì línshí fāhuī de) / 我没准备，硬上的 (Wǒ méi zhǔnbèi, yìngshàng de)
+-------------------
+ID: 1066
+Primary: It's my cheat day
+Chinese: 今天是我的放纵日 (Jīntiān shì wǒ de fàngzòngrì) / 今天不管嘴了 (Jīntiān bùguǎn zuǐ le)
+-------------------
+ID: 1067
+Primary: I'm at a loss for words.
+Chinese: 我无语了 (Wǒ wúyǔ le) / 我说不出话来 (Wǒ shuōbùchū huà lái)
+-------------------
+ID: 1068
+Primary: We went the extra mile.
+Chinese: 我们加倍努力了 (Wǒmen jiābèi nǔlì le) / 我们做得超出了预期 (Wǒmen zuò de chāochūle yùqī)
+-------------------
+ID: 1069
+Primary: I canceled them.
+Chinese: 我跟他们绝交了 (Wǒ gēn tāmen juéjiāo le) / 我拉黑他们了 (Wǒ lāhēi tāmen le)
+-------------------
+ID: 1070
+Primary: I was swamped with work.
+Chinese: 我忙得不可开交 (Wǒ máng dé bùkěkāijiāo) / 我忙死了 (Wǒ máng sǐ le)
+-------------------
+ID: 1071
+Primary: That's as cheap as chips.
+Chinese: 太便宜了 (Tài piányi le) / 便宜得要命 (Piányi dé yàomìng)
+-------------------
+ID: 1072
+Primary: Make yourself at home.
+Chinese: 别客气 (Bié kèqi) / 当自己家一样 (Dāng zìjǐ jiā yíyàng)
+-------------------
+ID: 1073
+Primary: Take it or leave it.
+Chinese: 要就要，不要拉倒 (Yào jiù yào, búyào lādǎo) / 一口价 (Yìkǒujià)
+-------------------
+ID: 1074
+Primary: I don't want to have egg on my face.
+Chinese: 我不想丢脸 (Wǒ bùxiǎng diūliǎn) / 我不想出洋相 (Wǒ bùxiǎng chūyángxiàng)
+-------------------
+ID: 1075
+Primary: I'm at a crossroads.
+Chinese: 我面临抉择 (Wǒ miànlín juézé) / 我在十字路口 (Wǒ zài shízìlùkǒu)
+-------------------
+ID: 1076
+Primary: I'm an open book.
+Chinese: 我这人没秘密 (Wǒ zhè rén méi mìmì) / 我很坦率 (Wǒ hěn tǎnshuài)
+-------------------
+ID: 1077
+Primary: There was a little bit of a kerfuffle.
+Chinese: 出了点小乱子 (Chūle diǎn xiǎo luànzi) / 有点小骚动 (Yǒudiǎn xiǎo sāodòng)
+-------------------
+ID: 1078
+Primary: The boys didn't cut the mustard.
+Chinese: 那些小伙子不行 (Nàxiē xiǎohuǒzi bùxíng) / 没达到要求 (Méi dádào yāoqiú)
+-------------------
+ID: 1079
+Primary: How thoughtful of you to say that.
+Chinese: 你真体贴 (Nǐ zhēn tǐtiē) / 谢谢你这么说 (Xièxie nǐ zhème shuō)
+-------------------
+ID: 1080
+Primary: There is a fat chance of you winning.
+Chinese: 你没什么希望赢 (Nǐ méi shénme xīwàng yíng) / 你赢的机会渺茫 (Nǐ yíng de jīhuì miǎománg)
+-------------------
+ID: 1081
+Primary: He finally got the message.
+Chinese: 他终于明白了 (Tā zhōngyú míngbai le) / 他终于想通了 (Tā zhōngyú xiǎngtōng le)
+-------------------
+ID: 1082
+Primary: He's lying through his teeth.
+Chinese: 他在睁眼说瞎话 (Tā zài zhēngyǎn shuō xiāhuà) / 满嘴跑火车 (Mǎnzuǐ pǎo huǒchē)
+-------------------
+ID: 1083
+Primary: For lack of a better word
+Chinese: 找不到更好的词 (Zhǎobúdào gèng hǎo de cí) / 姑且这么说吧 (Gūqiě zhème shuō ba)
+-------------------
+ID: 1084
+Primary: It's time to get moving.
+Chinese: 该行动了 (Gāi xíngdòng le) / 该走了 (Gāi zǒu le)
+-------------------
+ID: 1085
+Primary: That's the spirit!
+Chinese: 这就对了！ (Zhè jiù duì le!) / 这种精神就对了！ (Zhèzhǒng jīngshén jiù duì le!)
+-------------------
+ID: 1086
+Primary: I'm on the mend.
+Chinese: 我在康复中 (Wǒ zài kāngfù zhōng) / 我快好了 (Wǒ kuài hǎo le)
+-------------------
+ID: 1087
+Primary: You sold me.
+Chinese: 你说服我了 (Nǐ shuōfú wǒ le) / 我买账了 (Wǒ mǎizhàng le)
+-------------------
+ID: 1088
+Primary: I can't wrap my head around that.
+Chinese: 我搞不懂 (Wǒ gǎobùdǒng) / 我无法理解 (Wǒ wúfǎ lǐjiě)
+-------------------
+ID: 1089
+Primary: That's so sweet of you.
+Chinese: 你真好 (Nǐ zhēn hǎo) / 你太甜了 (Nǐ tài tián le)
+-------------------
+ID: 1090
+Primary: I'll figure it out.
+Chinese: 我会搞定的 (Wǒ huì gǎodìng de) / 我会想办法的 (Wǒ huì xiǎng bànfǎ de)
+-------------------
+ID: 1091
+Primary: Mobile technology is taking center stage.
+Chinese: 移动技术成主流了 (Yídòng jìshù chéng zhǔliú le) / 手机是老大了 (Shǒujī shì lǎodà le)
+-------------------
+ID: 1092
+Primary: He will lay bare the ugly truth.
+Chinese: 他会揭露丑陋的真相 (Tā huì jiēlù chǒulòu de zhēnxiàng) / 他会把老底都揭出来 (Tā huì bǎ lǎodǐ dōu jiē chūlái)
+-------------------
+ID: 1093
+Primary: I will leave no stone unturned.
+Chinese: 我会不遗余力 (Wǒ huì bùyíyúlì) / 我会想尽一切办法 (Wǒ huì xiǎngjìn yíqiè bànfǎ)
+-------------------
+ID: 1094
+Primary: I'm off to the gym.
+Chinese: 我去健身了 (Wǒ qù jiànshēn le) / 我去锻炼了 (Wǒ qù duànliàn le)
+-------------------
+ID: 1095
+Primary: Here's the thing.
+Chinese: 事情是这样的 (Shìqing shì zhèyàng de) / 问题在于 (Wèntí zàiyú)
+-------------------
+ID: 1096
+Primary: The day can't come soon enough.
+Chinese: 那一天快点来吧 (Nà yìtiān kuàidiǎn lái ba) / 等不及那一天了 (Děngbují nà yìtiān le)
+-------------------
+ID: 1097
+Primary: He has clout.
+Chinese: 他很有影响力 (Tā hěn yǒu yǐngxiǎnglì) / 他是大佬 (Tā shì dàlǎo)
+-------------------
+ID: 1098
+Primary: He vanished into thin air.
+Chinese: 他凭空消失了 (Tā píngkōng xiāoshī le) / 人间蒸发了 (Rénjiān zhēngfā le)
+-------------------
+ID: 1099
+Primary: Don't change the subject.
+Chinese: 别转移话题 (Bié zhuǎnyí huàtí) / 别打岔 (Bié dǎchà)
+-------------------
+ID: 1100
+Primary: I'm a glass half full person.
+Chinese: 我比较乐观 (Wǒ bǐjiào lèguān) / 我凡事往好处想 (Wǒ fánshì wǎng hǎochù xiǎng)
+-------------------
+ID: 1101
+Primary: Money doesn't grow on trees.
+Chinese: 钱不是大风刮来的 (Qián búshì dàfēng guā lái de) / 赚钱不容易 (Zhuànqián bù róngyì)
+-------------------
+ID: 1102
+Primary: Let's get into the swing of things.
+Chinese: 让我们进入状态 (Ràng wǒmen jìnrù zhuàngtài) / 找找感觉 (Zhǎozhao gǎnjué)
+-------------------
+ID: 1103
+Primary: I'm working on it.
+Chinese: 我在弄了 (Wǒ zài nòng le) / 正在处理 (Zhèngzài chǔlǐ)
+-------------------
+ID: 1104
+Primary: She dropped a bombshell.
+Chinese: 她放了个重磅炸弹 (Tā fàng le gè zhòngbàng zhàdàn) / 她说了个惊人消息 (Tā shuō le gè jīngrén xiāoxi)
+-------------------
+ID: 1105
+Primary: I was in a quandary.
+Chinese: 我左右为难 (Wǒ zuǒyòu wéinán) / 我很难办 (Wǒ hěn nánbàn)
+-------------------
+ID: 1106
+Primary: It is what it is
+Chinese: 也就只能这样了 (Yě jiù zhǐnéng zhèyàng le) / 没办法的事 (Méibànfǎ de shì)
+-------------------
+ID: 1107
+Primary: I pulled an all-nighter.
+Chinese: 我熬了个通宵 (Wǒ áo le gè tōngxiāo) / 我一夜没睡 (Wǒ yíyè méishuì)
+-------------------
+ID: 1108
+Primary: He has a heart of gold.
+Chinese: 他心肠特别好 (Tā xīncháng tèbié hǎo) / 他人太好了 (Tā rén tài hǎo le)
+-------------------
+ID: 1109
+Primary: Right off the bat
+Chinese: 一开始就... (Yìkāishǐ jiù...) / 立马... (Lìmǎ...)
+-------------------
+ID: 1110
+Primary: From day one
+Chinese: 从第一天起 (Cóng dì-yī tiān qǐ) / 一开始 (Yìkāishǐ)
+-------------------
+ID: 1111
+Primary: This is a walk in the park.
+Chinese: 这很简单 (Zhè hěn jiǎndān) / 这就是小菜一碟 (Zhè jiùshì xiǎocài yì dié)
+-------------------
+ID: 1112
+Primary: Speak for yourself.
+Chinese: 那是你觉得 (Nà shì nǐ juéde) / 代表你自己就好 (Dàibiǎo nǐ zìjǐ jiù hǎo)
+-------------------
+ID: 1113
+Primary: Get your act together.
+Chinese: 振作起来 (Zhènzuò qǐlái) / 别掉链子 (Bié diàoliànzi)
+-------------------
+ID: 1114
+Primary: I'm not phased.
+Chinese: 我无所谓 (Wǒ wúsuǒwèi) / 我没受影响 (Wǒ méi shòu yǐngxiǎng)
+-------------------
+ID: 1115
+Primary: Don't drag your feet.
+Chinese: 别磨蹭 (Bié móceng) / 别拖拖拉拉 (Bié tuōtuōlālā)
+-------------------
+ID: 1116
+Primary: Knock it off!
+Chinese: 别闹了！ (Bié nào le!) / 够了！ (Gòu le!)
+-------------------
+ID: 1117
+Primary: What brought you here?
+Chinese: 什么风把你吹来了？ (Shénme fēng bǎ nǐ chuī lái le?) / 你怎么来了？ (Nǐ zěnme lái le?)
+-------------------
+ID: 1118
+Primary: The ball is in your court.
+Chinese: 看你的了 (Kàn nǐ de le) / 决定权在你 (Juédìngquán zài nǐ)
+-------------------
+ID: 1119
+Primary: That will be the day.
+Chinese: 太阳从西边出来了 (Tàiyáng cóng xībiān chūlái le) / 那才怪呢 (Nà cái guài ne)
+-------------------
+ID: 1120
+Primary: They're fighting tooth and nail.
+Chinese: 他们争得很凶 (Tāmen zhēng de hěn xiōng) / 拼得你死我活 (Pīn de nǐ sǐ wǒ huó)
+-------------------
+ID: 1121
+Primary: I passed with flying colors.
+Chinese: 我高分通过了 (Wǒ gāofēn tōngguò le) / 我成绩很棒 (Wǒ chéngjì hěn bàng)
+-------------------
+ID: 1122
+Primary: I don't want to make a scene.
+Chinese: 我不想把事情闹大 (Wǒ bùxiǎng bǎ shìqing nàodà) / 我不想当众出丑 (Wǒ bùxiǎng dāngzhòng chūchǒu)
+-------------------
+ID: 1123
+Primary: That cracked me up.
+Chinese: 笑死我了 (Xiào sǐ wǒ le) / 我笑喷了 (Wǒ xiào pēn le)
+-------------------
+ID: 1124
+Primary: I'll have you know.
+Chinese: 我告诉你 (Wǒ gàosu nǐ) / 你要搞清楚 (Nǐ yào gǎo qīngchu)
+-------------------
+ID: 1125
+Primary: Better safe than sorry
+Chinese: 小心驶得万年船 (Xiǎoxīn shǐ de wànniánchuán) / 保险起见 (Bǎoxiǎn qǐjiàn)
+-------------------
+ID: 1126
+Primary: You're telling me!
+Chinese: 谁说不是呢！ (Shéi shuō búshì ne!) / 这还用你说！ (Zhè hái yòng nǐ shuō!)
+-------------------
+ID: 1127
+Primary: His wife chewed him out.
+Chinese: 他老婆把他骂了一顿 (Tā lǎopo bǎ tā mà le yí dùn) / 他挨老婆骂了 (Tā ái lǎopo mà le)
+-------------------
+ID: 1128
+Primary: Please spread the word.
+Chinese: 帮忙传一下 (Bāngmáng chuán yíxià) / 广而告之 (Guǎng ér gào zhī)
+-------------------
+ID: 1129
+Primary: I hate to break it to you, but.
+Chinese: 我不想打击你，但是... (Wǒ bùxiǎng dǎjī nǐ, dànshì...) / 虽然不好听，但... (Suīrán bù hǎotīng, dàn...)
+-------------------
+ID: 1130
+Primary: For all I care.
+Chinese: 我才不在乎呢 (Wǒ cái búzàihu ne) / 关我屁事 (Guān wǒ pì shì)
+-------------------
+ID: 1131
+Primary: Don't sweat it.
+Chinese: 别担心 (Bié dānxīn) / 没事儿 (Méishìr)
+-------------------
+ID: 1132
+Primary: No word of a lie.
+Chinese: 绝无半句虚言 (Juéwú bànjù xūyán) / 我没骗你 (Wǒ méi piàn nǐ)
+-------------------
+ID: 1133
+Primary: People came out of the woodwork.
+Chinese: 人都冒出来了 (Rén dōu mào chūlái le) / 大家都钻出来了 (Dàjiā dōu zuān chūlái le)
+-------------------
+ID: 1134
+Primary: It's like riding a bike.
+Chinese: 这就像骑自行车一样 (Zhè jiù xiàng qí zìxíngchē yíyàng) / 学会了就不会忘 (Xuéhuì le jiù búhuì wàng)
+-------------------
+ID: 1135
+Primary: I poured over this book.
+Chinese: 我钻研了这本书 (Wǒ zuānyán le zhè běn shū) / 我仔细读了这本书 (Wǒ zǐxì dú le zhè běn shū)
+-------------------
+ID: 1136
+Primary: It's high time we did.
+Chinese: 早该这么做了 (Zǎo gāi zhème zuò le) / 早就该这样了 (Zǎojiù gāi zhèyàng le)
+-------------------
+ID: 1137
+Primary: I don't want to split hairs.
+Chinese: 我不想斤斤计较 (Wǒ bùxiǎng jīnjīnjìjiào) / 我不想抠字眼 (Wǒ bùxiǎng kōu zìyǎn)
+-------------------
+ID: 1138
+Primary: He made a blunder.
+Chinese: 他犯了个大错 (Tā fàn le gè dàcuò) / 他搞砸了 (Tā gǎo zá le)
+-------------------
+ID: 1139
+Primary: He has money to burn.
+Chinese: 他钱多得烧得慌 (Tā qián duō de shāo de huāng) / 他富得流油 (Tā fù de liúyóu)
+-------------------
+ID: 1140
+Primary: I got choked up.
+Chinese: 我哽咽了 (Wǒ gěngyè le) / 我感动得说不出话 (Wǒ gǎndòng de shuōbùchū huà)
+-------------------
+ID: 1141
+Primary: Better moving than not
+Chinese: 动起来总比不动强 (Dòng qǐlái zǒngbǐ búdòng qiáng) / 有动静总比没有好 (Yǒu dòngjing zǒngbǐ méiyǒu hǎo)
+-------------------
+ID: 1142
+Primary: You have to learn the ropes.
+Chinese: 你得懂行 (Nǐ děi dǒngháng) / 你得摸清门道 (Nǐ děi mōqīng méndào)
+-------------------
+ID: 1143
+Primary: He's milking it.
+Chinese: 他在利用这一点 (Tā zài lìyòng zhè yìdiǎn) / 他在过度消费 (Tā zài guòdù xiāofèi)
+-------------------
+ID: 1144
+Primary: You can't cherry pick.
+Chinese: 你不能挑三拣四 (Nǐ bùnéng tiāosānjiǎnsì) / 不能只挑好的 (Bùnéng zhǐ tiāo hǎo de)
+-------------------
+ID: 1145
+Primary: You hit the bullseye.
+Chinese: 你说到点子上了 (Nǐ shuō dào diǎnzi shàng le) / 正中红心 (Zhèngzhòng hóngxīn)
+-------------------
+ID: 1146
+Primary: What's in a name?
+Chinese: 名字有什么重要的？ (Míngzi yǒu shénme zhòngyào de?) / 叫什么无所谓 (Jiào shénme wúsuǒwèi)
+-------------------
+ID: 1147
+Primary: He walks the walk.
+Chinese: 他言行一致 (Tā yánxíng yízhì) / 他说到做到 (Tā shuōdào zuòdào)
+-------------------
+ID: 1148
+Primary: We'll cross that bridge when we come to it.
+Chinese: 船到桥头自然直 (Chuán dào qiáotóu zìrán zhí) / 到时候再说 (Dàoshíhou zài shuō)
+-------------------
+ID: 1149
+Primary: Let's let the dust settle.
+Chinese: 等风头过去再说 (Děng fēngtóu guòqù zài shuō) / 先等等看 (Xiān děngdeng kàn)
+-------------------
+ID: 1150
+Primary: He was as hard as nails.
+Chinese: 他心如铁石 (Tā xīnrútiěshí) / 他很冷酷 (Tā hěn lěngkù)
+-------------------
+ID: 1151
+Primary: You have what it takes to succeed.
+Chinese: 你具备成功的条件 (Nǐ jùbèi chénggōng de tiáojiàn) / 你是块成功的料 (Nǐ shì kuài chénggōng de liào)
+-------------------
+ID: 1152
+Primary: Don't push your luck.
+Chinese: 别得寸进尺 (Bié décùnjìnchǐ) / 别不知好歹 (Bié bùzhī hǎodǎi)
+-------------------
+ID: 1153
+Primary: I'm at the end of my rope.
+Chinese: 我忍无可忍了 (Wǒ rěnwúkěrěn le) / 我快崩溃了 (Wǒ kuài bēngkuì le)
+-------------------
+ID: 1154
+Primary: It's a small world.
+Chinese: 世界真小 (Shìjiè zhēn xiǎo) / 真是冤家路窄 (Zhēnshì yuānjiālùzhǎi)
+-------------------
+ID: 1155
+Primary: You're on thin ice.
+Chinese: 你在如履薄冰 (Nǐ zài rúlǚbóbīng) / 你处境很危险 (Nǐ chǔjìng hěn wēixiǎn)
+-------------------
+ID: 1156
+Primary: I'll give it a shot.
+Chinese: 我试试看 (Wǒ shìshi kàn) / 我尝试一下 (Wǒ chángshì yíxià)
+-------------------
+ID: 1157
+Primary: You can never be too careful
+Chinese: 小心总没错 (Xiǎoxīn zǒng méi cuò) / 多留个心眼准没错 (Duō liú gè xīnyǎn zhǔn méi cuò)
+-------------------
+ID: 1158
+Primary: That's a wrap.
+Chinese: 搞定收工 (Gǎodìng shōugōng) / 完事了 (Wánshì le)
+-------------------
+ID: 1159
+Primary: Don't jump to conclusions.
+Chinese: 别急着下结论 (Bié jí zhe xià jiélùn) / 别乱猜 (Bié luàn cāi)
+-------------------
+ID: 1160
+Primary: Right up my alley
+Chinese: 正合我意 (Zhènghé wǒyì) / 也就是我的菜 (Yě jiùshì wǒ de cài)
+-------------------
+ID: 1161
+Primary: It's written all over your face.
+Chinese: 全写在你脸上了 (Quán xiě zài nǐ liǎnshàng le) / 一看你就知道 (Yí kàn nǐ jiù zhīdào)
+-------------------
+ID: 1162
+Primary: This is for me
+Chinese: 这就是我要的 (Zhè jiùshì wǒ yào de) / 这太适合我了 (Zhè tài shìhé wǒ le)
+-------------------
+ID: 1163
+Primary: The sky is the limit.
+Chinese: 前途无量 (Qiántú wúliàng) / 没有极限 (Méiyǒu jíxiàn)
+-------------------
+ID: 1164
+Primary: Practice makes perfect.
+Chinese: 熟能生巧 (Shúnéngshēngqiǎo) / 多练练就好了 (Duō liànlian jiù hǎo le)
+-------------------
+ID: 1165
+Primary: I got LASIK.
+Chinese: 我做了激光近视手术 (Wǒ zuò le jīguāng jìnshì shǒushù) / 我做了准分子 (Wǒ zuò le zhǔnfēnzǐ)
+-------------------
+ID: 1166
+Primary: How long is the wait?
+Chinese: 要等多久？ (Yào děng duōjiǔ?) / 前面还有几桌？ (Qiánmiàn hái yǒu jǐ zhuō?)
+-------------------
+ID: 1167
+Primary: Nature calls.
+Chinese: 人有三急 (Rén yǒu sānjí) / 我得上厕所 (Wǒ děi shàng cèsuǒ)
+-------------------
+ID: 1168
+Primary: Drop me off there.
+Chinese: 在那儿放我下来 (Zài nàr fàng wǒ xiàlái) / 就在那停 (Jiù zài nà tíng)
+-------------------
+ID: 1169
+Primary: You look better in person.
+Chinese: 你本人比照片好看 (Nǐ běnrén bǐ zhàopiàn hǎokàn) / 你真人更漂亮 (Nǐ zhēnrén gèng piàoliang)
+-------------------
+ID: 1170
+Primary: Could you make that two, please?
+Chinese: 请再来一份一样的 (Qǐng zàilái yí fèn yíyàng de) / 给我来个双份 (Gěi wǒ lái gè shuāngfèn)
+-------------------
+ID: 1171
+Primary: Keep your voice down.
+Chinese: 小声点 (Xiǎoshēng diǎn) / 别嚷嚷 (Bié rāngrang)
+-------------------
+ID: 1172
+Primary: Walk it off.
+Chinese: 去散散心 (Qù sànsanxīn) / 走两步消消气 (Zǒu liǎng bù xiāoxiaoqì)
+-------------------
+ID: 1173
+Primary: I tossed and turned all night.
+Chinese: 我翻来覆去睡不着 (Wǒ fānláifùqù shuìbuzháo) / 我折腾了一宿 (Wǒ zhēteng le yìxiǔ)
+-------------------
+ID: 1174
+Primary: I have two left feet.
+Chinese: 我手脚笨拙 (Wǒ shǒujiǎo bènzhuō) / 我不会跳舞 (Wǒ búhuì tiàowǔ)
+-------------------
+ID: 1175
+Primary: My face is breaking out.
+Chinese: 我脸上爆痘了 (Wǒ liǎnshàng bàodòu le) / 我长痘痘了 (Wǒ zhǎng dòudou le)
+-------------------
+ID: 1176
+Primary: I want some time off.
+Chinese: 我想休息一段时间 (Wǒ xiǎng xiūxi yí duàn shíjiān) / 我想请假 (Wǒ xiǎng qǐngjià)
+-------------------
+ID: 1177
+Primary: I'm not good with my hands.
+Chinese: 我手不巧 (Wǒ shǒu bù qiǎo) / 我手残 (Wǒ shǒucán)
+-------------------
+ID: 1178
+Primary: I have a nosebleed.
+Chinese: 我流鼻血了 (Wǒ liú bíxiě le) / 我出鼻血了 (Wǒ chū bíxiě le)
+-------------------
+ID: 1179
+Primary: I'm pooped.
+Chinese: 我累瘫了 (Wǒ lèi tān le) / 我累毙了 (Wǒ lèi bì le)
+-------------------
+ID: 1180
+Primary: I'm tone-deaf.
+Chinese: 我是音痴 (Wǒ shì yīnchī) / 我五音不全 (Wǒ wǔyīnbùquán)
+-------------------
+ID: 1181
+Primary: It's been a little hectic.
+Chinese: 最近有点乱 (Zuìjìn yǒudiǎn luàn) / 最近忙疯了 (Zuìjìn máng fēng le)
+-------------------
+ID: 1182
+Primary: It bugs me.
+Chinese: 这让我很烦 (Zhè ràng wǒ hěn fán) / 这让我心里不舒服 (Zhè ràng wǒ xīnli bù shūfu)
+-------------------
+ID: 1183
+Primary: Not to my knowledge.
+Chinese: 据我所知不是 (Jù wǒ suǒzhī búshì) / 我没听说啊 (Wǒ méi tīngshuō a)
+-------------------
+ID: 1184
+Primary: Lost cause.
+Chinese: 没救了 (Méijiù le) / 没戏了 (Méixì le)
+-------------------
+ID: 1185
+Primary: That's a blast from the past.
+Chinese: 真是满满的回忆 (Zhēnshì mǎnmǎn de huíyì) / 太怀旧了 (Tài huáijiù le)
+-------------------
+ID: 1186
+Primary: My lips are sealed.
+Chinese: 我守口如瓶 (Wǒ shǒukǒurúpíng) / 我嘴很严 (Wǒ zuǐ hěn yán)
+-------------------
+ID: 1187
+Primary: Hit the books.
+Chinese: 用功读书 (Yònggōng dúshū) / 啃书本 (Kěn shūběn)
+-------------------
+ID: 1188
+Primary: I spaced out.
+Chinese: 我走神了 (Wǒ zǒushén le) / 我发呆了 (Wǒ fādāi le)
+-------------------
+ID: 1189
+Primary: Do you guys carry Nike?
+Chinese: 你们这儿卖耐克吗？ (Nǐmen zhèr mài Nàikè ma?) / 有耐克吗？ (Yǒu Nàikè ma?)
+-------------------
+ID: 1190
+Primary: Can you tell?
+Chinese: 看得出来吗？ (Kàn de chūlái ma?) / 明显吗？ (Míngxiǎn ma?)
+-------------------
+ID: 1191
+Primary: He is full of himself.
+Chinese: 他太自以为是了 (Tā tài zìyǐwéishì le) / 他太自恋了 (Tā tài zìliàn le)
+-------------------
+ID: 1192
+Primary: Do you happen to know?
+Chinese: 你知道...吗？ (Nǐ zhīdào... ma?) / 你晓得不？ (Nǐ xiǎode bù?)
+-------------------
+ID: 1193
+Primary: It's fattening.
+Chinese: 这很长肉 (Zhè hěn zhǎng ròu) / 这个热量很高 (Zhèqe rèliàng hěn gāo)
+-------------------
+ID: 1194
+Primary: Give her my best.
+Chinese: 代我向她问好 (Dài wǒ xiàng tā wènhǎo) / 替我问候她 (Tì wǒ wènhòu tā)
+-------------------
+ID: 1195
+Primary: Dressed to kill.
+Chinese: 穿得迷死人 (Chuān de mísǐrén) / 盛装打扮 (Shèngzhuāng dǎbàn)
+-------------------
+ID: 1196
+Primary: Because I can.
+Chinese: 因为我乐意 (Yīnwèi wǒ lèyì) / 我喜欢，你管着吗 (Wǒ xǐhuan, nǐ guǎn zhe ma)
+-------------------
+ID: 1197
+Primary: Just because.
+Chinese: 不为什么 (Bù wèishénme) / 就那样 (Jiù nàyàng)
+-------------------
+ID: 1198
+Primary: First come, first served.
+Chinese: 先到先得 (Xiāndào xiāndé) / 谁先来归谁 (Shéi xiān lái guī shéi)
+-------------------
+ID: 1199
+Primary: Good with people
+Chinese: 擅长交际 (Shàncháng jiāojì) / 会来事儿 (Huì láishìr)
+-------------------
+ID: 1200
+Primary: I can feel it in my bones.
+Chinese: 我有预感 (Wǒ yǒu yùgǎn) / 我直觉很准 (Wǒ zhíjué hěn zhǔn)
+-------------------
+ID: 1201
+Primary: Let's order in.
+Chinese: 我们叫外卖吧 (Wǒmen jiào wàimài ba) / 订餐吧 (Dìngcān ba)
+-------------------
+ID: 1202
+Primary: Bless you
+Chinese: 保重 (Bǎozhòng) (有人打喷嚏时说) / 长命百岁 (Chángmìngbǎisuì)
+-------------------
+ID: 1203
+Primary: He is very low-key.
+Chinese: 他很低调 (Tā hěn dīdiào) / 他不张扬 (Tā bù zhāngyáng)
+-------------------
+ID: 1204
+Primary: It's lit.
+Chinese: 燃爆了 (Rán bào le) / 太嗨了 (Tài hāi le)
+-------------------
+ID: 1205
+Primary: I have a hunch
+Chinese: 我有种预感 (Wǒ yǒu zhǒng yùgǎn) / 我觉得好像... (Wǒ juéde hǎoxiàng...)
+-------------------
+ID: 1206
+Primary: It's on the tip of my tongue.
+Chinese: 就在嘴边 (Jiù zài zuǐbiān) / 一时想不起来 (Yìshí xiǎngbùqǐlái)
+-------------------
+ID: 1207
+Primary: What brings you here?
+Chinese: 哪阵风把你吹来了？ (Nǎ zhèn fēng bǎ nǐ chuī lái le?) / 你来这儿干嘛？ (Nǐ lái zhèr gànmá?)
+-------------------
+ID: 1208
+Primary: Don't get any funny ideas.
+Chinese: 别想歪了 (Bié xiǎng wāi le) / 别打歪主意 (Bié dǎ wāi zhǔyi)
+-------------------
+ID: 1209
+Primary: I'm not much of a coffee person.
+Chinese: 我不怎么喝咖啡 (Wǒ bù zěnme hē kāfēi) / 我对咖啡不太感冒 (Wǒ duì kāfēi bútài gǎnmào)
+-------------------
+ID: 1210
+Primary: I don't follow.
+Chinese: 我没听懂 (Wǒ méi tīngdǒng) / 我没跟上 (Wǒ méi gēnshàng)
+-------------------
+ID: 1211
+Primary: Are you wearing perfume?
+Chinese: 你喷香水了？ (Nǐ pēn xiāngshuǐ le?) / 你身上好香 (Nǐ shēnshàng hǎo xiāng)
+-------------------
+ID: 1212
+Primary: We have bigger fish to fry.
+Chinese: 我们有更重要的事要做 (Wǒmen yǒu gèng zhòngyào de shì yào zuò) / 还有大把正事呢 (Hái yǒu dàbǎ zhèngshì ne)
+-------------------
+ID: 1213
+Primary: I have my hands full.
+Chinese: 我忙不过来 (Wǒ mángbuguòlái) / 我手头事儿太多 (Wǒ shǒutóu shìr tài duō)
+-------------------
+ID: 1214
+Primary: How can that be?
+Chinese: 怎么可能？ (Zěnme kěnéng?) / 哪有这种事？ (Nǎ yǒu zhèzhǒng shì?)
+-------------------
+ID: 1215
+Primary: Potato, potahto, tomato, tomahto.
+Chinese: 半斤八两 (Bànjīnbāliǎng) / 都差不多 (Dōu chàbuduō)
+-------------------
+ID: 1216
+Primary: It's not my day.
+Chinese: 今天真不顺 (Jīntiān zhēn búshùn) / 今天倒霉透了 (Jīntiān dǎoméi tòu le)
+-------------------
+ID: 1217
+Primary: Far from it.
+Chinese: 差远了 (Chà yuǎn le) / 根本不是 (Gēnběn búshì)
+-------------------
+ID: 1218
+Primary: Fancy meeting you here!
+Chinese: 真巧啊！ (Zhēn qiǎo a!) / 想不到在这儿碰见你！ (Xiǎngbúdào zài zhèr pèngjiàn nǐ!)
+-------------------
+ID: 1219
+Primary: I never thought of that.
+Chinese: 我从没想过那个 (Wǒ cóngméi xiǎngguò nàge) / 我没想到这一层 (Wǒ méi xiǎngdào zhè yì céng)
+-------------------
+ID: 1220
+Primary: Are you gonna run some errands?
+Chinese: 你要去办事吗？ (Nǐ yào qù bànshì ma?) / 你要去跑腿吗？ (Nǐ yào qù pǎotuǐ ma?)
+-------------------
+ID: 1221
+Primary: I just did the best I could.
+Chinese: 我尽力了 (Wǒ jìnlì le) / 我能做的都做了 (Wǒ néng zuò de dōu zuò le)
+-------------------
+ID: 1222
+Primary: Get to the point.
+Chinese: 说重点 (Shuō zhòngdiǎn) / 捞干的说 (Lāo gān de shuō)
+-------------------
+ID: 1223
+Primary: Do I have to spell it out for you?
+Chinese: 非要我画公仔画出肠吗？ (Fēiyào wǒ huà gōngzǎi huà chū cháng ma?) (广东话俗语，意为画得很详细) / 非要我把话挑明吗？(Fēiyào wǒ bǎ huà tiāomíng ma?)
+-------------------
+ID: 1224
+Primary: I can't get through to her.
+Chinese: 我跟她讲不通 (Wǒ gēn tā jiǎngbùtōng) / 她听不进去 (Tā tīngbújìnqù)
+-------------------
+ID: 1225
+Primary: Take a wild guess.
+Chinese: 瞎猜一个 (Xiā cāi yí gè) / 随便猜猜 (Suíbiàn cāicai)
+-------------------
+ID: 1226
+Primary: No more wishy-washy.
+Chinese: 别再优柔寡断了 (Bié zài yōuróuguǎduàn le) / 别磨叽了 (Bié móji le)
+-------------------
+ID: 1227
+Primary: Sue me!
+Chinese: 你去告我啊！ (Nǐ qù gào wǒ a!) / 咬我啊！ (Yǎo wǒ a!)
+-------------------
+ID: 1228
+Primary: Just making chit chat.
+Chinese: 只是闲聊 (Zhǐshì xiánliáo) / 随便聊聊 (Suíbiàn liáoliao)
+-------------------
+ID: 1229
+Primary: We won by a nose.
+Chinese: 我们险胜 (Wǒmen xiǎnshèng) / 赢了一点点 (Yíng le yìdiǎndiǎn)
+-------------------
+ID: 1230
+Primary: That's on you.
+Chinese: 这得怪你 (Zhè děi guài nǐ) / 是你的锅 (Shì nǐ de guō)
+-------------------
+ID: 1231
+Primary: I'm totally out of shape.
+Chinese: 我身材走样了 (Wǒ shēncái zǒuyàng le) / 我体能废了 (Wǒ tǐnéng fèi le)
+-------------------
+ID: 1232
+Primary: Why are you dressed up?
+Chinese: 你怎么穿这么正式？ (Nǐ zěnme chuān zhème zhèngshì?) / 穿这么帅干嘛？ (Chuān zhème shuài gànmá?)
+-------------------
+ID: 1233
+Primary: I bought it for a song.
+Chinese: 我超低价买的 (Wǒ chāo dījià mǎi de) / 捡了个大便宜 (Jiǎn le gè dà piányi)
+-------------------
+ID: 1234
+Primary: That was a close call!
+Chinese: 好险！ (Hǎo xiǎn!) / 差点就要命了！ (Chàdiǎn jiù yàomìng le!)
+-------------------
+ID: 1235
+Primary: Likewise.
+Chinese: 彼此彼此 (Bǐcǐbǐcǐ) / 你也一样 (Nǐ yě yíyàng)
+-------------------
+ID: 1236
+Primary: You made my day.
+Chinese: 你让我太开心了 (Nǐ ràng wǒ tài kāixīn le) / 有你真好 (Yǒu nǐ zhēn hǎo)
+-------------------
+ID: 1237
+Primary: What a small world.
+Chinese: 世界真小啊 (Shìjiè zhēn xiǎo a) /这也太巧了 (Zhè yě tài qiǎo le)
+-------------------
+ID: 1238
+Primary: I didn't see this coming.
+Chinese: 我没想到会这样 (Wǒ méi xiǎngdào huì zhèyàng) / 这太意外了 (Zhè tài yìwài le)
+-------------------
+ID: 1239
+Primary: Sorry about the mess.
+Chinese: 抱歉这就么乱 (Bàoqiàn zhè jiù me luàn) / 没收拾，见笑了 (Méi shōushi, jiànxiào le)
+-------------------
+ID: 1240
+Primary: Everyone speaks highly of you.
+Chinese: 大家都夸你 (Dàjiā dōu kuā nǐ) / 你的口碑很好 (Nǐ de kǒubēi hěn hǎo)
+-------------------
+ID: 1241
+Primary: You have to put yourself in my shoes.
+Chinese: 你得设身处地为我想想 (Nǐ děi shèshēnchǔdì wèi wǒ xiǎngxiang) / 你站我角度看看 (Nǐ zhàn wǒ jiǎodù kànkan)
+-------------------
+ID: 1242
+Primary: Where have you been?
+Chinese: 你死哪儿去了？ (Nǐ sǐ nǎr qù le?) / 好久不见，去哪了？ (Hǎojiǔ bújiàn, qù nǎ le?)
+-------------------
+ID: 1243
+Primary: Don't be a stranger.
+Chinese: 别不联系啊 (Bié bù liánxì a) / 常联系 (Cháng liánxì)
+-------------------
+ID: 1244
+Primary: All sales are final.
+Chinese: 售出不退 (Shòuchū bú tuì) / 离柜概不负责 (Lí guì gàibùfùzé)
+-------------------
+ID: 1245
+Primary: I never meant to.
+Chinese: 我不是故意的 (Wǒ búshì gùyì de) / 我没那个意思 (Wǒ méi nàge yìsi)
+-------------------
+ID: 1246
+Primary: Here's the deal.
+Chinese: 情况是这样的 (Qíngkuàng shì zhèyàng de) / 咱们这么着 (Zánmen zhème zhe)
+-------------------
+ID: 1247
+Primary: Enough chit chat.
+Chinese: 闲话少说 (Xiánhuà shǎoshuō) / 言归正传 (Yánguīzhèngzhuàn)
+-------------------
+ID: 1248
+Primary: We can pull this off.
+Chinese: 我们可以搞定的 (Wǒmen kěyǐ gǎodìng de) / 这事能成 (Zhè shì néng chéng)
+-------------------
+ID: 1249
+Primary: You have my word.
+Chinese: 我向你保证 (Wǒ xiàng nǐ bǎozhèng) / 我说话算话 (Wǒ shuōhuà suànhuà)
+-------------------
+ID: 1250
+Primary: Time's up.
+Chinese: 时间到 (Shíjiān dào) / 没时间了 (Méi shíjiān le)
+-------------------
+ID: 1251
+Primary: Do I know you from somewhere?
+Chinese: 我看你很面熟 (Wǒ kàn nǐ hěn miànshú) / 我们是不是在哪儿见过？ (Wǒmen shìbushì zài nǎr jiànguo?)
+-------------------
+ID: 1252
+Primary: Fake it till you make it.
+Chinese: 装也要装得像一点 (Zhuāng yě yào zhuāng de xiàng yìdiǎn) / 先假装行，最后就真行了 (Xiān jiǎzhuāng xíng, zuìhòu jiù zhēn xíng le)
+-------------------
+ID: 1253
+Primary: Don't take it personally.
+Chinese: 别往心里去 (Bié wǎng xīnli qù) / 别太在意 (Bié tài zàiyì)
+-------------------
+ID: 1254
+Primary: That's the way it is.
+Chinese: 现实就是这样 (Xiànshí jiùshì zhèyàng) / 命就这样 (Mìng jiù zhèyàng)
+-------------------
+ID: 1255
+Primary: Don't be ridiculous.
+Chinese: 别犯傻了 (Bié fànshǎ le) / 别荒唐了 (Bié huāngtáng le)
+-------------------
+ID: 1256
+Primary: I got dumped.
+Chinese: 我被甩了 (Wǒ bèi shuǎi le) / 我失恋了 (Wǒ shīliàn le)
+-------------------
+ID: 1257
+Primary: Now it makes sense.
+Chinese: 这下说得通了 (Zhèxià shuōdetōng le) / 原来如此 (Yuánláirúcǐ)
+-------------------
+ID: 1258
+Primary: Let's get it over with.
+Chinese: 速战速决吧 (Sùzhànsùjué ba) / 赶紧完事吧 (Gǎnjǐn wánshì ba)
+-------------------
+ID: 1259
+Primary: What a shame.
+Chinese: 真遗憾 (Zhēn yíhàn) / 太可惜了 (Tài kěxī le)
+-------------------
+ID: 1260
+Primary: She's obsessed with you.
+Chinese: 她迷上你了 (Tā míshàng nǐ le) / 她对你着魔了 (Tā duì nǐ zháomó le)
+-------------------
+ID: 1261
+Primary: Are you with me?
+Chinese: 你听懂了吗？ (Nǐ tīngdǒng le ma?) / 这个能理解吗？ (Zhège néng lǐjiě ma?)
+-------------------
+ID: 1262
+Primary: Mind your business.
+Chinese: 少管闲事 (Shǎo guǎn xiánshì) / 没你事儿 (Méi nǐ shìr)
+-------------------
+ID: 1263
+Primary: I overreacted.
+Chinese: 我反应过激了 (Wǒ fǎnyìng guòjī le) / 我太激动了 (Wǒ tài jīdòng le)
+-------------------
+ID: 1264
+Primary: I have nothing to do with that.
+Chinese: 这跟我没关系 (Zhè gēn wǒ méi guāxì) / 我跟这事儿不沾边 (Wǒ gēn zhè shìr bù zhānbiān)
+-------------------
+ID: 1265
+Primary: I think I'll pass.
+Chinese: 我还是算了吧 (Wǒ háishì suànle ba) / 我就不参与了 (Wǒ jiù bù cānyù le)
+-------------------
+ID: 1266
+Primary: There's been a big mistake.
+Chinese: 搞错了 (Gǎo cuò le) / 出了个大乌龙 (Chū le gè dà wūlóng)
+-------------------
+ID: 1267
+Primary: I gotta get some air.
+Chinese: 我得透透气 (Wǒ děi tòutouqì) / 我出去吸口氧 (Wǒ chūqù xī kǒu yǎng)
+-------------------
+ID: 1268
+Primary: Okay if we take a rain check?
+Chinese: 改天行吗？ (Gǎitiān xíng ma?) / 下次吧好吗？ (Xiàcì ba hǎoma?)
+-------------------
+ID: 1269
+Primary: Don't hold your breath.
+Chinese: 别抱太大希望 (Bié bào tài dà xīwàng) / 别指望了 (Bié zhǐwàng le)
+-------------------
+ID: 1270
+Primary: He's not with me.
+Chinese: 他不跟我一起 (Tā bù gēn wǒ yìqǐ) / 我跟他不是一伙的 (Wǒ gēn tā búshì yìhuǒ de)
+-------------------
+ID: 1271
+Primary: I can't catch a break.
+Chinese: 我最近太背了 (Wǒ zuìjìn tài bèi le) / 倒霉事都赶一起了 (Dǎoméi shì dōu gǎn yìqǐ le)
+-------------------
+ID: 1272
+Primary: Do me a favor.
+Chinese: 帮我个忙 (Bāng wǒ gè máng) / 搭把手 (Dā bǎ shǒu)
+-------------------
+ID: 1273
+Primary: I knew it.
+Chinese: 我就知道 (Wǒ jiù zhīdào) / 果然不出我所料 (Guǒrán bù chū wǒ suǒliào)
+-------------------
+ID: 1274
+Primary: I take it back.
+Chinese: 我收回那句话 (Wǒ shōuhuí nà jù huà) / 当我没说 (Dāng wǒ méi shuō)
+-------------------
+ID: 1275
+Primary: Jinx!
+Chinese: 心有灵犀！ (Xīnyǒulíngxī!) / 咱俩想到一块去了！ (Zánliǎ xiǎngdào yíkuài qù le!) (Also: Jinx = 乌鸦嘴 wūyāzuǐ if modifying bad luck, but here it's 'simultaneous speech game')
+-------------------
+ID: 1276
+Primary: Not necessarily.
+Chinese: 那倒未必 (Nà dào wèibì) / 不见得 (Bújiànde)
+-------------------
+ID: 1277
+Primary: Ta-da!
+Chinese: 当当当当！ (Dāngdāngdāngdāng!) / 看这里！ (Kàn zhèlǐ!)
+-------------------
+ID: 1278
+Primary: We're on the same page.
+Chinese: 我们想到一块儿去了 (Wǒmen xiǎngdào yíkuàir qù le) / 自解是一致的 (Zìjiě shì yízhì de)
+-------------------
+ID: 1279
+Primary: What do you say?
+Chinese: 你怎么看？ (Nǐ zěnme kàn?) / 你觉得呢？ (Nǐ juéde ne?)
+-------------------
+ID: 1280
+Primary: I warned you this would happen.
+Chinese: 我早告诉过你会这样的 (Wǒ zǎo gàosu guò nǐ huì zhèyàng de) / 我早就警告过你 (Wǒ zǎojiù jǐnggào guò nǐ)
+-------------------
+ID: 1281
+Primary: It's water under the bridge.
+Chinese: 都过去了 (Dōu guòqù le) / 往事别再提了 (Wǎngshì bié zài tí le)
+-------------------
+ID: 1282
+Primary: I have a ballpark figure.
+Chinese: 我有个大概的数 (Wǒ yǒu gè dàgài de shù) / 心里有个底 (Xīnli yǒu gè dǐ)
+-------------------
+ID: 1283
+Primary: Don't beat yourself up.
+Chinese: 别自责了 (Bié zìzé le) / 别跟自己过不去 (Bié gēn zìjǐ guòbùqù)
+-------------------
+ID: 1284
+Primary: He cheated on me.
+Chinese: 他劈腿了 (Tā pītuǐ le) / 他出轨了 (Tā chūguǐ le)
+-------------------
+ID: 1285
+Primary: I'm so screwed.
+Chinese: 我死定了 (Wǒ sǐdìng le) / 我完蛋了 (Wǒ wándàn le)
+-------------------
+ID: 1286
+Primary: You're being so dramatic.
+Chinese: 你也太戏精了 (Nǐ yě tài xìjīng le) / 别那么夸张 (Bié nàme kuāzhāng)
+-------------------
+ID: 1287
+Primary: You're out of your league.
+Chinese: 你高攀不起 (Nǐ gāopānbùqǐ) / 这不是你能驾驭的 (Zhè búshì nǐ néng jiàyù de)
+-------------------
+ID: 1288
+Primary: I'm so relieved.
+Chinese: 我总算放心了 (Wǒ zǒngsuàn fàngxīn le) / 心里石头落地了 (Xīnli shítou luòdì le)
+-------------------
+ID: 1289
+Primary: He's crazy about you.
+Chinese: 他对你着迷了 (Tā duì nǐ zháomí le) / 他超级喜欢你 (Tā chāojí xǐhuan nǐ)
+-------------------
+ID: 1290
+Primary: How are we on time?
+Chinese: 时间来得及吗？ (Shíjiān láidejí ma?) / 我们赶趟吗？ (Wǒmen gǎntàng ma?)
+-------------------
+ID: 1291
+Primary: Don't try to butter me up.
+Chinese: 别拍马屁 (Bié pāimǎpì) / 少来这套 (Shǎo lái zhè tào)
+-------------------
+ID: 1292
+Primary: I do have feelings for you.
+Chinese: 我对你是有感觉的 (Wǒ duì nǐ shì yǒu gǎnjué de) / 我确实喜欢你 (Wǒ quèshí xǐhuan nǐ)
+-------------------
+ID: 1293
+Primary: Don't keep me waiting.
+Chinese: 别让我久等 (Bié ràng wǒ jiǔděng) / 快点儿 (Kuàidiǎnr)
+-------------------
+ID: 1294
+Primary: You guys are so made for each other.
+Chinese: 你们俩太般配了 (Nǐmen liǎ tài bānpèi le) / 天生一对 (Tiānshēng yí duì)
+-------------------
+ID: 1295
+Primary: Suit yourself.
+Chinese: 随你便 (Suí nǐ biàn) / 爱咋咋地 (Ài zǎzǎdì)
+-------------------
+ID: 1296
+Primary: That should do it.
+Chinese: 这样就行了 (Zhèyàng jiù xíng le) / 差不多了 (Chàbuduō le)
+-------------------
+ID: 1297
+Primary: I'm gonna go freshen up.
+Chinese: 我去洗漱一下 (Wǒ qù xǐshù yíxià) / 我去补个妆 (Wǒ qù bǔ gè zhuāng)
+-------------------
+ID: 1298
+Primary: You're wearing it backwards.
+Chinese: 你穿反了 (Nǐ chuān fǎn le) (inside out/backwards generic) / 前后穿反了 (Qiánhòu chuān fǎn le)
+-------------------
+ID: 1299
+Primary: Will you be home for dinner?
+Chinese: 你回家吃晚饭吗？ (Nǐ huíjiā chī wǎnfàn ma?) / 晚上回来吃吗？ (Wǎnshang huílái chī ma?)
+-------------------
+ID: 1300
+Primary: I'm afraid we're out of stock.
+Chinese: 恐怕没货了 (Kǒngpà méi huò le) / 卖光了 (Mài guāng le)
+-------------------
+ID: 1301
+Primary: Good call.
+Chinese: 明智的决定 (Míngzhì de juédìng) / 选得好 (Xuǎn de hǎo)
+-------------------
+ID: 1302
+Primary: I'm in the same boat.
+Chinese: 我跟你一样 (Wǒ gēn nǐ yíyàng) / 咱们同病相怜 (Zánmen tóngbìngxiānglián)
+-------------------
+ID: 1303
+Primary: That's so touching.
+Chinese: 太感人了 (Tài gǎnrén le) / 戳中泪点了 (Chuōzhòng lèidiǎn le)
+-------------------
+ID: 1304
+Primary: I'm speechless.
+Chinese: 我都无语了 (Wǒ dōu wúyǔ le) (shock/bad) / 我不知道说什么好 (Wǒ bù zhīdào shuō shénme hǎo) (moved/shock)
+-------------------
+ID: 1305
+Primary: I don't know a thing.
+Chinese: 我一无所知 (Wǒ yìwúsuǒzhī) / 我啥都不知道 (Wǒ shá dōu bù zhīdào)
+-------------------
+ID: 1306
+Primary: Where was I?
+Chinese: 我刚才说到哪儿了？ (Wǒ gāngcái shuōdào nǎr le?) / 刚才聊哪了？ (Gāngcái liáo nǎ le?)
+-------------------
+ID: 1307
+Primary: Wanna grab some lunch?
+Chinese: 去吃个午饭？ (Qù chī gè wǔfàn?) / 整点儿吃的去？ (Zhěng diǎnr chīde qù?)
+-------------------
+ID: 1308
+Primary: I had a rough night.
+Chinese: 昨晚没睡好 (Zuówǎn méi shuìhǎo) / 昨晚折腾死了 (Zuówǎn zhēteng sǐ le)
+-------------------
+ID: 1309
+Primary: This can't be happening.
+Chinese: 这不可能是真的 (Zhè bù kěnéng shì zhēnde) / 别吓我 (Bié xià wǒ)
+-------------------
+ID: 1310
+Primary: Now you're talking.
+Chinese: 这就对了嘛 (Zhè jiù duì le ma) / 这才像话 (Zhè cái xiànghuà)
+-------------------
+ID: 1311
+Primary: You got that right.
+Chinese: 你说得太对了 (Nǐ shuō de tài duì le) / 没错 (Méi cuò)
+-------------------
+ID: 1312
+Primary: I don't see that happening.
+Chinese: 我看悬 (Wǒ kàn xuán) / 我觉得不太可能 (Wǒ juéde bútài kěnéng)
+-------------------
+ID: 1313
+Primary: Not that I know of.
+Chinese: 据但我知没有 (Jù dàn wǒ zhī méiyǒu) / 没听说啊 (Méi tīngshuō a)
+-------------------
+ID: 1314
+Primary: Over my dead body.
+Chinese: 除非我死了 (Chúfēi wǒ sǐ le) / 门儿都没有 (Ménr dōu méiyǒu)
+-------------------
+ID: 1315
+Primary: I'm hoping for the best.
+Chinese: 但愿一切顺利 (Dànyuàn yíqiè shùnlì) / 祈祷有个好结果 (Qídǎo yǒu gè hǎo jiéguǒ)
+-------------------
+ID: 1316
+Primary: I'm down.
+Chinese: 我加入 (Wǒ jiārù) / 算我一个 (Suàn wǒ yí gè)
+-------------------
+ID: 1317
+Primary: No way.
+Chinese: 不可能吧 (Bù kěnéng ba) / 不会吧 (Bú huì ba)
+-------------------
+ID: 1318
+Primary: Mind if I join you?
+Chinese: 介意我加入吗？ (Jièyì wǒ jiārù ma?) / 我能一起吗？ (Wǒ néng yìqǐ ma?)
+-------------------
+ID: 1319
+Primary: Who cares?
+Chinese: 谁在乎呢？ (Shéi zàihu ne?) / 管他呢 (Guǎn tā ne)
+-------------------
+ID: 1320
+Primary: It's not my place.
+Chinese: 轮不到我来说 (Lúnbudào wǒ lái shuō) / 不该我多嘴 (Bù gāi wǒ duōzuǐ)
+-------------------
+ID: 1321
+Primary: Follow your heart.
+Chinese: 听从你的内心 (Tīngcóng nǐ de nèixīn) / 跟感觉走 (Gēn gǎnjué zǒu)
+-------------------
+ID: 1322
+Primary: I wouldn't if I were you.
+Chinese: 我是你的话就不那样做 (Wǒ shì nǐ dehuà jiù bú nàyàng zuò) / 我劝你别 (Wǒ quàn nǐ bié)
+-------------------
+ID: 1323
+Primary: Do your job.
+Chinese: 做好你的本职工作 (Zuòhǎo nǐ de běnzhí gōngzuò) / 干好你的活儿 (Gàn hǎo nǐ de huór)
+-------------------
+ID: 1324
+Primary: It's all or nothing.
+Chinese: 孤注一掷 (Gūzhùyízhì) / 要么全有要么全无 (Yàome quányǒu yàome quánwú)
+-------------------
+ID: 1325
+Primary: Behave yourself.
+Chinese: 规矩点 (Guīju diǎn) / 放尊重点 (Fàng zūnzhòng diǎn)
+-------------------
+ID: 1326
+Primary: What's in it for me?
+Chinese: 我有什么好处？ (Wǒ yǒu shénme hǎochù?) / 我能捞到什么？ (Wǒ néng lāo dào shénme?)
+-------------------
+ID: 1327
+Primary: Shame on you!
+Chinese: 真丢人！ (Zhēn diūrén!) / 你真不知羞耻！ (Nǐ zhēn bùzhī xiūchǐ!)
+-------------------
+ID: 1328
+Primary: You're one to talk.
+Chinese: 还好意思说我 (Hái hǎoyìsi shuō wǒ) / 你也半斤八两 (Nǐ yě bànjīnbāliǎng)
+-------------------
+ID: 1329
+Primary: You asked for it.
+Chinese: 你自找的 (Nǐ zìzhǎo de) / 活该 (Huógāi)
+-------------------
+ID: 1330
+Primary: It serves you right!
+Chinese: 活该！ (Huógāi!) / 罪有应得！ (Zuìyǒuyīngdé!)
+-------------------
+ID: 1331
+Primary: You catch on quick.
+Chinese: 你上手挺快 (Nǐ shàngshǒu tǐng kuài) / 挺机灵嘛 (Tǐng jīling ma)
+-------------------
+ID: 1332
+Primary: Don't blow it.
+Chinese: 别搞砸了 (Bié gǎozá le) / 别掉链子 (Bié diàoliànzi)
+-------------------
+ID: 1333
+Primary: Then so be it.
+Chinese: 那就这样吧 (Nà jiù zhèyàng ba) / 爱咋咋地 (Ài zǎzǎdì)
+-------------------
+ID: 1334
+Primary: Watch your tongue!
+Chinese: 说话注意点！ (Shuōhuà zhùyì diǎn!) / 嘴巴放干净点！ (Zuǐba fàng gānjìng diǎn!)
+-------------------
+ID: 1335
+Primary: I want no part of it.
+Chinese: 我不想掺和 (Wǒ bù xiǎng chānhuo) / 别把我扯进去 (Bié bǎ wǒ chě jìnqù)
+-------------------
+ID: 1336
+Primary: Please don't butt in.
+Chinese: 请别插嘴 (Qǐng bié chāzuǐ) / 先别打岔 (Xiān bié dǎchà)
+-------------------
+ID: 1337
+Primary: Brace yourself.
+Chinese: 做好心理准备 (Zuòhǎo xīnlǐ zhǔnbèi) / 会很刺激 (Huì hěn cìjī)
+-------------------
+ID: 1338
+Primary: Let's just call it even.
+Chinese: 扯平了 (Chěpíng le) / 互不相欠 (Hùbùxiāngqiàn)
+-------------------
+ID: 1339
+Primary: It's a guy thing.
+Chinese: 你们女人不懂 (Nǐmen nǚrén bù dǒng) / 直男那一套 (Zhínán nà yí tào)
+-------------------
+ID: 1340
+Primary: She's gonna mooch off us.
+Chinese: 她要来蹭吃蹭喝 (Tā yào lái cèngchīcènghē) / 她要来占便宜 (Tā yào lái zhàn piányi)
+-------------------
+ID: 1341
+Primary: The same goes for you.
+Chinese: 你也一样 (Nǐ yě yíyàng) / 彼此彼此 (Bǐcǐbǐcǐ)
+-------------------
+ID: 1342
+Primary: Pull over right here.
+Chinese: 就这儿停车 (Jiù zhèr tíngchē) / 靠边停 (Kàobiān tíng)
+-------------------
+ID: 1343
+Primary: Hop in.
+Chinese: 上车 (Shàngchē) / 快上来 (Kuài shànglái)
+-------------------
+ID: 1344
+Primary: Going my way?
+Chinese: 顺路吗？ (Shùnlù ma?) / 同路吗？ (Tónglù ma?)
+-------------------
+ID: 1345
+Primary: You can't miss it.
+Chinese: 一眼就能看到 (Yìyǎn jiù néng kàndào) / 很好找 (Hěn hǎo zhǎo)
+-------------------
+ID: 1346
+Primary: I'm stuck in traffic.
+Chinese: 我堵在路上了 (Wǒ dǔ zài lùshàng le) / 堵车了 (Dǔchē le)
+-------------------
+ID: 1347
+Primary: I can't afford it.
+Chinese: 我买不起 (Wǒ mǎibùqǐ) / 太贵了 (Tài guì le)
+-------------------
+ID: 1348
+Primary: Take it up with your boss.
+Chinese: 去找你老板说 (Qù zhǎo nǐ lǎobǎn shuō) / 跟你上司也就是去 (Gēn nǐ shàngsi yě jiùshì qù)
+-------------------
+ID: 1349
+Primary: Would you scoot a little?
+Chinese: 能往那边挪挪吗？ (Néng wǎng nàbiān nuónuo ma?) / 挤挤行吗？ (Jǐji xíng ma?)
+-------------------
+ID: 1350
+Primary: I can hold my head high.
+Chinese: 我问心无愧 (Wǒ wènxīnwúkuì) / 我挺直腰杆 (Wǒ tǐngzhí yāogǎn)
+-------------------
+ID: 1351
+Primary: That's all I need.
+Chinese: 这就够了 (Zhè jiù gòu le) / 我要的就这些 (Wǒ yào de jiù zhèxiē)
+-------------------
+ID: 1352
+Primary: I'm doing my hair.
+Chinese: 我在弄头发 (Wǒ zài nòng tóufa) / 在做造型 (Zài zuò zàoxíng)
+-------------------
+ID: 1353
+Primary: Can you break a hundred?
+Chinese: 能把一百块破开吗？ (Néng bǎ yìbǎi kuài pòkāi ma?) / 有零钱吗？ (Yǒu língqián ma?)
+-------------------
+ID: 1354
+Primary: What an imagination you have.
+Chinese: 你想象力真丰富 (Nǐ xiǎngxiànglì zhēn fēngfù) / 脑洞真大 (Nǎodòng zhēn dà)
+-------------------
+ID: 1355
+Primary: We've grown apart.
+Chinese: 我们疏远了 (Wǒmen shūyuǎn le) / 关系淡了 (Guānxi dàn le)
+-------------------
+ID: 1356
+Primary: I just feel drained.
+Chinese: 我感觉被掏空了 (Wǒ gǎnjué bèi tāokōng le) / 累瘫了 (Lèi tān le)
+-------------------
+ID: 1357
+Primary: Get a grip!
+Chinese: 清醒点！ (Qīngxǐng diǎn!) / 振作起来！ (Zhènzuò qǐlái!)
+-------------------
+ID: 1358
+Primary: Can I tag along?
+Chinese: 我能跟着去吗？ (Wǒ néng gēnzhe qù ma?) / 哪怕是跟班？ (Nǎpà shì gēnbān?)
+-------------------
+ID: 1359
+Primary: It's a hassle.
+Chinese: 太麻烦了 (Tài máfan le) / 真折腾 (Zhēn zhēteng)
+-------------------
+ID: 1360
+Primary: So far, so good.
+Chinese: 目前为止还不错 (Mùqián wéizhǐ hái búcuò) / 一切顺利 (Yíqiè shùnlì)
+-------------------
+ID: 1361
+Primary: You haven't changed a bit.
+Chinese: 你一点儿都没变 (Nǐ yìdiǎnr dōu méi biàn) / 还跟以前一样 (Hái gēn yǐqián yíyàng)
+-------------------
+ID: 1362
+Primary: I'm laying low.
+Chinese: 我最近很低调 (Wǒ zuìjìn hěn dīdiào) / 避风头 (Bì fēngtóu)
+-------------------
+ID: 1363
+Primary: Rock on!
+Chinese: 太棒了！ (Tài bàng le!) / 牛！ (Niú!)
+-------------------
+ID: 1364
+Primary: It's hard to keep up.
+Chinese: 跟不上了 (Gēn bú shàng le) / 很难同步 (Hěn nán tóngbù)
+-------------------
+ID: 1365
+Primary: That makes two of us.
+Chinese: 我也一样 (Wǒ yě yíyàng) / 咱俩彼此彼此 (Zánliǎ bǐcǐbǐcǐ)
+-------------------
+ID: 1366
+Primary: There, there.
+Chinese: 好了好了 (Hǎo le hǎo le) / 没事了 (Méishì le)
+-------------------
+ID: 1367
+Primary: It was all for nothing.
+Chinese: 全都白费了 (Quándōu báifèi le) / 竹篮打水一场空 (Zhúlán dǎ shuǐ yìchángkōng)
+-------------------
+ID: 1368
+Primary: There wasn't time.
+Chinese: 没时间了 (Méi shíjiān le) / 来不及了 (Láibují le)
+-------------------
+ID: 1369
+Primary: I'm in a bind.
+Chinese: 我左右为难 (Wǒ zuǒyòuwéinán) / 陷入困境了 (Xiànrù kùnjìng le)
+-------------------
+ID: 1370
+Primary: He's always on the go.
+Chinese: 他总是忙个不停 (Tā zǒngshì máng gè bùtíng) / 东奔西跑的 (Dōngbēnxīpǎo de)
+-------------------
+ID: 1371
+Primary: I smell a rat.
+Chinese: 我觉得有猫腻 (Wǒ juéde yǒu māonì) / 不对劲 (Bú duìjìn)
+-------------------
+ID: 1372
+Primary: I could eat a horse.
+Chinese: 我饿得能吃下一头牛 (Wǒ è de néng chī xià yìtóu niú) / 饿死我了 (È sǐ wǒ le)
+-------------------
+ID: 1373
+Primary: You're all missing my point.
+Chinese: 你们都没抓到重点 (Nǐmen dōu méi zhuādào zhòngdiǎn) / 跑题了 (Pǎotí le)
+-------------------
+ID: 1374
+Primary: Pardon my language.
+Chinese: 恕我言辞粗鲁 (Shù wǒ yáncí cūlǔ) / 话可能不太好听 (Huà kěnéng bútài hǎotīng)
+-------------------
+ID: 1375
+Primary: Let's just talk turkey.
+Chinese: 打开天窗说亮话吧 (Dǎkāi tiānchuāng shuō liànghuà ba) / 说正事吧 (Shuō zhèngshì ba)
+-------------------
+ID: 1376
+Primary: I'll come to the point.
+Chinese: 我就直说了 (Wǒ jiù zhíshuō le) / 言归正传 (Yánguīzhèngzhuàn)
+-------------------
+ID: 1377
+Primary: It carries no weight.
+Chinese: 没分量 (Méi fènliàng) / 说话不顶用 (Shuōhuà bù dǐngyòng)
+-------------------
+ID: 1378
+Primary: Put your feet up.
+Chinese: 好好歇歇 (Hǎohǎo xiēxie) / 放松一下 (Fàngsōng yíxià)
+-------------------
+ID: 1379
+Primary: Drop the subject.
+Chinese: 别提这事了 (Bié tí zhè shì le) / 换个话题 (Huàn gè huàtí)
+-------------------
+ID: 1380
+Primary: Everything's up in the air.
+Chinese: 一切都还没定 (Yíqiè dōu hái méi dìng) / 悬而未决 (Xuán'érwèijué)
+-------------------
+ID: 1381
+Primary: Thanks for walking me home.
+Chinese: 谢谢你送我回家 (Xièxie nǐ sòng wǒ huíjiā) / 感谢护送 (Gǎnxiè hùsòng)
+-------------------
+ID: 1382
+Primary: Speak of the devil!
+Chinese: 说曹操曹操到！ (Shuō Cáocāo Cáocāo dào!)
+-------------------
+ID: 1383
+Primary: Heads or tails!
+Chinese: 正面还是反面！ (Zhèngmiàn háishì fǎnmiàn!) / 猜硬币！ (Cāi yìngbì!)
+-------------------
+ID: 1384
+Primary: Just kicking in.
+Chinese: 正歇着呢 (Zhèng xiēzhe ne) / 宅着呢 (Zhái zhe ne)
+-------------------
+ID: 1385
+Primary: Put yourself out there.
+Chinese: 大胆去尝试 (Dàdǎn qù chángshì) / 豁出去展现自己 (Huōchuqù zhǎnxiàn zìjǐ)
+-------------------
+ID: 1386
+Primary: You're all I've got.
+Chinese: 我只要你 (Wǒ zhǐ yào nǐ) / 你就是我的全部 (Nǐ jiùshì wǒ de quánbù)
+-------------------
+ID: 1387
+Primary: That figures.
+Chinese: 果然如此 (Guǒrán rúcǐ) / 意料之中 (Yìliào zhī zhōng)
+-------------------
+ID: 1388
+Primary: What's there to think about?
+Chinese: 这还用想吗？ (Zhè hái yòng xiǎng ma?) / 没啥好犹豫的 (Méi shá hǎo yóuyù de)
+-------------------
+ID: 1389
+Primary: It's out of my hands.
+Chinese: 我无能为力 (Wǒ wúnéngwéilì) / 管不了了 (Guǎn bùliǎo le)
+-------------------
+ID: 1390
+Primary: Old habits die hard.
+Chinese: 积习难改 (Jīxí nángǎi) / 老毛病改不掉 (Lǎo máobìng gǎi bú diào)
+-------------------
+ID: 1391
+Primary: Is that what I think it is?
+Chinese: 该不会是我想的那个吧？ (Gāi búhuì shì wǒ xiǎng de nàge ba?) / 是不是那个？ (Shìbushì nàge?)
+-------------------
+ID: 1392
+Primary: Just go with it.
+Chinese: 顺其自然吧 (Shùnqízìrán ba) / 就这么着吧 (Jiù zhèmezhe ba)
+-------------------
+ID: 1393
+Primary: In one ear and out the other.
+Chinese: 左耳进右耳出 (Zuǒ'ěr jìn yòu'ěr chū) / 当耳旁风 (Dāng ěrpángfēng)
+-------------------
+ID: 1394
+Primary: Like father, like son.
+Chinese: 有其父必有其子 (Yǒu qí fù bì yǒu qí zǐ) / 一个模子刻出来的 (Yí gè múzi kè chūlái de)
+-------------------
+ID: 1395
+Primary: We're not done here.
+Chinese: 我们还没说完呢 (Wǒmen hái méi shuōwán ne) / 这事没完 (Zhè shì méiwán)
+-------------------
+ID: 1396
+Primary: Here goes nothing.
+Chinese: 豁出去了 (Huōchuqù le) / 死马当活马医 (Sǐmǎ dāng huómǎ yī)
+-------------------
+ID: 1397
+Primary: It's now or never.
+Chinese: 机不可失 (Jībùkěshī) / 此时不待 (Cǐshí búdài)
+-------------------
+ID: 1398
+Primary: I didn't sleep a wink.
+Chinese: 我一夜没合眼 (Wǒ yíyè méi héyǎn) / 完全没睡 (Wánquán méi shuì)
+-------------------
+ID: 1399
+Primary: I'm just having a bad day.
+Chinese: 我今天心情不好 (Wǒ jīntiān xīnqíng bùhǎo) / 今天诸事不顺 (Jīntiān zhūshì búshùn)
+-------------------
+ID: 1400
+Primary: You can't be serious.
+Chinese: 你不是认真的吧 (Nǐ búshì rènzhēn de ba) / 别开玩笑了 (Bié kāiwánxiào le)
+-------------------
+ID: 1401
+Primary: Get the picture?
+Chinese: 明白了吗？ (Míngbai le ma?) / 懂我意思吗？ (Dǒng wǒ yìsi ma?)
+-------------------
+ID: 1402
+Primary: You look awful.
+Chinese: 你脸色很差 (Nǐ liǎnsè hěn chà) / 你看起来很糟糕 (Nǐ kànqǐlái hěn zāogāo)
+-------------------
+ID: 1403
+Primary: Don't fall for it.
+Chinese: 别上当 (Bié shàngdàng) / 别被忽悠了 (Bié bèi hūyou le)
+-------------------
+ID: 1404
+Primary: Gut feeling
+Chinese: 直觉 (Zhíjué) / 第六感 (Dìliùgǎn)
+-------------------
+ID: 1405
+Primary: Just go with your gut
+Chinese: 跟着感觉走 (Gēnzhe gǎnjué zǒu) / 相信你的直觉 (Xiāngxìn nǐ de zhíjué)
+-------------------
+ID: 1406
+Primary: Spot on
+Chinese: 完全正确 (Wánquán zhèngquè) / 说得太准了 (Shuō de tài zhǔn le)
+-------------------
+ID: 1407
+Primary: On the spot
+Chinese: 当场 (Dāngchǎng) / 即兴 (Jíxìng) (if music/speech)
+-------------------
+ID: 1408
+Primary: Put someone on the spot
+Chinese: 让人难堪 (Ràng rén nánkān) / 让人下不来台 (Ràng rén xià bu lái tái)
+-------------------
+ID: 1409
+Primary: Homie
+Chinese: 死党 (Sǐdǎng) / 哥们儿 (Gēmenr) / 老铁 (Lǎotiě)
+-------------------
+ID: 1410
+Primary: Run some errands
+Chinese: 去办点杂事 (Qù bàn diǎn záshì) / 跑腿 (Pǎotuǐ)
+-------------------
+ID: 1411
+Primary: Hit the road
+Chinese: 上路 (Shànglù) / 出发 (Chūfā)
+-------------------
+ID: 1412
+Primary: Have a blast
+Chinese: 玩得开心 (Wán de kāixīn) / 嗨翻天 (Hāi fāntiān)
+-------------------
+ID: 1413
+Primary: Cut it out
+Chinese: 省省吧 (Shěngsheng ba) / 够了 (Gòu le)
+-------------------
+ID: 1414
+Primary: Have a good one
+Chinese: 祝你愉快 (Zhù nǐ yúkuài) / 回见 (Huíjiàn)
+-------------------
+ID: 1415
+Primary: Beats me
+Chinese: 难倒我了 (Nándǎo wǒ le) / 我哪知道 (Wǒ nǎ zhīdào)
+-------------------
+ID: 1416
+Primary: My heart skipped a beat
+Chinese: 我心里咯噔一下 (Wǒ xīnli gēdēng yíxià) / 吓我一跳 (Xià wǒ yí tiào)
+-------------------
+ID: 1417
+Primary: Is there a wait?
+Chinese: 要排队吗？ (Yào páiduì ma?) / 要等位吗？ (Yào děngwèi ma?)
+-------------------
+ID: 1418
+Primary: Bang for the buck
+Chinese: 性价比高 (Xìngjiàbǐ gāo) / 很划算 (Hěn huásuàn)
+-------------------
+ID: 1419
+Primary: Out loud
+Chinese: 大声地 (Dàshēng de) / 朗读 (Lǎngdú)
+-------------------
+ID: 1420
+Primary: It hits the spot
+Chinese: 正合我意 (Zhènghéwǒyì) / 太爽了 (Tài shuǎng le) (food/drink)
+-------------------
+ID: 1421
+Primary: Hang loose
+Chinese: 放轻松 (Fàng qīngsōng) / 别紧张 (Bié jǐnzhāng)
+-------------------
+ID: 1422
+Primary: You name it
+Chinese: 应有尽有 (Yīngyǒujìnyǒu) / 你能想到的都有 (Nǐ néng xiǎngdào de dōu yǒu)
+-------------------
+ID: 1423
+Primary: Every cloud has a silver lining
+Chinese: 塞翁失马焉知非福 (Sàiwēngshīmǎ yānzhīfēifú) / 总有一线希望 (Zǒngyǒu yíxiàn xīwàng)
+-------------------
+ID: 1424
+Primary: I was spread too thin
+Chinese: 分身乏术 (Fēnshēnfáshù) / 忙不过来 (Máng bú guòlái)
+-------------------
+ID: 1425
+Primary: I got your back
+Chinese: 我挺你 (Wǒ tǐng nǐ) / 我是你坚强的后盾 (Wǒ shì nǐ jiānqiáng de hòudùn)
+-------------------
+ID: 1426
+Primary: Without further ado
+Chinese: 闲话少说 (Xiánhuàshǎoshuō) / 直接开始 (Zhíjiē kāishǐ)
+-------------------
+ID: 1427
+Primary: Hands down
+Chinese: 无疑 (Wúyí) / 肯定 (Kěndìng)
+-------------------
+ID: 1428
+Primary: A walk in the park
+Chinese: 小菜一碟 (Xiǎocàiyìdié) / 轻而易举 (Qīng'éryìjǔ)
+-------------------
+ID: 1429
+Primary: Show up
+Chinese: 出现 (Chūxiàn) / 露面 (Lùmiàn)
+-------------------
+ID: 1430
+Primary: Odds and ends
+Chinese: 零碎东西 (Língsuì dōngxi) / 杂七杂八 (Záqīzábā)
+-------------------
+ID: 1431
+Primary: I'm losing it
+Chinese: 我要崩溃了 (Wǒ yào bēngkuì le) / 我要疯了 (Wǒ yào fēng le)
+-------------------
+ID: 1432
+Primary: stutter
+Chinese: 结巴 (Jiēba) / 口吃 (Kǒuchī)
+-------------------
+ID: 1433
+Primary: cervical disc stenosis
+Chinese: 颈椎病 (Jǐngzhuībìng) / 颈椎狭窄 (Jǐngzhuī xiázhǎi)
+-------------------
+ID: 1434
+Primary: Social butterfly
+Chinese: 交际花 (Jiāojìhuā) (Use lightly/humorously, can be negative) / 社交达人 (Shèjiāo dárén) (Positive)
+-------------------
+ID: 1435
+Primary: Social network
+Chinese: 社交圈 (Shèjiāo quān) / 人脉 (Rénmài)
+-------------------
+ID: 1436
+Primary: Social skills
+Chinese: 社交能力 (Shèjiāo nénglì) / 会社交 (Huì shèjiāo)
+-------------------
+ID: 1437
+Primary: Social responsibility
+Chinese: 社会责任 (Shèhuì zérèn)
+-------------------
+ID: 1438
+Primary: Societal norms
+Chinese: 社会规范 (Shèhuì guīfàn) / 世俗眼光 (Shìsú yǎnguāng)
+-------------------
+ID: 1439
+Primary: Go the extra mile
+Chinese: 加倍努力 (Jiābèi nǔlì) / 多做一点 (Duō zuò yìdiǎn)
+-------------------
+ID: 1440
+Primary: Get the ball rolling
+Chinese: 把事做起来 (Bǎ shì zuò qǐlái) / 启动 (Qǐdòng)
+-------------------
+ID: 1441
+Primary: Give it a shot
+Chinese: 试一试 (Shìyíshì) / 闯一闯 (Chuǎngyìchuǎng)
+-------------------
+ID: 1442
+Primary: Go out of one's way
+Chinese: 特意 (Tèyì) / 费尽周折 (Fèijìnzhōuzhé)
+-------------------
+ID: 1443
+Primary: Get off the ground
+Chinese: 取得进展 (Qǔdé jìnzhǎn) / 顺利起步 (Shùnlì qǐbù)
+-------------------
+ID: 1444
+Primary: For the sake of
+Chinese: 为了...起见 (Wèile... qǐjiàn) / 看在...份上 (Kànzài... fènshǎng)
+-------------------
+ID: 1445
+Primary: For the time being
+Chinese: 暂时 (Zànshí) / 目前 (Mùqián)
+-------------------
+ID: 1446
+Primary: For a change
+Chinese: 换换口味 (Huànhuan kǒuwèi) / 改变一下 (Gǎibiàn yíxià)
+-------------------
+ID: 1447
+Primary: From time to time
+Chinese: 偶尔 (Ǒu'ěr) / 时不时 (Shíbùshí)
+-------------------
+ID: 1448
+Primary: Through thick and thin
+Chinese: 同甘共苦 (Tónggāngòngkǔ) / 风雨同舟 (Fēngyǔtóngzhōu)
+-------------------
+ID: 1449
+Primary: Force of nature
+Chinese: 不可抗拒的力量 (Bùkěkàngjù de lìliàng) / 鬼才 (Guǐcái) (person)
+-------------------
+ID: 1450
+Primary: Force of will
+Chinese: 意志力 (Yìzhìlì) / 毅力 (Yìlì)
+-------------------
+ID: 1451
+Primary: Force of personality
+Chinese: 人格魅力 (Réngé mèilì) / 气场 (Qìchǎng)
+-------------------
+ID: 1452
+Primary: Force of impact
+Chinese: 冲击力 (Chōngjīlì) / 震撼力 (Zhènhànlì)
+-------------------
+ID: 1453
+Primary: My allergies are acting up.
+Chinese: 我过敏犯了 (Wǒ guòmǐn fàn le) / 过敏又发作了 (Guòmǐn yòu fāzuò le)
+-------------------
+ID: 1454
+Primary: Get off my back
+Chinese: 别烦我了 (Bié fán wǒ le) / 饶了我吧 (Ráo le wǒ ba)
+-------------------
+ID: 1455
+Primary: Lets pick up where we left off
+Chinese: 我们接着刚才的说 (Wǒmen jiēzhe gāngcái de shuō) / 继续刚才的话题 (Jìxù gāngcái de huàtí)
+-------------------
+ID: 1456
+Primary: I just bumped my elbow on the doorframe
+Chinese: 我胳膊肘撞门框上了 (Wǒ gēbozhǒu zhuàng ménkuàng shàng le) / 磕到麻筋了 (Kē dào májīn le)
+-------------------
+ID: 1457
+Primary: You have grit
+Chinese: 你有毅力 (Nǐ yǒu yìlì) / 你很顽强 (Nǐ hěn wánqiáng)
+-------------------
+ID: 1458
+Primary: You have guts
+Chinese: 你有种 (Nǐ yǒuzhǒng) / 胆子真大 (Dǎnzi zhēn dà)
+-------------------
+ID: 1459
+Primary: Im a foodie
+Chinese: 我是个吃货 (Wǒ shì gè chīhuò) / 我很爱吃 (Wǒ hěn ài chī)
+-------------------
+ID: 1460
+Primary: Its the last straw
+Chinese: 这是最后一根稻草 (Zhè shì zuìhòu yì gēn dàocǎo) / 我忍无可忍了 (Wǒ rěnwúkěrěn le)
+-------------------
+ID: 1461
+Primary: Wanna catch a movie later?
+Chinese: 晚点去看个电影？ (Wǎndiǎn qù kàn gè diànyǐng?) / 一会儿去看戏？ (Yíhuìr qù kànxì?)
+-------------------
+ID: 1462
+Primary: It seems a bit likely
+Chinese: 这倒是很有可能 (Zhè dàoshì hěn yǒu kěnéng) / 看起来挺像那么回事 (Kànqǐlái tǐng xiàng nàme huí shì)
+-------------------
+ID: 1463
+Primary: It seemed a bit exaggerated
+Chinese: 有点言过其实了 (Yǒudiǎn yánguòqíshí le) / 太夸张了 (Tài kuāzhāng le)
+-------------------
+ID: 1464
+Primary: Wish washy
+Chinese: 优柔寡断 (Yōuróuguǎduàn) / 磨磨唧唧 (Mómōjīji)
+-------------------
+ID: 1465
+Primary: Keep a lid on it
+Chinese: 先保密 (Xiān bǎomì) / 别说出去 (Bié shuō chūqù)
+-------------------
+ID: 1466
+Primary: I'm not the type to regret things
+Chinese: 我不是那种会后悔的人 (Wǒ búshì nàzhǒng huì hòuhuǐ de rén) / 我做事不后悔 (Wǒ zuòshì bú hòuhuǐ)
+-------------------
+ID: 1467
+Primary: I am at a loss for words
+Chinese: 我也无语了 (Wǒ yě wúyǔ le) / 我都不知道说什么好了 (Wǒ dōu bù zhīdào shuō shénme hǎo le)
+-------------------
+ID: 1468
+Primary: Is something bothering you?
+Chinese: 有心事吗？ (Yǒu xīnshì ma?) / 遇到什么麻烦了吗？ (Yùdào shénme máfan le ma?)
+-------------------
+ID: 1469
+Primary: It's nothing. Don't worry about it.
+Chinese: 没事，别担心 (Méishì, bié dānxīn) / 没啥事，别往心里去 (Méi shá shì, bié wǎng xīnli qù)
+-------------------
+ID: 1470
+Primary: I'd rather die than suffer
+Chinese: 我宁死也不愿受这罪 (Wǒ nìngsǐ yě búyuàn shòu zhè zuì) / 让我受罪还不如杀了我 (Ràng wǒ shòuzuì hái bùrú shā le wǒ)
+-------------------
+ID: 1471
+Primary: Nerve racking
+Chinese: 伤神 (Shāngshén) / 让人提心吊胆 (Ràng rén tíxīndiàodǎn)
+-------------------
+ID: 1472
+Primary: Butter up
+Chinese: 讨好 (Tǎohǎo) / 巴结 (Bājie)
+-------------------
+ID: 1473
+Primary: Brown nose
+Chinese: 马屁精 (Mǎpìjīng) / 舔狗 (Tiǎngǒu) (slang, harsh)
+-------------------
+ID: 1474
+Primary: Bumped into:
+Chinese: 偶遇 (Ǒuyù) / 碰见 (Pèngjiàn)
+-------------------
+ID: 1475
+Primary: Bumped against:
+Chinese: 撞到 (Zhuàngdào) / 磕到 (Kēdào)
+-------------------
+ID: 1476
+Primary: I bumped my toes on the doorframe
+Chinese: 我脚趾撞门框上了 (Wǒ jiǎozhǐ zhuàng ménkuàng shàng le) / 踢到门框了，疼死 (Tī dào ménkuàng le, téng sǐ)
+-------------------
+ID: 1477
+Primary: Pushover
+Chinese: 软柿子 (Ruǎnshìzi) / 耳根子软的人 (Ěrgēnzi ruǎn de rén)
+-------------------
+ID: 1478
+Primary: Are you spoken for?
+Chinese: 名花有主了吗？ (Mínghuāyǒuzhǔ le ma?) / 有对象了吗？ (Yǒu duìxiàng le ma?)
+-------------------
+ID: 1479
+Primary: He is pretty camera shy
+Chinese: 他挺害羞的，不喜欢拍照 (Tā tǐng hàixiū de, bù xǐhuan pāizhào) / 他有点镜头恐惧症 (Tā yǒudiǎn jìngtóu kǒngjùzhèng)
+-------------------
+ID: 1480
+Primary: Pull down to refresh
+Chinese: 下拉刷新 (Xiàlā shuāxīn)
+-------------------
+ID: 1481
+Primary: Not a word
+Chinese: 一个字都别说 (Yí gè zì dōu bié shuō) / 守口如瓶 (Shǒukǒurúpíng)
+-------------------
+ID: 1482
+Primary: Say less
+Chinese: 懂了，不用多说 (Dǒng le, búyòng duōshuō) / 收到 (Shōudào)
+-------------------
+ID: 1483
+Primary: Don't sass me
+Chinese: 别跟我顶嘴 (Bié gēn wǒ dǐngzuǐ) / 别跟我耍嘴皮子 (Bié gēn wǒ shuǎ zuǐpízi)
+-------------------

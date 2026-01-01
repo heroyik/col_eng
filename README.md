@@ -7,7 +7,7 @@ A premium, high-performance web application designed to search and discover auth
 - **Expression of the Day**: A premium, daily-changing expression featured prominently on the home screen to encourage unparalleled discovery.
 - **Vast Database**: A rich database of **1,483 expressions**, curated for real-world utility and high-frequency usage in NYC and professional settings.
 - **NYC-Style Content**: Each expression is enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example, reflecting current trends (e.g., "deadass", "no cap", "facts", "brick").
-- **Colloquial Spanish Enrichment**: Every record is enhanced with two semantically accurate, colloquial Spanish variations (e.g., "Es pan comido / Es coser y cantar"), verified through a rigorous Full Semantic Remediation process using Gemini 1.5 Flash.
+- **Multilingual Colloquial Support**: Every record is rigorously enriched with colloquial translations in **Spanish**, **Chinese** (HSK 4 Standard), **Vietnamese** (OPIC IM2 Standard), and **Japanese**, ensuring specific cultural nuances and trendy expressions are captured (e.g., "Es pan comido", "没毛病", "Đỉnh của chóp").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file, containing only essential fields.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
@@ -20,7 +20,7 @@ A premium, high-performance web application designed to search and discover auth
 
 The application utilizes several specialized datasets for a comprehensive learning experience:
 
-- **Full Enriched Collection**: 1,483 high-frequency expressions, enriched with colloquial meanings, realistic A/B dialogues, and bilingual (Spanish/Korean) support.
+- **Full Enriched Collection**: 1,483 high-frequency expressions, enriched with colloquial meanings, realistic A/B dialogues, and **multilingual support** (Korean, Spanish, Chinese, Vietnamese, Japanese).
 - **NY Colloquial 2025**: Specialized dataset focusing on the latest NYC and SNS-driven slang.
 - **OPIC AL Prep**: Expressions specifically curated for achieving Advanced Low level in English proficiency tests.
 
@@ -53,6 +53,9 @@ To provide a superior user experience with standard Firestore (which has limited
 - `primary` (string): The main English expression.
 - `meaning` (string): The meaning or translation (Korean).
 - `spanish` (string): Two colloquial Spanish variations separated by " / ".
+- `chinese` (string): Colloquial Chinese translations (HSK 4 level) with Pinyin.
+- `vietnamese` (string): Trendy/Colloquial Vietnamese translations (OPIC IM2 level).
+- `japanese` (string): Natural Japanese colloquialisms.
 - `similar` (array): A list of 5 synonyms.
 - `example` (string): A usage example.
 
