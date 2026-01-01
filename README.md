@@ -6,8 +6,8 @@ A premium, high-performance web application designed to search and discover auth
 
 - **Expression of the Day**: A premium, daily-changing expression featured prominently on the home screen to encourage unparalleled discovery.
 - **Vast Database**: A rich database of **1,483 expressions**, curated for real-world utility and high-frequency usage in NYC and professional settings.
-- **NYC-Style Content**: Each expression is enriched with 5 modern, trendy synonyms and a 6-line realistic dialogue example, reflecting current trends (e.g., "deadass", "no cap", "facts", "brick").
-- **Multilingual Colloquial Support**: Every record is rigorously enriched with colloquial translations in **Spanish**, **Chinese** (HSK 4 Standard), **Vietnamese** (OPIC IM2 Standard), and **Japanese**, ensuring specific cultural nuances and trendy expressions are captured (e.g., "Es pan comido", "没毛病", "Đỉnh của chóp").
+- **NYC-Style Content**: Every expression is enriched with 5 modern, trendy synonyms and a standardized **6-line realistic A/B dialogue example**, reflecting current NYC slang (e.g., "deadass", "no cap", "facts", "brick").
+- **Multilingual Colloquial Support**: All 1,483 records are rigorously enriched with colloquial translations in **Spanish**, **Chinese** (HSK 4 Standard), **Vietnamese** (OPIC IM2 Standard), and **Japanese** (OPIC AL level), capturing specific cultural nuances and trendy expressions (e.g., "Es pan comido", "没毛病", "Đỉnh của chóp").
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file, containing only essential fields.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
@@ -56,15 +56,15 @@ To provide a superior user experience with standard Firestore (which has limited
 - `chinese` (string): Colloquial Chinese translations (HSK 4 level) with Pinyin.
 - `vietnamese` (string): Trendy/Colloquial Vietnamese translations (OPIC IM2 level).
 - `japanese` (string): Natural Japanese colloquialisms.
-- `similar` (array): A list of 5 synonyms.
-- `example` (string): A usage example.
+- `similar` (array): A list of 5 modern/trendy synonyms.
+- `example` (string): A standardized 6-line A/B conversation demonstrating natural usage.
 
 ## 🛡️ Data Integrity & Administration
 
 This project employs a suite of custom Node.js scripts for professional database management:
 
+- **[upload_to_firestore.js](file:///c:/Users/heroy/COL_ENG/upload_to_firestore.js)**: High-performance uploader using **Firestore Batch Overwrite** logic to maximize I/O efficiency and overcome quota limits during mass re-population.
 - **[export_expressions.js](file:///c:/Users/heroy/COL_ENG/sources/export_expressions.js)**: Optimized Firestore export using `.select()` for high-speed, selective field backups.
-- **[reinitialize_and_upload.js](file:///c:/Users/heroy/COL_ENG/sources/reinitialize_and_upload.js)**: Automated collection reinitialization with standardized document ID mapping (`expression_XXXX`).
 - **Batch Upload**: REST API-based uploader for efficient handling of large datasets within quota limits.
 - **Smart Deduplication**: Custom algorithm to detect and remove near-match duplicates using Levenshtein distance analysis.
 
