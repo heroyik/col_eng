@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1170,
+    "primary": "Could you make that two, please?",
+    "meaning": "같은 걸로 하나 더 주세요.",
+    "similar": [
+      "I'll have what they're having.",
+      "Make it a double.",
+      "Can I get another one of those?",
+      "Same for me, please.",
+      "I'll take two of those."
+    ],
+    "example": "A: I'll have the spicy margarita, please.\nB: That's a great choice. And for you, sir?\nC: Actually, could you make that two, please?\nB: You got it. Two spicy margaritas coming right up.\nA: Good call, these are the best in the city.\nC: I was thinking the same thing after the first sip.",
+    "japanese": "私（わたし）も同（おな）じので",
+    "chinese": "请再来一份一样的 (Qǐng zàilái yí fèn yíyàng de) / 给我来个双份 (Gěi wǒ lái gè shuāngfèn)",
+    "spanish": "¿Me das dos, por favor? / Que sean dos, por favor.",
+    "vietnamese": "Cho tôi một phần y hệt vậy nữa / Lấy thêm một cái nữa nhé"
+  },
+  {
+    "id": 1382,
+    "primary": "Speak of the devil!",
+    "meaning": "호랑이도 제 말하면 온다더니!",
+    "similar": [
+      "Look who just walked in!",
+      "Perfect timing!",
+      "Just talking 'bout you!",
+      "There he is!",
+      "Synchronized entry!"
+    ],
+    "example": "A: I wonder where Tim is, he's always late.\nB: Yo, speak of the devil! Here he comes now.\nC: Sorry guys, the subway was buggin'.\nA: We were literally just talking about you.\nB: Hilarious timing.\nC: My ears were ringing, for real.",
+    "japanese": "噂（うわさ）をすれば！",
+    "chinese": "说曹操曹操到！ (Shuō Cáocāo Cáocāo dào!)",
+    "spanish": "¡Hablando del rey de Roma! / ¡Mira quién llegó!",
+    "vietnamese": "Vừa nhắc Tào Tháo là Tào Tháo tới / Thiêng thật đấy"
+  }
+]

@@ -724,7 +724,7 @@
       "Lost for words?",
       "Shy all of sudden?"
     ],
-    "example": "A: You usually talk so much. Cat got your tongue?\nB: Just thinking.\nA: Answer the question.\nB: ...\nA: Cat got your tongue? Or you just guilty?\nB: I plead the fifth.",
+    "example": "A: Why aren't you saying anything about the broken vase?\nB: ...\nA: Cat got your tongue? I know you were playing ball in here.\nB: I didn't mean to break it, deadass.\nA: Just own up to it next time.\nB: My bad, I was just scared you'd blow up.",
     "japanese": "なんで黙（だま）ってるの？／借（か）りてきた猫（ねこ）みたい。",
     "chinese": "哑巴了? (Yǎba le?) / 怎么不说话? (zěnme bù shuōhuà?)",
     "spanish": "¿Te ha comido la lengua el gato? / ¿Por qué estás tan callado?",
@@ -2869,7 +2869,8 @@
     "japanese": "よくやった！／その調子（ちょうし）！",
     "chinese": "干得好 (Gàn de hǎo) / 太棒了 (Tài bàng le)",
     "spanish": "Así se hace / Muy bien hecho",
-    "vietnamese": "Làm tốt lắm / Đỉnh đấy"
+    "vietnamese": "Làm tốt lắm / Đỉnh đấy",
+    "example": "A: Yo, I finally finished that coding project we've been grinding on.\nB: Wait, for real? Let me see the final product.\nA: It's live! The site is running smooth and all the bugs are squashed.\nB: Way to go, man! I knew you'd pull it off.\nA: Preciate the support, couldn't have done it without your feedback.\nB: Facts, we're definitely celebrating this weekend."
   },
   {
     "id": 170,
@@ -8510,7 +8511,10 @@
       "Open to the suggestion."
     ],
     "example": "A: Yo, you ever thought about starting a podcast?\nB: I've entertained the idea a few times, for real.\nA: No cap, you got the voice for it.\nB: Preciate it. I just don't know if I got the time.\nA: We could just start small and see how it goes.\nB: Facts, I'm down to entertain that, say less.",
-    "japanese": "",
+    "japanese": [
+      "その考えもありかもね",
+      "一回検討してみようか"
+    ],
     "chinese": "考虑一下这个想法 (Kǎolǜ yīxià zhège xiǎngfǎ)",
     "spanish": "Considerar una idea / Darle vueltas a una idea",
     "vietnamese": "Cân nhắc ý tưởng / Thử nghĩ về nó xem"
@@ -8527,7 +8531,10 @@
       "Get your money's worth."
     ],
     "example": "A: Is the new iPhone really worth it?\nB: Honestly, you get a lot of bang for your buck with that camera.\nA: Facts, the cinematic mode is crazy.\nB: For real, it's almost a pro tool now.\nA: I guess I'm hitting the Apple store today.\nB: Say less, I'm coming with you.",
-    "japanese": "",
+    "japanese": [
+      "これコスパ最強だわ",
+      "値段の割にすごくいいよ"
+    ],
     "chinese": "物超所值 (Wùchāosuǒzhí) / 很划算 (Hěn huásuàn)",
     "spanish": "Rentable / Buena relación calidad-precio",
     "vietnamese": "Đáng đồng tiền bát gạo / Ngon bổ rẻ"
@@ -8544,7 +8551,10 @@
       "Building up perfectly."
     ],
     "example": "A: Did you hear the intro to the new Kendrick track?\nB: Man, this build up is crazy! I'm hyped.\nA: No cap, I feel like the drop is gonna be legendary.\nB: The anticipation is killing me, for real.\nA: Here it comes... wait for it...\nB: Oh my god, that beat is straight fire!",
-    "japanese": "",
+    "japanese": [
+      "この展開、マジでヤバいね",
+      "盛り上がりが半端ないわ"
+    ],
     "chinese": "这铺垫也太疯狂了 (Zhè pūdiàn yě tài fēngkuáng le) / 气氛烘托太过了 (Qìfēn hōngtuō tài guò le)",
     "spanish": "Esta intriga es brutal / Esto se está poniendo interesante",
     "vietnamese": "Cao trào căng thật / Diễn biến cuốn quá"
@@ -8561,7 +8571,10 @@
       "Tell me what's up."
     ],
     "example": "A: You've been staring at that wall for five minutes.\nB: Oh, sorry. I'm just deep in thought.\nA: Penny for your thought? Is everything okay?\nB: Honestly, I'm just stressed about the move, deadass.\nA: Don't trip, we got this handled together.\nB: Facts, I appreciate you looking out.",
-    "japanese": "",
+    "japanese": [
+      "何か考え事？",
+      "何をそんなに悩んでるの？"
+    ],
     "chinese": "说说在你想什么 (Shuōshuo zài nǐ xiǎng shénme)",
     "spanish": "¿En qué piensas? / ¿Qué se te pasa por la cabeza?",
     "vietnamese": "Đang nghĩ gì thế? / Cho xin 500đ suy nghĩ nào"
@@ -8578,7 +8591,10 @@
       "Fuming."
     ],
     "example": "A: Yo, why are you so mad about a 5-minute delay?\nB: I'm just tired of the MTA always trippin', man.\nA: Don't get worked up, it is what it is.\nB: I know, but it happens every single day, for real.\nA: Take a breath, we'll get there eventually.\nB: Facts, I'm just tryna maintain my peace.",
-    "japanese": "",
+    "japanese": [
+      "そんなに熱くなるなよ",
+      "興奮しないで"
+    ],
     "chinese": "激动 (Jīdòng) / 上头 (Shàngtóu)",
     "spanish": "Alterarse / Sofocarse",
     "vietnamese": "Sôi máu / Phát điên lên"
@@ -8595,7 +8611,10 @@
       "No need to hurry."
     ],
     "example": "A: We gotta leave in like 2 minutes!\nB: What's the hurry? We're not even late yet.\nA: I'm not tryna be the last one there, deadass.\nB: Chill, they haven't even started the intro yet.\nA: Fine, but if we miss the first act, it's on you.\nB: Say less, I'll pay for the next round if that happens.",
-    "japanese": "",
+    "japanese": [
+      "何そんなに急いでんの？",
+      "焦らなくていいじゃん"
+    ],
     "chinese": "急什么? (Jí shénme?)",
     "spanish": "¿Qué prisa hay? / ¿Por qué tanta prisa?",
     "vietnamese": "Làm gì mà vội thế? / Đi đâu mà vội mà vàng"
@@ -8612,7 +8631,10 @@
       "Why the wait?"
     ],
     "example": "A: The line hasn't moved for 10 minutes. What's the holdup?\nB: Dunno, maybe the system went down or something.\nA: This is crazy, I'm tryna get my coffee and bounce.\nB: Deadass, everybody in here looks annoyed AF.\nA: Let's just go to the spot across the street.\nB: Say less, I'm right behind you.",
-    "japanese": "",
+    "japanese": [
+      "何で止まってるの？",
+      "何が原因で遅れてるんだ？"
+    ],
     "chinese": "磨蹭什么呢? (Móceng shénme ne?) / 为什么耽搁了? (Wèishéme dānge le?)",
     "spanish": "¿Por qué tardan tanto? / ¿Qué es lo que retrasa todo?",
     "vietnamese": "Sao lâu thế? / Tắc ở đâu rồi?"
@@ -8629,7 +8651,10 @@
       "Success."
     ],
     "example": "A: I wasn't sure if the fit would work, but you pulled it off!\nB: Preciate it, I was lowkey nervous about the color combo.\nA: Nah, it's straight fire. You look like a whole influencer.\nB: Deadass? Thanks, man.\nA: For real, you got that confidence, no cap.\nB: You already know, I'm tryna stay fly.",
-    "japanese": "",
+    "japanese": [
+      "よくやったじゃん！",
+      "まさか本当にやり遂げるとはね"
+    ],
     "chinese": "你做到了 (Nǐ zuòdào le) / 你搞定了 (Nǐ gǎodìng le)",
     "spanish": "Lo has conseguido / Te ha salido bien",
     "vietnamese": "Cậu làm được rồi! / Thế mà cũng làm được, giỏi thật"
@@ -8646,7 +8671,10 @@
       "Manageable."
     ],
     "example": "A: My phone screen cracked, but it still works.\nB: Man, could be worse. At least the touch is fine.\nA: Facts, but it looks so ugly now, deadass.\nB: Just put a screen protector over it and chill.\nA: I guess, but I'm still annoyed.\nB: It is what it is, don't let it ruin your vibe.",
-    "japanese": "",
+    "japanese": [
+      "まだマシな方だよ",
+      "最悪の事態よりはいいでしょ"
+    ],
     "chinese": "可能会更糟 (Kěnéng huì gèng zāo) / 知足吧 (Zhīzú ba)",
     "spanish": "Podría ser peor / Menos mal",
     "vietnamese": "Thế là còn may chán / Vẫn còn đỡ hơn nhiều cái khác"
@@ -8663,7 +8691,10 @@
       "Spill the beans."
     ],
     "example": "A: Yo, I got some crazy tea about what happened at the party.\nB: No cap? Hit me with it!\nA: So, basically, Mike and Sarah got into a huge argument.\nB: Deadass? I thought they were vibing.\nA: Apparently not, it was straight drama.\nB: Spill everything, I'm all ears.",
-    "japanese": "",
+    "japanese": [
+      "言ってみなよ",
+      "正直に教えてくれよ"
+    ],
     "chinese": "说吧 (Shuō ba) / 告诉我 (Gàosu wǒ)",
     "spanish": "Cuéntamelo / Suéltalo",
     "vietnamese": "Nói đi xem nào / Phun ra đi"
@@ -8680,7 +8711,10 @@
       "Staying true."
     ],
     "example": "A: You still going through with the travel plan?\nB: Facts, I am committed to Poland. No turning back now.\nA: No cap? That's a huge move.\nB: I've been planning this since day one, deadass.\nA: I'm hyped for you, man. Take lots of pics.\nB: You already know, my IG is gonna be fire.",
-    "japanese": "",
+    "japanese": [
+      "ポーランドに行く気満々なんだ",
+      "どうしてもポーランドに行きたいんだ"
+    ],
     "chinese": "我决定去波兰了 (Wǒ juédìng qù Bōlán le)",
     "spanish": "Estoy a tope con esto / Estoy decidido",
     "vietnamese": "Tôi đã dốc hết lòng cho Ba Lan rồi / Tôi một lòng một dạ với Ba Lan"
@@ -8697,7 +8731,10 @@
       "One positive thing is..."
     ],
     "example": "A: The rain ruined our picnic plans.\nB: Facts, but the silver lining is we can finally check out that indoor gallery.\nA: Oh true, I've been wanting to go there, deadass.\nB: See? It worked out in the end.\nA: You always find the vibe, no cap.\nB: Tryna keep it positive, always.",
-    "japanese": "",
+    "japanese": [
+      "不幸中の幸いだね",
+      "悪いことばかりじゃないよ"
+    ],
     "chinese": "好的一面是 (Hǎo de yīmiàn shì) / 不幸中的万幸是 (Bùxìng zhōng de wànxìng shì)",
     "spanish": "El lado bueno es / Lo positivo es",
     "vietnamese": "Trong cái rủi có cái may là... / Điểm sáng là..."
@@ -8714,7 +8751,10 @@
       "Dominating."
     ],
     "example": "A: Yo, you just finished another project?\nB: Facts, I'm on a roll this week.\nA: No cap, you're really crushing the game lately.\nB: Just tryna keep the momentum going, you know?\nA: Keep that same energy, for real.\nB: Locked in and ready for the next one.",
-    "japanese": "",
+    "japanese": [
+      "今めっちゃ調子いいわ",
+      "波に乗ってるね"
+    ],
     "chinese": "我很顺 (Wǒ hěn shùn) / 我手气很壮 (Wǒ shǒuqì hěn zhuàng)",
     "spanish": "Estoy en racha / Me sale todo",
     "vietnamese": "Đang vào guồng / Đang đỏ"
@@ -8731,7 +8771,10 @@
       "Taken into account."
     ],
     "example": "A: Did you see the new draft of the project?\nB: Yeah, I've already incorporated your suggestions into the layout.\nA: No cap? It looks way better now, preciate it.\nB: Facts, your input really helped vibe the whole thing up.\nA: Let's show the client and see what they think.\nB: Say less, I'm hitting send right now.",
-    "japanese": "",
+    "japanese": [
+      "君の提案、もう反映しといたよ",
+      "言われた通りに入れといたから"
+    ],
     "chinese": "我已经把你的建议加进去了 (Wǒ yǐjīng bǎ nǐ de jiànyì jiā jìnqù le)",
     "spanish": "Ya he incluido tus sugerencias / Ya he puesto lo que dijiste",
     "vietnamese": "Tôi sửa theo ý cậu cả rồi / Đã thêm mấy cái cậu bảo vào rồi"
@@ -8748,7 +8791,10 @@
       "Goofing off."
     ],
     "example": "A: What is he doing over there?\nB: Just jerking off instead of actually working, deadass.\nA: Facts, he’s been on his phone for an hour.\nB: For real, if the boss sees him, he's cooked.\nA: Should we say something?\nB: Nah, let him figure it out on his own.",
-    "japanese": "",
+    "japanese": [
+      "オナニーする",
+      "シコる"
+    ],
     "chinese": "混蛋 (Húndàn) / 敷衍 (Fūyǎn)",
     "spanish": "Tocarse los huevos / Perder el tiempo",
     "vietnamese": "Làm trò mèo / Tự biên tự diễn"
@@ -8765,7 +8811,10 @@
       "Give you the runaround."
     ],
     "example": "A: He said he'd help me with the promotion.\nB: Don't trust him, he will just jerk you off and never do it.\nA: Deadass? He seemed so sincere though.\nB: Facts, he’s a straight-up silver-tongued snake.\nA: I guess I'll just handle it myself then.\nB: Smart move, don't let him play you.",
-    "japanese": "",
+    "japanese": [
+      "手コキしてくれるよ",
+      "あいつに抜いてもらえば"
+    ],
     "chinese": "他会耍你的 (Tā huì shuǎ nǐ de)",
     "spanish": "Te va a marear / Te va a tomar el pelo",
     "vietnamese": "Hắn sẽ dắt mũi cậu đấy / Hắn quay cậu như chong chóng đấy"
@@ -8782,7 +8831,10 @@
       "I'm close by."
     ],
     "example": "A: Yo, you still in the city?\nB: Yeah, I'm around. You tryna link up?\nA: Facts, I'm near Union Square right now.\nB: Oh word? I'm like 5 blocks away.\nA: Say less, come meet me at the park.\nB: Bet, I'll be there in ten.",
-    "japanese": "",
+    "japanese": [
+      "近くにいるよ",
+      "まだ辺りにいるから"
+    ],
     "chinese": "我就在附近 (Wǒ jiù zài fùjìn) / 我一直在 (Wǒ yīzhí zài)",
     "spanish": "Estoy por aquí / Ando cerca",
     "vietnamese": "Tôi ở quanh đây thôi / Cần thì ới tôi nhé"
@@ -8799,7 +8851,10 @@
       "My take is..."
     ],
     "example": "A: What do you think about the new office layout?\nB: IMO, it's way too cramped in here now.\nA: Facts, I can barely move without hitting someone.\nB: Lowkey tryna ask the boss to let me work from home.\nA: Say less, I'm with you on that one.\nB: Deadass, let's start a petition.",
-    "japanese": "",
+    "japanese": [
+      "個人的にはさ",
+      "ぶっちゃけ俺はこう思う"
+    ],
     "chinese": "在我看来 (Zài wǒ kànlái)",
     "spanish": "En mi opinión / Para mí",
     "vietnamese": "Theo tôi thì... / Ý kiến riêng nhé..."
@@ -8816,7 +8871,10 @@
       "Take care of yourself."
     ],
     "example": "A: Yo, it's getting brick outside. Make sure you bundle up!\nB: Facts, I'm already grabbing my heavy puffer.\nA: Good move. Keep warm and stay healthy, no cap.\nB: You too, man. Stay cozy inside.\nA: Catch you later, stay safe.\nB: Word, you too.",
-    "japanese": "",
+    "japanese": [
+      "暖かくしてね",
+      "体冷やさないようにね"
+    ],
     "chinese": "注意保暖 (Zhùyì bǎonuǎn)",
     "spanish": "Abrígate / Mantente caliente",
     "vietnamese": "Giữ ấm nhé / Mặc ấm vào"
@@ -8833,7 +8891,10 @@
       "Refreshing AF."
     ],
     "example": "A: How was the walk by the river?\nB: Man, the breeze was refreshingly cool. I needed that.\nA: Facts, it's been way too humid in the city lately.\nB: For real, it felt so much better out there.\nA: I'm tryna head there later for some fresh air.\nB: Do it, it's a whole vibe, deadass.",
-    "japanese": "",
+    "japanese": [
+      "涼しくて気持ちいいね",
+      "さっぱりしてて最高"
+    ],
     "chinese": "沁人心脾的凉爽 (Qìnrénxīnpí de liángshuǎng)",
     "spanish": "Fresquito / Agradablemente fresco",
     "vietnamese": "Mát lạnh sảng khoái / Mát rượi luôn"
@@ -8850,7 +8911,10 @@
       "5. Cramp your style"
     ],
     "example": "A: I started working on the marketing plan.\nB: Wait, isn't that my responsibility?\nA: Sorry, I didn't mean to step on your toes.\nB: I'd prefer if you didn't overstep your bounds.\nA: I was just trying to get a head start.\nB: I appreciate it, but let's not tread on my territory.",
-    "japanese": "",
+    "japanese": [
+      "邪魔するつもりはないんだ",
+      "君のやり方に口出す気はないよ"
+    ],
     "chinese": "得罪人 (Dézuì rén) / 抢风头 (Qiǎng fēngtou)",
     "spanish": "Pisarte el terreno / Inmiscuirse",
     "vietnamese": "Cầm đèn chạy trước ô tô / Lấn sân (quyền hạn)"
@@ -8867,7 +8931,10 @@
       "Bar rail drink."
     ],
     "example": "A: Yo, we meeting for a full dinner?\nB: Nah, let's just grab a vertical drink and catch up.\nA: Word, that works for me. I gotta be home early anyway.\nB: Facts, there's a cool spot with no seating anyway.\nA: Say less, I'll meet you there at 7.\nB: Bet, see you then.",
-    "japanese": "",
+    "japanese": [
+      "立ち飲みしようぜ",
+      "立ったまま飲むのもいいよね"
+    ],
     "chinese": "站着喝两杯 (Zhànzhe hē liǎngbēi)",
     "spanish": "Tomar algo de pie / Una copa rápida",
     "vietnamese": "Uống đứng / Tiệc đứng"
@@ -8884,7 +8951,10 @@
       "Actions speak louder than words."
     ],
     "example": "A: He didn't even show up to the meeting.\nB: Man, it speaks volumes about how much he cares.\nA: Facts, he’s been lowkey checked out for weeks.\nB: For real, I think he's already looking for a new spot.\nA: I wouldn't doubt it, deadass.\nB: It is what it is, we gotta keep moving.",
-    "japanese": "",
+    "japanese": [
+      "それが全てを物語ってるね",
+      "言葉以上に意味があるよ"
+    ],
     "chinese": "胜过千言万语 (Shèngguò qiānyánwànyǔ) / 很有说服力 (Hěn yǒu shuōfúlì)",
     "spanish": "Lo dice todo / Es muy revelador",
     "vietnamese": "Nói lên tất cả / Thế là đủ hiểu rồi"
@@ -8901,7 +8971,10 @@
       "Evident."
     ],
     "example": "A: You think this portfolio is good enough?\nB: Honestly? Your work speaks for itself, no cap.\nA: Preciate it, I'm just nervous about the client's reaction.\nB: Don't even trip, they're gonna love it.\nA: I hope so, I put in a lot of hours, deadass.\nB: Facts, and it shows. Level up.",
-    "japanese": "",
+    "japanese": [
+      "説明なんていらないよ",
+      "結果を見れば一目瞭然でしょ"
+    ],
     "chinese": "不言自明 (Bùyánzìmíng)",
     "spanish": "Habla por sí solo / Se explica solo",
     "vietnamese": "Tự nó chứng minh rồi / Khỏi cần giải thích"
@@ -8918,7 +8991,10 @@
       "Absolute steal."
     ],
     "example": "A: Yo, check out this watch I got at the thrift store.\nB: No way, that looks expensive! How much?\nA: Only 20 bucks, deadass. It was a steal.\nB: For real? That's insane. It looks like it's worth way more.\nA: Facts, the guy didn't know what he had.\nB: You really lucked out on that one, no cap.",
-    "japanese": "",
+    "japanese": [
+      "これ超お買い得だったわ",
+      "激安でゲットしちゃった"
+    ],
     "chinese": "太便宜了 (Tài piányi le) / 捡到宝了 (Jiǎndào bǎo le)",
     "spanish": "Fue una ganga / Estaba tirado de precio",
     "vietnamese": "Rẻ như cho / Mua được giá hời"
@@ -8935,7 +9011,10 @@
       "Load up on it."
     ],
     "example": "A: Yo, they're selling these cases of water for 2 bucks!\nB: Deadass? We should stock up, it's a steal.\nA: Facts, we're definitely gonna need it for the party.\nB: Grab like five cases before they sell out.\nA: On it, help me carry these to the car.\nB: Say less, I got you.",
-    "japanese": "",
+    "japanese": [
+      "買いだめしとこうぜ、超安いし",
+      "これ絶対買いだよ、タダ同然だし"
+    ],
     "chinese": "我们得囤点货，这太便宜了 (Wǒmen děi tún diǎn huò, zhè tài piányi le)",
     "spanish": "Deberíamos hacer acopio, es un chollazo / Hay que cargar, está regalado",
     "vietnamese": "Rẻ thế này phải gom hàng thôi / Mua tích trữ đi, giá hời quá"
@@ -8952,7 +9031,10 @@
       "Top picks?"
     ],
     "example": "A: Yo, first time at this spot. What's good here?\nB: Man, you gotta try the spicy rigatoni. It's fire.\nA: No cap? I've been craving some good pasta.\nB: For real, everyone talks about it for a reason.\nA: Say less, I'm ordering that right now.\nB: You won't regret it, deadass.",
-    "japanese": "",
+    "japanese": [
+      "ここのおすすめ何？",
+      "ここ何が美味しいの？"
+    ],
     "chinese": "这儿什么好吃? (Zhèr shénme hǎochī?)",
     "spanish": "¿Qué está bueno aquí? / ¿Qué recomiendas?",
     "vietnamese": "Ở đây món nào ngon? / Quán này có gì đặc sắc?"
@@ -8969,7 +9051,10 @@
       "Graphing."
     ],
     "example": "A: Yo, can you plot these charts for the meeting?\nB: Facts, I'll have them ready in like 10 minutes.\nA: Preciate it, the client really needs to see the growth trends.\nB: For real, I'll make them look extra fly, no cap.\nA: Say less, I know you got that design touch.\nB: You already know, I'm on it.",
-    "japanese": "",
+    "japanese": [
+      "グラフを作成する",
+      "チャートを描画する"
+    ],
     "chinese": "绘制图表 (Huìzhì túbiǎo)",
     "spanish": "Hacer gráficos / Trazar gráficas",
     "vietnamese": "Vẽ biểu đồ / Lập đồ thị"
@@ -8986,7 +9071,10 @@
       "Install modules."
     ],
     "example": "A: Yo, why is the app trippin'?\nB: You forgot to install the packages, deadass.\nA: My bad, I just pulled the latest code.\nB: For real, just run 'npm install' and you're good.\nA: Facts, I completely blanked on that.\nB: It happens, just get it done so we can test.",
-    "japanese": "",
+    "japanese": [
+      "パッケージをインストールする",
+      "必要なソフトを入れる"
+    ],
     "chinese": "安装包 (Ānzhuāng bāo)",
     "spanish": "Instalar paquetes / Instalar librerías",
     "vietnamese": "Cài đặt gói / Cài package"
@@ -9003,7 +9091,10 @@
       "Keep the shots."
     ],
     "example": "A: These designs are fire, how do I save images from the folder?\nB: Just right-click and export them as PNGs, deadass.\nA: Word, I need to send these to the marketing team.\nB: Facts, they're gonna love the new aesthetic.\nA: For real, it's a whole different vibe now.\nB: Say less, just make sure you save them in high res.",
-    "japanese": "",
+    "japanese": [
+      "画像を保存する",
+      "イメージをセーブする"
+    ],
     "chinese": "保存图片 (Bǎocún túpiàn)",
     "spanish": "Guardar imágenes / Salvar fotos",
     "vietnamese": "Lưu ảnh"
@@ -9020,7 +9111,10 @@
       "Accessing visuals."
     ],
     "example": "A: Yo, how do I access images from the shared drive?\nB: Just enter the password and you're in, deadass.\nA: No cap? I thought it was more complicated than that.\nB: Nah, it's straight to the point. Catch the vibes.\nA: Preciate the info, man.\nB: You already know.",
-    "japanese": "",
+    "japanese": [
+      "画像にアクセスする",
+      "イメージを開く"
+    ],
     "chinese": "获取图片 (Huòqǔ túpiàn)",
     "spanish": "Acceder a las imágenes / Ver las fotos",
     "vietnamese": "Truy cập hình ảnh / Mở ảnh"
@@ -9037,7 +9131,10 @@
       "5. I was completely oblivious"
     ],
     "example": "A: Did you think about moving to the suburbs?\nB: Honestly, it never even crossed my mind.\nA: Really? It's so much quieter out there.\nB: I guess it never occurred to me as an option.\nA: You're such a city person through and through.\nB: Exactly, suburbs weren't even on my radar.",
-    "japanese": "",
+    "japanese": [
+      "そんなこと考えもしなかった",
+      "頭の片隅にもなかったよ"
+    ],
     "chinese": "压根儿没想过 (Yàgēnr méi xiǎngguò)",
     "spanish": "Ni se me pasó por la cabeza / Ni lo pensé",
     "vietnamese": "Chưa bao giờ nghĩ tới luôn / Trong mơ cũng không ngờ"
@@ -9054,7 +9151,10 @@
       "Shut down."
     ],
     "example": "A: Yo, why is the submit button disabled?\nB: You gotta fill out all the fields first, deadass.\nA: Oh true, I missed the email line.\nB: Facts, the system won't let you through without it.\nA: Got it, it's enabled now.\nB: Say less, hit send.",
-    "japanese": "",
+    "japanese": [
+      "無効になってる",
+      "使えない状態だね"
+    ],
     "chinese": "被禁用 (Bèi jìnyòng)",
     "spanish": "Estar deshabilitado / No funcionar",
     "vietnamese": "Bị vô hiệu hóa / Bị tắt rồi"
@@ -9071,7 +9171,10 @@
       "Trippin'."
     ],
     "example": "A: Can I just reboot the server and hope for the best?\nB: Nah, that will not work. You gotta fix the config file.\nA: Deadass? I was tryna take the easy way out.\nB: For real, shortcuts just lead to more bugs.\nA: Fine, I'll do it the right way.\nB: Smart move, no cap.",
-    "japanese": "",
+    "japanese": [
+      "これじゃ動かないよ",
+      "うまく機能しないはず"
+    ],
     "chinese": "不管用 (Bù guǎnyòng)",
     "spanish": "No funcionará / No va a servir",
     "vietnamese": "Không ăn thua đâu / Không chạy đâu"
@@ -9088,7 +9191,10 @@
       "Abort."
     ],
     "example": "A: Should I try to fix the wiring myself?\nB: Deadass, do not attempt that. You'll blow the whole circuit.\nA: Is it really that dangerous?\nB: Facts, calling a pro is the only move here.\nA: Alright, I'll chill. Don't want any smoke.\nB: Good choice, stay safe.",
-    "japanese": "",
+    "japanese": [
+      "やらない方がいいよ",
+      "試さないで"
+    ],
     "chinese": "别尝试 (Bié chángshì)",
     "spanish": "No lo intentes / Ni pruebes",
     "vietnamese": "Đừng có thử / Cấm thử dưới mọi hình thức"
@@ -9105,7 +9211,10 @@
       "Target format."
     ],
     "example": "A: What's the desired output format for the report?\nB: They want it in PDF, no cap.\nA: Word, I'll make sure the charts are clean too.\nB: Facts, the presentation is everything with this client.\nA: Say less, I'll have it ready by five.\nB: You already know.",
-    "japanese": "",
+    "japanese": [
+      "希望の出力形式",
+      "出したいフォーマット"
+    ],
     "chinese": "期望的输出格式 (Qīwàng de shūchū géshì)",
     "spanish": "Formato de salida deseado / Cómo quieres que quede",
     "vietnamese": "Định dạng đầu ra mong muốn"
@@ -9122,7 +9231,10 @@
       "Override."
     ],
     "example": "A: Should we fix the UI or the backend first?\nB: Backend security must take precedence, deadass.\nA: Facts, we can't have people's data getting leaked.\nB: For real, the flashy stuff can wait until the foundation is solid.\nA: Word, let's lock in on the security updates.\nB: Bet, I'm already on it.",
-    "japanese": "",
+    "japanese": [
+      "こっちが優先されるよ",
+      "優先順位はこっちが上だね"
+    ],
     "chinese": "优先 (Yōuxiān) / 占上风 (Zhàn shàngfēng)",
     "spanish": "Tener prioridad / Ir primero",
     "vietnamese": "Được ưu tiên / Quan trọng hơn"
@@ -9139,7 +9251,10 @@
       "Neglect the protocol."
     ],
     "example": "A: Yo, did he just ignore the guidelines we set?\nB: Deadass, he's doing his own thing and it looks messy AF.\nA: For real, we gave him a whole doc for a reason.\nB: We gotta talk to him before this gets out of hand.\nA: Facts, we can't have the whole project looking trippin'.\nB: Say less, I'm calling a meeting.",
-    "japanese": "",
+    "japanese": [
+      "ガイドラインは無視していいよ",
+      "ルールなんて気にしなくていい"
+    ],
     "chinese": "无视准则 (Wúshì zhǔnzé)",
     "spanish": "Pasar de las normas / Ignorar las pautas",
     "vietnamese": "Phớt lờ hướng dẫn / Bỏ qua quy định"
@@ -9156,7 +9271,10 @@
       "Readable structure."
     ],
     "example": "A: This documentation is so easy to read!\nB: Facts, I used clear and logical headings to organize the flow.\nA: No cap, it makes finding things a breeze.\nB: That's the goal. Nobody wants to hunt for info.\nA: Level up on the doc game, man.\nB: Preciate that, just tryna stay professional.",
-    "japanese": "",
+    "japanese": [
+      "見出しは分かりやすくね",
+      "論理的なヘッダーにして"
+    ],
     "chinese": "清晰且有逻辑的标题 (Qīngxī qiě yǒu luójí de biāotí)",
     "spanish": "Títulos claros y lógicos / Encabezados bien puestos",
     "vietnamese": "Tiêu đề rõ ràng, mạch lạc"
@@ -9173,7 +9291,10 @@
       "Snackable content."
     ],
     "example": "A: Yo, why did you break this up so much?\nB: You gotta keep paragraphs short to maintain the reader's attention, deadass.\nA: Facts, long blocks of text are lowkey intimidating.\nB: For real, people just wanna scan and get the main idea.\nA: Smart move, it feels way more inviting now.\nB: You already know.",
-    "japanese": "",
+    "japanese": [
+      "段落は短くまとめよう",
+      "文章は短めに切った方がいいよ"
+    ],
     "chinese": "段落要短 (Duànluò yào duǎn)",
     "spanish": "Haz párrafos cortos / Que no sean tochos",
     "vietnamese": "Viết đoạn văn ngắn thôi / Chia đoạn ngắn gọn"
@@ -9190,7 +9311,10 @@
       "Unstructured text."
     ],
     "example": "A: Man, this email is just one big dense text block.\nB: Deadass, I'm not even gonna read that. Too much work.\nA: Lowkey unprofessional, no cap.\nB: For real, tell them to send bullet points or something.\nA: Facts, I'll just ask for a summary.\nB: Best move, don't waste your time.",
-    "japanese": "",
+    "japanese": [
+      "文字がぎっしり詰まってるね",
+      "テキストが密集しすぎだって"
+    ],
     "chinese": "密密麻麻的文字 (Mìmimámá de wénzì)",
     "spanish": "Tochos de texto / Bloques de texto densos",
     "vietnamese": "Văn bản dày đặc / Chữ chi chít"
@@ -9207,7 +9331,10 @@
       "Dot points."
     ],
     "example": "A: Can you summarize the meeting for me?\nB: Yeah, I'll send you some bullet points right now.\nA: Preciate it, I just need the key takeaways, deadass.\nB: Word, it's straight to the point, no fluff.\nA: You're a real one for that.\nB: You already know.",
-    "japanese": "",
+    "japanese": [
+      "箇条書きにする",
+      "ポイントを列挙する"
+    ],
     "chinese": "要点 (Yàodiǎn) / 符号列表 (Fúhào lièbiǎo)",
     "spanish": "Puntos / Viñetas / Listas con puntos",
     "vietnamese": "Gạch đầu dòng / Điểm liệt kê"
@@ -9224,7 +9351,10 @@
       "5. Snobbish"
     ],
     "example": "A: He explained the project like I was a child.\nB: He can be so condescending sometimes.\nA: I hate it when he's being patronizing.\nB: He's always acting superior to everyone else.\nA: It's really hard to work with someone like that.\nB: Tell me about it, he's always looking down his nose.",
-    "japanese": "",
+    "japanese": [
+      "上から目線だね",
+      "なんか偉そうじゃない？"
+    ],
     "chinese": "居高临下的 (Jūgāolínxià de) / 傲慢的 (Àomàn de)",
     "spanish": "Condescendiente / Altivo",
     "vietnamese": "Ra vẻ bề trên / Khinh khỉnh"
@@ -9241,7 +9371,10 @@
       "Ranked items."
     ],
     "example": "A: How do I set up the new environment?\nB: Check the README, I made some numbered lists for the steps.\nA: Oh word, this makes it so much easier to follow.\nB: Facts, just go through them one by one and you're good.\nA: Nailed it, thanks man.\nB: Any time, stay safe.",
-    "japanese": "",
+    "japanese": [
+      "番号付きリストにする",
+      "数字でリスト化して"
+    ],
     "chinese": "编号列表 (Biānhào lièbiǎo)",
     "spanish": "Listas numeradas / Puntos con números",
     "vietnamese": "Danh sách đánh số"
@@ -9258,7 +9391,10 @@
       "Primary facts."
     ],
     "example": "A: What were the key takeaways from the seminar?\nB: Basically, we need to focus on mobile-first design, deadass.\nA: Facts, that's where all the traffic is going anyway.\nB: For real, if we don't adapt, we're cooked.\nA: Glad we're on the same page.\nB: You already know, stay locked in.",
-    "japanese": "",
+    "japanese": [
+      "重要なポイント",
+      "これだけは覚えておいて"
+    ],
     "chinese": "关键要点 (Guānjiàn yàodiǎn)",
     "spanish": "Puntos clave / Lo más importante / Conclusiones",
     "vietnamese": "Điểm mấu chốt / Bài học rút ra"
@@ -9275,7 +9411,10 @@
       "Themed sections."
     ],
     "example": "A: How did you organize the brainstorm notes?\nB: I grouped ideas by department to make it cleaner, no cap.\nA: Smart, now everyone can just focus on their own part.\nB: Facts, it's way more efficient than just a random list.\nA: Level up on organization, man.\nB: Trying my best, for real.",
-    "japanese": "",
+    "japanese": [
+      "アイデアをまとめる",
+      "考えをグループ化する"
+    ],
     "chinese": "归纳观点 (Guīnà guāndiǎn)",
     "spanish": "Ideas agrupadas / Conceptos juntos",
     "vietnamese": "Các ý tưởng được nhóm lại / Gom nhóm ý tưởng"
@@ -9292,7 +9431,10 @@
       "Collection of ideas."
     ],
     "example": "A: Should I rank these ideas by importance?\nB: Nah, just use unordered lists for now, deadass.\nA: Word, I'll just keep it simple and clean.\nB: Facts, we can organize them properly later.\nA: Say less, I'm on it.\nB: No cap.",
-    "japanese": "",
+    "japanese": [
+      "順不同のリスト",
+      "箇条書きリスト"
+    ],
     "chinese": "无序列表 (Wúxù lièbiǎo)",
     "spanish": "Listas sin orden / Listas con viñetas",
     "vietnamese": "Danh sách không thứ tự / Gạch đầu dòng"
@@ -9309,7 +9451,10 @@
       "Organized list."
     ],
     "example": "A: How do I follow the setup guide?\nB: Look for the ordered lists, they show the priority, deadass.\nA: Facts, I don't wanna skip anything important.\nB: For real, just go from 1 to 10 and you're good.\nA: Nailed it, thanks for the heads up.\nB: You already know.",
-    "japanese": "",
+    "japanese": [
+      "順序付きのリスト",
+      "番号順のリスト"
+    ],
     "chinese": "有序列表 (Yǒuxù lièbiǎo)",
     "spanish": "Listas ordenadas / Listas numeradas",
     "vietnamese": "Danh sách có thứ tự"
@@ -9326,7 +9471,10 @@
       "Well-organized."
     ],
     "example": "A: Yo, does the intro lead into the climax well?\nB: Facts, the whole story flows logically, no cap.\nA: Preciate it, I was worried about that middle section.\nB: Nah, you nailed the pacing, deadass.\nA: Word, glad it's coming together.\nB: It's a whole movie, for real.",
-    "japanese": "",
+    "japanese": [
+      "話の流れが自然だね",
+      "論理的に繋がってるよ"
+    ],
     "chinese": "逻辑通顺 (Luójí tōngshùn)",
     "spanish": "Tener sentido lógico / Fluir bien",
     "vietnamese": "Mạch lạc / Logic"
@@ -9343,7 +9491,10 @@
       "Get the gist."
     ],
     "example": "A: Why did you use so many headers?\nB: So the client can scan and understand key points quickly, deadass.\nA: Smart move, they probably don't have time for a deep dive.\nB: Facts, everyone in this city is always in a hurry.\nA: No cap, but this makes it way easier for them.\nB: That's the goal, no cap.",
-    "japanese": "",
+    "japanese": [
+      "ざっと見て要点を掴む",
+      "素早くスキャンして理解する"
+    ],
     "chinese": "快速浏览并理解要点 (Kuàisù liúlǎn bìng lǐjiě yàodiǎn)",
     "spanish": "Escanear y pillar lo importante rápido / Leer por encima y entenderlo",
     "vietnamese": "Đọc lướt là nắm được ý chính / Nhìn qua là hiểu ngay"
@@ -9360,7 +9511,10 @@
       "Clear text."
     ],
     "example": "A: I think the font is too small.\nB: Facts, it's lowkey trippin' with the readability.\nA: Should I bump it up to 12pt?\nB: For real, make it 14 so nobody has to squint.\nA: Word, now it's way more accessible.\nB: Facts, looks premium now.",
-    "japanese": "",
+    "japanese": [
+      "読みやすさ",
+      "可読性"
+    ],
     "chinese": "可读性 (Kědúxìng)",
     "spanish": "Legibilidad / Que se lea bien",
     "vietnamese": "Khả năng đọc hiểu / Độ dễ đọc"
@@ -9377,7 +9531,10 @@
       "Protect credits."
     ],
     "example": "A: Should I delete these links at the bottom?\nB: Nah, you gotta preserve any and all citations, deadass.\nA: Why? They look kinda messy.\nB: Facts, but we need them for credibility, no cap.\nA: Got it, I'll keep them in.\nB: Good move, stay professional.",
-    "japanese": "",
+    "japanese": [
+      "引用は全部残しておいて",
+      "出典はそのままにして"
+    ],
     "chinese": "保留所有引用 (Bǎoliú suǒyǒu yǐnyòng)",
     "spanish": "Mantener todas las citas / No borres las referencias",
     "vietnamese": "Giữ nguyên mọi trích dẫn"
@@ -9394,7 +9551,10 @@
       "Mention the origin."
     ],
     "example": "A: How should I credit the original author?\nB: Just embed citations throughout the text, deadass.\nA: Like 'according to source X' style?\nB: Facts, it makes the whole thing look more legit.\nA: On it, I'll make sure they're visible.\nB: Say less, you got this.",
-    "japanese": "",
+    "japanese": [
+      "引用を埋め込む",
+      "出典を記載する"
+    ],
     "chinese": "嵌入引用 (Qiànrù yǐnyòng)",
     "spanish": "Incluir citas / Meter referencias",
     "vietnamese": "Chèn trích dẫn vào / Nhúng trích dẫn"
@@ -9411,7 +9571,10 @@
       "5. Snooty"
     ],
     "example": "A: Stop explaining it like I’m five. \nB: I was just trying to be helpful. \nA: You’re being incredibly patronizing. \nB: My bad, I didn't mean to talk down to you. \nA: Just give me the facts, okay? \nB: Got it, I'll keep it professional from now on.",
-    "japanese": "",
+    "japanese": [
+      "子供扱いしてくるね",
+      "恩着せがましい態度だわ"
+    ],
     "chinese": "摆架子的 (Bǎi jiàzi de) / 甚至凌人的 (Shèngqìlíngrén de)",
     "spanish": "Paternalista / Tratar con superioridad",
     "vietnamese": "Tỏ vẻ kẻ cả / Coi thường người khác"
@@ -9428,7 +9591,10 @@
       "At the head."
     ],
     "example": "A: Where should I put the main topic sentence?\nB: Always at the beginning of paragraphs, no cap.\nA: Word, that way people know what to expect immediately.\nB: Facts, don't bury the lead, deadass.\nA: Got it, restructuring now.\nB: You already know.",
-    "japanese": "",
+    "japanese": [
+      "段落の最初に",
+      "パラグラフの冒頭で"
+    ],
     "chinese": "在段落开头 (Zài duànluò kāitóu)",
     "spanish": "Al principio de los párrafos / Al empezar el párrafo",
     "vietnamese": "Ở đầu mỗi đoạn"
@@ -9445,7 +9611,10 @@
       "Give credit."
     ],
     "example": "A: Do I need to tell everyone where I got this info?\nB: For sure, always mention the sources, deadass.\nA: I don't want anyone thinking I'm faking facts.\nB: Facts, credibility is everything in this game.\nA: Word, adding the list now.\nB: Level up.",
-    "japanese": "",
+    "japanese": [
+      "情報源に触れる",
+      "ソースについて言及する"
+    ],
     "chinese": "提及来源 (Tíjí láiyuán)",
     "spanish": "Citar las fuentes / Mencionar de dónde viene",
     "vietnamese": "Nêu rõ nguồn / Ghi nguồn"
@@ -9462,7 +9631,10 @@
       "At the start."
     ],
     "example": "A: Where should I put the ID numbers?\nB: Just put them in front of headers to stay organized, no cap.\nA: Word, that makes the navigation way smoother.\nB: Facts, it helps people jump to specific parts quickly.\nA: Say less, I'm updating the whole doc.\nB: Bet, looking good.",
-    "japanese": "",
+    "japanese": [
+      "ヘッダーの前に",
+      "見出しの前へ"
+    ],
     "chinese": "在标题前面 (Zài biāotí qiánmian)",
     "spanish": "Delante de los títulos / Antes de los encabezados",
     "vietnamese": "Trước các tiêu đề"
@@ -10888,7 +11060,7 @@
       "Bailing.",
       "Hit you back."
     ],
-    "example": "A: I gotta jump on a work call right now.\nB: Word, TTYL, deadass. Stay safe out there.\nA: Preciate it, no cap. Catch you tonight.\nB: For real, peace.\nB: Peace.",
+    "example": "A: Yo, I gotta jump on a work call right now, it's getting hecty.\nB: Word, TTYL, deadass. Let's link up later tonight.\nA: For sure, I'll hit you up once I'm done with this slide deck.\nB: Bet, don't let those meetings drain your energy too much.\nA: Preciate it, no cap. I'll catch you around 8.\nB: Sounds like a plan, peace.",
     "japanese": "またね。／後（あと）で話（はな）そう。",
     "chinese": "回头聊 (Huítóu liáo)",
     "spanish": "Luego hablamos / Hablamos luego",
@@ -19881,7 +20053,7 @@
       "Same for me, please.",
       "I'll take two of those."
     ],
-    "example": "A: I'll have the spicy margarita, please.\nB: That's a great choice. And for you, sir?\nC: Actually, could you make that two, please?\nB: You got it. Two spicy margaritas coming right up.\nA: Good call, these are the best in the city.\nC: I was thinking the same thing after the first sip.",
+    "example": "A: I'll have the spicy margarita, please, extra lime.\nB: That's a great choice, it's our signature drink. And for you?\nA: Actually, could you make that two, please? My friend's joining.\nB: You got it. Two spicy margaritas with extra lime coming right up.\nA: Thanks, no cap, these are the best vibes in the city.\nB: For real, I'm glad you guys are feeling the spot.",
     "japanese": "私（わたし）も同（おな）じので",
     "chinese": "请再来一份一样的 (Qǐng zàilái yí fèn yíyàng de) / 给我来个双份 (Gěi wǒ lái gè shuāngfèn)",
     "spanish": "¿Me das dos, por favor? / Que sean dos, por favor.",
@@ -23485,7 +23657,7 @@
       "There he is!",
       "Synchronized entry!"
     ],
-    "example": "A: I wonder where Tim is, he's always late.\nB: Yo, speak of the devil! Here he comes now.\nC: Sorry guys, the subway was buggin'.\nA: We were literally just talking about you.\nB: Hilarious timing.\nC: My ears were ringing, for real.",
+    "example": "A: I wonder where Tim is, he's basically ghosting us right now.\nB: Yo, speak of the devil! Here he comes walking through the door.\nA: Tim! We were literally just talking about your late ass.\nB: My bad guys, the L train was buggin' majorly today.\nA: Hilarious timing, we thought you'd never show up.\nB: Guess I'm just synchronized with the drama, for real.",
     "japanese": "噂（うわさ）をすれば！",
     "chinese": "说曹操曹操到！ (Shuō Cáocāo Cáocāo dào!)",
     "spanish": "¡Hablando del rey de Roma! / ¡Mira quién llegó!",
