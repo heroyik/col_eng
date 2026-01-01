@@ -1,0 +1,502 @@
+[
+  {
+    "id": 201,
+    "primary": "Find yourself in",
+    "meaning": "(어쩌다 보니) ~한 상황에 처하다."
+  },
+  {
+    "id": 202,
+    "primary": "Skim through",
+    "meaning": "대충 훑어보다."
+  },
+  {
+    "id": 203,
+    "primary": "So be it",
+    "meaning": "그러려니 해 / 그게 인생이야"
+  },
+  {
+    "id": 204,
+    "primary": "Made for each other",
+    "meaning": "찰떡궁합이다. 천생연분이다."
+  },
+  {
+    "id": 205,
+    "primary": "Well begun is half done",
+    "meaning": "시작이 반이다."
+  },
+  {
+    "id": 206,
+    "primary": "Butter someone up",
+    "meaning": "아부하다. 비위 맞추다."
+  },
+  {
+    "id": 207,
+    "primary": "Taken in by the ad",
+    "meaning": "광고에 속았어. (낚였다)"
+  },
+  {
+    "id": 208,
+    "primary": "By any chance",
+    "meaning": "혹시...?"
+  },
+  {
+    "id": 209,
+    "primary": "I have a weak stomach",
+    "meaning": "비위가 약해. 소화가 잘 안 돼."
+  },
+  {
+    "id": 210,
+    "primary": "Down it",
+    "meaning": "원샷해! 쭉 들이켜."
+  },
+  {
+    "id": 211,
+    "primary": "Don't rub it in",
+    "meaning": "약 올리지 마. (아픈 데 찌르지 마)"
+  },
+  {
+    "id": 212,
+    "primary": "He has feelings for you",
+    "meaning": "걔 너한테 마음 있어."
+  },
+  {
+    "id": 213,
+    "primary": "Fall for",
+    "meaning": "~에게 빠지다. 반하다. (속다)"
+  },
+  {
+    "id": 214,
+    "primary": "Iffy",
+    "meaning": "애매한 / 의심스러운"
+  },
+  {
+    "id": 215,
+    "primary": "Behold",
+    "meaning": "자, 보시라! (짜잔)"
+  },
+  {
+    "id": 216,
+    "primary": "Dean's list",
+    "meaning": "우등생 명단. 성적 우수자."
+  },
+  {
+    "id": 217,
+    "primary": "Don't try to pull a fast one",
+    "meaning": "속일 생각 하지 마. 수작 부리지 마."
+  },
+  {
+    "id": 218,
+    "primary": "Got pranked",
+    "meaning": "장난에 속았다. 낚였다."
+  },
+  {
+    "id": 219,
+    "primary": "Step on it",
+    "meaning": "밟아! (서둘러)"
+  },
+  {
+    "id": 220,
+    "primary": "Gold digger",
+    "meaning": "돈을 노리고 만나는 사람. 꽃뱀/제비."
+  },
+  {
+    "id": 221,
+    "primary": "You're all talk",
+    "meaning": "넌 말뿐이야. 입만 살았어."
+  },
+  {
+    "id": 222,
+    "primary": "I go along with that",
+    "meaning": "나도 찬성이야. 동의해."
+  },
+  {
+    "id": 223,
+    "primary": "My hands are full",
+    "meaning": "지금 손이 모자라. 너무 바빠."
+  },
+  {
+    "id": 224,
+    "primary": "Fender bender",
+    "meaning": "가벼운 접촉 사고."
+  },
+  {
+    "id": 225,
+    "primary": "I can’t afford to slack off",
+    "meaning": "빈둥거릴 여유가 없어"
+  },
+  {
+    "id": 226,
+    "primary": "Play it by ear",
+    "meaning": "상황 봐서 하자. (임기응변)"
+  },
+  {
+    "id": 227,
+    "primary": "Takes one to know one",
+    "meaning": "너도 마찬가지거든. (끼리끼리 알아본다)"
+  },
+  {
+    "id": 228,
+    "primary": "By word of mouth",
+    "meaning": "알음알음으로. 입소문으로."
+  },
+  {
+    "id": 229,
+    "primary": "I feel nauseous",
+    "meaning": "속이 울렁거려. 토할 것 같아."
+  },
+  {
+    "id": 230,
+    "primary": "Catch my breath",
+    "meaning": "숨 좀 고르자."
+  },
+  {
+    "id": 231,
+    "primary": "Breaking in new shoes",
+    "meaning": "새 신발 길들이는 중이야."
+  },
+  {
+    "id": 232,
+    "primary": "Take your mind off anything",
+    "meaning": "생각을 다른 데로 돌려. (잊어버려)"
+  },
+  {
+    "id": 233,
+    "primary": "Give the cold shoulder",
+    "meaning": "쌀쌀맞게 대하다. 무시하다."
+  },
+  {
+    "id": 234,
+    "primary": "None taken",
+    "meaning": "기분 안 나빴어. (사과에 대한 답변)"
+  },
+  {
+    "id": 235,
+    "primary": "Should've thought that through",
+    "meaning": "좀 더 신중하게 생각했어야 했는데."
+  },
+  {
+    "id": 236,
+    "primary": "I don’t want to pry",
+    "meaning": "꼬치꼬치 캐묻고 싶지 않아"
+  },
+  {
+    "id": 237,
+    "primary": "Pull a Tom Sawyer",
+    "meaning": "남에게 힘든 일 떠넘기다. (잔머리 굴리다)"
+  },
+  {
+    "id": 238,
+    "primary": "Nothing to lose",
+    "meaning": "밑져야 본전이지."
+  },
+  {
+    "id": 239,
+    "primary": "Eyes are bigger than your stomach",
+    "meaning": "배보다 눈이 더 크네. (욕심 부리네)"
+  },
+  {
+    "id": 240,
+    "primary": "Talk is cheap",
+    "meaning": "말이야 쉽지."
+  },
+  {
+    "id": 241,
+    "primary": "The whole package",
+    "meaning": "완벽 그 자체. (다 갖췄네)"
+  },
+  {
+    "id": 242,
+    "primary": "Follow your gut",
+    "meaning": "직감대로 해."
+  },
+  {
+    "id": 243,
+    "primary": "My heart is fluttering",
+    "meaning": "심쿵해. 설레."
+  },
+  {
+    "id": 244,
+    "primary": "Feelings fade",
+    "meaning": "감정이 식었어."
+  },
+  {
+    "id": 245,
+    "primary": "Stop rubbing it in",
+    "meaning": "그만 좀 깐족거려. (나도 안다고)"
+  },
+  {
+    "id": 246,
+    "primary": "It just goes to show",
+    "meaning": "그게 바로 ~라는 증거야."
+  },
+  {
+    "id": 247,
+    "primary": "Mind over matter",
+    "meaning": "정신력이 중요해"
+  },
+  {
+    "id": 248,
+    "primary": "Bounce ideas off you",
+    "meaning": "아이디어 좀 공유하고 싶어. 의견 좀 줘."
+  },
+  {
+    "id": 249,
+    "primary": "Sense of belonging",
+    "meaning": "소속감."
+  },
+  {
+    "id": 250,
+    "primary": "Pamper myself",
+    "meaning": "나를 위한 사치. 호강 좀 하다."
+  },
+  {
+    "id": 251,
+    "primary": "Indulge myself",
+    "meaning": "마음껏 즐기다. 사치를 부리다."
+  },
+  {
+    "id": 252,
+    "primary": "It's too shabby",
+    "meaning": "너무 허름해. 낡았어."
+  },
+  {
+    "id": 253,
+    "primary": "Not too shabby",
+    "meaning": "꽤 괜찮네. 나쁘지 않아."
+  },
+  {
+    "id": 254,
+    "primary": "It sounds corny",
+    "meaning": "유치하게 들리겠지만. 오글거리겠지만."
+  },
+  {
+    "id": 255,
+    "primary": "It might sound obvious",
+    "meaning": "당연한 말 같겠지만."
+  },
+  {
+    "id": 256,
+    "primary": "Look who's talking",
+    "meaning": "사돈 남 말 하시네."
+  },
+  {
+    "id": 257,
+    "primary": "Pressed for time",
+    "meaning": "시간이 좀 촉박해."
+  },
+  {
+    "id": 258,
+    "primary": "Matter of time",
+    "meaning": "시간문제야"
+  },
+  {
+    "id": 259,
+    "primary": "The clock is ticking",
+    "meaning": "시간이 가고 있어. 서둘러."
+  },
+  {
+    "id": 260,
+    "primary": "Your best bet",
+    "meaning": "가장 좋은 방법. 최선책."
+  },
+  {
+    "id": 261,
+    "primary": "I'm not myself today",
+    "meaning": "오늘 컨디션이 별로야. 내가 아닌 것 같아."
+  },
+  {
+    "id": 262,
+    "primary": "Get it together",
+    "meaning": "정신 차려. 좀 제대로 해."
+  },
+  {
+    "id": 263,
+    "primary": "Come back down to earth",
+    "meaning": "꿈 깨. 현실 직시해."
+  },
+  {
+    "id": 264,
+    "primary": "Deadlines are looming",
+    "meaning": "마감이 코앞이야."
+  },
+  {
+    "id": 265,
+    "primary": "Juggling a lot",
+    "meaning": "정신없이 바빠. 여러 가지 일을 동시에 하고 있어."
+  },
+  {
+    "id": 266,
+    "primary": "Outdoorsy",
+    "meaning": "아웃도어파. 야외 활동 좋아하는."
+  },
+  {
+    "id": 267,
+    "primary": "Catch my drift?",
+    "meaning": "내 말 무슨 뜻인지 알지? (눈치 줌)"
+  },
+  {
+    "id": 268,
+    "primary": "Family function",
+    "meaning": "가족 행사. 가족 모임."
+  },
+  {
+    "id": 269,
+    "primary": "Scoot over",
+    "meaning": "옆으로 좀 비켜봐 / 자리 좀 만들어줘"
+  },
+  {
+    "id": 270,
+    "primary": "Keep it together",
+    "meaning": "정신줄 잡다. 침착함을 유지하다."
+  },
+  {
+    "id": 271,
+    "primary": "Keep your cool",
+    "meaning": "평정심을 유지하다."
+  },
+  {
+    "id": 272,
+    "primary": "It's beautiful out",
+    "meaning": "오늘 날씨 진짜 좋네."
+  },
+  {
+    "id": 273,
+    "primary": "Don't flatter yourself",
+    "meaning": "김칫국 마시지 마. 자만하지 마."
+  },
+  {
+    "id": 274,
+    "primary": "Stop pestering me",
+    "meaning": "그만 좀 괴롭혀. 귀찮게 하지 마."
+  },
+  {
+    "id": 275,
+    "primary": "Knock yourself out",
+    "meaning": "마음껏 해봐. (허락)"
+  },
+  {
+    "id": 276,
+    "primary": "Run it by you",
+    "meaning": "너한테 먼저 확인받고 싶어."
+  },
+  {
+    "id": 277,
+    "primary": "Drafting",
+    "meaning": "초안 잡는 중이야. (글쓰기)"
+  },
+  {
+    "id": 278,
+    "primary": "Same difference",
+    "meaning": "그게 그거지. 도긴개긴이야."
+  },
+  {
+    "id": 279,
+    "primary": "Don't make a scene",
+    "meaning": "소란 피우지 마. 사람들 쳐다봐."
+  },
+  {
+    "id": 280,
+    "primary": "Don’t take it out on me",
+    "meaning": "나한테 화풀이하지 마"
+  },
+  {
+    "id": 281,
+    "primary": "So petty",
+    "meaning": "뒤끝 쩐다. 쪼잔하다."
+  },
+  {
+    "id": 282,
+    "primary": "Good things are coming",
+    "meaning": "좋은 일이 생길 거야."
+  },
+  {
+    "id": 283,
+    "primary": "You're killing it",
+    "meaning": "너 진짜 잘하고 있어! (대박이다)"
+  },
+  {
+    "id": 284,
+    "primary": "You crushed it",
+    "meaning": "네가 무대 뒤집어놨어! (찢었다)"
+  },
+  {
+    "id": 285,
+    "primary": "Mind-blowing",
+    "meaning": "충격적일 정도로 놀라운. (완전 쩐다)"
+  },
+  {
+    "id": 286,
+    "primary": "Doormat",
+    "meaning": "호구. 만만한 사람."
+  },
+  {
+    "id": 287,
+    "primary": "Caught me off guard",
+    "meaning": "완전 방심했어. (깜짝 놀랐어)"
+  },
+  {
+    "id": 288,
+    "primary": "Ex-wife",
+    "meaning": "전처. 이혼한 아내."
+  },
+  {
+    "id": 289,
+    "primary": "I still have a long way to go",
+    "meaning": "난 아직 멀었어. (부족해)"
+  },
+  {
+    "id": 290,
+    "primary": "Long way to go",
+    "meaning": "갈 길이 멀어."
+  },
+  {
+    "id": 291,
+    "primary": "Listen to yourself",
+    "meaning": "네가 하는 말 좀 들어봐, 정말 너무하네 "
+  },
+  {
+    "id": 292,
+    "primary": "Face the music",
+    "meaning": "현실을 직시해. 책임을 져."
+  },
+  {
+    "id": 293,
+    "primary": "I can't even",
+    "meaning": "할 말을 잃었어. (황당/지침)"
+  },
+  {
+    "id": 294,
+    "primary": "Autumn blues",
+    "meaning": "가을 타다. 가을 우울증."
+  },
+  {
+    "id": 295,
+    "primary": "Delulu is the solulu",
+    "meaning": "망상이 유일한 답이다. (긍정적 착각)"
+  },
+  {
+    "id": 296,
+    "primary": "Bring it on",
+    "meaning": "덤벼봐! 한번 해보자."
+  },
+  {
+    "id": 297,
+    "primary": "Out of the question",
+    "meaning": "말도 안 돼. 절대 안 돼."
+  },
+  {
+    "id": 298,
+    "primary": "Touch grass",
+    "meaning": "현실 좀 살아. (인터넷 좀 그만하고)"
+  },
+  {
+    "id": 299,
+    "primary": "Fake it 'til you make it",
+    "meaning": "성공할 때까지 척이라도 해."
+  },
+  {
+    "id": 300,
+    "primary": "Sipping on coffee",
+    "meaning": "커피 한잔의 여유를 즐기는 중."
+  }
+]

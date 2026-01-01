@@ -1,0 +1,502 @@
+[
+  {
+    "id": 801,
+    "primary": "frustrated my younger sister",
+    "meaning": "여동생을 짜증나게 하다 / 여동생이 답답해하다"
+  },
+  {
+    "id": 802,
+    "primary": "Something feels off / I'm feeling under the weather",
+    "meaning": "어쩐지 이상해 / 몸 상태가 안 좋아"
+  },
+  {
+    "id": 803,
+    "primary": "I'm not myself",
+    "meaning": "제 정신이 아니야"
+  },
+  {
+    "id": 804,
+    "primary": "Your best bet / Your go-to option",
+    "meaning": "너의 최선이야"
+  },
+  {
+    "id": 805,
+    "primary": "I'm a little pressed for time / Clock is ticking / Time is running out",
+    "meaning": "시간이 좀 촉박해 / 시간이 다 되어 가"
+  },
+  {
+    "id": 806,
+    "primary": "Can't hack it",
+    "meaning": "감당하기 어렵다"
+  },
+  {
+    "id": 807,
+    "primary": "It's going to sound corny / It might sound cheesy",
+    "meaning": "(오글거리거나) 당연한 말이지만"
+  },
+  {
+    "id": 808,
+    "primary": "It's not too shabby / Not that bad",
+    "meaning": "나쁘지 않네 / 꽤 괜찮네"
+  },
+  {
+    "id": 809,
+    "primary": "A spa for some pampering",
+    "meaning": "스파에서 편히 쉬고 싶다"
+  },
+  {
+    "id": 810,
+    "primary": "It just slipped out",
+    "meaning": "그냥 말이 나와버렸어"
+  },
+  {
+    "id": 811,
+    "primary": "Bitter sweet",
+    "meaning": "시원섭섭해"
+  },
+  {
+    "id": 812,
+    "primary": "Don’t flatter yourself / Don’t give yourself too much credit",
+    "meaning": "잘난 척 좀 그만해"
+  },
+  {
+    "id": 813,
+    "primary": "Stop pestering me / Enough with this / Stop nagging me",
+    "meaning": "그만 좀 닦달해"
+  },
+  {
+    "id": 814,
+    "primary": "Knock yourself out / Suit yourself",
+    "meaning": "네 맘대로 해"
+  },
+  {
+    "id": 815,
+    "primary": "Run it by you / Touch base with you",
+    "meaning": "상의하다"
+  },
+  {
+    "id": 816,
+    "primary": "I've been busy",
+    "meaning": "개인적인 일들로 바빴어"
+  },
+  {
+    "id": 817,
+    "primary": "You will live",
+    "meaning": "그런다고 안 죽는다 (엄살 부리지 마)"
+  },
+  {
+    "id": 818,
+    "primary": "Take under one's wing",
+    "meaning": "내가 챙겨줄게 (가르쳐줄게)"
+  },
+  {
+    "id": 819,
+    "primary": "For nothing",
+    "meaning": "괜히 했다 (헛수고했다)"
+  },
+  {
+    "id": 820,
+    "primary": "I owe you one",
+    "meaning": "신세 졌다 (나중에 갚을게)"
+  },
+  {
+    "id": 821,
+    "primary": "Something going on between",
+    "meaning": "걔네 썸 타는 것 같더라"
+  },
+  {
+    "id": 822,
+    "primary": "Clear the air",
+    "meaning": "우리 오해 좀 풀자"
+  },
+  {
+    "id": 823,
+    "primary": "Get in the way",
+    "meaning": "방해하고 싶지 않아"
+  },
+  {
+    "id": 824,
+    "primary": "On edge",
+    "meaning": "사람들이 날이 서 있다 (폭발 직전이다)"
+  },
+  {
+    "id": 825,
+    "primary": "Man!",
+    "meaning": "아이구 (대박, 실망 등 감탄사)"
+  },
+  {
+    "id": 826,
+    "primary": "Spring is in the air",
+    "meaning": "봄기운이 완연하네"
+  },
+  {
+    "id": 827,
+    "primary": "That's crazy",
+    "meaning": "완전 미쳤다 (놀라움의 반응)"
+  },
+  {
+    "id": 828,
+    "primary": "April Fools'",
+    "meaning": "만우절 장난에 속았어"
+  },
+  {
+    "id": 829,
+    "primary": "Behind someone's back",
+    "meaning": "뒷담화하다 (몰래 행동하다)"
+  },
+  {
+    "id": 830,
+    "primary": "Say hi to ~ for me",
+    "meaning": "안부 좀 전해줘"
+  },
+  {
+    "id": 831,
+    "primary": "No offense",
+    "meaning": "상처 주고 싶지 않지만 (기분 나쁘게 듣지 마)"
+  },
+  {
+    "id": 832,
+    "primary": "Follow me",
+    "meaning": "내 말 이해돼? (잘 듣고 있지?)"
+  },
+  {
+    "id": 833,
+    "primary": "Chill out",
+    "meaning": "진정해 / 놀자"
+  },
+  {
+    "id": 834,
+    "primary": "tuition",
+    "meaning": "학비, 등록금"
+  },
+  {
+    "id": 835,
+    "primary": "Every other day",
+    "meaning": "이틀에 한 번 (격일로)"
+  },
+  {
+    "id": 836,
+    "primary": "Tell on someone",
+    "meaning": "고자질하다"
+  },
+  {
+    "id": 837,
+    "primary": "Overdo it",
+    "meaning": "무리하다"
+  },
+  {
+    "id": 838,
+    "primary": "Have a beef with",
+    "meaning": "갈등이 있다 (불만이 있다)"
+  },
+  {
+    "id": 839,
+    "primary": "get by",
+    "meaning": "그럭저럭 먹고 살다"
+  },
+  {
+    "id": 840,
+    "primary": "Touched",
+    "meaning": "감동받은"
+  },
+  {
+    "id": 841,
+    "primary": "buttery",
+    "meaning": "버터처럼 고소하고 부드러운"
+  },
+  {
+    "id": 842,
+    "primary": "Doze off",
+    "meaning": "졸다"
+  },
+  {
+    "id": 843,
+    "primary": "Close call",
+    "meaning": "아슬아슬했네 (위기 모면)"
+  },
+  {
+    "id": 844,
+    "primary": "In another color",
+    "meaning": "다른 색깔로 된 것"
+  },
+  {
+    "id": 845,
+    "primary": "Lemon",
+    "meaning": "불량품 (특히 중고차)"
+  },
+  {
+    "id": 846,
+    "primary": "To-go box",
+    "meaning": "남은 음식 포장 박스"
+  },
+  {
+    "id": 847,
+    "primary": "Not having it",
+    "meaning": "용납하지 않다 (마음에 안 들어 하다)"
+  },
+  {
+    "id": 848,
+    "primary": "Cut someone off",
+    "meaning": "말을 끊다 / 새치기하다"
+  },
+  {
+    "id": 849,
+    "primary": "That's just the way it is",
+    "meaning": "세상사가 다 그렇지 (어쩔 수 없어)"
+  },
+  {
+    "id": 850,
+    "primary": "Spit it out",
+    "meaning": "어서 말해 (답답해)"
+  },
+  {
+    "id": 851,
+    "primary": "passed away and was cremated",
+    "meaning": "돌아가셔서 화장 후 납골당에 모셨다"
+  },
+  {
+    "id": 852,
+    "primary": "Fall blues",
+    "meaning": "가을을 타다 (가을 우울증)"
+  },
+  {
+    "id": 853,
+    "primary": "Sit tight",
+    "meaning": "좀 기다려주세요 (가만히 있어)"
+  },
+  {
+    "id": 854,
+    "primary": "Between jobs",
+    "meaning": "구직 중인 (백수인)"
+  },
+  {
+    "id": 855,
+    "primary": "Rub it in",
+    "meaning": "들추어 괴롭히다 (아픈 데 건드리다)"
+  },
+  {
+    "id": 856,
+    "primary": "Bland",
+    "meaning": "맛이 심심한 (지루한)"
+  },
+  {
+    "id": 857,
+    "primary": "Eat it up",
+    "meaning": "다 믿다 (금방 넘어가다)"
+  },
+  {
+    "id": 858,
+    "primary": "Around the corner",
+    "meaning": "코앞에 닥친 (아주 가까운)"
+  },
+  {
+    "id": 859,
+    "primary": "Somewhat",
+    "meaning": "어느 정도 (다소)"
+  },
+  {
+    "id": 860,
+    "primary": "Take for granted",
+    "meaning": "당연하게 여기다 (고마운 줄 모르다)"
+  },
+  {
+    "id": 861,
+    "primary": "For good",
+    "meaning": "영원히 (완전히)"
+  },
+  {
+    "id": 862,
+    "primary": "Take it personally",
+    "meaning": "개인적으로 받아들이다 (기분 나빠 하다)"
+  },
+  {
+    "id": 863,
+    "primary": "Put it off until the last minute",
+    "meaning": "마지막 순간까지 미루다"
+  },
+  {
+    "id": 864,
+    "primary": "Clingy",
+    "meaning": "질척거리는 (매달리는)"
+  },
+  {
+    "id": 865,
+    "primary": "Couldn't care less",
+    "meaning": "하나도 신경 안 써 (완전 관심 없어)"
+  },
+  {
+    "id": 866,
+    "primary": "Don't jinx it",
+    "meaning": "말 꺼내서 재수 없게 하지 마"
+  },
+  {
+    "id": 867,
+    "primary": "stop yapping",
+    "meaning": "그만 떠들어"
+  },
+  {
+    "id": 868,
+    "primary": "check all the boxes",
+    "meaning": "조건을 모두 충족하다"
+  },
+  {
+    "id": 869,
+    "primary": "put it down before I forget",
+    "meaning": "까먹기 전에 적어두다"
+  },
+  {
+    "id": 870,
+    "primary": "nonchalant",
+    "meaning": "태연한, 신경 안 쓰는 듯한"
+  },
+  {
+    "id": 871,
+    "primary": "It's been unreal",
+    "meaning": "말도 안 되게 좋았다"
+  },
+  {
+    "id": 872,
+    "primary": "pulling all-nighters",
+    "meaning": "밤을 새우다"
+  },
+  {
+    "id": 873,
+    "primary": "make someone's heart flutter",
+    "meaning": "가슴을 설레게 하다"
+  },
+  {
+    "id": 874,
+    "primary": "Am I delusional?",
+    "meaning": "내가 착각하는 건가?"
+  },
+  {
+    "id": 875,
+    "primary": "I can't possibly",
+    "meaning": "도저히 그건 안 된다"
+  },
+  {
+    "id": 876,
+    "primary": "Are you investing in shares market?",
+    "meaning": "주식 투자하고 있어?"
+  },
+  {
+    "id": 877,
+    "primary": "stock market (news style)",
+    "meaning": "신문기사체 주식시장 표현"
+  },
+  {
+    "id": 878,
+    "primary": "pull it off",
+    "meaning": "어려운 걸 해내다"
+  },
+  {
+    "id": 879,
+    "primary": "no cap",
+    "meaning": "진짜로, 거짓말 안 하고"
+  },
+  {
+    "id": 880,
+    "primary": "Fit the bill",
+    "meaning": "조건에 딱 맞다, 필요에 부합하다"
+  },
+  {
+    "id": 881,
+    "primary": "I'm on the clock",
+    "meaning": "지금 근무 중이다, 일하는 시간이다"
+  },
+  {
+    "id": 882,
+    "primary": "It's a bit foggy",
+    "meaning": "안개가 조금 꼈다 / (비유적으로) 머릿속이 좀 흐릿하다"
+  },
+  {
+    "id": 883,
+    "primary": "I'm a light sleeper",
+    "meaning": "나는 잠이 얕은 편이다"
+  },
+  {
+    "id": 884,
+    "primary": "I tend to be shy",
+    "meaning": "나는 원래 좀 수줍은 편이다"
+  },
+  {
+    "id": 885,
+    "primary": "Camera shy",
+    "meaning": "카메라 앞에서 부끄러워하는, 사진 찍히는 걸 어색해하는"
+  },
+  {
+    "id": 886,
+    "primary": "It's as good as new.",
+    "meaning": "새것이나 다름없어요."
+  },
+  {
+    "id": 887,
+    "primary": "They have a lot in common.",
+    "meaning": "그들은 공통점이 많아요."
+  },
+  {
+    "id": 888,
+    "primary": "That's typical of you.",
+    "meaning": "딱 너답네."
+  },
+  {
+    "id": 889,
+    "primary": "You look after yourself.",
+    "meaning": "몸조리 잘 하세요."
+  },
+  {
+    "id": 890,
+    "primary": "Go for it!",
+    "meaning": "한번 해봐!"
+  },
+  {
+    "id": 891,
+    "primary": "He's a piece of work.",
+    "meaning": "그는 정말 골칫덩이예요."
+  },
+  {
+    "id": 892,
+    "primary": "I won't let you down.",
+    "meaning": "실망시켜 드리지 않을게요."
+  },
+  {
+    "id": 893,
+    "primary": "I've been trying to reach you.",
+    "meaning": "계속 연락하려고 했어요."
+  },
+  {
+    "id": 894,
+    "primary": "It was a stroke of luck.",
+    "meaning": "뜻밖의 행운이었어요."
+  },
+  {
+    "id": 895,
+    "primary": "Don't bottle up your feelings.",
+    "meaning": "감정을 억누르지 마세요."
+  },
+  {
+    "id": 896,
+    "primary": "Don't be shy",
+    "meaning": "부끄러워하지 마, 주저하지 마"
+  },
+  {
+    "id": 897,
+    "primary": "You're growing on me.",
+    "meaning": "네가 점점 좋아지네."
+  },
+  {
+    "id": 898,
+    "primary": "I burnt the midnight oil.",
+    "meaning": "밤늦게까지 열심히 일했어요."
+  },
+  {
+    "id": 899,
+    "primary": "Shy of two minutes",
+    "meaning": "2분이 조금 안 되는, 2분보다 약간 모자라는"
+  },
+  {
+    "id": 900,
+    "primary": "That would be the best case scenario.",
+    "meaning": "그게 최상의 시나리오일 거예요."
+  }
+]

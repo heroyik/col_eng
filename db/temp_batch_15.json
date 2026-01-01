@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1401,
+    "primary": "Get the picture?",
+    "meaning": "이해가 돼?"
+  },
+  {
+    "id": 1402,
+    "primary": "You look awful.",
+    "meaning": "꼴이 말이 아니네."
+  },
+  {
+    "id": 1403,
+    "primary": "Don't fall for it.",
+    "meaning": "속지 마!"
+  },
+  {
+    "id": 1404,
+    "primary": "Gut feeling",
+    "meaning": "직감."
+  },
+  {
+    "id": 1405,
+    "primary": "Just go with your gut",
+    "meaning": "직감대로 해."
+  },
+  {
+    "id": 1406,
+    "primary": "Spot on",
+    "meaning": "정확해."
+  },
+  {
+    "id": 1407,
+    "primary": "On the spot",
+    "meaning": "즉석에서."
+  },
+  {
+    "id": 1408,
+    "primary": "Put someone on the spot",
+    "meaning": "누굴 난처하게 만들다."
+  },
+  {
+    "id": 1409,
+    "primary": "Homie",
+    "meaning": "친한 친구."
+  },
+  {
+    "id": 1410,
+    "primary": "Run some errands",
+    "meaning": "자잘한 일 보러 다니다."
+  },
+  {
+    "id": 1411,
+    "primary": "Hit the road",
+    "meaning": "출발하다."
+  },
+  {
+    "id": 1412,
+    "primary": "Have a blast",
+    "meaning": "엄청 재밌게 놀다."
+  },
+  {
+    "id": 1413,
+    "primary": "Cut it out",
+    "meaning": "그만해."
+  },
+  {
+    "id": 1414,
+    "primary": "Have a good one",
+    "meaning": "좋은 하루 보내."
+  },
+  {
+    "id": 1415,
+    "primary": "Beats me",
+    "meaning": "나도 몰라."
+  },
+  {
+    "id": 1416,
+    "primary": "My heart skipped a beat",
+    "meaning": "깜짝 놀랐어."
+  },
+  {
+    "id": 1417,
+    "primary": "Is there a wait?",
+    "meaning": "대기 있나요?"
+  },
+  {
+    "id": 1418,
+    "primary": "Bang for the buck",
+    "meaning": "가성비."
+  },
+  {
+    "id": 1419,
+    "primary": "Out loud",
+    "meaning": "소리 내서."
+  },
+  {
+    "id": 1420,
+    "primary": "It hits the spot",
+    "meaning": "딱 좋다."
+  },
+  {
+    "id": 1421,
+    "primary": "Hang loose",
+    "meaning": "편하게 있어."
+  },
+  {
+    "id": 1422,
+    "primary": "You name it",
+    "meaning": "말만 해."
+  },
+  {
+    "id": 1423,
+    "primary": "Every cloud has a silver lining",
+    "meaning": "나쁜 일에도 좋은 면은 있어."
+  },
+  {
+    "id": 1424,
+    "primary": "I was spread too thin",
+    "meaning": "너무 바빠서 여력이 없었어."
+  },
+  {
+    "id": 1425,
+    "primary": "I got your back",
+    "meaning": "내가 네 편이야."
+  },
+  {
+    "id": 1426,
+    "primary": "Without further ado",
+    "meaning": "더 지체 없이."
+  },
+  {
+    "id": 1427,
+    "primary": "Hands down",
+    "meaning": "단연코."
+  },
+  {
+    "id": 1428,
+    "primary": "A walk in the park",
+    "meaning": "식은 죽 먹기."
+  },
+  {
+    "id": 1429,
+    "primary": "Show up",
+    "meaning": "나타나다."
+  },
+  {
+    "id": 1430,
+    "primary": "Odds and ends",
+    "meaning": "잡동사니."
+  },
+  {
+    "id": 1431,
+    "primary": "I'm losing it",
+    "meaning": "멘붕이야."
+  },
+  {
+    "id": 1432,
+    "primary": "stutter",
+    "meaning": "말을 더듬다"
+  },
+  {
+    "id": 1433,
+    "primary": "cervical disc stenosis",
+    "meaning": "목 디스크 협착증"
+  },
+  {
+    "id": 1434,
+    "primary": "Social butterfly",
+    "meaning": "마당발 / 인싸"
+  },
+  {
+    "id": 1435,
+    "primary": "Social network",
+    "meaning": "인맥 / 소셜 네트워크"
+  },
+  {
+    "id": 1436,
+    "primary": "Social skills",
+    "meaning": "사회성 / 사교성"
+  },
+  {
+    "id": 1437,
+    "primary": "Social responsibility",
+    "meaning": "사회적 책임"
+  },
+  {
+    "id": 1438,
+    "primary": "Societal norms",
+    "meaning": "사회적 통념 / 국룰"
+  },
+  {
+    "id": 1439,
+    "primary": "Go the extra mile",
+    "meaning": "특별히 더 신경 쓰다 / 한 발 더 뛰다"
+  },
+  {
+    "id": 1440,
+    "primary": "Get the ball rolling",
+    "meaning": "일단 시작하다 / 스타트를 끊다"
+  },
+  {
+    "id": 1441,
+    "primary": "Give it a shot",
+    "meaning": "한번 해보다 / 시도해보다"
+  },
+  {
+    "id": 1442,
+    "primary": "Go out of one's way",
+    "meaning": "굳이 애쓰다 / 발 벗고 나서다"
+  },
+  {
+    "id": 1443,
+    "primary": "Get off the ground",
+    "meaning": "순조롭게 출발하다 / 궤도에 오르다"
+  },
+  {
+    "id": 1444,
+    "primary": "For the sake of",
+    "meaning": "~을 위해서 / ~때문에"
+  },
+  {
+    "id": 1445,
+    "primary": "For the time being",
+    "meaning": "당분간은 / 일단은"
+  },
+  {
+    "id": 1446,
+    "primary": "For a change",
+    "meaning": "기분 전환겸 / 색다르게"
+  },
+  {
+    "id": 1447,
+    "primary": "From time to time",
+    "meaning": "가끔 / 때때로"
+  },
+  {
+    "id": 1448,
+    "primary": "Through thick and thin",
+    "meaning": "좋을 때나 나쁠 때나 / 산전수전 다 겪으며"
+  },
+  {
+    "id": 1449,
+    "primary": "Force of nature",
+    "meaning": "압도적인 존재감 / 천재지변 같은 사람"
+  },
+  {
+    "id": 1450,
+    "primary": "Force of will",
+    "meaning": "의지력 / 깡다구"
+  },
+  {
+    "id": 1451,
+    "primary": "Force of personality",
+    "meaning": "카리스마 / 사람을 끄는 힘"
+  },
+  {
+    "id": 1452,
+    "primary": "Force of impact",
+    "meaning": "충격의 강도 / 임팩트"
+  },
+  {
+    "id": 1453,
+    "primary": "My allergies are acting up.",
+    "meaning": "알레르기가 또 도졌어"
+  },
+  {
+    "id": 1454,
+    "primary": "Get off my back",
+    "meaning": "나 좀 내버려 둬 / 잔소리 좀 그만해"
+  },
+  {
+    "id": 1455,
+    "primary": "Lets pick up where we left off",
+    "meaning": "아까 하던 얘기 계속하자 / 여기서부터 다시 시작하자"
+  },
+  {
+    "id": 1456,
+    "primary": "I just bumped my elbow on the doorframe",
+    "meaning": "문틀에 팔꿈치 찧었어"
+  },
+  {
+    "id": 1457,
+    "primary": "You have grit",
+    "meaning": "너 끈기 있다 / 깡이 있네"
+  },
+  {
+    "id": 1458,
+    "primary": "You have guts",
+    "meaning": "너 배짱 좋다 / 강단 있네"
+  },
+  {
+    "id": 1459,
+    "primary": "Im a foodie",
+    "meaning": "나 미식가야 / 먹는 거 좋아해"
+  },
+  {
+    "id": 1460,
+    "primary": "Its the last straw",
+    "meaning": "이제 더 이상은 못 참아 / 이게 한계야"
+  },
+  {
+    "id": 1461,
+    "primary": "Wanna catch a movie later?",
+    "meaning": "이따 영화 한 편 때릴까?"
+  },
+  {
+    "id": 1462,
+    "primary": "It seems a bit likely",
+    "meaning": "그럴싸해 보이는데?"
+  },
+  {
+    "id": 1463,
+    "primary": "It seemed a bit exaggerated",
+    "meaning": "좀 오바한 것 같더라 / 과장된 것 같아"
+  },
+  {
+    "id": 1464,
+    "primary": "Wish washy",
+    "meaning": "우유부단해 / 이랬다저랬다 해"
+  },
+  {
+    "id": 1465,
+    "primary": "Keep a lid on it",
+    "meaning": "일단 비밀로 해 / 입 닫고 있어"
+  },
+  {
+    "id": 1466,
+    "primary": "I'm not the type to regret things",
+    "meaning": "나 원래 후회 잘 안 해 / 뒤끝 없는 스타일이야"
+  },
+  {
+    "id": 1467,
+    "primary": "I am at a loss for words",
+    "meaning": "뭐라 할 말이 없네 / 어이가 없네"
+  },
+  {
+    "id": 1468,
+    "primary": "Is something bothering you?",
+    "meaning": "무슨 일 있어? / 뭐 찜찜한 거 있어?"
+  },
+  {
+    "id": 1469,
+    "primary": "It's nothing. Don't worry about it.",
+    "meaning": "별거 아냐, 신경 쓰지 마"
+  },
+  {
+    "id": 1470,
+    "primary": "I'd rather die than suffer",
+    "meaning": "고통받느니 죽는 게 낫지 / 힘들게 사느니 죽고 말지"
+  },
+  {
+    "id": 1471,
+    "primary": "Nerve racking",
+    "meaning": "피 말리네 / 신경 쓰여 죽겠네"
+  },
+  {
+    "id": 1472,
+    "primary": "Butter up",
+    "meaning": "아부 떨다 / 비위 맞추다"
+  },
+  {
+    "id": 1473,
+    "primary": "Brown nose",
+    "meaning": "아부꾼 / 딸랑딸랑하다"
+  },
+  {
+    "id": 1474,
+    "primary": "Bumped into:",
+    "meaning": "우연히 마주치다 (/부딪히다)"
+  },
+  {
+    "id": 1475,
+    "primary": "Bumped against:",
+    "meaning": "~에 부딪히다 / 쿵 하다"
+  },
+  {
+    "id": 1476,
+    "primary": "I bumped my toes on the doorframe",
+    "meaning": "문지방에 발가락 찧었어"
+  },
+  {
+    "id": 1477,
+    "primary": "Pushover",
+    "meaning": "호구 / 만만한 사람"
+  },
+  {
+    "id": 1478,
+    "primary": "Are you spoken for?",
+    "meaning": "만나는 사람 있어? / 임자 있어?"
+  },
+  {
+    "id": 1479,
+    "primary": "He is pretty camera shy",
+    "meaning": "걔 사진 찍는 거 싫어해 / 카메라 공포증 있어"
+  },
+  {
+    "id": 1480,
+    "primary": "Pull down to refresh",
+    "meaning": "아래로 당겨서 새로고침하다 (앱이나 웹에서)"
+  },
+  {
+    "id": 1481,
+    "primary": "Not a word",
+    "meaning": "절대 아무한테도 말하지 마 (비밀이야)"
+  },
+  {
+    "id": 1482,
+    "primary": "Say less",
+    "meaning": "알았어, 더 말 안 해도 이해했어 (바로 할게)"
+  },
+  {
+    "id": 1483,
+    "primary": "Don't sass me",
+    "meaning": "나한테 대들지 마 / 말대꾸하지 마"
+  }
+]

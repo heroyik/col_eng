@@ -1,0 +1,502 @@
+[
+  {
+    "id": 901,
+    "primary": "I couldn't agree more.",
+    "meaning": "전적으로 동감이에요."
+  },
+  {
+    "id": 902,
+    "primary": "I've got a memory like a sieve.",
+    "meaning": "제 기억력이 형편없어요."
+  },
+  {
+    "id": 903,
+    "primary": "It's on the house.",
+    "meaning": "서비스입니다."
+  },
+  {
+    "id": 904,
+    "primary": "I think you should get a second opinion.",
+    "meaning": "다른 의견도 들어보는 게 좋겠어요."
+  },
+  {
+    "id": 905,
+    "primary": "You are second to none.",
+    "meaning": "당신은 최고예요."
+  },
+  {
+    "id": 906,
+    "primary": "Don't pull my leg.",
+    "meaning": "농담 마세요 (놀리지 마세요)."
+  },
+  {
+    "id": 907,
+    "primary": "I'm torn",
+    "meaning": "마음이 갈린다, 결정을 못 하겠다"
+  },
+  {
+    "id": 908,
+    "primary": "You have lost the plot.",
+    "meaning": "상황 파악을 못 하네요."
+  },
+  {
+    "id": 909,
+    "primary": "Let's just keep it between us.",
+    "meaning": "우리끼리만 알고 있자."
+  },
+  {
+    "id": 910,
+    "primary": "You know the drill.",
+    "meaning": "어떻게 하는지 알지?"
+  },
+  {
+    "id": 911,
+    "primary": "It's been a roller coaster ride.",
+    "meaning": "우여곡절이 많았어요."
+  },
+  {
+    "id": 912,
+    "primary": "I look up to you.",
+    "meaning": "당신을 존경해요."
+  },
+  {
+    "id": 913,
+    "primary": "It's overrated.",
+    "meaning": "과대평가됐어요."
+  },
+  {
+    "id": 914,
+    "primary": "Long story short",
+    "meaning": "요약하자면, 결론만 말하면"
+  },
+  {
+    "id": 915,
+    "primary": "I don't hold a grudge.",
+    "meaning": "뒤끝 없어요."
+  },
+  {
+    "id": 916,
+    "primary": "I don't know off the top of my head.",
+    "meaning": "지금 당장은 기억이 안 나네요."
+  },
+  {
+    "id": 917,
+    "primary": "I'm fed up with it.",
+    "meaning": "그거 정말 질렸어요."
+  },
+  {
+    "id": 918,
+    "primary": "I've got a lot on my plate.",
+    "meaning": "할 일이 너무 많아요."
+  },
+  {
+    "id": 919,
+    "primary": "I'm bad with directions.",
+    "meaning": "저는 길치예요."
+  },
+  {
+    "id": 920,
+    "primary": "How are you holding up?",
+    "meaning": "어떻게 견디고 있어요?"
+  },
+  {
+    "id": 921,
+    "primary": "All you have to do is do it.",
+    "meaning": "그냥 하기만 하면 돼요."
+  },
+  {
+    "id": 922,
+    "primary": "What do you have in mind?",
+    "meaning": "무슨 생각을 하고 있나요?"
+  },
+  {
+    "id": 923,
+    "primary": "Don't be that way.",
+    "meaning": "그러지 마세요."
+  },
+  {
+    "id": 924,
+    "primary": "Let's get the ball rolling.",
+    "meaning": "일을 시작해 봅시다."
+  },
+  {
+    "id": 925,
+    "primary": "It costs an arm and a leg.",
+    "meaning": "엄청 비싸요."
+  },
+  {
+    "id": 926,
+    "primary": "Don't go through the motions.",
+    "meaning": "건성으로 하지 마세요."
+  },
+  {
+    "id": 927,
+    "primary": "You took the words right out of my mouth.",
+    "meaning": "내 말이 그 말이에요."
+  },
+  {
+    "id": 928,
+    "primary": "You crossed the line.",
+    "meaning": "선을 넘으셨네요."
+  },
+  {
+    "id": 929,
+    "primary": "He knows his stuff.",
+    "meaning": "그는 자기 분야를 잘 알아요."
+  },
+  {
+    "id": 930,
+    "primary": "Hang in there!",
+    "meaning": "조금만 더 버텨봐!"
+  },
+  {
+    "id": 931,
+    "primary": "You need to break the habit.",
+    "meaning": "그 습관을 고쳐야 해요."
+  },
+  {
+    "id": 932,
+    "primary": "You hit the nail on the head.",
+    "meaning": "정곡을 찔렀네요."
+  },
+  {
+    "id": 933,
+    "primary": "My brain is not as good as it used to be.",
+    "meaning": "예전만큼 머리가 안 돌아가요."
+  },
+  {
+    "id": 934,
+    "primary": "I was ripped off.",
+    "meaning": "바가지 썼어요."
+  },
+  {
+    "id": 935,
+    "primary": "I am out and about",
+    "meaning": "밖에 나와서 여기저기 다니는 중이다"
+  },
+  {
+    "id": 936,
+    "primary": "I can't get that off my mind.",
+    "meaning": "그게 머릿속에서 떠나질 않아요."
+  },
+  {
+    "id": 937,
+    "primary": "Don't kid yourself.",
+    "meaning": "착각하지 마세요."
+  },
+  {
+    "id": 938,
+    "primary": "It's no picnic.",
+    "meaning": "쉬운 일이 아니에요."
+  },
+  {
+    "id": 939,
+    "primary": "Just let it go.",
+    "meaning": "그냥 잊어버려요."
+  },
+  {
+    "id": 940,
+    "primary": "Come to your senses",
+    "meaning": "정신 차려라, 이성적으로 생각해라"
+  },
+  {
+    "id": 941,
+    "primary": "Let's call it a day.",
+    "meaning": "오늘은 이만 마칩시다."
+  },
+  {
+    "id": 942,
+    "primary": "Act your age.",
+    "meaning": "나잇값 좀 하세요."
+  },
+  {
+    "id": 943,
+    "primary": "It went over my head.",
+    "meaning": "이해가 안 됐어요."
+  },
+  {
+    "id": 944,
+    "primary": "Are you open today?",
+    "meaning": "오늘 영업해요?"
+  },
+  {
+    "id": 945,
+    "primary": "Don't make a big deal.",
+    "meaning": "호들갑 떨지 마세요."
+  },
+  {
+    "id": 946,
+    "primary": "In a nutshell.",
+    "meaning": "한마디로 말하면요."
+  },
+  {
+    "id": 947,
+    "primary": "Don't spill the beans.",
+    "meaning": "비밀을 누설하지 마세요."
+  },
+  {
+    "id": 948,
+    "primary": "Are you guys open?",
+    "meaning": "지금 장사해요?"
+  },
+  {
+    "id": 949,
+    "primary": "I'm going to keep my eyes peeled.",
+    "meaning": "잘 살필게요."
+  },
+  {
+    "id": 950,
+    "primary": "I'm right behind you.",
+    "meaning": "내가 뒤에서 응원할게."
+  },
+  {
+    "id": 951,
+    "primary": "There you go again.",
+    "meaning": "또 시작이네."
+  },
+  {
+    "id": 952,
+    "primary": "Figures.",
+    "meaning": "그러면 그렇지. 그럴 줄 알았어."
+  },
+  {
+    "id": 953,
+    "primary": "Duh",
+    "meaning": "당연하지."
+  },
+  {
+    "id": 954,
+    "primary": "Stop bugging me.",
+    "meaning": "나 좀 괴롭히지 마세요."
+  },
+  {
+    "id": 955,
+    "primary": "I've been there before.",
+    "meaning": "나도 그런 적이 있어요."
+  },
+  {
+    "id": 956,
+    "primary": "We're working with a skeleton crew.",
+    "meaning": "최소 인원으로 운영 중이에요."
+  },
+  {
+    "id": 957,
+    "primary": "That's the thing.",
+    "meaning": "그게 문제예요."
+  },
+  {
+    "id": 958,
+    "primary": "Intriguing",
+    "meaning": "흥미로운"
+  },
+  {
+    "id": 959,
+    "primary": "It happens all the time.",
+    "meaning": "늘 있는 일이에요."
+  },
+  {
+    "id": 960,
+    "primary": "There is no smoking gun.",
+    "meaning": "결정적인 증거가 없어요."
+  },
+  {
+    "id": 961,
+    "primary": "I'm salty.",
+    "meaning": "삐졌어요 (까칠해졌어요)."
+  },
+  {
+    "id": 962,
+    "primary": "You don't want to know.",
+    "meaning": "알면 다쳐요."
+  },
+  {
+    "id": 963,
+    "primary": "Fascinating",
+    "meaning": "매혹적인"
+  },
+  {
+    "id": 964,
+    "primary": "I got stuck in traffic.",
+    "meaning": "차가 막혔어요."
+  },
+  {
+    "id": 965,
+    "primary": "It's a different kettle of fish.",
+    "meaning": "그건 전혀 별개의 문제예요."
+  },
+  {
+    "id": 966,
+    "primary": "Thought-provoking",
+    "meaning": "생각을 자극하는"
+  },
+  {
+    "id": 967,
+    "primary": "I give you my word.",
+    "meaning": "약속할게요."
+  },
+  {
+    "id": 968,
+    "primary": "It's a long story.",
+    "meaning": "사연이 많아요."
+  },
+  {
+    "id": 969,
+    "primary": "We've got to break the mold.",
+    "meaning": "관습을 깨야 해요."
+  },
+  {
+    "id": 970,
+    "primary": "That's what I'm talking about!",
+    "meaning": "바로 그거예요!"
+  },
+  {
+    "id": 971,
+    "primary": "The damage is done.",
+    "meaning": "이미 엎질러진 물이에요."
+  },
+  {
+    "id": 972,
+    "primary": "I can't sit still.",
+    "meaning": "가만히 못 있겠어요."
+  },
+  {
+    "id": 973,
+    "primary": "It's better than nothing.",
+    "meaning": "없는 것보다 낫죠."
+  },
+  {
+    "id": 974,
+    "primary": "We go way back",
+    "meaning": "우린 오래전부터 알던 사이야."
+  },
+  {
+    "id": 975,
+    "primary": "Stay focused.",
+    "meaning": "집중하세요."
+  },
+  {
+    "id": 976,
+    "primary": "He was quite high maintenance.",
+    "meaning": "그는 손이 많이 가는 스타일이에요."
+  },
+  {
+    "id": 977,
+    "primary": "I went cold turkey.",
+    "meaning": "단번에 끊었어요."
+  },
+  {
+    "id": 978,
+    "primary": "It takes me back",
+    "meaning": "옛날 생각 나게 해."
+  },
+  {
+    "id": 979,
+    "primary": "Get with the program.",
+    "meaning": "상황 파악 좀 하세요."
+  },
+  {
+    "id": 980,
+    "primary": "Give me a ballpark figure.",
+    "meaning": "대략적인 수치를 알려주세요."
+  },
+  {
+    "id": 981,
+    "primary": "What's your best guess?",
+    "meaning": "대충 짐작해보면 어때요?"
+  },
+  {
+    "id": 982,
+    "primary": "It's a pain in the neck.",
+    "meaning": "정말 성가셔요."
+  },
+  {
+    "id": 983,
+    "primary": "It keeps me on my toes.",
+    "meaning": "긴장을 늦출 수 없게 해요."
+  },
+  {
+    "id": 984,
+    "primary": "It blows me away.",
+    "meaning": "정말 놀라워요."
+  },
+  {
+    "id": 985,
+    "primary": "I'm susceptible to it.",
+    "meaning": "저는 거기에 약해요."
+  },
+  {
+    "id": 986,
+    "primary": "I'll level with you.",
+    "meaning": "솔직히 털어놓을게요."
+  },
+  {
+    "id": 987,
+    "primary": "They had it coming.",
+    "meaning": "자업자득이에요."
+  },
+  {
+    "id": 988,
+    "primary": "I'll spare you the details.",
+    "meaning": "자세한 설명은 생략할게요."
+  },
+  {
+    "id": 989,
+    "primary": "Bad news travels fast.",
+    "meaning": "나쁜 소식은 빨리 퍼져요."
+  },
+  {
+    "id": 990,
+    "primary": "Why the long face?",
+    "meaning": "왜 울상이에요?"
+  },
+  {
+    "id": 991,
+    "primary": "What's the occasion?",
+    "meaning": "무슨 특별한 날인가요?"
+  },
+  {
+    "id": 992,
+    "primary": "What's the matter?",
+    "meaning": "무슨 일이에요?"
+  },
+  {
+    "id": 993,
+    "primary": "He had a blast.",
+    "meaning": "아주 즐거운 시간을 보냈어요."
+  },
+  {
+    "id": 994,
+    "primary": "Fill out this form",
+    "meaning": "이 양식 작성해주세요."
+  },
+  {
+    "id": 995,
+    "primary": "It doesn't ring a bell",
+    "meaning": "기억이 안 나."
+  },
+  {
+    "id": 996,
+    "primary": "It was put on ice.",
+    "meaning": "보류되었어요."
+  },
+  {
+    "id": 997,
+    "primary": "You've lost me.",
+    "meaning": "무슨 말인지 모르겠어요."
+  },
+  {
+    "id": 998,
+    "primary": "I'm on cloud nine.",
+    "meaning": "너무 행복해요."
+  },
+  {
+    "id": 999,
+    "primary": "She was thirsty.",
+    "meaning": "관심을 갈구했어요."
+  },
+  {
+    "id": 1000,
+    "primary": "There's nothing to it.",
+    "meaning": "아주 쉬워요."
+  }
+]

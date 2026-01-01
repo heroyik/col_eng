@@ -1,0 +1,502 @@
+[
+  {
+    "id": 401,
+    "primary": "Off you go",
+    "meaning": "(가보라는 의미로) 자, 이제 가봐 "
+  },
+  {
+    "id": 402,
+    "primary": "Why couldn't I bring myself to say it?",
+    "meaning": "왜 차마 말을 못 했을까?"
+  },
+  {
+    "id": 403,
+    "primary": "Eat your fill",
+    "meaning": "마음껏 먹어."
+  },
+  {
+    "id": 404,
+    "primary": "Touch and go",
+    "meaning": "아슬아슬한 상황. (불확실한)"
+  },
+  {
+    "id": 405,
+    "primary": "I felt so troubled",
+    "meaning": "마음이 너무 괴로웠어. (심란했어)"
+  },
+  {
+    "id": 406,
+    "primary": "Say what? I'm lost",
+    "meaning": "뭐라고? 나 하나도 모르겠어. (이해 불가)"
+  },
+  {
+    "id": 407,
+    "primary": "I wish",
+    "meaning": "그랬으면 좋겠네. (아니라는 뜻)"
+  },
+  {
+    "id": 408,
+    "primary": "Not happening",
+    "meaning": "절대 안 돼. (꿈 깨)"
+  },
+  {
+    "id": 409,
+    "primary": "Pregame",
+    "meaning": "술 마시기 전에 먼저 한잔하는 것. (1차 전)"
+  },
+  {
+    "id": 410,
+    "primary": "Born and raised",
+    "meaning": "토박이. (여기서 나고 자란)"
+  },
+  {
+    "id": 411,
+    "primary": "Music to my ears",
+    "meaning": "귀호강하다. (듣기 좋은 소리)"
+  },
+  {
+    "id": 412,
+    "primary": "Cut to the chase / get to the point",
+    "meaning": "본론만 말해 / 핵심으로 들어가자"
+  },
+  {
+    "id": 413,
+    "primary": "I'm running 20 minutes late",
+    "meaning": "나 20분 정도 늦을 것 같아."
+  },
+  {
+    "id": 414,
+    "primary": "Get busted",
+    "meaning": "걸리다. (들키다)"
+  },
+  {
+    "id": 415,
+    "primary": "Walk me through that day",
+    "meaning": "그날 있었던 일 좀 자세히 말해봐."
+  },
+  {
+    "id": 416,
+    "primary": "What's the angle?",
+    "meaning": "속셈이 뭐야? (의도가 뭐야?)"
+  },
+  {
+    "id": 417,
+    "primary": "Snapped",
+    "meaning": "폭발했다. (갑자기 화냄)"
+  },
+  {
+    "id": 418,
+    "primary": "Accomplice",
+    "meaning": "공범."
+  },
+  {
+    "id": 419,
+    "primary": "Visit someone",
+    "meaning": "면회 가다. (병문안 가다)"
+  },
+  {
+    "id": 420,
+    "primary": "I don't have it on me",
+    "meaning": "지금 안 가지고 있어. (수중에 없어)"
+  },
+  {
+    "id": 421,
+    "primary": "The line starts back there",
+    "meaning": "줄은 저 뒤가 끝이에요. (새치기 하지 마)"
+  },
+  {
+    "id": 422,
+    "primary": "Sever",
+    "meaning": "끊다. (단절하다)"
+  },
+  {
+    "id": 423,
+    "primary": "Go big or go home",
+    "meaning": "통 크게 하거나 아니면 관두거나 / 최선을 다해"
+  },
+  {
+    "id": 424,
+    "primary": "I was rash",
+    "meaning": "내가 경솔했어. (성급했어)"
+  },
+  {
+    "id": 425,
+    "primary": "You seem gaunt",
+    "meaning": "너 엄청 수척해 보여."
+  },
+  {
+    "id": 426,
+    "primary": "Sing like a canary",
+    "meaning": "술술 불다. (비밀을 다 말하다)"
+  },
+  {
+    "id": 427,
+    "primary": "Eat someone out of house and home",
+    "meaning": "집안 기둥뿌리 뽑히게 먹다. (엄청 많이 먹다)"
+  },
+  {
+    "id": 428,
+    "primary": "Eating him up inside",
+    "meaning": "질투심으로 속이 타들어가다. (괴로워하다)"
+  },
+  {
+    "id": 429,
+    "primary": "It figures",
+    "meaning": "그럴 줄 알았어. (역시나)"
+  },
+  {
+    "id": 430,
+    "primary": "Curse someone out",
+    "meaning": "심한 욕을 퍼붓다."
+  },
+  {
+    "id": 431,
+    "primary": "One way or the other",
+    "meaning": "어떻게 해서든. (이러나 저러나)"
+  },
+  {
+    "id": 432,
+    "primary": "Twists and turns",
+    "meaning": "우여곡절. (예측할 수 없는 변화)"
+  },
+  {
+    "id": 433,
+    "primary": "Reward someone handsomely",
+    "meaning": "후하게 보상하다."
+  },
+  {
+    "id": 434,
+    "primary": "Bite the bullet",
+    "meaning": "(어렵거나 하기 싫은 일을) 감수하다 / 매도 먼저 맞는 게 낫다"
+  },
+  {
+    "id": 435,
+    "primary": "At all costs",
+    "meaning": "무슨 수를 써서라도. (기필코)"
+  },
+  {
+    "id": 436,
+    "primary": "A bolt from the blue",
+    "meaning": "청천벽력. (마른하늘에 날벼락)"
+  },
+  {
+    "id": 437,
+    "primary": "Falling apart",
+    "meaning": "무너지고 있어. (망가지는 중)"
+  },
+  {
+    "id": 438,
+    "primary": "Think straight",
+    "meaning": "제대로 생각하다. (정신 차리다)"
+  },
+  {
+    "id": 439,
+    "primary": "Migraine",
+    "meaning": "편두통."
+  },
+  {
+    "id": 440,
+    "primary": "Leave someone out",
+    "meaning": "따돌리다. (빼놓다)"
+  },
+  {
+    "id": 441,
+    "primary": "I wouldn't know",
+    "meaning": "나야 모르지. (경험해본 적 없어서)"
+  },
+  {
+    "id": 442,
+    "primary": "Don't get worked up",
+    "meaning": "너무 흥분하지 마. (진정해)"
+  },
+  {
+    "id": 443,
+    "primary": "Will you take it to my room?",
+    "meaning": "내 방으로 좀 가져다줄래?"
+  },
+  {
+    "id": 444,
+    "primary": "I'll have the same",
+    "meaning": "같은 걸로 주세요."
+  },
+  {
+    "id": 445,
+    "primary": "I've been meaning to tell you",
+    "meaning": "전에부터 말하려 했는데 이제야 말한다"
+  },
+  {
+    "id": 446,
+    "primary": "Care for another?",
+    "meaning": "하나 더 드릴까요?"
+  },
+  {
+    "id": 447,
+    "primary": "Feel for",
+    "meaning": "공감하다. (안타깝게 여기다)"
+  },
+  {
+    "id": 448,
+    "primary": "How long has it been?",
+    "meaning": "우리 얼마 만이야? (오랜만이다)"
+  },
+  {
+    "id": 449,
+    "primary": "How have you been?",
+    "meaning": "그동안 어떻게 지냈어?"
+  },
+  {
+    "id": 450,
+    "primary": "Outlier",
+    "meaning": "아웃라이어. (특이값/예외적인 사람)"
+  },
+  {
+    "id": 451,
+    "primary": "I could use some",
+    "meaning": "~좀 있으면 좋겠다. (~가 필요해)"
+  },
+  {
+    "id": 452,
+    "primary": "Have a way with",
+    "meaning": "~를 다루는 솜씨가 좋다. (소질이 있다)"
+  },
+  {
+    "id": 453,
+    "primary": "You're a natural",
+    "meaning": "타고났네. (천부적이다)"
+  },
+  {
+    "id": 454,
+    "primary": "You have a way with words",
+    "meaning": "말 솜씨가 좋네. (설득력 있다)"
+  },
+  {
+    "id": 455,
+    "primary": "It just came naturally to me",
+    "meaning": "그냥 저절로 알게 됐어. (자연스럽게 익혔어)"
+  },
+  {
+    "id": 456,
+    "primary": "Ballpark it",
+    "meaning": "대충 짐작해봐 / 어림잡아봐"
+  },
+  {
+    "id": 457,
+    "primary": "You're very disciplined",
+    "meaning": "너 자기관리 진짜 잘한다. (철저하다)"
+  },
+  {
+    "id": 458,
+    "primary": "It gives me chills",
+    "meaning": "소름 돋아. (전율)"
+  },
+  {
+    "id": 459,
+    "primary": "I got in the habit of",
+    "meaning": "~하는 버릇이 생겼어."
+  },
+  {
+    "id": 460,
+    "primary": "Let me make it up to you",
+    "meaning": "내가 만회할게. (보상할게)"
+  },
+  {
+    "id": 461,
+    "primary": "I'm feeling under the weather",
+    "meaning": "몸이 좀 안 좋아. (컨디션 난조)"
+  },
+  {
+    "id": 462,
+    "primary": "Blow up",
+    "meaning": "갑자기 화내다 / (폰 등이) 불나다."
+  },
+  {
+    "id": 463,
+    "primary": "As good as it gets",
+    "meaning": "이보다 더 좋을 순 없어. (최상이다)"
+  },
+  {
+    "id": 464,
+    "primary": "Quit cold turkey",
+    "meaning": "단칼에 끊다. (갑자기 중단하다)"
+  },
+  {
+    "id": 465,
+    "primary": "Legit",
+    "meaning": "진짜다. (합법적이다/쩐다)"
+  },
+  {
+    "id": 466,
+    "primary": "He's no match for me",
+    "meaning": "걘 나한테 상대도 안 돼."
+  },
+  {
+    "id": 467,
+    "primary": "Easy does it",
+    "meaning": "조심조심해 / 서두르지 마"
+  },
+  {
+    "id": 468,
+    "primary": "Okie dokie",
+    "meaning": "알겠어. (오케이)"
+  },
+  {
+    "id": 469,
+    "primary": "Meh",
+    "meaning": "그저 그래. (별로)"
+  },
+  {
+    "id": 470,
+    "primary": "It makes sense",
+    "meaning": "말이 되네. (이해가 가)"
+  },
+  {
+    "id": 471,
+    "primary": "The air quality is bad",
+    "meaning": "미세먼지가 심해."
+  },
+  {
+    "id": 472,
+    "primary": "Chill guy",
+    "meaning": "느긋한 사람. (쿨한 성격)"
+  },
+  {
+    "id": 473,
+    "primary": "This will do the trick",
+    "meaning": "이거면 될 거야. (효과 있을 거야)"
+  },
+  {
+    "id": 474,
+    "primary": "The whole shebang",
+    "meaning": "몽땅 다. (전부)"
+  },
+  {
+    "id": 475,
+    "primary": "Easy peasy",
+    "meaning": "식은 죽 먹기. (아주 쉬움)"
+  },
+  {
+    "id": 476,
+    "primary": "Chip on his shoulder",
+    "meaning": "억울해하는 태도. (세상에 불만이 많음)"
+  },
+  {
+    "id": 477,
+    "primary": "Prickly attitude",
+    "meaning": "까칠하다. (가시 돋친)"
+  },
+  {
+    "id": 478,
+    "primary": "I get that a lot",
+    "meaning": "그런 말 자주 들어"
+  },
+  {
+    "id": 479,
+    "primary": "Take it vertically",
+    "meaning": "세로로 찍어줘. (사진)"
+  },
+  {
+    "id": 480,
+    "primary": "Troll",
+    "meaning": "어그로 꾼. (관심 종자)"
+  },
+  {
+    "id": 481,
+    "primary": "I'm freaking out",
+    "meaning": "나 멘붕이야. (패닉 상태)"
+  },
+  {
+    "id": 482,
+    "primary": "Is this place open today?",
+    "meaning": "오늘 영업 하나요?"
+  },
+  {
+    "id": 483,
+    "primary": "Going through a phase",
+    "meaning": "사춘기 같은 한때야. (시간이 지나면 괜찮아질 거야)"
+  },
+  {
+    "id": 484,
+    "primary": "Grow out of it",
+    "meaning": "철들면 나아질 거야. (나이가 들면 그만둘 거야)"
+  },
+  {
+    "id": 485,
+    "primary": "Audience",
+    "meaning": "관중, 청중, 팬들"
+  },
+  {
+    "id": 486,
+    "primary": "Leech",
+    "meaning": "거머리 같은 놈. (남한테 빌붙는 사람)"
+  },
+  {
+    "id": 487,
+    "primary": "It’s freezing out!",
+    "meaning": "밖에 얼어 죽겠어! (엄청 추워)"
+  },
+  {
+    "id": 488,
+    "primary": "Thought provoking",
+    "meaning": "많은 생각을 하게 만드네. (깊은 영감을 줘)"
+  },
+  {
+    "id": 489,
+    "primary": "Spill the beans or keep silent",
+    "meaning": "다 털어놓던가 말던가 해"
+  },
+  {
+    "id": 490,
+    "primary": "He called off the project.",
+    "meaning": "그가 프로젝트를 취소했어요."
+  },
+  {
+    "id": 491,
+    "primary": "It's my cheat day",
+    "meaning": "나 오늘 치팅데이야. (맘껏 먹는 날)"
+  },
+  {
+    "id": 492,
+    "primary": "I had trouble sleeping",
+    "meaning": "어젯밤에 잠을 좀 설쳤어."
+  },
+  {
+    "id": 493,
+    "primary": "I had a blast",
+    "meaning": "진짜 대박 재밌었어!"
+  },
+  {
+    "id": 494,
+    "primary": "Dunno",
+    "meaning": "몰라. (모른다고)"
+  },
+  {
+    "id": 495,
+    "primary": "Girls...",
+    "meaning": "여자애들이란... (이해할 수 없는 행동을 할 때)"
+  },
+  {
+    "id": 496,
+    "primary": "It's on me",
+    "meaning": "내가 낼게. (내가 한턱 쏠게)"
+  },
+  {
+    "id": 497,
+    "primary": "It's warm for November",
+    "meaning": "11월 치고는 날씨가 따뜻하네."
+  },
+  {
+    "id": 498,
+    "primary": "Good for the price",
+    "meaning": "가격 대비 괜찮네."
+  },
+  {
+    "id": 499,
+    "primary": "I'm just thinking out loud",
+    "meaning": "그냥 내 생각을 입 밖으로 내본 거야. (혼잣말이야)"
+  },
+  {
+    "id": 500,
+    "primary": "Don’t read into that much",
+    "meaning": "너무 깊게 생각하지 마 (의미 부여 마)"
+  }
+]

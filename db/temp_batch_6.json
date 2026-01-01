@@ -1,0 +1,502 @@
+[
+  {
+    "id": 501,
+    "primary": "entertain an idea",
+    "meaning": "한번 고려해 보다. (생각해 볼 가치가 있어)"
+  },
+  {
+    "id": 502,
+    "primary": "Bang for your buck",
+    "meaning": "가성비. (투자한 보람이 있네)"
+  },
+  {
+    "id": 503,
+    "primary": "This build up is crazy",
+    "meaning": "와, 전개가 장난 아닌데. (기대감이 엄청나)"
+  },
+  {
+    "id": 504,
+    "primary": "It's penny for your thought",
+    "meaning": "무슨 생각 해? (속마음이 궁금해)"
+  },
+  {
+    "id": 505,
+    "primary": "Get worked up",
+    "meaning": "흥분하다, 화가 나다. (감정이 격해지다)"
+  },
+  {
+    "id": 506,
+    "primary": "What's the hurry?",
+    "meaning": "뭐가 그렇게 급해? (서두를 필요 없어)"
+  },
+  {
+    "id": 507,
+    "primary": "What's the holdup?",
+    "meaning": "도대체 왜 이렇게 늦어지는 거야? (무슨 일 있어?)"
+  },
+  {
+    "id": 508,
+    "primary": "You pull it off",
+    "meaning": "네가 해냈어! (어려운 걸 성공시켰네)"
+  },
+  {
+    "id": 509,
+    "primary": "Could be worse",
+    "meaning": "그나마 다행이네. (더 나쁠 수도 있었어)"
+  },
+  {
+    "id": 510,
+    "primary": "Hit me with it",
+    "meaning": "말해봐. (어서 알려줘)"
+  },
+  {
+    "id": 511,
+    "primary": "I am committed to Poland",
+    "meaning": "나는 약속은 꼭 지켜. (확고한 결심을 했어 - 맥락상 특정 목표에 대한 헌신)"
+  },
+  {
+    "id": 512,
+    "primary": "Silver lining is",
+    "meaning": "그중에 불행 중 다행인 건."
+  },
+  {
+    "id": 513,
+    "primary": "I'm on a roll",
+    "meaning": "나 지금 기세가 좋아! (연달아 성공하고 있어)"
+  },
+  {
+    "id": 514,
+    "primary": "I've already incorporated your suggestions",
+    "meaning": "이미 당신의 제안 사항들을 반영했어요."
+  },
+  {
+    "id": 515,
+    "primary": "Jerk off",
+    "meaning": "자위하다. (비유적으로) 시간 낭비하다, 멍청하게 굴다."
+  },
+  {
+    "id": 516,
+    "primary": "He will jerk you off",
+    "meaning": "그는 너를 기만할 거야. 너를 가지고 놀 거야. (속이다 혹은 헛된 기대를 주다)"
+  },
+  {
+    "id": 517,
+    "primary": "I'm around",
+    "meaning": "나 여기 있어. (근처니까 언제든 연락해)"
+  },
+  {
+    "id": 518,
+    "primary": "IMO",
+    "meaning": "내 생각에는... (내 의견으로는)"
+  },
+  {
+    "id": 519,
+    "primary": "Keep warm",
+    "meaning": "따뜻하게 지내세요."
+  },
+  {
+    "id": 520,
+    "primary": "Refreshingly cool",
+    "meaning": "아주 시원하고 좋네. (기분 좋게 시원한)"
+  },
+  {
+    "id": 521,
+    "primary": "Step on your toes",
+    "meaning": "기분 상하게 하다 (권한 침범)"
+  },
+  {
+    "id": 522,
+    "primary": "Vertical drink",
+    "meaning": "서서 마시는 술. (사교적인 자리에서 가볍게 한잔)"
+  },
+  {
+    "id": 523,
+    "primary": "It speaks volumes",
+    "meaning": "많은 걸 시사하네. (말하지 않아도 딱 알겠어)"
+  },
+  {
+    "id": 524,
+    "primary": "Speak for itself",
+    "meaning": "설명이 필요 없네. (그 자체로 증명이 돼)"
+  },
+  {
+    "id": 525,
+    "primary": "It was a steal",
+    "meaning": "거저 얻은 거나 다름없어. (진짜 싸게 잘 샀어)"
+  },
+  {
+    "id": 526,
+    "primary": "We should stock up it's a steal",
+    "meaning": "이거 진짜 싸니까 사재기해두자."
+  },
+  {
+    "id": 527,
+    "primary": "What's good here",
+    "meaning": "여기 뭐가 맛있어요? (추천할 만한 거 있나요?)"
+  },
+  {
+    "id": 528,
+    "primary": "plot charts",
+    "meaning": "차트를 그리다. (데이터를 시각화하다)"
+  },
+  {
+    "id": 529,
+    "primary": "install packages",
+    "meaning": "패키지를 설치하다. (소프트웨어나 라이브러리 추가)"
+  },
+  {
+    "id": 530,
+    "primary": "save images",
+    "meaning": "이미지를 저장하다."
+  },
+  {
+    "id": 531,
+    "primary": "access images",
+    "meaning": "이미지에 접근하다. (이미지를 불러오거나 보다)"
+  },
+  {
+    "id": 532,
+    "primary": "Never even crossed my mind",
+    "meaning": "생각조차 못 했어"
+  },
+  {
+    "id": 533,
+    "primary": "(be) disabled",
+    "meaning": "비활성화되다. (사용할 수 없는 상태가 되다)"
+  },
+  {
+    "id": 534,
+    "primary": "will not work",
+    "meaning": "작동하지 않을 거예요. (안 될 거야)"
+  },
+  {
+    "id": 535,
+    "primary": "do not attempt",
+    "meaning": "시도하지 마세요. (하지 마)"
+  },
+  {
+    "id": 536,
+    "primary": "desired output format",
+    "meaning": "원하는 출력 형식."
+  },
+  {
+    "id": 537,
+    "primary": "take precedence",
+    "meaning": "우선순위에 있다. (더 중요하다)"
+  },
+  {
+    "id": 538,
+    "primary": "ignore (the) guidelines",
+    "meaning": "가이드라인을 무시하다. (규칙을 안 따르다)"
+  },
+  {
+    "id": 539,
+    "primary": "clear and logical headings",
+    "meaning": "명확하고 논리적인 제목들."
+  },
+  {
+    "id": 540,
+    "primary": "keep paragraphs short",
+    "meaning": "문단을 짧게 유지하다."
+  },
+  {
+    "id": 541,
+    "primary": "dense text blocks",
+    "meaning": "빽빽한 텍스트 덩어리. (읽기 힘든 상태)"
+  },
+  {
+    "id": 542,
+    "primary": "bullet points",
+    "meaning": "글머리 기호. (중점 사항 정리)"
+  },
+  {
+    "id": 543,
+    "primary": "Condescending",
+    "meaning": "거들먹거리는 / 잘난 체하는"
+  },
+  {
+    "id": 544,
+    "primary": "numbered lists",
+    "meaning": "번호 매겨진 목록. (순서대로 정리)"
+  },
+  {
+    "id": 545,
+    "primary": "key takeaways",
+    "meaning": "핵심 요점. (가장 중요한 부분)"
+  },
+  {
+    "id": 546,
+    "primary": "grouped ideas",
+    "meaning": "그룹화된 아이디어들. (연관된 것끼리 묶음)"
+  },
+  {
+    "id": 547,
+    "primary": "unordered lists",
+    "meaning": "순서 없는 목록. (글머리 기호 목록)"
+  },
+  {
+    "id": 548,
+    "primary": "ordered lists",
+    "meaning": "순서 있는 목록. (번호 매겨진 목록)"
+  },
+  {
+    "id": 549,
+    "primary": "flow logically",
+    "meaning": "논리적으로 흐르다. (내용이 자연스럽게 이어지다)"
+  },
+  {
+    "id": 550,
+    "primary": "scan and understand key points quickly",
+    "meaning": "요점을 빠르게 훑어보고 이해하다."
+  },
+  {
+    "id": 551,
+    "primary": "readability",
+    "meaning": "가독성. (읽기 쉬운 정도)"
+  },
+  {
+    "id": 552,
+    "primary": "preserve any and all citations",
+    "meaning": "모든 인용구 및 출처를 유지하다."
+  },
+  {
+    "id": 553,
+    "primary": "embed citations",
+    "meaning": "인용구를 본문에 삽입하다."
+  },
+  {
+    "id": 554,
+    "primary": "Patronizing",
+    "meaning": "가르치려 드는"
+  },
+  {
+    "id": 555,
+    "primary": "at the beginning of paragraphs",
+    "meaning": "문단 시작 부분에."
+  },
+  {
+    "id": 556,
+    "primary": "mention the sources",
+    "meaning": "출처를 언급하다."
+  },
+  {
+    "id": 557,
+    "primary": "in front of headers",
+    "meaning": "제목 앞에."
+  },
+  {
+    "id": 558,
+    "primary": "What's up?",
+    "meaning": "안녕? 무슨 일이야? (가장 흔한 인사)"
+  },
+  {
+    "id": 559,
+    "primary": "Long time no see.",
+    "meaning": "오랜만이야! (진짜 오래간만이네)"
+  },
+  {
+    "id": 560,
+    "primary": "No worries.",
+    "meaning": "걱정 마, 괜찮아. (신경 쓰지 마)"
+  },
+  {
+    "id": 561,
+    "primary": "Take your time.",
+    "meaning": "천천히 해. (서두르지 마)"
+  },
+  {
+    "id": 562,
+    "primary": "I got it.",
+    "meaning": "알겠어, 내가 할게. (알아들었어)"
+  },
+  {
+    "id": 563,
+    "primary": "I'm not sure.",
+    "meaning": "잘 모르겠어. (애매하네)"
+  },
+  {
+    "id": 564,
+    "primary": "Let me check.",
+    "meaning": "확인해볼게."
+  },
+  {
+    "id": 565,
+    "primary": "Cocky",
+    "meaning": "자만심에 찬"
+  },
+  {
+    "id": 566,
+    "primary": "Sounds good.",
+    "meaning": "좋아, 그렇게 하자. (괜찮네)"
+  },
+  {
+    "id": 567,
+    "primary": "Hang on a sec.",
+    "meaning": "잠깐만 기다려봐."
+  },
+  {
+    "id": 568,
+    "primary": "I'll be right back.",
+    "meaning": "금방 올게."
+  },
+  {
+    "id": 569,
+    "primary": "Gotta go.",
+    "meaning": "가야 해. (갈게)"
+  },
+  {
+    "id": 570,
+    "primary": "I'm on my way.",
+    "meaning": "가는 중이야."
+  },
+  {
+    "id": 571,
+    "primary": "By the way...",
+    "meaning": "그건 그렇고... (화제를 돌릴 때)"
+  },
+  {
+    "id": 572,
+    "primary": "As far as I know.",
+    "meaning": "내가 알기로는."
+  },
+  {
+    "id": 573,
+    "primary": "I mean...",
+    "meaning": "그러니까 내 말은... (설명을 덧붙일 때)"
+  },
+  {
+    "id": 574,
+    "primary": "I guess so.",
+    "meaning": "그런 것 같아. (약간의 확신이 부족할 때)"
+  },
+  {
+    "id": 575,
+    "primary": "I'm fine with that.",
+    "meaning": "난 상관없어, 좋아. (동의할 때)"
+  },
+  {
+    "id": 576,
+    "primary": "spiritual awakening (monk-like mindset)",
+    "meaning": "스님처럼 내면을 돌아보며 깨달음을 얻는 정신적 전환 상태"
+  },
+  {
+    "id": 577,
+    "primary": "Why not?",
+    "meaning": "왜 안 되겠어? (당연히 좋지)"
+  },
+  {
+    "id": 578,
+    "primary": "That's awesome!",
+    "meaning": "대박이다! 진짜 좋네!"
+  },
+  {
+    "id": 579,
+    "primary": "That's too bad.",
+    "meaning": "안타깝네. (유감이네)"
+  },
+  {
+    "id": 580,
+    "primary": "Are you kidding me?",
+    "meaning": "장난해? (어이없거나 놀랄 때)"
+  },
+  {
+    "id": 581,
+    "primary": "I'm just kidding.",
+    "meaning": "그냥 농담이야. (장난이었어)"
+  },
+  {
+    "id": 582,
+    "primary": "Just in case.",
+    "meaning": "혹시 모르니까. (만약을 위해서)"
+  },
+  {
+    "id": 583,
+    "primary": "Never mind.",
+    "meaning": "신경 쓰지 마. (아무것도 아니야)"
+  },
+  {
+    "id": 584,
+    "primary": "It's up to you.",
+    "meaning": "너한테 달렸어. (네 결정에 따를게)"
+  },
+  {
+    "id": 585,
+    "primary": "I'll pass.",
+    "meaning": "난 빠질게. (사양할게)"
+  },
+  {
+    "id": 586,
+    "primary": "It's not a big deal.",
+    "meaning": "별일 아니야. (대단한 거 아냐)"
+  },
+  {
+    "id": 587,
+    "primary": "Better late than never",
+    "meaning": "늦어도 안 하는 것보다 낫지"
+  },
+  {
+    "id": 588,
+    "primary": "Keep in touch.",
+    "meaning": "연락하며 지내자."
+  },
+  {
+    "id": 589,
+    "primary": "Take it easy.",
+    "meaning": "잘 가, 편히 쉬어. (작별 인사나 진정하라는 말)"
+  },
+  {
+    "id": 590,
+    "primary": "It's been a while.",
+    "meaning": "오랜만이야. (시간이 꽤 지났네)"
+  },
+  {
+    "id": 591,
+    "primary": "Fingers crossed.",
+    "meaning": "행운을 빌어줘. (잘 되길 빌고 있어)"
+  },
+  {
+    "id": 592,
+    "primary": "Good for you!",
+    "meaning": "잘됐다! (진심으로 축하할 때)"
+  },
+  {
+    "id": 593,
+    "primary": "Lucky you.",
+    "meaning": "운 좋네. (부러움을 나타낼 때)"
+  },
+  {
+    "id": 594,
+    "primary": "Good to know.",
+    "meaning": "좋은 정보네. (참고할게)"
+  },
+  {
+    "id": 595,
+    "primary": "Thanks anyway.",
+    "meaning": "어쨌든 고마워. (도움은 못 받았어도 예의상)"
+  },
+  {
+    "id": 596,
+    "primary": "What do you mean?",
+    "meaning": "무슨 뜻이야? (설명을 요구할 때)"
+  },
+  {
+    "id": 597,
+    "primary": "What are you talking about?",
+    "meaning": "무슨 소리 하는 거야? (황당하거나 이해 안 갈 때)"
+  },
+  {
+    "id": 598,
+    "primary": "What’s the hold up?",
+    "meaning": "왜 늦어지는 거야?"
+  },
+  {
+    "id": 599,
+    "primary": "Don't get me wrong.",
+    "meaning": "오해는 하지 마. (내 말 본뜻은 그게 아냐)"
+  },
+  {
+    "id": 600,
+    "primary": "No hard feelings.",
+    "meaning": "악정은 없어. (뒤끝 없기로 하자)"
+  }
+]

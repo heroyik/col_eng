@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1101,
+    "primary": "Money doesn't grow on trees.",
+    "meaning": "돈이 그냥 생기는 게 아니에요."
+  },
+  {
+    "id": 1102,
+    "primary": "Let's get into the swing of things.",
+    "meaning": "흐름을 타봅시다 (익숙해집시다)."
+  },
+  {
+    "id": 1103,
+    "primary": "I'm working on it.",
+    "meaning": "노력 중이에요."
+  },
+  {
+    "id": 1104,
+    "primary": "She dropped a bombshell.",
+    "meaning": "폭탄 선언을 했어요."
+  },
+  {
+    "id": 1105,
+    "primary": "I was in a quandary.",
+    "meaning": "진퇴양난이었어요."
+  },
+  {
+    "id": 1106,
+    "primary": "It is what it is",
+    "meaning": "어쩔 수 없지."
+  },
+  {
+    "id": 1107,
+    "primary": "I pulled an all-nighter.",
+    "meaning": "밤을 꼬박 새웠어요."
+  },
+  {
+    "id": 1108,
+    "primary": "He has a heart of gold.",
+    "meaning": "마음씨가 너무 착해요."
+  },
+  {
+    "id": 1109,
+    "primary": "Right off the bat",
+    "meaning": "시작부터 바로."
+  },
+  {
+    "id": 1110,
+    "primary": "From day one",
+    "meaning": "처음부터."
+  },
+  {
+    "id": 1111,
+    "primary": "This is a walk in the park.",
+    "meaning": "식은 죽 먹기죠."
+  },
+  {
+    "id": 1112,
+    "primary": "Speak for yourself.",
+    "meaning": "네 생각일 뿐이야."
+  },
+  {
+    "id": 1113,
+    "primary": "Get your act together.",
+    "meaning": "정신 차려요."
+  },
+  {
+    "id": 1114,
+    "primary": "I'm not phased.",
+    "meaning": "당황하지 않아요."
+  },
+  {
+    "id": 1115,
+    "primary": "Don't drag your feet.",
+    "meaning": "꾸물거리지 마세요."
+  },
+  {
+    "id": 1116,
+    "primary": "Knock it off!",
+    "meaning": "그만 좀 해!"
+  },
+  {
+    "id": 1117,
+    "primary": "What brought you here?",
+    "meaning": "여긴 어쩐 일이에요?"
+  },
+  {
+    "id": 1118,
+    "primary": "The ball is in your court.",
+    "meaning": "이제 네 결정에 달렸어."
+  },
+  {
+    "id": 1119,
+    "primary": "That will be the day.",
+    "meaning": "절대 그럴 리 없어요."
+  },
+  {
+    "id": 1120,
+    "primary": "They're fighting tooth and nail.",
+    "meaning": "필사적으로 싸우고 있어요."
+  },
+  {
+    "id": 1121,
+    "primary": "I passed with flying colors.",
+    "meaning": "우수한 성적으로 합격했어요."
+  },
+  {
+    "id": 1122,
+    "primary": "I don't want to make a scene.",
+    "meaning": "소란 피우고 싶지 않아요."
+  },
+  {
+    "id": 1123,
+    "primary": "That cracked me up.",
+    "meaning": "빵 터졌어요."
+  },
+  {
+    "id": 1124,
+    "primary": "I'll have you know.",
+    "meaning": "알아두셔야 할 게 있어요."
+  },
+  {
+    "id": 1125,
+    "primary": "Better safe than sorry",
+    "meaning": "조심해서 나쁠 건 없지."
+  },
+  {
+    "id": 1126,
+    "primary": "You're telling me!",
+    "meaning": "내 말이 그 말이야!"
+  },
+  {
+    "id": 1127,
+    "primary": "His wife chewed him out.",
+    "meaning": "아내가 그를 몹시 꾸짖었어요."
+  },
+  {
+    "id": 1128,
+    "primary": "Please spread the word.",
+    "meaning": "소문 좀 내주세요."
+  },
+  {
+    "id": 1129,
+    "primary": "I hate to break it to you, but.",
+    "meaning": "말하기 미안하지만."
+  },
+  {
+    "id": 1130,
+    "primary": "For all I care.",
+    "meaning": "나랑은 상관없어."
+  },
+  {
+    "id": 1131,
+    "primary": "Don't sweat it.",
+    "meaning": "걱정 마세요."
+  },
+  {
+    "id": 1132,
+    "primary": "No word of a lie.",
+    "meaning": "거짓말 하나 안 보태고요."
+  },
+  {
+    "id": 1133,
+    "primary": "People came out of the woodwork.",
+    "meaning": "갑자기 나타났어요."
+  },
+  {
+    "id": 1134,
+    "primary": "It's like riding a bike.",
+    "meaning": "금방 다시 할 수 있는 일이에요."
+  },
+  {
+    "id": 1135,
+    "primary": "I poured over this book.",
+    "meaning": "정독했어요."
+  },
+  {
+    "id": 1136,
+    "primary": "It's high time we did.",
+    "meaning": "진작 했어야 할 시간이에요."
+  },
+  {
+    "id": 1137,
+    "primary": "I don't want to split hairs.",
+    "meaning": "사소한 걸로 따지기 싫어요."
+  },
+  {
+    "id": 1138,
+    "primary": "He made a blunder.",
+    "meaning": "큰 실수를 했어요."
+  },
+  {
+    "id": 1139,
+    "primary": "He has money to burn.",
+    "meaning": "돈이 아주 많아요."
+  },
+  {
+    "id": 1140,
+    "primary": "I got choked up.",
+    "meaning": "목이 메었어요."
+  },
+  {
+    "id": 1141,
+    "primary": "Better moving than not",
+    "meaning": "가만히 있는 것보단 움직이는 게 낫지."
+  },
+  {
+    "id": 1142,
+    "primary": "You have to learn the ropes.",
+    "meaning": "요령을 익혀야 해요."
+  },
+  {
+    "id": 1143,
+    "primary": "He's milking it.",
+    "meaning": "과하게 이용해 먹고 있어요."
+  },
+  {
+    "id": 1144,
+    "primary": "You can't cherry pick.",
+    "meaning": "좋은 것만 골라 가질 순 없어요."
+  },
+  {
+    "id": 1145,
+    "primary": "You hit the bullseye.",
+    "meaning": "정곡을 찔렀네요."
+  },
+  {
+    "id": 1146,
+    "primary": "What's in a name?",
+    "meaning": "이름이 뭐 그리 중요한가요?"
+  },
+  {
+    "id": 1147,
+    "primary": "He walks the walk.",
+    "meaning": "행동으로 보여주는 사람이에요."
+  },
+  {
+    "id": 1148,
+    "primary": "We'll cross that bridge when we come to it.",
+    "meaning": "그 일은 그때 가서 생각하죠."
+  },
+  {
+    "id": 1149,
+    "primary": "Let's let the dust settle.",
+    "meaning": "상황이 진정되길 기다립시다."
+  },
+  {
+    "id": 1150,
+    "primary": "He was as hard as nails.",
+    "meaning": "냉혹한 사람이었어요."
+  },
+  {
+    "id": 1151,
+    "primary": "You have what it takes to succeed.",
+    "meaning": "성공할 자질이 있어요."
+  },
+  {
+    "id": 1152,
+    "primary": "Don't push your luck.",
+    "meaning": "너무 욕심부리지 마세요 (운을 시험하지 마세요)."
+  },
+  {
+    "id": 1153,
+    "primary": "I'm at the end of my rope.",
+    "meaning": "이제 한계예요."
+  },
+  {
+    "id": 1154,
+    "primary": "It's a small world.",
+    "meaning": "세상 참 좁네요."
+  },
+  {
+    "id": 1155,
+    "primary": "You're on thin ice.",
+    "meaning": "너 지금 아슬아슬해 (위험한 상황이야)."
+  },
+  {
+    "id": 1156,
+    "primary": "I'll give it a shot.",
+    "meaning": "한번 해볼게요."
+  },
+  {
+    "id": 1157,
+    "primary": "You can never be too careful",
+    "meaning": "아무리 조심해도 지나치지 않아."
+  },
+  {
+    "id": 1158,
+    "primary": "That's a wrap.",
+    "meaning": "이제 다 끝났어요."
+  },
+  {
+    "id": 1159,
+    "primary": "Don't jump to conclusions.",
+    "meaning": "성급하게 결론 내리지 마세요."
+  },
+  {
+    "id": 1160,
+    "primary": "Right up my alley",
+    "meaning": "완전 내 취향이야."
+  },
+  {
+    "id": 1161,
+    "primary": "It's written all over your face.",
+    "meaning": "네 얼굴에 다 쓰여 있어."
+  },
+  {
+    "id": 1162,
+    "primary": "This is for me",
+    "meaning": "이건 나한테 딱이야."
+  },
+  {
+    "id": 1163,
+    "primary": "The sky is the limit.",
+    "meaning": "한계는 없어요."
+  },
+  {
+    "id": 1164,
+    "primary": "Practice makes perfect.",
+    "meaning": "연습이 완벽을 만들어요."
+  },
+  {
+    "id": 1165,
+    "primary": "I got LASIK.",
+    "meaning": "나 라식 했어."
+  },
+  {
+    "id": 1166,
+    "primary": "How long is the wait?",
+    "meaning": "얼마나 더 기다려야 돼요?"
+  },
+  {
+    "id": 1167,
+    "primary": "Nature calls.",
+    "meaning": "화장실이 급해요."
+  },
+  {
+    "id": 1168,
+    "primary": "Drop me off there.",
+    "meaning": "저기서 내려주세요."
+  },
+  {
+    "id": 1169,
+    "primary": "You look better in person.",
+    "meaning": "실물이 더 나으시네요."
+  },
+  {
+    "id": 1170,
+    "primary": "Could you make that two, please?",
+    "meaning": "같은 걸로 하나 더 주세요."
+  },
+  {
+    "id": 1171,
+    "primary": "Keep your voice down.",
+    "meaning": "목소리 좀 낮춰."
+  },
+  {
+    "id": 1172,
+    "primary": "Walk it off.",
+    "meaning": "바람 좀 쐬고 와."
+  },
+  {
+    "id": 1173,
+    "primary": "I tossed and turned all night.",
+    "meaning": "밤새 뒤척였어요."
+  },
+  {
+    "id": 1174,
+    "primary": "I have two left feet.",
+    "meaning": "나 몸치예요."
+  },
+  {
+    "id": 1175,
+    "primary": "My face is breaking out.",
+    "meaning": "피부가 뒤집어졌어요."
+  },
+  {
+    "id": 1176,
+    "primary": "I want some time off.",
+    "meaning": "좀 쉬고 싶어요."
+  },
+  {
+    "id": 1177,
+    "primary": "I'm not good with my hands.",
+    "meaning": "나 똥손이야."
+  },
+  {
+    "id": 1178,
+    "primary": "I have a nosebleed.",
+    "meaning": "코피가 나요."
+  },
+  {
+    "id": 1179,
+    "primary": "I'm pooped.",
+    "meaning": "완전 지쳤어."
+  },
+  {
+    "id": 1180,
+    "primary": "I'm tone-deaf.",
+    "meaning": "나 음치야."
+  },
+  {
+    "id": 1181,
+    "primary": "It's been a little hectic.",
+    "meaning": "정신없이 바빴어."
+  },
+  {
+    "id": 1182,
+    "primary": "It bugs me.",
+    "meaning": "그거 신경 쓰여요."
+  },
+  {
+    "id": 1183,
+    "primary": "Not to my knowledge.",
+    "meaning": "내가 알기로는 아니야."
+  },
+  {
+    "id": 1184,
+    "primary": "Lost cause.",
+    "meaning": "노답이야."
+  },
+  {
+    "id": 1185,
+    "primary": "That's a blast from the past.",
+    "meaning": "와, 추억 돋네."
+  },
+  {
+    "id": 1186,
+    "primary": "My lips are sealed.",
+    "meaning": "입 무거워."
+  },
+  {
+    "id": 1187,
+    "primary": "Hit the books.",
+    "meaning": "열공하다."
+  },
+  {
+    "id": 1188,
+    "primary": "I spaced out.",
+    "meaning": "멍 때렸어."
+  },
+  {
+    "id": 1189,
+    "primary": "Do you guys carry Nike?",
+    "meaning": "나이키 제품 취급하나요?"
+  },
+  {
+    "id": 1190,
+    "primary": "Can you tell?",
+    "meaning": "티 나?"
+  },
+  {
+    "id": 1191,
+    "primary": "He is full of himself.",
+    "meaning": "걔 너무 자아도취야."
+  },
+  {
+    "id": 1192,
+    "primary": "Do you happen to know?",
+    "meaning": "혹시 아세요?"
+  },
+  {
+    "id": 1193,
+    "primary": "It's fattening.",
+    "meaning": "그거 살쪄."
+  },
+  {
+    "id": 1194,
+    "primary": "Give her my best.",
+    "meaning": "그녀에게 안부 전해줘."
+  },
+  {
+    "id": 1195,
+    "primary": "Dressed to kill.",
+    "meaning": "아주 쫙 빼입었네."
+  },
+  {
+    "id": 1196,
+    "primary": "Because I can.",
+    "meaning": "내 마음이야."
+  },
+  {
+    "id": 1197,
+    "primary": "Just because.",
+    "meaning": "그냥."
+  },
+  {
+    "id": 1198,
+    "primary": "First come, first served.",
+    "meaning": "선착순."
+  },
+  {
+    "id": 1199,
+    "primary": "Good with people",
+    "meaning": "사람 상대 잘하는."
+  },
+  {
+    "id": 1200,
+    "primary": "I can feel it in my bones.",
+    "meaning": "느낌이 딱 와."
+  }
+]

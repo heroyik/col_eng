@@ -1,0 +1,502 @@
+[
+  {
+    "id": 101,
+    "primary": "Did you hear Mark's new job offer?",
+    "meaning": "마크 이직 제안 받은 거 들었어?"
+  },
+  {
+    "id": 102,
+    "primary": "Benefits package",
+    "meaning": "복지 혜택 / 연봉 패키지"
+  },
+  {
+    "id": 103,
+    "primary": "hard to say",
+    "meaning": "뭐라 딱 잘라 말하기 애매해"
+  },
+  {
+    "id": 104,
+    "primary": "If you are in my shoes",
+    "meaning": "네가 내 입장이라면"
+  },
+  {
+    "id": 105,
+    "primary": "This must come first",
+    "meaning": "이게 우선이야"
+  },
+  {
+    "id": 106,
+    "primary": "Does it ring a bell?",
+    "meaning": "기억나? / 들어본 거 같지 않아?"
+  },
+  {
+    "id": 107,
+    "primary": "It is long overdue",
+    "meaning": "진작 했어야 했어 / 한참 늦었지"
+  },
+  {
+    "id": 108,
+    "primary": "Heyday",
+    "meaning": "전성기 / 리즈 시절"
+  },
+  {
+    "id": 109,
+    "primary": "No apologies necessary",
+    "meaning": "사과 안 해도 돼 / 괜찮아"
+  },
+  {
+    "id": 110,
+    "primary": "Grow up",
+    "meaning": "철 좀 들어라 / 애냐?"
+  },
+  {
+    "id": 111,
+    "primary": "He is usually on top of responses",
+    "meaning": "걔 답장 칼이야 / 연락 잘 돼"
+  },
+  {
+    "id": 112,
+    "primary": "Benefit of doubts",
+    "meaning": "속는 셈 치고 믿어주기 / 일단 믿어줌"
+  },
+  {
+    "id": 113,
+    "primary": "Take your mind off",
+    "meaning": "신경 꺼 / 잊어버려"
+  },
+  {
+    "id": 114,
+    "primary": "Put yourself into my shoe",
+    "meaning": "내 입장 돼봐 / 역지사지 해봐"
+  },
+  {
+    "id": 115,
+    "primary": "Keep a low profile",
+    "meaning": "존버해 / 눈에 띄지 말고 조용히 있어"
+  },
+  {
+    "id": 116,
+    "primary": "You should focus on what you should do",
+    "meaning": "네가 해야 할 일에 집중해"
+  },
+  {
+    "id": 117,
+    "primary": "Been there, done that",
+    "meaning": "나도 다 겪어봤어 / 내가 선배야"
+  },
+  {
+    "id": 118,
+    "primary": "For the craic",
+    "meaning": "그냥 재미로 / 웃자고"
+  },
+  {
+    "id": 119,
+    "primary": "Thingamajig",
+    "meaning": "거시기 / 뭐더라 그 뭐지"
+  },
+  {
+    "id": 120,
+    "primary": "Walk me through",
+    "meaning": "차근차근 설명해줘 / 하나하나 알려줘"
+  },
+  {
+    "id": 121,
+    "primary": "Turn over",
+    "meaning": "매출 / 이직률 / 뒤집다"
+  },
+  {
+    "id": 122,
+    "primary": "Keep at it",
+    "meaning": "꾸준히 해 / 계속 밀고 나가"
+  },
+  {
+    "id": 123,
+    "primary": "I got my hair done",
+    "meaning": "나 머리 했어"
+  },
+  {
+    "id": 124,
+    "primary": "Its been a minute",
+    "meaning": "오랜만이다 / 이게 얼마 만이야"
+  },
+  {
+    "id": 125,
+    "primary": "Its been ages",
+    "meaning": "진짜 백만 년 만이다 / 너무 오랜만이야"
+  },
+  {
+    "id": 126,
+    "primary": "Let someone down",
+    "meaning": "~를 실망시키다"
+  },
+  {
+    "id": 127,
+    "primary": "you skipped too much, don't forget I am going to punish you if you ignore what I said",
+    "meaning": "너 너무 많이 건너뛰었어, 내 말 무시하면 혼날 줄 알아"
+  },
+  {
+    "id": 128,
+    "primary": "Set this position to \"&&&now&&&&\"",
+    "meaning": "이 위치를 지금으로 설정"
+  },
+  {
+    "id": 129,
+    "primary": "Sort out",
+    "meaning": "정리하다 / 해결하다"
+  },
+  {
+    "id": 130,
+    "primary": "Take my mind off things",
+    "meaning": "잡생각 좀 없애다 / 머리 좀 식히다"
+  },
+  {
+    "id": 131,
+    "primary": "You went over my head",
+    "meaning": "내 머리 꼭대기에 있네 / 이해가 안 돼"
+  },
+  {
+    "id": 132,
+    "primary": "Over my head",
+    "meaning": "내 능력 밖이야 / 무슨 말인지 모르겠어"
+  },
+  {
+    "id": 133,
+    "primary": "Tied or even",
+    "meaning": "쌤쌤이야 / 비겼어"
+  },
+  {
+    "id": 134,
+    "primary": "Even Steven",
+    "meaning": "딱 떨어지네 / 계산 끝"
+  },
+  {
+    "id": 135,
+    "primary": "Lay it on me",
+    "meaning": "말해봐 / 털어놔 봐"
+  },
+  {
+    "id": 136,
+    "primary": "Ring me up",
+    "meaning": "계산해 주세요 / 결제해 줘"
+  },
+  {
+    "id": 137,
+    "primary": "Out of our league",
+    "meaning": "우리에겐 과분해 / 급이 달라"
+  },
+  {
+    "id": 138,
+    "primary": "I have mental breakdown",
+    "meaning": "나 멘붕 왔어 / 정신줄 놓겠네"
+  },
+  {
+    "id": 139,
+    "primary": "Procrastinate",
+    "meaning": "미루다 / 늑장 부리다"
+  },
+  {
+    "id": 140,
+    "primary": "Its been on mind",
+    "meaning": "계속 신경 쓰였어 / 마음에 걸렸어"
+  },
+  {
+    "id": 141,
+    "primary": "Weigh the pros and cons",
+    "meaning": "장단점 따져보다 / 계산기 두드려보다"
+  },
+  {
+    "id": 142,
+    "primary": "Get things back on track",
+    "meaning": "다시 정상 궤도에 올리다 / 수습하다"
+  },
+  {
+    "id": 143,
+    "primary": "What's eating you",
+    "meaning": "무슨 일 있어? / 왜 그렇게 꽁해 있어?"
+  },
+  {
+    "id": 144,
+    "primary": "Give her a big hand",
+    "meaning": "큰 박수 부탁해"
+  },
+  {
+    "id": 145,
+    "primary": "How’s it going?",
+    "meaning": "요즘 어때? 잘 지내? (가벼운 인사)"
+  },
+  {
+    "id": 146,
+    "primary": "I’m down for that",
+    "meaning": "나 완전 콜이야. 좋아."
+  },
+  {
+    "id": 147,
+    "primary": "I can’t make it",
+    "meaning": "아쉽지만 나 못 가. 일이 생겼어."
+  },
+  {
+    "id": 148,
+    "primary": "Blessing in disguise",
+    "meaning": "전화위복"
+  },
+  {
+    "id": 149,
+    "primary": "I’ll take a rain check",
+    "meaning": "다음에 하자. 이번엔 패스할게."
+  },
+  {
+    "id": 150,
+    "primary": "It’s up to you",
+    "meaning": "네 맘대로 해. 네가 골라."
+  },
+  {
+    "id": 151,
+    "primary": "When is boarding?",
+    "meaning": "탑승 언제 시작해요?"
+  },
+  {
+    "id": 152,
+    "primary": "Is the flight on time?",
+    "meaning": "비행기 제시간에 뜨나요? (지연 없나요?)"
+  },
+  {
+    "id": 153,
+    "primary": "Can I get a window seat?",
+    "meaning": "창가 자리로 주실 수 있나요?"
+  },
+  {
+    "id": 154,
+    "primary": "How long is the flight?",
+    "meaning": "비행 시간 얼마나 걸려요?"
+  },
+  {
+    "id": 155,
+    "primary": "Where is the nearest restroom?",
+    "meaning": "가장 가까운 화장실 어디에요?"
+  },
+  {
+    "id": 156,
+    "primary": "I'm waiting to board",
+    "meaning": "비행기 탑승 기다리고 있어."
+  },
+  {
+    "id": 157,
+    "primary": "What did you do last weekend?",
+    "meaning": "지난 주말에 뭐 했어?"
+  },
+  {
+    "id": 158,
+    "primary": "Charge it to my room",
+    "meaning": "내 방으로 달아줘."
+  },
+  {
+    "id": 159,
+    "primary": "On the fence",
+    "meaning": "망설이는 / 생각이 바뀔 것 같은"
+  },
+  {
+    "id": 160,
+    "primary": "Put it on my card",
+    "meaning": "카드로 계산해줘."
+  },
+  {
+    "id": 161,
+    "primary": "Put it on my room",
+    "meaning": "룸 차지로 해줘."
+  },
+  {
+    "id": 162,
+    "primary": "Roomy",
+    "meaning": "널찍하네. 공간이 넓어."
+  },
+  {
+    "id": 163,
+    "primary": "You have great taste",
+    "meaning": "너 안목 있다. 센스 쩌네."
+  },
+  {
+    "id": 164,
+    "primary": "Impeccable",
+    "meaning": "완벽해. 흠잡을 데 없어."
+  },
+  {
+    "id": 165,
+    "primary": "May I be excused?",
+    "meaning": "잠깐 실례해도 될까? (자리 비울 때)"
+  },
+  {
+    "id": 166,
+    "primary": "In the clouds",
+    "meaning": "멍 때리고 있어. 딴생각 중이야."
+  },
+  {
+    "id": 167,
+    "primary": "Dodge a bullet",
+    "meaning": "큰일 날 뻔했어. 십년감수했네."
+  },
+  {
+    "id": 168,
+    "primary": "Cramming",
+    "meaning": "벼락치기."
+  },
+  {
+    "id": 169,
+    "primary": "Way to go",
+    "meaning": "잘했어! 바로 그거야."
+  },
+  {
+    "id": 170,
+    "primary": "Get wasted",
+    "meaning": "엄청 취하다"
+  },
+  {
+    "id": 171,
+    "primary": "Dibs",
+    "meaning": "찜! 내가 찜했어."
+  },
+  {
+    "id": 172,
+    "primary": "I'll sit in the front",
+    "meaning": "앞자리는 내 거야."
+  },
+  {
+    "id": 173,
+    "primary": "Shotgun",
+    "meaning": "조수석 찜!"
+  },
+  {
+    "id": 174,
+    "primary": "Hit the jackpot",
+    "meaning": "대박 터졌다. 잭팟이야."
+  },
+  {
+    "id": 175,
+    "primary": "My eyes were bigger than my stomach",
+    "meaning": "욕심부려서 너무 많이 시켰네."
+  },
+  {
+    "id": 176,
+    "primary": "I have too much on my plate",
+    "meaning": "할 일이 태산이야. 너무 바빠."
+  },
+  {
+    "id": 177,
+    "primary": "Let's hit it",
+    "meaning": "가자! 출발하자!"
+  },
+  {
+    "id": 178,
+    "primary": "Let's dish",
+    "meaning": "수다 좀 떨자. 썰 좀 풀어봐."
+  },
+  {
+    "id": 179,
+    "primary": "Throw someone under the bus",
+    "meaning": "남한테 덤탱이 씌우다. 배신하다."
+  },
+  {
+    "id": 180,
+    "primary": "Under my belt",
+    "meaning": "경험이 있다. (이미) 해본 적 있어."
+  },
+  {
+    "id": 181,
+    "primary": "Stop being nosy",
+    "meaning": "참견 마 / 네 일이나 신경 써"
+  },
+  {
+    "id": 182,
+    "primary": "I could listen to this all day",
+    "meaning": "하루 종일 들어도 안 질려."
+  },
+  {
+    "id": 183,
+    "primary": "Hear me out",
+    "meaning": "내 말 좀 끝까지 들어봐."
+  },
+  {
+    "id": 184,
+    "primary": "Super yummy",
+    "meaning": "진짜 존맛탱. 완전 맛있어."
+  },
+  {
+    "id": 185,
+    "primary": "No one",
+    "meaning": "아무도 없지."
+  },
+  {
+    "id": 186,
+    "primary": "Just out of curiosity",
+    "meaning": "그냥 궁금해서 그러는데~"
+  },
+  {
+    "id": 187,
+    "primary": "Here it is",
+    "meaning": "여기 있네! (찾았을 때)"
+  },
+  {
+    "id": 188,
+    "primary": "It's worth every bite",
+    "meaning": "진짜 맛있다. 돈이 안 아까워."
+  },
+  {
+    "id": 189,
+    "primary": "It's worth every cent",
+    "meaning": "돈값 하네. 전혀 안 아까워."
+  },
+  {
+    "id": 190,
+    "primary": "Knockoff",
+    "meaning": "짝퉁. 가짜."
+  },
+  {
+    "id": 191,
+    "primary": "Get a load of this",
+    "meaning": "이거 좀 봐라? (비꼬거나 놀라울 때)"
+  },
+  {
+    "id": 192,
+    "primary": "Cut the crap",
+    "meaning": "헛소리 집어치워 / 장난 그만해"
+  },
+  {
+    "id": 193,
+    "primary": "Deal-breaker",
+    "meaning": "그건 좀 아니지. 정 떨어지는 포인트."
+  },
+  {
+    "id": 194,
+    "primary": "It's down to you",
+    "meaning": "너한테 달렸어."
+  },
+  {
+    "id": 195,
+    "primary": "I'm game",
+    "meaning": "난 콜! 좋아."
+  },
+  {
+    "id": 196,
+    "primary": "I taught myself",
+    "meaning": "독학했어."
+  },
+  {
+    "id": 197,
+    "primary": "Whatever it takes",
+    "meaning": "무슨 수를 써서라도."
+  },
+  {
+    "id": 198,
+    "primary": "I've been tanning all week",
+    "meaning": "일주일 내내 태닝한 거야."
+  },
+  {
+    "id": 199,
+    "primary": "Couch potato",
+    "meaning": "집순이/집돌이. 소파와 한 몸."
+  },
+  {
+    "id": 200,
+    "primary": "Don't let it get to you",
+    "meaning": "마음에 담아두지 마. 신경 쓰지 마."
+  }
+]

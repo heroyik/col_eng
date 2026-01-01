@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1001,
+    "primary": "But there's a twist.",
+    "meaning": "하지만 반전이 있어요."
+  },
+  {
+    "id": 1002,
+    "primary": "We're out of the woods.",
+    "meaning": "이제 위험에서 벗어났어요."
+  },
+  {
+    "id": 1003,
+    "primary": "Let's play it by ear.",
+    "meaning": "상황 보고 정합시다."
+  },
+  {
+    "id": 1004,
+    "primary": "Don't even bring it up.",
+    "meaning": "꺼내지도 마세요."
+  },
+  {
+    "id": 1005,
+    "primary": "Your eyes are bigger than your stomach.",
+    "meaning": "욕심부리네요."
+  },
+  {
+    "id": 1006,
+    "primary": "It's not even close.",
+    "meaning": "어림도 없어요."
+  },
+  {
+    "id": 1007,
+    "primary": "I don't blame you.",
+    "meaning": "당신 탓이 아니에요."
+  },
+  {
+    "id": 1008,
+    "primary": "Don't let it bother you.",
+    "meaning": "신경 쓰지 마세요."
+  },
+  {
+    "id": 1009,
+    "primary": "I'm at your service.",
+    "meaning": "무엇을 도와드릴까요?"
+  },
+  {
+    "id": 1010,
+    "primary": "She's cool as a cucumber.",
+    "meaning": "아주 침착해요."
+  },
+  {
+    "id": 1011,
+    "primary": "He's down to earth.",
+    "meaning": "겸손하고 현실적이에요."
+  },
+  {
+    "id": 1012,
+    "primary": "We have to address the problem.",
+    "meaning": " 문제를 해결해야 해요."
+  },
+  {
+    "id": 1013,
+    "primary": "How old do you think I am?",
+    "meaning": "제 나이가 몇 살 같아요?"
+  },
+  {
+    "id": 1014,
+    "primary": "It put me on the map.",
+    "meaning": "그것 덕분에 유명해졌어요."
+  },
+  {
+    "id": 1015,
+    "primary": "They are selling like hot cakes.",
+    "meaning": "불티나게 팔리고 있어요."
+  },
+  {
+    "id": 1016,
+    "primary": "This is at the heart of the matter.",
+    "meaning": "이것이 핵심이에요."
+  },
+  {
+    "id": 1017,
+    "primary": "Who do you think I am?",
+    "meaning": "나를 누구로 보는 거예요?"
+  },
+  {
+    "id": 1018,
+    "primary": "It spiraled out of control.",
+    "meaning": "걷잡을 수 없이 악화됐어요."
+  },
+  {
+    "id": 1019,
+    "primary": "It quickly went viral.",
+    "meaning": "순식간에 입소문이 났어요."
+  },
+  {
+    "id": 1020,
+    "primary": "At the end of the day.",
+    "meaning": "결국에는요."
+  },
+  {
+    "id": 1021,
+    "primary": "He was full of beans.",
+    "meaning": "에너지가 넘쳤어요."
+  },
+  {
+    "id": 1022,
+    "primary": "That is a tough nut to crack.",
+    "meaning": "해결하기 어려운 문제예요."
+  },
+  {
+    "id": 1023,
+    "primary": "We will chew the fat.",
+    "meaning": "수다를 떨 거예요."
+  },
+  {
+    "id": 1024,
+    "primary": "Don't let your guard down.",
+    "meaning": "방심하지 마세요."
+  },
+  {
+    "id": 1025,
+    "primary": "They promised the moon.",
+    "meaning": "지키지 못할 약속을 했어요."
+  },
+  {
+    "id": 1026,
+    "primary": "He's on track.",
+    "meaning": "잘하고 있어요."
+  },
+  {
+    "id": 1027,
+    "primary": "It's not as bad as it seems.",
+    "meaning": "보기보다 나쁘지 않아요."
+  },
+  {
+    "id": 1028,
+    "primary": "Calm your nerves.",
+    "meaning": "진정하세요."
+  },
+  {
+    "id": 1029,
+    "primary": "It was a shot in the arm.",
+    "meaning": "큰 활력소가 되었어요."
+  },
+  {
+    "id": 1030,
+    "primary": "That's the way the ball bounces.",
+    "meaning": "세상일이 다 그렇죠."
+  },
+  {
+    "id": 1031,
+    "primary": "That's music to my ears",
+    "meaning": "완전 반가운 소식이야."
+  },
+  {
+    "id": 1032,
+    "primary": "He was not pulling his weight.",
+    "meaning": "제 몫을 다하지 않았어요."
+  },
+  {
+    "id": 1033,
+    "primary": "I don't buy it.",
+    "meaning": "안 믿어요."
+  },
+  {
+    "id": 1034,
+    "primary": "I got all dolled up.",
+    "meaning": "한껏 멋을 부렸어요."
+  },
+  {
+    "id": 1035,
+    "primary": "You're on a roll",
+    "meaning": "요즘 완전 잘 나가네."
+  },
+  {
+    "id": 1036,
+    "primary": "The deal fell through",
+    "meaning": "거래가 무산됐어."
+  },
+  {
+    "id": 1037,
+    "primary": "I had a falling out with him.",
+    "meaning": "그와 다퉜어요."
+  },
+  {
+    "id": 1038,
+    "primary": "It's not rocket science.",
+    "meaning": "그렇게 어려운 일이 아니에요."
+  },
+  {
+    "id": 1039,
+    "primary": "We all have to pick up the slack.",
+    "meaning": "부족한 부분을 보충해야 해요."
+  },
+  {
+    "id": 1040,
+    "primary": "I threw caution to the wind.",
+    "meaning": "위험을 무릅쓰고 감행했어요."
+  },
+  {
+    "id": 1041,
+    "primary": "Beauty is only skin deep.",
+    "meaning": "외모는 겉모습일 뿐이에요."
+  },
+  {
+    "id": 1042,
+    "primary": "I'm not good with words.",
+    "meaning": "말주변이 없어요."
+  },
+  {
+    "id": 1043,
+    "primary": "I'm running on fumes.",
+    "meaning": "기운이 하나도 없어요."
+  },
+  {
+    "id": 1044,
+    "primary": "I call the shots.",
+    "meaning": "내가 결정권을 갖고 있어요."
+  },
+  {
+    "id": 1045,
+    "primary": "I have butterflies in my stomach.",
+    "meaning": "너무 긴장돼요."
+  },
+  {
+    "id": 1046,
+    "primary": "You've been left on read.",
+    "meaning": "읽씹 당했네요."
+  },
+  {
+    "id": 1047,
+    "primary": "She doted on me.",
+    "meaning": "나를 애지중지했어요."
+  },
+  {
+    "id": 1048,
+    "primary": "I made it from scratch.",
+    "meaning": "맨 처음부터 직접 만들었어요."
+  },
+  {
+    "id": 1049,
+    "primary": "Don't steal my thunder.",
+    "meaning": "내 공을 가로채지 마세요."
+  },
+  {
+    "id": 1050,
+    "primary": "He clammed up.",
+    "meaning": "입을 꾹 다물었어요."
+  },
+  {
+    "id": 1051,
+    "primary": "I would go on a spending spree.",
+    "meaning": "돈을 펑펑 쓰고 싶어요."
+  },
+  {
+    "id": 1052,
+    "primary": "I don't want to open up a can of worms.",
+    "meaning": "문제를 복잡하게 만들고 싶지 않아요."
+  },
+  {
+    "id": 1053,
+    "primary": "It's my treat.",
+    "meaning": "제가 낼게요."
+  },
+  {
+    "id": 1054,
+    "primary": "Snap out of it!",
+    "meaning": "정신 차려!"
+  },
+  {
+    "id": 1055,
+    "primary": "You got us into this mess.",
+    "meaning": "당신 때문에 이 지경이 됐어요."
+  },
+  {
+    "id": 1056,
+    "primary": "It's not what it looks like.",
+    "meaning": "오해하지 마세요."
+  },
+  {
+    "id": 1057,
+    "primary": "What's your guilty pleasure?",
+    "meaning": "너만의 죄책감 드는 즐거움은 뭐야?"
+  },
+  {
+    "id": 1058,
+    "primary": "I got the short straw.",
+    "meaning": "재수 없게 제가 걸렸어요."
+  },
+  {
+    "id": 1059,
+    "primary": "She truly is the GOAT.",
+    "meaning": "그녀는 정말 최고예요."
+  },
+  {
+    "id": 1060,
+    "primary": "I've got a lot of mixed emotions.",
+    "meaning": "만감이 교차하네요."
+  },
+  {
+    "id": 1061,
+    "primary": "I've seen worse.",
+    "meaning": "이것보다 더 심한 것도 봤어요."
+  },
+  {
+    "id": 1062,
+    "primary": "The tea tastes funny.",
+    "meaning": "차 맛이 이상해요."
+  },
+  {
+    "id": 1063,
+    "primary": "That's a steal.",
+    "meaning": "거저나 다름없네요."
+  },
+  {
+    "id": 1064,
+    "primary": "Now is the time to decide.",
+    "meaning": "지금이 결정할 때예요."
+  },
+  {
+    "id": 1065,
+    "primary": "I just winged it.",
+    "meaning": "그냥 즉흥적으로 했어요."
+  },
+  {
+    "id": 1066,
+    "primary": "It's my cheat day",
+    "meaning": "오늘은 치트데이야."
+  },
+  {
+    "id": 1067,
+    "primary": "I'm at a loss for words.",
+    "meaning": "할 말을 잃었어요."
+  },
+  {
+    "id": 1068,
+    "primary": "We went the extra mile.",
+    "meaning": "기대 이상으로 노력했어요."
+  },
+  {
+    "id": 1069,
+    "primary": "I canceled them.",
+    "meaning": "손절했어요."
+  },
+  {
+    "id": 1070,
+    "primary": "I was swamped with work.",
+    "meaning": "일에 파묻혀 지냈어요."
+  },
+  {
+    "id": 1071,
+    "primary": "That's as cheap as chips.",
+    "meaning": "정말 싸요."
+  },
+  {
+    "id": 1072,
+    "primary": "Make yourself at home.",
+    "meaning": "편히 계세요."
+  },
+  {
+    "id": 1073,
+    "primary": "Take it or leave it.",
+    "meaning": "싫으면 마세요."
+  },
+  {
+    "id": 1074,
+    "primary": "I don't want to have egg on my face.",
+    "meaning": "창피당하고 싶지 않아요."
+  },
+  {
+    "id": 1075,
+    "primary": "I'm at a crossroads.",
+    "meaning": "갈림길에 서 있어요."
+  },
+  {
+    "id": 1076,
+    "primary": "I'm an open book.",
+    "meaning": "숨기는 게 없어요."
+  },
+  {
+    "id": 1077,
+    "primary": "There was a little bit of a kerfuffle.",
+    "meaning": "약간의 소동이 있었어요."
+  },
+  {
+    "id": 1078,
+    "primary": "The boys didn't cut the mustard.",
+    "meaning": "기대에 미치지 못했어요."
+  },
+  {
+    "id": 1079,
+    "primary": "How thoughtful of you to say that.",
+    "meaning": "그렇게 말해주니 고맙네요."
+  },
+  {
+    "id": 1080,
+    "primary": "There is a fat chance of you winning.",
+    "meaning": "이길 가능성이 거의 없어요."
+  },
+  {
+    "id": 1081,
+    "primary": "He finally got the message.",
+    "meaning": "드디어 알아들었네요."
+  },
+  {
+    "id": 1082,
+    "primary": "He's lying through his teeth.",
+    "meaning": "새빨간 거짓말을 하고 있어요."
+  },
+  {
+    "id": 1083,
+    "primary": "For lack of a better word",
+    "meaning": "딱 맞는 말이 없어서."
+  },
+  {
+    "id": 1084,
+    "primary": "It's time to get moving.",
+    "meaning": "이제 움직일 시간이에요."
+  },
+  {
+    "id": 1085,
+    "primary": "That's the spirit!",
+    "meaning": "바로 그 기세야!"
+  },
+  {
+    "id": 1086,
+    "primary": "I'm on the mend.",
+    "meaning": "회복 중이에요."
+  },
+  {
+    "id": 1087,
+    "primary": "You sold me.",
+    "meaning": "설득당했어요."
+  },
+  {
+    "id": 1088,
+    "primary": "I can't wrap my head around that.",
+    "meaning": "도저히 이해가 안 가요."
+  },
+  {
+    "id": 1089,
+    "primary": "That's so sweet of you.",
+    "meaning": "정말 친절하시네요."
+  },
+  {
+    "id": 1090,
+    "primary": "I'll figure it out.",
+    "meaning": "해결책을 찾을게요."
+  },
+  {
+    "id": 1091,
+    "primary": "Mobile technology is taking center stage.",
+    "meaning": "모바일 기술이 중심이 되고 있어요."
+  },
+  {
+    "id": 1092,
+    "primary": "He will lay bare the ugly truth.",
+    "meaning": "추악한 진실을 밝힐 거예요."
+  },
+  {
+    "id": 1093,
+    "primary": "I will leave no stone unturned.",
+    "meaning": "온갖 수단을 다 쓸 거예요."
+  },
+  {
+    "id": 1094,
+    "primary": "I'm off to the gym.",
+    "meaning": "나 헬스장 가요."
+  },
+  {
+    "id": 1095,
+    "primary": "Here's the thing.",
+    "meaning": "실은 이래요."
+  },
+  {
+    "id": 1096,
+    "primary": "The day can't come soon enough.",
+    "meaning": "그날이 빨리 왔으면 좋겠어요."
+  },
+  {
+    "id": 1097,
+    "primary": "He has clout.",
+    "meaning": "그는 영향력이 있어요."
+  },
+  {
+    "id": 1098,
+    "primary": "He vanished into thin air.",
+    "meaning": "감쪽같이 사라졌어요."
+  },
+  {
+    "id": 1099,
+    "primary": "Don't change the subject.",
+    "meaning": "말 돌리지 마세요."
+  },
+  {
+    "id": 1100,
+    "primary": "I'm a glass half full person.",
+    "meaning": "낙천적인 사람이에요."
+  }
+]

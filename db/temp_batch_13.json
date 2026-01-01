@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1201,
+    "primary": "Let's order in.",
+    "meaning": "그냥 시켜 먹자."
+  },
+  {
+    "id": 1202,
+    "primary": "Bless you",
+    "meaning": "재채기했을 때 하는 말."
+  },
+  {
+    "id": 1203,
+    "primary": "He is very low-key.",
+    "meaning": "그 사람 아주 얌전해."
+  },
+  {
+    "id": 1204,
+    "primary": "It's lit.",
+    "meaning": "와, 쩐다!"
+  },
+  {
+    "id": 1205,
+    "primary": "I have a hunch",
+    "meaning": "촉이 와."
+  },
+  {
+    "id": 1206,
+    "primary": "It's on the tip of my tongue.",
+    "meaning": "생각 날 듯 말 듯해."
+  },
+  {
+    "id": 1207,
+    "primary": "What brings you here?",
+    "meaning": "어쩐 일로 오셨어요?"
+  },
+  {
+    "id": 1208,
+    "primary": "Don't get any funny ideas.",
+    "meaning": "이상한 생각하지 마. / 오해하지 마."
+  },
+  {
+    "id": 1209,
+    "primary": "I'm not much of a coffee person.",
+    "meaning": "난 커피 별로 안 좋아해."
+  },
+  {
+    "id": 1210,
+    "primary": "I don't follow.",
+    "meaning": "무슨 말인지 모르겠어."
+  },
+  {
+    "id": 1211,
+    "primary": "Are you wearing perfume?",
+    "meaning": "향수 뿌렸어?"
+  },
+  {
+    "id": 1212,
+    "primary": "We have bigger fish to fry.",
+    "meaning": "더 중요한 일이 있어."
+  },
+  {
+    "id": 1213,
+    "primary": "I have my hands full.",
+    "meaning": "엄청나게 바빠."
+  },
+  {
+    "id": 1214,
+    "primary": "How can that be?",
+    "meaning": "어떻게 그럴 수 있지?"
+  },
+  {
+    "id": 1215,
+    "primary": "Potato, potahto, tomato, tomahto.",
+    "meaning": "그게 그거지."
+  },
+  {
+    "id": 1216,
+    "primary": "It's not my day.",
+    "meaning": "오늘 일진이 안 좋아."
+  },
+  {
+    "id": 1217,
+    "primary": "Far from it.",
+    "meaning": "전혀 그렇지 않아."
+  },
+  {
+    "id": 1218,
+    "primary": "Fancy meeting you here!",
+    "meaning": "여기서 너를 만날 줄이야!"
+  },
+  {
+    "id": 1219,
+    "primary": "I never thought of that.",
+    "meaning": "그렇게 생각 안해봤어."
+  },
+  {
+    "id": 1220,
+    "primary": "Are you gonna run some errands?",
+    "meaning": "볼일 보러 나갈 거야?"
+  },
+  {
+    "id": 1221,
+    "primary": "I just did the best I could.",
+    "meaning": "최선을 다해 노력했어요."
+  },
+  {
+    "id": 1222,
+    "primary": "Get to the point.",
+    "meaning": "요점만 말해."
+  },
+  {
+    "id": 1223,
+    "primary": "Do I have to spell it out for you?",
+    "meaning": "내가 하나하나 다 설명해줘야 돼?"
+  },
+  {
+    "id": 1224,
+    "primary": "I can't get through to her.",
+    "meaning": "걔를 이해시킬 수가 없어."
+  },
+  {
+    "id": 1225,
+    "primary": "Take a wild guess.",
+    "meaning": "대충 맞춰봐."
+  },
+  {
+    "id": 1226,
+    "primary": "No more wishy-washy.",
+    "meaning": "그만 우유분단하게 굴어."
+  },
+  {
+    "id": 1227,
+    "primary": "Sue me!",
+    "meaning": "배째!"
+  },
+  {
+    "id": 1228,
+    "primary": "Just making chit chat.",
+    "meaning": "그냥 수다 떠는 중이야."
+  },
+  {
+    "id": 1229,
+    "primary": "We won by a nose.",
+    "meaning": "우리는 간발의 차로 이겼어."
+  },
+  {
+    "id": 1230,
+    "primary": "That's on you.",
+    "meaning": "그건 네 책임이야."
+  },
+  {
+    "id": 1231,
+    "primary": "I'm totally out of shape.",
+    "meaning": "몸 상태가 엉망이야."
+  },
+  {
+    "id": 1232,
+    "primary": "Why are you dressed up?",
+    "meaning": "왜 이렇게 옷을 차려 입었어?"
+  },
+  {
+    "id": 1233,
+    "primary": "I bought it for a song.",
+    "meaning": "나 이거 헐값에 샀어."
+  },
+  {
+    "id": 1234,
+    "primary": "That was a close call!",
+    "meaning": "큰일 날 뻔했어!"
+  },
+  {
+    "id": 1235,
+    "primary": "Likewise.",
+    "meaning": "마찬가지야."
+  },
+  {
+    "id": 1236,
+    "primary": "You made my day.",
+    "meaning": "덕분에 기분 좋아졌어."
+  },
+  {
+    "id": 1237,
+    "primary": "What a small world.",
+    "meaning": "세상 참 좁다."
+  },
+  {
+    "id": 1238,
+    "primary": "I didn't see this coming.",
+    "meaning": "이렇게 될 줄 몰랐어."
+  },
+  {
+    "id": 1239,
+    "primary": "Sorry about the mess.",
+    "meaning": "지저분해서 미안."
+  },
+  {
+    "id": 1240,
+    "primary": "Everyone speaks highly of you.",
+    "meaning": "다들 너 칭찬하더라."
+  },
+  {
+    "id": 1241,
+    "primary": "You have to put yourself in my shoes.",
+    "meaning": "내 입장에서 생각해 줘."
+  },
+  {
+    "id": 1242,
+    "primary": "Where have you been?",
+    "meaning": "어디 있었어?"
+  },
+  {
+    "id": 1243,
+    "primary": "Don't be a stranger.",
+    "meaning": "연락하고 지내자."
+  },
+  {
+    "id": 1244,
+    "primary": "All sales are final.",
+    "meaning": "반품/환불 안됩니다."
+  },
+  {
+    "id": 1245,
+    "primary": "I never meant to.",
+    "meaning": "고의로 그런 거 아니야."
+  },
+  {
+    "id": 1246,
+    "primary": "Here's the deal.",
+    "meaning": "그럼 이렇게 하자."
+  },
+  {
+    "id": 1247,
+    "primary": "Enough chit chat.",
+    "meaning": "잡담 그만해."
+  },
+  {
+    "id": 1248,
+    "primary": "We can pull this off.",
+    "meaning": "우리 이거 해낼 수 있어."
+  },
+  {
+    "id": 1249,
+    "primary": "You have my word.",
+    "meaning": "약속할 게 내 말 믿어."
+  },
+  {
+    "id": 1250,
+    "primary": "Time's up.",
+    "meaning": "시간 다 됐습니다."
+  },
+  {
+    "id": 1251,
+    "primary": "Do I know you from somewhere?",
+    "meaning": "우리 어디서 본 적 있죠?"
+  },
+  {
+    "id": 1252,
+    "primary": "Fake it till you make it.",
+    "meaning": "될 때까지 해야지."
+  },
+  {
+    "id": 1253,
+    "primary": "Don't take it personally.",
+    "meaning": "기분 나쁘게 받아들이지 마세요."
+  },
+  {
+    "id": 1254,
+    "primary": "That's the way it is.",
+    "meaning": "원래 다 그런 거야."
+  },
+  {
+    "id": 1255,
+    "primary": "Don't be ridiculous.",
+    "meaning": "바보같이 굴지 마."
+  },
+  {
+    "id": 1256,
+    "primary": "I got dumped.",
+    "meaning": "(이성에게) 나 차였어."
+  },
+  {
+    "id": 1257,
+    "primary": "Now it makes sense.",
+    "meaning": "이제야 이해가 되네요."
+  },
+  {
+    "id": 1258,
+    "primary": "Let's get it over with.",
+    "meaning": "빨리하고 끝내버리죠."
+  },
+  {
+    "id": 1259,
+    "primary": "What a shame.",
+    "meaning": "정말 아쉽네요."
+  },
+  {
+    "id": 1260,
+    "primary": "She's obsessed with you.",
+    "meaning": "그녀는 당신에게 집착하고 있어요."
+  },
+  {
+    "id": 1261,
+    "primary": "Are you with me?",
+    "meaning": "내 말 이해되나요?"
+  },
+  {
+    "id": 1262,
+    "primary": "Mind your business.",
+    "meaning": "상관 마세요."
+  },
+  {
+    "id": 1263,
+    "primary": "I overreacted.",
+    "meaning": "제가 과민 반응했어요."
+  },
+  {
+    "id": 1264,
+    "primary": "I have nothing to do with that.",
+    "meaning": "저와 상관없는 일이에요."
+  },
+  {
+    "id": 1265,
+    "primary": "I think I'll pass.",
+    "meaning": "사양할게요."
+  },
+  {
+    "id": 1266,
+    "primary": "There's been a big mistake.",
+    "meaning": "뭔가 착오가 있었어요."
+  },
+  {
+    "id": 1267,
+    "primary": "I gotta get some air.",
+    "meaning": "바람 좀 쐬어야겠어요."
+  },
+  {
+    "id": 1268,
+    "primary": "Okay if we take a rain check?",
+    "meaning": "다음으로 미뤄도 될까요?"
+  },
+  {
+    "id": 1269,
+    "primary": "Don't hold your breath.",
+    "meaning": "기대하지 마세요."
+  },
+  {
+    "id": 1270,
+    "primary": "He's not with me.",
+    "meaning": "제 일행이 아닙니다."
+  },
+  {
+    "id": 1271,
+    "primary": "I can't catch a break.",
+    "meaning": "되는 일이 없어요."
+  },
+  {
+    "id": 1272,
+    "primary": "Do me a favor.",
+    "meaning": "부탁 하나만 하자."
+  },
+  {
+    "id": 1273,
+    "primary": "I knew it.",
+    "meaning": "그럴 줄 알았어."
+  },
+  {
+    "id": 1274,
+    "primary": "I take it back.",
+    "meaning": "그 말은 취소할게."
+  },
+  {
+    "id": 1275,
+    "primary": "Jinx!",
+    "meaning": "찌찌뽕!"
+  },
+  {
+    "id": 1276,
+    "primary": "Not necessarily.",
+    "meaning": "꼭 그렇진 않아."
+  },
+  {
+    "id": 1277,
+    "primary": "Ta-da!",
+    "meaning": "짜잔!"
+  },
+  {
+    "id": 1278,
+    "primary": "We're on the same page.",
+    "meaning": "우리 같은 생각이야."
+  },
+  {
+    "id": 1279,
+    "primary": "What do you say?",
+    "meaning": "어떻게 생각해?"
+  },
+  {
+    "id": 1280,
+    "primary": "I warned you this would happen.",
+    "meaning": "이런 일이 일어날 거라고 내가 경고 했잖아."
+  },
+  {
+    "id": 1281,
+    "primary": "It's water under the bridge.",
+    "meaning": "다 지난 일이네요."
+  },
+  {
+    "id": 1282,
+    "primary": "I have a ballpark figure.",
+    "meaning": "대충은 알고 있어요."
+  },
+  {
+    "id": 1283,
+    "primary": "Don't beat yourself up.",
+    "meaning": "자책하지 마세요."
+  },
+  {
+    "id": 1284,
+    "primary": "He cheated on me.",
+    "meaning": "걔가 바람을 피웠어."
+  },
+  {
+    "id": 1285,
+    "primary": "I'm so screwed.",
+    "meaning": "완전히 망했어요."
+  },
+  {
+    "id": 1286,
+    "primary": "You're being so dramatic.",
+    "meaning": "오버가 심하시네."
+  },
+  {
+    "id": 1287,
+    "primary": "You're out of your league.",
+    "meaning": "이것은 당신 능력 밖이에요."
+  },
+  {
+    "id": 1288,
+    "primary": "I'm so relieved.",
+    "meaning": "너무 마음이 놓이네요."
+  },
+  {
+    "id": 1289,
+    "primary": "He's crazy about you.",
+    "meaning": "그는 너에게 푹 빠져 있어."
+  },
+  {
+    "id": 1290,
+    "primary": "How are we on time?",
+    "meaning": "우리 제시간에 도착한거야?"
+  },
+  {
+    "id": 1291,
+    "primary": "Don't try to butter me up.",
+    "meaning": "나한테 아부하려고 하지 마."
+  },
+  {
+    "id": 1292,
+    "primary": "I do have feelings for you.",
+    "meaning": "당신을 좋아해요."
+  },
+  {
+    "id": 1293,
+    "primary": "Don't keep me waiting.",
+    "meaning": "저를 기다리게 하지 마세요."
+  },
+  {
+    "id": 1294,
+    "primary": "You guys are so made for each other.",
+    "meaning": "너네 둘은 천생연분이야."
+  },
+  {
+    "id": 1295,
+    "primary": "Suit yourself.",
+    "meaning": "마음대로 하세요."
+  },
+  {
+    "id": 1296,
+    "primary": "That should do it.",
+    "meaning": "이거면 돼. / 이정도면 됐어."
+  },
+  {
+    "id": 1297,
+    "primary": "I'm gonna go freshen up.",
+    "meaning": "나 씻으러 가야겠다."
+  },
+  {
+    "id": 1298,
+    "primary": "You're wearing it backwards.",
+    "meaning": "너 옷 거꾸로 입었다."
+  },
+  {
+    "id": 1299,
+    "primary": "Will you be home for dinner?",
+    "meaning": "집에 와서 저녁 먹을 거야?"
+  },
+  {
+    "id": 1300,
+    "primary": "I'm afraid we're out of stock.",
+    "meaning": "안타깝지만 재고가 다 떨어졌어요."
+  }
+]

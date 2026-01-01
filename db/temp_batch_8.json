@@ -1,0 +1,502 @@
+[
+  {
+    "id": 701,
+    "primary": "Mind your tongue / Watch your language",
+    "meaning": "말조심해"
+  },
+  {
+    "id": 702,
+    "primary": "Getting cold feet",
+    "meaning": "(계획했던 일에) 겁이 나다 / 망설여지다"
+  },
+  {
+    "id": 703,
+    "primary": "Apples and oranges",
+    "meaning": "(비교 대상이 안 될 정도로) 전혀 다른 것"
+  },
+  {
+    "id": 704,
+    "primary": "Get a life",
+    "meaning": "인생 좀 살아라, 쓸데없는 짓 그만해라"
+  },
+  {
+    "id": 705,
+    "primary": "Don't dwell on it / Move on / Don't linger on it",
+    "meaning": "(안 좋은 일에) 미련 갖지 마 / 잊어버려"
+  },
+  {
+    "id": 706,
+    "primary": "People never change",
+    "meaning": "사람은 본질적으로 변하지 않는다"
+  },
+  {
+    "id": 707,
+    "primary": "That's my jam",
+    "meaning": "완전 내 취향이야 / 내가 정말 좋아하는 거야"
+  },
+  {
+    "id": 708,
+    "primary": "Live vicariously through",
+    "meaning": "(~를 통해) 대리 만족을 느끼다"
+  },
+  {
+    "id": 709,
+    "primary": "What's the damage?",
+    "meaning": "(주로 계산할 때) 얼마 나왔어? / 비용이 얼마야?"
+  },
+  {
+    "id": 710,
+    "primary": "I was born this way",
+    "meaning": "난 원래 이래 / 태어날 때부터 이랬어"
+  },
+  {
+    "id": 711,
+    "primary": "The bottom line is",
+    "meaning": "결론은, 요점은 "
+  },
+  {
+    "id": 712,
+    "primary": "Don't poke the bear",
+    "meaning": "긁어 부스럼 만들지 마 (잠자고 있는 사자를 건드리지 마)"
+  },
+  {
+    "id": 713,
+    "primary": "Let's see how it goes",
+    "meaning": "어떻게 되는지 지켜보자"
+  },
+  {
+    "id": 714,
+    "primary": "No brainer",
+    "meaning": "아주 쉬운 결정 / 생각할 필요도 없는 일"
+  },
+  {
+    "id": 715,
+    "primary": "Come to think of it",
+    "meaning": "생각해보니"
+  },
+  {
+    "id": 716,
+    "primary": "Put in a good word for me",
+    "meaning": "나에 대해 좋게 말해줘 (나 좀 잘 봐달라고 해줘)"
+  },
+  {
+    "id": 717,
+    "primary": "I'm wiped out",
+    "meaning": "기운이 하나도 없어 / 녹초가 됐어"
+  },
+  {
+    "id": 718,
+    "primary": "She walked all over me",
+    "meaning": "그녀가 나를 함부로 대했어"
+  },
+  {
+    "id": 719,
+    "primary": "Don't be so hard on yourself",
+    "meaning": "자신을 너무 달달 볶지 마 / 자책하지 마"
+  },
+  {
+    "id": 720,
+    "primary": "He's moody when he's starving",
+    "meaning": "배고프면 예민해져 (배고파서 화가 나)"
+  },
+  {
+    "id": 721,
+    "primary": "it just popped up in my mind / It just occurred to me",
+    "meaning": "방금 막 (생각이) 떠올랐어"
+  },
+  {
+    "id": 722,
+    "primary": "Long legs run in the family",
+    "meaning": "롱다리가 집안 내력이야"
+  },
+  {
+    "id": 723,
+    "primary": "Apple doesn't fall far from the tree",
+    "meaning": "부전자전 (그 부모에 그 자식)"
+  },
+  {
+    "id": 724,
+    "primary": "out of the blue",
+    "meaning": "뜬금없이 / 갑자기"
+  },
+  {
+    "id": 725,
+    "primary": "Once in a blue moon",
+    "meaning": "가뭄에 콩 나듯 (아주 가끔)"
+  },
+  {
+    "id": 726,
+    "primary": "He has an audacity to show up here",
+    "meaning": "여기 나타나다니 참 뻔뻔하네"
+  },
+  {
+    "id": 727,
+    "primary": "that being said, be cautious ",
+    "meaning": "그렇긴 하지만, 조심해"
+  },
+  {
+    "id": 728,
+    "primary": "It gives me a chill",
+    "meaning": "소름 돋아 / 으스스해"
+  },
+  {
+    "id": 729,
+    "primary": "You seemed a little far fetched",
+    "meaning": "(말이) 좀 믿기 힘들다 / 터무니없어 보여"
+  },
+  {
+    "id": 730,
+    "primary": "I'm a second away from buying that",
+    "meaning": "당장이라도 그걸 살 것 같아 (지름신 강림 직전)"
+  },
+  {
+    "id": 731,
+    "primary": "What do you take me for?",
+    "meaning": "나를 뭘로 보는 거야?"
+  },
+  {
+    "id": 732,
+    "primary": "I got carried away",
+    "meaning": "내가 좀 지나쳤어 / 분위기에 휩쓸렸어"
+  },
+  {
+    "id": 733,
+    "primary": "I'm not big on holding things with regret.",
+    "meaning": "난 후회하는 스타일이 아니야"
+  },
+  {
+    "id": 734,
+    "primary": "In one ear, out the other ",
+    "meaning": "한 귀로 듣고 한 귀로 흘리네"
+  },
+  {
+    "id": 735,
+    "primary": "best quote",
+    "meaning": "가장 좋은 견적을 달라"
+  },
+  {
+    "id": 736,
+    "primary": "I wasn't born yesterday",
+    "meaning": "나도 알 건 다 알아 / 바보가 아니야"
+  },
+  {
+    "id": 737,
+    "primary": "Let's take a raincheck",
+    "meaning": "다음으로 미루자"
+  },
+  {
+    "id": 738,
+    "primary": "There he goes again, acting up again ",
+    "meaning": "또 시작이네 / 또 난리네"
+  },
+  {
+    "id": 739,
+    "primary": "That's my two cents",
+    "meaning": "내 생각은 이래 (제 의견입니다)"
+  },
+  {
+    "id": 740,
+    "primary": "Hear me out, read my lips ",
+    "meaning": "내 말 끝까지 들어봐 / 똑똑히 들어"
+  },
+  {
+    "id": 741,
+    "primary": "I didn't see this coming / I couldn't expect this",
+    "meaning": "미처 몰랐어 / 예상치 못했어"
+  },
+  {
+    "id": 742,
+    "primary": "I'm still green at heart / I'm young at heart",
+    "meaning": "마음만은 청춘이야"
+  },
+  {
+    "id": 743,
+    "primary": "I can't shake the feeling",
+    "meaning": "(안 좋은) 기분을 떨칠 수 없어"
+  },
+  {
+    "id": 744,
+    "primary": "Read the room",
+    "meaning": "분위기 파악 좀 해 / 눈치 좀 챙겨"
+  },
+  {
+    "id": 745,
+    "primary": "I can't recommend it enough",
+    "meaning": "완전 강추해 / 정말 추천해"
+  },
+  {
+    "id": 746,
+    "primary": "Pick up on that / catch on to that / take a hint",
+    "meaning": "눈치를 채다 / 알아차리다"
+  },
+  {
+    "id": 747,
+    "primary": "kitchenware",
+    "meaning": "주방용품, 조리도구"
+  },
+  {
+    "id": 748,
+    "primary": "Yapper",
+    "meaning": "수다쟁이"
+  },
+  {
+    "id": 749,
+    "primary": "give or take",
+    "meaning": "대략 / 안팎으로"
+  },
+  {
+    "id": 750,
+    "primary": "Hit it off",
+    "meaning": "(첫눈에) 잘 통하다 / 금방 친해지다"
+  },
+  {
+    "id": 751,
+    "primary": "He is a legit, catch ",
+    "meaning": "그는 정말 괜찮은 사람이야 (일등 신랑감)"
+  },
+  {
+    "id": 752,
+    "primary": "Swallow your pride",
+    "meaning": "자존심을 굽히다"
+  },
+  {
+    "id": 753,
+    "primary": "Go bananas",
+    "meaning": "열광하다 / (머리가) 어떻게 되다"
+  },
+  {
+    "id": 754,
+    "primary": "Cagey",
+    "meaning": "비밀스러운 / 말을 아끼는"
+  },
+  {
+    "id": 755,
+    "primary": "First things first",
+    "meaning": "우선순위부터 / 중요한 것부터"
+  },
+  {
+    "id": 756,
+    "primary": "best friend",
+    "meaning": "가장 친한 친구, 평생 가는 절친"
+  },
+  {
+    "id": 757,
+    "primary": "Off day",
+    "meaning": "잘 안 풀리는 날 / 컨디션 난조인 날"
+  },
+  {
+    "id": 758,
+    "primary": "buyer's remorse",
+    "meaning": "구매 후의 후회"
+  },
+  {
+    "id": 759,
+    "primary": "While at it",
+    "meaning": "(하는 김에) 같이"
+  },
+  {
+    "id": 760,
+    "primary": "Live a little",
+    "meaning": "인생을 좀 즐겨 / 좀 풀어져 봐"
+  },
+  {
+    "id": 761,
+    "primary": "Lo and behold",
+    "meaning": "아니나 다를까 / 보란 듯이"
+  },
+  {
+    "id": 762,
+    "primary": "To a t",
+    "meaning": "완벽하게 / 정확하게"
+  },
+  {
+    "id": 763,
+    "primary": "Spitting image",
+    "meaning": "똑 닮은 사람 (붕어빵)"
+  },
+  {
+    "id": 764,
+    "primary": "Ill at ease",
+    "meaning": "안절부절못하는 / 마음이 불편한"
+  },
+  {
+    "id": 765,
+    "primary": "Over the moon",
+    "meaning": "너무나 행복한 / 붕 떠 있는 기분"
+  },
+  {
+    "id": 766,
+    "primary": "Double standard",
+    "meaning": "이중 잣대 (내로남불)"
+  },
+  {
+    "id": 767,
+    "primary": "Cost an arm and a leg",
+    "meaning": "엄청나게 비싼"
+  },
+  {
+    "id": 768,
+    "primary": "In one piece",
+    "meaning": "무사히 / 다친 곳 없이"
+  },
+  {
+    "id": 769,
+    "primary": "Got stood up",
+    "meaning": "바람맞다"
+  },
+  {
+    "id": 770,
+    "primary": "Wishy washy",
+    "meaning": "우유부단한 / 미온적인"
+  },
+  {
+    "id": 771,
+    "primary": "Force of habit",
+    "meaning": "습관의 힘 (나도 모르게 하게 되는 것)"
+  },
+  {
+    "id": 772,
+    "primary": "At a loss for words, speechless ",
+    "meaning": "말문이 막힌 / 어안이 벙벙한"
+  },
+  {
+    "id": 773,
+    "primary": "In a food coma",
+    "meaning": "식곤증 (과식 후 나른한 상태)"
+  },
+  {
+    "id": 774,
+    "primary": "You dig?",
+    "meaning": "내 말 이해했어? / 알겠어?"
+  },
+  {
+    "id": 775,
+    "primary": "Dig in",
+    "meaning": "(음식을) 먹기 시작하다 / 어서 먹어"
+  },
+  {
+    "id": 776,
+    "primary": "No knee jerk reaction",
+    "meaning": "성급한 반응 금지 (무조건 반사적인 반응 x)"
+  },
+  {
+    "id": 777,
+    "primary": "Meet me half way",
+    "meaning": "타협하다 / 절충하다"
+  },
+  {
+    "id": 778,
+    "primary": "It goes without saying that",
+    "meaning": "말할 것도 없이 (당연히)"
+  },
+  {
+    "id": 779,
+    "primary": "In good hands",
+    "meaning": "안심해도 되는 / 믿음직한 곳에 맡겨진"
+  },
+  {
+    "id": 780,
+    "primary": "Cut me some slack",
+    "meaning": "좀 봐줘 / 너무 몰아세우지 마"
+  },
+  {
+    "id": 781,
+    "primary": "It's been on my mind",
+    "meaning": "계속 생각났어 / 마음에 걸려"
+  },
+  {
+    "id": 782,
+    "primary": "Penny for your thoughts",
+    "meaning": "무슨 생각해? (생각 좀 공유해줄래?)"
+  },
+  {
+    "id": 783,
+    "primary": "Chip in",
+    "meaning": "(돈이나 힘을) 보태다 / 기여하다"
+  },
+  {
+    "id": 784,
+    "primary": "Pitch in",
+    "meaning": "협력하다 / 돕다"
+  },
+  {
+    "id": 785,
+    "primary": "Give it up for her",
+    "meaning": "그녀에게 박수를 보내주세요"
+  },
+  {
+    "id": 786,
+    "primary": "This is news to me",
+    "meaning": "처음 듣는 소리네 / 금시초문이야"
+  },
+  {
+    "id": 787,
+    "primary": "Are you dense?",
+    "meaning": "너 멍청하니? (눈치가 없니?)"
+  },
+  {
+    "id": 788,
+    "primary": "I m doomed",
+    "meaning": "망했어 / 끝장이야"
+  },
+  {
+    "id": 789,
+    "primary": "Get under my skin",
+    "meaning": "거슬리게 하다 / 화나게 하다"
+  },
+  {
+    "id": 790,
+    "primary": "I will sort it out",
+    "meaning": "내가 해결할게 / 정리할게"
+  },
+  {
+    "id": 791,
+    "primary": "Does that ring a bell?",
+    "meaning": "들어본 적 있어? / 생각나는 거 있어?"
+  },
+  {
+    "id": 792,
+    "primary": "I should have thought that through",
+    "meaning": "더 신중하게 생각했어야 했어"
+  },
+  {
+    "id": 793,
+    "primary": "bestie",
+    "meaning": "베프, 애정 어린 절친 표현"
+  },
+  {
+    "id": 794,
+    "primary": "You'd better be off",
+    "meaning": "얼른 가보는 게 좋겠어"
+  },
+  {
+    "id": 795,
+    "primary": "A sense of belongings",
+    "meaning": "소속감"
+  },
+  {
+    "id": 796,
+    "primary": "Picture is worth a thousand words, you will see ",
+    "meaning": "백문이 불여일견이야"
+  },
+  {
+    "id": 797,
+    "primary": "Walk me through it, break it down for me ",
+    "meaning": "차근차근 설명해줘 / 하나씩 짚어줘"
+  },
+  {
+    "id": 798,
+    "primary": "No wonder",
+    "meaning": "어쩐지"
+  },
+  {
+    "id": 799,
+    "primary": "If anything",
+    "meaning": "오히려"
+  },
+  {
+    "id": 800,
+    "primary": "Better yet",
+    "meaning": "차라리 / 그보다 더 좋은 건"
+  }
+]

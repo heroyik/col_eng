@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1301,
+    "primary": "Good call.",
+    "meaning": "좋은 생각이야. / 좋은 결정이야."
+  },
+  {
+    "id": 1302,
+    "primary": "I'm in the same boat.",
+    "meaning": "나도 같은 처지야."
+  },
+  {
+    "id": 1303,
+    "primary": "That's so touching.",
+    "meaning": "정말 감동이다."
+  },
+  {
+    "id": 1304,
+    "primary": "I'm speechless.",
+    "meaning": "말문이 막히네, 할 말을 잃었어."
+  },
+  {
+    "id": 1305,
+    "primary": "I don't know a thing.",
+    "meaning": "난 아무것도 몰라."
+  },
+  {
+    "id": 1306,
+    "primary": "Where was I?",
+    "meaning": "내가 어디까지 이야기했지?"
+  },
+  {
+    "id": 1307,
+    "primary": "Wanna grab some lunch?",
+    "meaning": "점심 먹을래?"
+  },
+  {
+    "id": 1308,
+    "primary": "I had a rough night.",
+    "meaning": "밤잠을 설쳤어."
+  },
+  {
+    "id": 1309,
+    "primary": "This can't be happening.",
+    "meaning": "이건 있을 수 없는 일이야."
+  },
+  {
+    "id": 1310,
+    "primary": "Now you're talking.",
+    "meaning": "이제야 말이 통하네!"
+  },
+  {
+    "id": 1311,
+    "primary": "You got that right.",
+    "meaning": "네 말이 맞아."
+  },
+  {
+    "id": 1312,
+    "primary": "I don't see that happening.",
+    "meaning": "그렇게는 안될 걸."
+  },
+  {
+    "id": 1313,
+    "primary": "Not that I know of.",
+    "meaning": "내가 알기로는 그렇지 않아."
+  },
+  {
+    "id": 1314,
+    "primary": "Over my dead body.",
+    "meaning": "절.대.안.돼."
+  },
+  {
+    "id": 1315,
+    "primary": "I'm hoping for the best.",
+    "meaning": "잘 되길 빌고 있어."
+  },
+  {
+    "id": 1316,
+    "primary": "I'm down.",
+    "meaning": "난 찬성이야."
+  },
+  {
+    "id": 1317,
+    "primary": "No way.",
+    "meaning": "말도 안돼. / 헐 대박."
+  },
+  {
+    "id": 1318,
+    "primary": "Mind if I join you?",
+    "meaning": "내가 껴도 돼?"
+  },
+  {
+    "id": 1319,
+    "primary": "Who cares?",
+    "meaning": "알게 뭐람? 무슨 상관이야?"
+  },
+  {
+    "id": 1320,
+    "primary": "It's not my place.",
+    "meaning": "내가 나설 자리가 아냐."
+  },
+  {
+    "id": 1321,
+    "primary": "Follow your heart.",
+    "meaning": "마음 가는대로 해."
+  },
+  {
+    "id": 1322,
+    "primary": "I wouldn't if I were you.",
+    "meaning": "내가 너라면 그렇게 하지 않겠어."
+  },
+  {
+    "id": 1323,
+    "primary": "Do your job.",
+    "meaning": "네 일이나 잘해."
+  },
+  {
+    "id": 1324,
+    "primary": "It's all or nothing.",
+    "meaning": "모 아니면 도야."
+  },
+  {
+    "id": 1325,
+    "primary": "Behave yourself.",
+    "meaning": "버릇없이 굴면 안돼. / 점잖게 행동해."
+  },
+  {
+    "id": 1326,
+    "primary": "What's in it for me?",
+    "meaning": "내가 얻는 게 뭔데?"
+  },
+  {
+    "id": 1327,
+    "primary": "Shame on you!",
+    "meaning": "부끄러운 줄 알아야지! 창피한 일이야!"
+  },
+  {
+    "id": 1328,
+    "primary": "You're one to talk.",
+    "meaning": "사돈 남 말 하네."
+  },
+  {
+    "id": 1329,
+    "primary": "You asked for it.",
+    "meaning": "자업자득이지."
+  },
+  {
+    "id": 1330,
+    "primary": "It serves you right!",
+    "meaning": "꼴 좋다! 넌 그런 일 당해도 싸!"
+  },
+  {
+    "id": 1331,
+    "primary": "You catch on quick.",
+    "meaning": "눈치가 빠르네. / 이해가 빠르네."
+  },
+  {
+    "id": 1332,
+    "primary": "Don't blow it.",
+    "meaning": "기회를 날리지 마. / 망치지 마."
+  },
+  {
+    "id": 1333,
+    "primary": "Then so be it.",
+    "meaning": "그럼 그렇게 해. / 어쩔 수 없지."
+  },
+  {
+    "id": 1334,
+    "primary": "Watch your tongue!",
+    "meaning": "말 조심해!"
+  },
+  {
+    "id": 1335,
+    "primary": "I want no part of it.",
+    "meaning": "난 그 일에 관여하고 싶지 않아."
+  },
+  {
+    "id": 1336,
+    "primary": "Please don't butt in.",
+    "meaning": "끼어들지 마."
+  },
+  {
+    "id": 1337,
+    "primary": "Brace yourself.",
+    "meaning": "마음 단단히 먹고 들어."
+  },
+  {
+    "id": 1338,
+    "primary": "Let's just call it even.",
+    "meaning": "비긴 셈치자."
+  },
+  {
+    "id": 1339,
+    "primary": "It's a guy thing.",
+    "meaning": "남자들 이야기야."
+  },
+  {
+    "id": 1340,
+    "primary": "She's gonna mooch off us.",
+    "meaning": "걔는 우리에게 빌붙어살거야."
+  },
+  {
+    "id": 1341,
+    "primary": "The same goes for you.",
+    "meaning": "너도 마찬가지야."
+  },
+  {
+    "id": 1342,
+    "primary": "Pull over right here.",
+    "meaning": "바로 여기에 차를 세워요."
+  },
+  {
+    "id": 1343,
+    "primary": "Hop in.",
+    "meaning": "어서 타."
+  },
+  {
+    "id": 1344,
+    "primary": "Going my way?",
+    "meaning": "혹시 나랑 같은 방향으로 가니?"
+  },
+  {
+    "id": 1345,
+    "primary": "You can't miss it.",
+    "meaning": "쉽게 찾을 수 있을 거야."
+  },
+  {
+    "id": 1346,
+    "primary": "I'm stuck in traffic.",
+    "meaning": "차가 막혀."
+  },
+  {
+    "id": 1347,
+    "primary": "I can't afford it.",
+    "meaning": "그럴 형편이 안돼."
+  },
+  {
+    "id": 1348,
+    "primary": "Take it up with your boss.",
+    "meaning": "사장하고 이야기해봐."
+  },
+  {
+    "id": 1349,
+    "primary": "Would you scoot a little?",
+    "meaning": "조금만 옆으로 가줄래요?"
+  },
+  {
+    "id": 1350,
+    "primary": "I can hold my head high.",
+    "meaning": "난 떳떳할 수 있어."
+  },
+  {
+    "id": 1351,
+    "primary": "That's all I need.",
+    "meaning": "내가 필요한 건 그게 다야."
+  },
+  {
+    "id": 1352,
+    "primary": "I'm doing my hair.",
+    "meaning": "머리 손질 중이야."
+  },
+  {
+    "id": 1353,
+    "primary": "Can you break a hundred?",
+    "meaning": "100불을 잔돈으로 바꿔주실래요?"
+  },
+  {
+    "id": 1354,
+    "primary": "What an imagination you have.",
+    "meaning": "상상력도 풍부하군!"
+  },
+  {
+    "id": 1355,
+    "primary": "We've grown apart.",
+    "meaning": "성장하면서 자연스레 멀어졌어."
+  },
+  {
+    "id": 1356,
+    "primary": "I just feel drained.",
+    "meaning": "기운이 다 빠진 것 같아요."
+  },
+  {
+    "id": 1357,
+    "primary": "Get a grip!",
+    "meaning": "정신 차려!"
+  },
+  {
+    "id": 1358,
+    "primary": "Can I tag along?",
+    "meaning": "나도 따라가도 돼?"
+  },
+  {
+    "id": 1359,
+    "primary": "It's a hassle.",
+    "meaning": "귀찮아. / 번거로워."
+  },
+  {
+    "id": 1360,
+    "primary": "So far, so good.",
+    "meaning": "지금까지는 괜찮아."
+  },
+  {
+    "id": 1361,
+    "primary": "You haven't changed a bit.",
+    "meaning": "너 정말 하나도 안 변했구나."
+  },
+  {
+    "id": 1362,
+    "primary": "I'm laying low.",
+    "meaning": "혼자 조용히 지내고 있어."
+  },
+  {
+    "id": 1363,
+    "primary": "Rock on!",
+    "meaning": "멋지군! 좋아!"
+  },
+  {
+    "id": 1364,
+    "primary": "It's hard to keep up.",
+    "meaning": "따라잡기 어려워."
+  },
+  {
+    "id": 1365,
+    "primary": "That makes two of us.",
+    "meaning": "나도 마찬가지야."
+  },
+  {
+    "id": 1366,
+    "primary": "There, there.",
+    "meaning": "(위로할 때) 토닥토닥/괜찮아"
+  },
+  {
+    "id": 1367,
+    "primary": "It was all for nothing.",
+    "meaning": "괜히 했어."
+  },
+  {
+    "id": 1368,
+    "primary": "There wasn't time.",
+    "meaning": "시간 없었어."
+  },
+  {
+    "id": 1369,
+    "primary": "I'm in a bind.",
+    "meaning": "난처한 상황에 처해있어."
+  },
+  {
+    "id": 1370,
+    "primary": "He's always on the go.",
+    "meaning": "그는 늘 바쁘게 돌아다녀."
+  },
+  {
+    "id": 1371,
+    "primary": "I smell a rat.",
+    "meaning": "수상해. 뭔가 냄새가 나."
+  },
+  {
+    "id": 1372,
+    "primary": "I could eat a horse.",
+    "meaning": "(배가 고파서) 뭐든지 먹을 수 있어."
+  },
+  {
+    "id": 1373,
+    "primary": "You're all missing my point.",
+    "meaning": "내 요점을 모르네."
+  },
+  {
+    "id": 1374,
+    "primary": "Pardon my language.",
+    "meaning": "거친 표현 미안해."
+  },
+  {
+    "id": 1375,
+    "primary": "Let's just talk turkey.",
+    "meaning": "본론으로 들어가죠."
+  },
+  {
+    "id": 1376,
+    "primary": "I'll come to the point.",
+    "meaning": "단도직입적으로 말할 게."
+  },
+  {
+    "id": 1377,
+    "primary": "It carries no weight.",
+    "meaning": "그건 전혀 중요하지 않아."
+  },
+  {
+    "id": 1378,
+    "primary": "Put your feet up.",
+    "meaning": "푹 쉬어."
+  },
+  {
+    "id": 1379,
+    "primary": "Drop the subject.",
+    "meaning": "그 얘긴 그만해."
+  },
+  {
+    "id": 1380,
+    "primary": "Everything's up in the air.",
+    "meaning": "아직 모든 것이 미정이야."
+  },
+  {
+    "id": 1381,
+    "primary": "Thanks for walking me home.",
+    "meaning": "집까지 같이 걸어와줘서 고마워."
+  },
+  {
+    "id": 1382,
+    "primary": "Speak of the devil!",
+    "meaning": "호랑이도 제 말하면 온다더니!"
+  },
+  {
+    "id": 1383,
+    "primary": "Heads or tails!",
+    "meaning": "(동전) 앞면일까 뒷면일까!"
+  },
+  {
+    "id": 1384,
+    "primary": "Just kicking in.",
+    "meaning": "그냥 쉬고 있어."
+  },
+  {
+    "id": 1385,
+    "primary": "Put yourself out there.",
+    "meaning": "당당하게 나서봐. 자신있게 시도해봐."
+  },
+  {
+    "id": 1386,
+    "primary": "You're all I've got.",
+    "meaning": "나한텐 너뿐이야."
+  },
+  {
+    "id": 1387,
+    "primary": "That figures.",
+    "meaning": "어쩐지. 그럴 줄 알았어."
+  },
+  {
+    "id": 1388,
+    "primary": "What's there to think about?",
+    "meaning": "생각할 게 뭐있어? 뭘 고민해?"
+  },
+  {
+    "id": 1389,
+    "primary": "It's out of my hands.",
+    "meaning": "나도 어쩔 수 없어."
+  },
+  {
+    "id": 1390,
+    "primary": "Old habits die hard.",
+    "meaning": "세 살 버릇 여든까지 간다."
+  },
+  {
+    "id": 1391,
+    "primary": "Is that what I think it is?",
+    "meaning": "이게 내가 생각하는 게 맞아?"
+  },
+  {
+    "id": 1392,
+    "primary": "Just go with it.",
+    "meaning": "그냥 참고 지내."
+  },
+  {
+    "id": 1393,
+    "primary": "In one ear and out the other.",
+    "meaning": "한 귀로 듣고 한 귀로 흘려버려."
+  },
+  {
+    "id": 1394,
+    "primary": "Like father, like son.",
+    "meaning": "그 아버지에 그 아들이야."
+  },
+  {
+    "id": 1395,
+    "primary": "We're not done here.",
+    "meaning": "아직 얘기 안 끝났어."
+  },
+  {
+    "id": 1396,
+    "primary": "Here goes nothing.",
+    "meaning": "밑져야 본전이지."
+  },
+  {
+    "id": 1397,
+    "primary": "It's now or never.",
+    "meaning": "지금이 절호의 기회야."
+  },
+  {
+    "id": 1398,
+    "primary": "I didn't sleep a wink.",
+    "meaning": "한숨도 못 잤어."
+  },
+  {
+    "id": 1399,
+    "primary": "I'm just having a bad day.",
+    "meaning": "오늘 일진이 좀 안 좋아."
+  },
+  {
+    "id": 1400,
+    "primary": "You can't be serious.",
+    "meaning": "설마 진심은 아니겠지?"
+  }
+]

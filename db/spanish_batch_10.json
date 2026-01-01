@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 901,
+    "primary": "I couldn't agree more.",
+    "meaning": "전적으로 동감이에요.",
+    "similar": [
+      "I'm totally with you.",
+      "I 100% agree.",
+      "You can say that again.",
+      "Facts.",
+      "My thoughts exactly."
+    ],
+    "example": "A: New York is honestly the best city for inspiration.\nB: I couldn't agree more. The energy here is just different.\nA: For real. Everywhere you look, there's someone doing something creative.\nB: It's like you can't help but feel motivated.\nA: Facts. I never want to live anywhere else.\nB: Same. This city is just in my blood.",
+    "japanese": "全（まった）く同感（どうかん）です。／激（げき）しく同意（どうい）。",
+    "chinese": "我完全赞同 (Wǒ wánquán zàntóng) / 你说得太对了 (Nǐ shuō de tài duì le)",
+    "spanish": "Totalmente de acuerdo. / Ni que lo digas."
+  },
+  {
+    "id": 902,
+    "primary": "I've got a memory like a sieve.",
+    "meaning": "제 기억력이 형편없어요.",
+    "similar": [
+      "I'm very forgetful.",
+      "I have a terrible memory.",
+      "Things just slip my mind.",
+      "I can't remember anything.",
+      "My brain is like a blank slate sometimes."
+    ],
+    "example": "A: Did you remember to pick up the milk on your way home?\nB: Oh snap! I completely forgot. I've got a memory like a sieve.\nA: I literally texted you ten minutes ago!\nB: I know, I know. I saw it and then immediately got distracted.\nA: It's all good, I'll just go grab it now.\nB: My bad, fam. I'll make it up to you.",
+    "japanese": "記憶力（きおくりょく）がザルなんです。／すぐ忘（わす）れちゃうんです。",
+    "chinese": "我这脑子像漏斗 (Wǒ zhè nǎozi xiàng lòudǒu) / 贵人多忘事 (Guìrén duō wàngshì)",
+    "spanish": "Tengo memoria de pez. / Se me va la olla."
+  },
+  {
+    "id": 903,
+    "primary": "It's on the house.",
+    "meaning": "서비스입니다.",
+    "similar": [
+      "It's free.",
+      "It's a gift from us.",
+      "No charge for this one.",
+      "We're not charging you.",
+      "This one's included."
+    ],
+    "example": "A: Wait, I didn't see this appetizer on the bill.\nB: Don't worry about it, it's on the house. Thanks for coming in tonight!\nA: Oh, that's so sweet! Thank you so much.\nB: Of course. You guys are regulars, we gotta show some love.\nA: We really appreciate that. The food was incredible as always.\nB: Glad you enjoyed it! See you next time.",
+    "japanese": "店（みせ）のおごりです。／サービスです。",
+    "chinese": "免单 (Miǎndān) / 这份算我们的 (Zhè fèn suàn wǒmen de)",
+    "spanish": "Invita la casa. / Es cortesía de la casa."
+  },
+  {
+    "id": 904,
+    "primary": "I think you should get a second opinion.",
+    "meaning": "다른 의견도 들어보는 게 좋겠어요.",
+    "similar": [
+      "Consult someone else.",
+      "Get another perspective.",
+      "See what others think.",
+      "Ask for another viewpoint.",
+      "Double check with another expert."
+    ],
+    "example": "A: The mechanic says my car needs a whole new engine.\nB: That sounds extreme. I think you should get a second opinion.\nA: You're right. I don't really trust that guy anyway.\nB: Take it to my guy in Queens. He's honest and won't overcharge you.\nA: Good looks. I'll give him a call tomorrow.\nB: Definitely. Better safe than sorry.",
+    "japanese": "セカンドオピニオンを聞（き）いた方（ほう）がいいと思（おも）うよ。／別（べつ）の人（ひと）にも聞（き）いてみたら？",
+    "chinese": "再咨询一下别处 (Zài zīxún yīxià biéchù) / 听听其他意见 (Tīngting qítā yìjiàn)",
+    "spanish": "Deberías pedir una segunda opinión. / Mejor que preguntes a otro."
+  },
+  {
+    "id": 905,
+    "primary": "You are second to none.",
+    "meaning": "당신은 최고예요.",
+    "similar": [
+      "You're the best.",
+      "You're unbeatable.",
+      "You're unmatched.",
+      "You're elite.",
+      "You're at the top of your game."
+    ],
+    "example": "A: I really appreciate all the help you've given me with this project.\nB: Any time! Honestly, your work ethic is second to none.\nA: Wow, thanks. I really try to put in the effort.\nB: It shows. You're easily the most dedicated person on the team.\nA: That means a lot coming from you.\nB: Facts. Just keep doing what you're doing.",
+    "japanese": "あなたは誰（だれ）にも引（ひ）けを取（と）らないよ。／君（きみ）が一番（いちばん）だよ。",
+    "chinese": "你是顶尖的 (Nǐ shì dǐngjiān de) / 独一无二 (Dúyīwú'èr)",
+    "spanish": "No tienes rival. / Eres el mejor, sin duda."
+  },
+  {
+    "id": 906,
+    "primary": "Don't pull my leg.",
+    "meaning": "농담 마세요 (놀리지 마세요).",
+    "similar": [
+      "Don't mess with me.",
+      "Are you kidding?",
+      "Quit playing around.",
+      "Don't joke with me.",
+      "Are you for real?"
+    ],
+    "example": "A: Guess what? I just won a thousand dollars on a scratch-off!\nB: No way! Don't pull my leg, show me the ticket.\nA: I'm dead serious! Look right here.\nB: Oh my god, you actually did it! That's insane!\nA: I know! I'm still in shock.\nB: Drinks are definitely on you tonight then!",
+    "japanese": "からかわないでよ。／冗談（じょうだん）でしょ？",
+    "chinese": "别逗我了 (Bié dòu wǒ le) / 别开完笑 (Bié kāiwánxiào)",
+    "spanish": "No me tomes el pelo. / ¡Venga ya, no bromees!"
+  },
+  {
+    "id": 907,
+    "primary": "I'm torn",
+    "meaning": "마음이 갈린다, 결정을 못 하겠다",
+    "similar": [
+      "conflicted",
+      "undecided",
+      "on the fence",
+      "can't choose",
+      "split down the middle"
+    ],
+    "example": "A: Pizza or Tacos?\nB: I'm torn. Both sound good.\nA: Tacos are cheaper.\nB: But pizza is comfort food.\nA: Let's flip a coin.\nB: Or just get both. Feast night?",
+    "japanese": "迷（まよ）っちゃうなあ。／選（えら）べないよ。",
+    "chinese": "左右为难 (Zuǒyòu wéinán) / 挺纠结的 (Tǐng jiūjié de)",
+    "spanish": "Estoy indeciso. / No sé qué hacer."
+  },
+  {
+    "id": 908,
+    "primary": "You have lost the plot.",
+    "meaning": "상황 파악을 못 하네요.",
+    "similar": [
+      "You've lost touch with reality.",
+      "You're out of the loop.",
+      "You don't understand the situation.",
+      "You're confusing things.",
+      "You've lost focus."
+    ],
+    "example": "A: I think we should skip the launch and just start a new project from scratch.\nB: Honestly? You have lost the plot. We're 90% done!\nA: I just feel like the market has changed, you know?\nB: In three months? No way. We need to finish what we started.\nA: Maybe you're right. I'm just feeling a bit overwhelmed.\nB: Take a breather. We're almost at the finish line.",
+    "japanese": "話（はなし）の筋（すじ）が見（み）えてないね。／状況（じょうきょう）わかってる？",
+    "chinese": "你糊涂了吧 (Nǐ hútu le ba) / 你搞错状况了 (Nǐ gǎocuò zhuàngkuàng le)",
+    "spanish": "Se te ha ido la olla. / No te enteras de nada."
+  },
+  {
+    "id": 909,
+    "primary": "Let's just keep it between us.",
+    "meaning": "우리끼리만 알고 있자.",
+    "similar": [
+      "Keep it a secret.",
+      "Don't tell anyone else.",
+      "Just between the two of us.",
+      "Keep it under wraps.",
+      "Let's keep this private."
+    ],
+    "example": "A: I'm planning on quitting my job next month.\nB: Oh wow! Have you told anyone else yet?\nA: No, so let's just keep it between us for now.\nB: Of course. Your secret is safe with me.\nA: I appreciate that. I just want everything to be in place first.\nB: Smart move. Let me know if I can help with anything.",
+    "japanese": "ここだけの話（はなし）にしておこう。／内緒（ないしょ）だよ。",
+    "chinese": "咱们私下知道就行 (Zánmen sīxià zhīdào jiù xíng) / 别外传 (Bié wàichuán)",
+    "spanish": "Que quede entre nosotros. / Esto no sale de aquí."
+  },
+  {
+    "id": 910,
+    "primary": "You know the drill.",
+    "meaning": "어떻게 하는지 알지?",
+    "similar": [
+      "You know how it goes.",
+      "You know what to do.",
+      "You're familiar with the process.",
+      "Standard procedure.",
+      "You've done this before."
+    ],
+    "example": "A: Alright, we've got another big shipment coming in tomorrow.\nB: Got it. You know the drill, I'll be here early to organize everything.\nA: Good looks. I'll handle the documentation then.\nB: Sounds like a plan. We'll be done by lunch if we move fast.\nA: For sure. Let's get it.\nB: Catch you in the morning.",
+    "japanese": "やり方（かた）はわかってるでしょ？／いつもの手順（てじゅん）だよ。",
+    "chinese": "老规矩了 (Lǎoguīju le) / 你懂得 (Nǐ dǒng de)",
+    "spanish": "Ya sabes cómo va esto. / Ya te sabes el rollo."
+  },
+  {
+    "id": 911,
+    "primary": "It's been a roller coaster ride.",
+    "meaning": "우여곡절이 많았어요.",
+    "similar": [
+      "It's been a wild ride.",
+      "There have been many ups and downs.",
+      "It's been a journey.",
+      "It's been full of surprises.",
+      "It's been quite an experience."
+    ],
+    "example": "A: How has the first year of your startup been?\nB: Honestly, it's been a roller coaster ride. Some days are great, some are stressful.\nA: I can imagine. Entrepreneurship is no joke.\nB: For real. But I'm learning a lot through all the chaos.\nA: That's the best way to grow though.\nB: Facts. I wouldn't trade it for anything.",
+    "japanese": "波瀾万丈（はらんばんじょう）でした。／山（やま）あり谷（たに）ありでした。",
+    "chinese": "起起伏伏 (Qǐqǐfúfú) / 波折不断 (Bōzhé bùduàn)",
+    "spanish": "Ha sido una montaña rusa. / Ha habido de todo."
+  },
+  {
+    "id": 912,
+    "primary": "I look up to you.",
+    "meaning": "당신을 존경해요.",
+    "similar": [
+      "I admire you.",
+      "You're an inspiration to me.",
+      "I respect you a lot.",
+      "I follow your lead.",
+      "You're my role model."
+    ],
+    "example": "A: I really look up to you, especially how you handle difficult clients.\nB: Wow, thank you! I appreciate that a lot.\nA: No, seriously. You're always so calm and professional.\nB: It took years of practice, trust me. I used to be so stressed.\nA: Well, you're killing it now.\nB: Thanks, fam. That means more than you know.",
+    "japanese": "尊敬（そんけい）しています。／憧（あこが）れています。",
+    "chinese": "向你学习 (Xiàng nǐ xuéxí) / 崇拜你 (Chóngbài nǐ)",
+    "spanish": "Te admiro mucho. / Eres un ejemplo para mí."
+  },
+  {
+    "id": 913,
+    "primary": "It's overrated.",
+    "meaning": "과대평가됐어요.",
+    "similar": [
+      "It's not that great.",
+      "It's hyped up too much.",
+      "It's disappointing.",
+      "It doesn't live up to the hype.",
+      "It's not worth the fuss."
+    ],
+    "example": "A: Everyone's talking about that new brunch spot in SoHo. Have you been?\nB: Yeah, and honestly? It's overrated. Food was mid at best.\nA: Oh really? The pictures look so good though.\nB: It's all for the aesthetic. The actual taste just isn't there.\nA: Good to know. I'll save my money for somewhere else.\nB: Definitely. There are way better spots for half the price.",
+    "japanese": "過大評価（かだいひょうか）されてるよ。／大（たい）したことないよ。",
+    "chinese": "名不副实 (Míngbùfùshí) / 也就那样吧 (Yějiù nàyàng ba)",
+    "spanish": "Está sobrevalorado. / No es para tanto."
+  },
+  {
+    "id": 914,
+    "primary": "Long story short",
+    "meaning": "요약하자면, 결론만 말하면",
+    "similar": [
+      "in a nutshell",
+      "to sum up",
+      "basically",
+      "the gist is",
+      "TL;DR"
+    ],
+    "example": "A: So what happened with the date?\nB: Long story short, he ghosted me.\nA: No way! He seemed so nice.\nB: Turned out to be a jerk.\nA: His loss, seriously.\nB: Yeah, on to the next one.",
+    "japanese": "手短（てみじか）に言（い）うと／要（よう）するに",
+    "chinese": "长话短说 (Chánghuà duǎnshuō) / 总而言之 (Zǒng'éryánzhī)",
+    "spanish": "Resumiendo. / En pocas palabras."
+  },
+  {
+    "id": 915,
+    "primary": "I don't hold a grudge.",
+    "meaning": "뒤끝 없어요.",
+    "similar": [
+      "I don't stay angry.",
+      "I forgive and forget.",
+      "I'm not one to hold onto things.",
+      "I move on quickly.",
+      "No hard feelings."
+    ],
+    "example": "A: I'm really sorry about what I said during the argument yesterday.\nB: Don't worry about it. I don't hold a grudge. We're good.\nA: Thanks, I was really worried you'd be mad for a while.\nB: Life is too short for all that negativity. Let's just move forward.\nA: I appreciate that. You're a real one.\nB: Facts. Let's grab some lunch and put it behind us.",
+    "japanese": "根（ね）に持（も）ったりしないよ。／後腐（あとくさ）れはないよ。",
+    "chinese": "我不记仇 (Wǒ bù jìchóu) / 我挺大度的 (Wǒ tǐng dàdù de)",
+    "spanish": "No soy rencoroso. / No guardo rencor."
+  },
+  {
+    "id": 916,
+    "primary": "I don't know off the top of my head.",
+    "meaning": "지금 당장은 기억이 안 나네요.",
+    "similar": [
+      "I can't remember right now.",
+      "I'd have to check my notes.",
+      "Nothing's coming to me currently.",
+      "I'm drawing a blank.",
+      "I don't have that info on hand."
+    ],
+    "example": "A: Do you remember the address of that new spot in Queens?\nB: Honestly? I don't know off the top of my head. Let me check my phone.\nA: No rush. I just wanted to see if it was close to the train.\nB: Found it! It's right on 31st Ave.\nA: Perfect. That's super easy to get to.\nB: Facts. We should definitely go this weekend.",
+    "japanese": "ぱっと思（おも）い出（だ）せないな。／すぐには出（で）てこないな。",
+    "chinese": "一下想不起来 (Yīxià xiǎng bù qǐlái) / 没底儿 (Méidǐr)",
+    "spanish": "Ahora mismo no caigo. / No me viene a la cabeza."
+  },
+  {
+    "id": 917,
+    "primary": "I'm fed up with it.",
+    "meaning": "그거 정말 질렸어요.",
+    "similar": [
+      "I'm annoyed by it.",
+      "I've had enough.",
+      "I'm over it.",
+      "I can't stand it anymore.",
+      "It's getting on my nerves."
+    ],
+    "example": "A: Why are you looking so stressed out today?\nB: It's these constant train delays. I'm honestly fed up with it.\nA: I feel you. The MTA has been a nightmare lately.\nB: For real. I've been late to work three times this week.\nA: Maybe it's time to start biking or something.\nB: Facts. At least then I'm in control of the timing.",
+    "japanese": "もううんざりだよ。／愛想（あいそ）が尽（つ）きたよ。",
+    "chinese": "受够了 (Shòugòu le) / 烦透了 (Fántòu le)",
+    "spanish": "Estoy harto. / Ya no aguanto más."
+  },
+  {
+    "id": 918,
+    "primary": "I've got a lot on my plate.",
+    "meaning": "할 일이 너무 많아요.",
+    "similar": [
+      "I'm very busy.",
+      "I have a heavy workload.",
+      "I'm swamped.",
+      "My schedule is packed.",
+      "I'm juggling many things."
+    ],
+    "example": "A: You coming through to the basketball game tonight?\nB: I wish! But I've got a lot on my plate with these finals coming up.\nA: Damn, I forgot you were in grad school too.\nB: Yeah, it's a lot to handle all at once.\nA: Respect. I'll catch you after you pass all those tests.\nB: Bet. I'll definitely need a drink then.",
+    "japanese": "手（て）一杯（いっぱい）なんです。／やることが山積（やまづ）みで。",
+    "chinese": "忙得不可开交 (Máng de bùkě kāijiāo) / 事情一大堆 (Shìqing yīdàduī)",
+    "spanish": "Tengo mucho lío. / Estoy hasta arriba de cosas."
+  },
+  {
+    "id": 919,
+    "primary": "I'm bad with directions.",
+    "meaning": "저는 길치예요.",
+    "similar": [
+      "I have no sense of direction.",
+      "I always get lost.",
+      "I'm navigationally challenged.",
+      "I can't find my way anywhere.",
+      "Maps confuse me."
+    ],
+    "example": "A: Just meet me at the corner of 5th and 14th.\nB: You know I'm bad with directions, right? Can you just send me your location?\nA: Haha, my bad. I forgot you're basically helpless without GPS.\nB: It's not funny! I'll end up in the wrong borough by accident.\nA: Sent. Just follow the blue dot, okay?\nB: On my way. Don't leave without me!",
+    "japanese": "方向音痴（ほうこうおんち）なんです。／道（みち）がわからなくて。",
+    "chinese": "路痴 (Lùchī) / 分不清东南西北 (Fēn bù qīng dōngnánxīběi)",
+    "spanish": "Me oriento fatal. / Soy un desastre con las direcciones."
+  },
+  {
+    "id": 920,
+    "primary": "How are you holding up?",
+    "meaning": "어떻게 견디고 있어요?",
+    "similar": [
+      "How are you doing?",
+      "How's everything going?",
+      "Are you okay?",
+      "How's the situation for you?",
+      "How are you managing?"
+    ],
+    "example": "A: I heard about the breakup. How are you holding up?\nB: It's been tough, but I'm trying to stay busy.\nA: That's probably for the best. Let me know if you wanna vent.\nB: Thanks, I really appreciate it. Friends like you are a lifesaver.\nA: Any time. Let's grab some food tomorrow, my treat.\nB: Sounds like a plan. I could definitely use a distraction.",
+    "japanese": "調子（ちょうし）はどう？／なんとかやってる？",
+    "chinese": "你还撑得住吗? (Nǐ hái chēng de zhù ma?) / 最近好吗? (Zuìjìn hǎo ma?)",
+    "spanish": "¿Cómo lo llevas? / ¿Qué tal estás aguantando?"
+  },
+  {
+    "id": 921,
+    "primary": "All you have to do is do it.",
+    "meaning": "그냥 하기만 하면 돼요.",
+    "similar": [
+      "Just do it.",
+      "It's as simple as that.",
+      "Don't overthink it.",
+      "Make it happen.",
+      "Execution is key."
+    ],
+    "example": "A: I really want to start my own YouTube channel but I'm scared.\nB: Honestly? All you have to do is do it. Stop planning and just record something.\nA: But what if it's not perfect right away?\nB: No one's first video is perfect. You learn as you go.\nA: You're right. I'm just gonna pick up the camera today.\nB: That's the spirit. Start small and grow from there.",
+    "japanese": "やるしかないよ。／とにかくやってみなよ。",
+    "chinese": "干就完了 (Gàn jiù wán le) / 做了再说 (Zuò le zàishuō)",
+    "spanish": "Solo tienes que hacerlo. / Lánzate y hazlo."
+  },
+  {
+    "id": 922,
+    "primary": "What do you have in mind?",
+    "meaning": "무슨 생각을 하고 있나요?",
+    "similar": [
+      "What are you thinking?",
+      "What's your plan?",
+      "What's on your mind?",
+      "What are you suggesting?",
+      "What's your idea?"
+    ],
+    "example": "A: We should definitely do something fun for your birthday.\nB: I'm down. What do you have in mind? I'm open to anything.\nA: I was thinking we could do a rooftop dinner or something.\nB: Ooh, that sounds classy. Which spot were you thinking?\nA: There's this new place in Williamsburg with a crazy view.\nB: Say less. I'm already there in my head.",
+    "japanese": "何（なに）か考（かんが）えがあるの？／どうするつもり？",
+    "chinese": "你打算怎么办? (Nǐ dǎsuàn zěnme bàn?) / 你有什么主意? (Nǐ yǒu shénme zhǔyi?)",
+    "spanish": "¿Qué tienes pensado? / ¿Qué se te pasa por la cabeza?"
+  },
+  {
+    "id": 923,
+    "primary": "Don't be that way.",
+    "meaning": "그러지 마세요.",
+    "similar": [
+      "Don't act like that.",
+      "Chill out.",
+      "Don't be like that.",
+      "Stop being so difficult.",
+      "Be nice."
+    ],
+    "example": "A: I'm not going to the party if she's gonna be there.\nB: Come on, don't be that way! It's my birthday, just ignore her.\nA: You know she always tries to start drama with me.\nB: I'll make sure she stays on the other side of the room.\nA: Fine, I'll go, but if she says one thing to me, I'm out.\nB: Deal. I'm just glad you're coming.",
+    "japanese": "そんな態度（たいど）とらないでよ。／冷（つめ）たくしないで。",
+    "chinese": "别那样 (Bié nàyàng) / 别这副样子 (Bié zhè fù yàngzi)",
+    "spanish": "No seas así. / Venga, no te pongas así."
+  },
+  {
+    "id": 924,
+    "primary": "Let's get the ball rolling.",
+    "meaning": "일을 시작해 봅시다.",
+    "similar": [
+      "Let's get started.",
+      "Let's kick things off.",
+      "Let's begin.",
+      "Time to get to work.",
+      "Let's start the process."
+    ],
+    "example": "A: We've been planning this launch for months.\nB: For real. It's finally time to get the ball rolling.\nA: Everyone knows their roles, right?\nB: Yeah, we're all set. Let's just execute.\nA: Perfect. I'll send out the first batch of emails now.\nB: Let's do it. Onwards and upwards!",
+    "japanese": "始（はじ）めようか。／取（と）り掛（か）かろう。",
+    "chinese": "开始行动吧 (Kāishǐ xíngdòng ba) / 步入正轨 (Bùrù zhèngguǐ)",
+    "spanish": "Pongámonos en marcha. / Vamos a empezar ya."
+  },
+  {
+    "id": 925,
+    "primary": "It costs an arm and a leg.",
+    "meaning": "엄청 비싸요.",
+    "similar": [
+      "It's very expensive.",
+      "It's overpriced.",
+      "It's a major expense.",
+      "That's not cheap at all.",
+      "It's pricey."
+    ],
+    "example": "A: Did you see those new designer shoes at the mall?\nB: Yeah, but honestly? It costs an arm and a leg just to look at them.\nA: No cap. I love the style, but I have bills to pay.\nB: Exactly. I could buy like ten pairs of regular sneakers for that price.\nA: Facts. Some things just aren't worth the hype.\nB: Definitely. I'll stick to my thrift store finds.",
+    "japanese": "めっちゃ高（たか）いよ。／ぼったくりレベルだよ。",
+    "chinese": "贵得离谱 (Guì de lípǔ) / 宰人呢 (Zǎirén ne)",
+    "spanish": "Cuesta un ojo de la cara. / Vale un riñón."
+  },
+  {
+    "id": 926,
+    "primary": "Don't go through the motions.",
+    "meaning": "건성으로 하지 마세요.",
+    "similar": [
+      "Give it your all.",
+      "Don't just halfway do it.",
+      "Be intentional.",
+      "Put in the actual effort.",
+      "Don't be lazy."
+    ],
+    "example": "A: I'm just trying to finish this task as fast as possible.\nB: Look, don't just go through the motions. Quality actually matters here.\nA: I know, I'm just feeling a bit burnt out today.\nB: Take a break then. It's better to do it right than to do it twice.\nA: You're right. I'll step away for a bit and come back refocus.\nB: Smart move. Do it right, and you won't have to worry about it later.",
+    "japanese": "いい加減（かげん）にやらないで。／ちゃんとやって。",
+    "chinese": "别走过场 (Bié zǒuguòchǎng) / 别敷衍 (Bié fūyǎn)",
+    "spanish": "No lo hagas por cumplir. / Ponle ganas."
+  },
+  {
+    "id": 927,
+    "primary": "You took the words right out of my mouth.",
+    "meaning": "내 말이 그 말이에요.",
+    "similar": [
+      "That's exactly what I was thinking.",
+      "I was about to say that.",
+      "Great minds think alike.",
+      "You stole my line.",
+      "We're on the same page."
+    ],
+    "example": "A: This coffee shop is way too loud to get any work done.\nB: Seriously! You took the words right out of my mouth.\nA: Let's just head over to the library instead.\nB: I'm down. It's much quieter over there anyway.\nA: Facts. Let's pack up our stuff and go.\nB: Say less. I'm already out the door.",
+    "japanese": "まさにそれを言（い）おうとしてた。／先（さき）に言（い）われちゃった。",
+    "chinese": "英雄所见略同 (Yīngxióng suǒjiàn lüètóng) / 我正要这么说呢 (Wǒ zhèngyào zhème shuō ne)",
+    "spanish": "Me lo has quitado de la boca. / Justo iba a decir eso."
+  },
+  {
+    "id": 928,
+    "primary": "You crossed the line.",
+    "meaning": "선을 넘으셨네요.",
+    "similar": [
+      "That was inappropriate.",
+      "You went too far.",
+      "That's unacceptable.",
+      "You're out of bounds.",
+      "That was out of order."
+    ],
+    "example": "A: I was just joking about your new haircut, chill out.\nB: Honestly? You crossed the line when you brought up my insecurities.\nA: My bad, I didn't realize it would bother you that much.\nB: Some things just aren't funny, man. You gotta know the limit.\nA: You're right. I'm really sorry. I didn't mean any harm.\nB: I appreciate the apology. Let's just not go there again.",
+    "japanese": "それは言（い）い過（す）ぎだよ。／一線（いっせん）を越（こ）えてるよ。",
+    "chinese": "过分了啊 (Guòfèn le a) / 越界了 (Yuèjiè le)",
+    "spanish": "Te has pasado. / Te has pasado de la raya."
+  },
+  {
+    "id": 929,
+    "primary": "He knows his stuff.",
+    "meaning": "그는 자기 분야를 잘 알아요.",
+    "similar": [
+      "He's an expert.",
+      "He's very knowledgeable.",
+      "He's well-versed in his field.",
+      "He really knows what he's talking about.",
+      "He's a pro."
+    ],
+    "example": "A: Should I ask the new guy for help with the coding issue?\nB: Definitely. He really knows his stuff when it comes to React.\nA: That's good to hear. I was struggling with this component for hours.\nB: He'll probably fix it in like five minutes. He's a wizard.\nA: Alright, I'll go hit him up now.\nB: Good luck. Let me know what he says.",
+    "japanese": "彼（かれ）は詳（くわ）しいよ。／彼（かれ）はプロだよ。",
+    "chinese": "他在行 (Tā zàiháng) / 他有两下子 (Tā yǒu liǎngxiàzi)",
+    "spanish": "Él sabe de lo que habla. / Es un hacha en lo suyo."
+  },
+  {
+    "id": 930,
+    "primary": "Hang in there!",
+    "meaning": "조금만 더 버텨봐!",
+    "similar": [
+      "Don't give up!",
+      "Keep going!",
+      "Stay strong!",
+      "You can do it!",
+      "Don't lose hope!"
+    ],
+    "example": "A: This week has been such a struggle at work.\nB: I know it's tough, but hang in there! Only two more days till the weekend.\nA: I'm honestly just counting down the hours at this point.\nB: You've got this. Keep your head up and push through.\nA: Thanks for the encouragement. It really helps during these long shifts.\nB: Any time. You're almost there!",
+    "japanese": "踏（ふ）ん張（ば）って！／持（も）ちこたえて！",
+    "chinese": "坚持住! (Jiānchí zhù!) / 挺住! (Tǐng zhù!)",
+    "spanish": "¡Aguanta! / ¡No te rindas!"
+  },
+  {
+    "id": 931,
+    "primary": "You need to break the habit.",
+    "meaning": "그 습관을 고쳐야 해요.",
+    "similar": [
+      "Stop doing that regularly.",
+      "Change your behavior.",
+      "Kick the habit.",
+      "End that routine.",
+      "Develop a better habit."
+    ],
+    "example": "A: I keep checking my phone every five minutes without even thinking.\nB: You really need to break that habit. It's killing your focus.\nA: I know, but it feels like an addiction at this point.\nB: Try leaving it in another room while you're working.\nA: That's a good idea. I'll give it a shot today.\nB: Trust me, you'll feel way more productive.",
+    "japanese": "その癖（くせ）直（なお）しなよ。／いい加減（かげん）やめなよ。",
+    "chinese": "改改这个毛病 (Gǎigǎi zhège máobìng) / 戒掉这个习惯 (Jièdiào zhège xíguàn)",
+    "spanish": "Tienes que dejar ese hábito. / Corta con eso ya."
+  },
+  {
+    "id": 932,
+    "primary": "You hit the nail on the head.",
+    "meaning": "정곡을 찔렀네요.",
+    "similar": [
+      "You're exactly right.",
+      "Spot on.",
+      "You nailed it.",
+      "You pinpointed the problem perfectly.",
+      "Precisely."
+    ],
+    "example": "A: I think the real reason we're losing customers is the checkout process.\nB: Wow, you really hit the nail on the head. That's exactly where the drop-off happens.\nA: It's just too complicated and takes too many steps.\nB: Facts. We need to streamline it as much as possible.\nA: Let's start working on a simpler design today.\nB: I'm all for it. That should definitely boost our numbers.",
+    "japanese": "図星（ずぼし）だね。／核心（かくしん）を突（つ）いてるね。",
+    "chinese": "一针见血 (Yīzhēnjiànxiě) / 说到点子上了 (Shuō dào diǎnzi shàng le)",
+    "spanish": "Has dado en el clavo. / Lo has clavado."
+  },
+  {
+    "id": 933,
+    "primary": "My brain is not as good as it used to be.",
+    "meaning": "예전만큼 머리가 안 돌아가요.",
+    "similar": [
+      "I'm getting forgetful.",
+      "I'm not as sharp as before.",
+      "I'm slowing down mentally.",
+      "My cognitive skills are declining.",
+      "I feel a bit rusty lately."
+    ],
+    "example": "A: Do you remember the name of that movie we watched last night?\nB: Honestly? My brain is not as good as it used to be. I already forgot.\nA: Haha, it was 'Inception'! How could you forget that?\nB: I don't know, man. Lately I just can't keep names straight.\nA: It's all good. Maybe you just need some more sleep.\nB: Facts. I'm definitely feeling a bit sluggish.",
+    "japanese": "頭（あたま）が回（まわ）らなくなってきた。／焼（や）きが回（まわ）ったかな。",
+    "chinese": "记性大不如前 (Jìxìng dà bùrú qián) / 脑子不好使了 (Nǎozi bù hǎoshǐ le)",
+    "spanish": "Ya no tengo la cabeza como antes. / Estoy perdiendo facultades."
+  },
+  {
+    "id": 934,
+    "primary": "I was ripped off.",
+    "meaning": "바가지 썼어요.",
+    "similar": [
+      "I was overcharged.",
+      "I got scammed.",
+      "I paid too much.",
+      "I was tricked.",
+      "It was a total ripoff."
+    ],
+    "example": "A: How much did you pay for that bottle of water at the concert?\nB: Ten bucks. I honestly felt like I was being ripped off.\nA: That's highway robbery! They really know people are desperate.\nB: For real. I should've just brought my own reusable bottle.\nA: Live and learn, I guess. At least you're hydrated now.\nB: Facts, but my wallet is definitely feeling lighter.",
+    "japanese": "ぼったくられたよ。／高（たか）すぎたよ。",
+    "chinese": "被宰了 (Bèi zǎi le) / 被坑了 (Bèi kēng le)",
+    "spanish": "Me han timado. / Me han estafado."
+  },
+  {
+    "id": 935,
+    "primary": "I am out and about",
+    "meaning": "밖에 나와서 여기저기 다니는 중이다",
+    "similar": [
+      "running around",
+      "out doing stuff",
+      "on the go",
+      "busy outside",
+      "making rounds"
+    ],
+    "example": "A: Where are you right now?\nB: I'm out and about, running errands.\nA: Can you grab milk?\nB: Sure, I'm near the bodega.\nA: Thanks, you save my life.\nB: No problem, headed home soon.",
+    "japanese": "出先（でさき）だよ。／外（そと）まわり中（ちゅう）だよ。",
+    "chinese": "外出了 (Wàichū le) / 在外面办事呢 (Zài wàimiàn bànshì ne)",
+    "spanish": "Estoy por ahí. / Ando de un lado para otro."
+  },
+  {
+    "id": 936,
+    "primary": "I can't get that off my mind.",
+    "meaning": "그게 머릿속에서 떠나질 않아요.",
+    "similar": [
+      "I'm obsessed with it.",
+      "I keep thinking about it.",
+      "It's stuck in my head.",
+      "I can't stop pondering it.",
+      "It's all I can think about."
+    ],
+    "example": "A: You've been staring at that same page for twenty minutes.\nB: I know. I just can't get that conversation we had earlier off my mind.\nA: Was it that bad? I thought we cleared things up.\nB: It's not that, it's just a lot to process, you know?\nA: I feel you. Just take your time with it.\nB: Thanks. I'll try to focus on something else for a bit.",
+    "japanese": "頭（あたま）から離（はな）れないんだ。／気（き）になって仕方（しかた）ない。",
+    "chinese": "挥之不去 (Huīzhībùqù) / 总是想着这事儿 (Zǒngshì xiǎngzhe zhè shìr)",
+    "spanish": "No me lo quito de la cabeza. / Le doy muchas vueltas."
+  },
+  {
+    "id": 937,
+    "primary": "Don't kid yourself.",
+    "meaning": "착각하지 마세요.",
+    "similar": [
+      "Stop lying to yourself.",
+      "Be realistic.",
+      "Get a reality check.",
+      "Don't be delusional.",
+      "Face the truth."
+    ],
+    "example": "A: I think I can finish this whole project in one night.\nB: Look, don't kid yourself. You know that's not gonna happen.\nA: But I'm feeling really motivated right now!\nB: Motivation is great, but physics and time are still real things.\nA: Fine, maybe I'll need two nights then.\nB: Better. Let's aim for a realistic deadline instead.",
+    "japanese": "自惚（うぬぼ）れないで。／現実（げんじつ）を見（み）なよ。",
+    "chinese": "别自欺欺人了 (Bié zìqīqīrén le) / 别做白日梦了 (Bié zuò báirìmèng le)",
+    "spanish": "No te engañes. / Abre los ojos."
+  },
+  {
+    "id": 938,
+    "primary": "It's no picnic.",
+    "meaning": "쉬운 일이 아니에요.",
+    "similar": [
+      "It's not easy.",
+      "It's a struggle.",
+      "It's a tough task.",
+      "It's difficult.",
+      "It's no walk in the park."
+    ],
+    "example": "A: How was the half-marathon? Was it as fun as you expected?\nB: Honestly? It's no picnic. My legs are basically jelly right now.\nA: I bet. Twenty-one kilometers is a long way to run.\nB: For real. The hills at the end were especially brutal.\nA: I'm still proud of you for finishing though!\nB: Thanks. I'm definitely taking a break from running for a while.",
+    "japanese": "楽（らく）じゃないよ。／一筋縄（ひとすじなわ）ではいかないよ。",
+    "chinese": "不容易 (Bù róngyì) / 挺费劲的 (Tǐng fèijìn de)",
+    "spanish": "No es camino de rosas. / No es nada fácil."
+  },
+  {
+    "id": 939,
+    "primary": "Just let it go.",
+    "meaning": "그냥 잊어버려요.",
+    "similar": [
+      "Don't dwell on it.",
+      "Move on.",
+      "Drop it.",
+      "Forget about it.",
+      "Ignore it."
+    ],
+    "example": "A: I still can't believe he said those mean things to me.\nB: Look, it happened weeks ago. You just need to let it go.\nA: It's hard though. I really thought he was my friend.\nB: Some people aren't worth the energy. Focus on yourself instead.\nA: You're right. I'm just wasting my time thinking about him.\nB: Exactly. Let's go out and have some fun instead.",
+    "japanese": "忘（わす）れなよ。／水（みず）に流（なが）そう。",
+    "chinese": "随它去吧 (Suí tā qù ba) / 算了吧 (Suàn le ba)",
+    "spanish": "Déjalo estar. / Olvídalo ya."
+  },
+  {
+    "id": 940,
+    "primary": "Come to your senses",
+    "meaning": "정신 차려라, 이성적으로 생각해라",
+    "similar": [
+      "snap out of it",
+      "get real",
+      "think straight",
+      "be rational",
+      "wake up"
+    ],
+    "example": "A: I'm quitting my job to become a mime.\nB: You need to come to your senses.\nA: It's my passion!\nB: It doesn't pay rent.\nA: Money isn't everything.\nB: In New York? Yes, it is.",
+    "japanese": "正気（しょうき）に戻（もど）れよ。／現実（げんじつ）を見（み）ろよ。",
+    "chinese": "清醒点儿吧 (Qīngxǐng diǎnr ba) / 找回理智 (Zhǎohuí lǐzhì)",
+    "spanish": "Entra en razón. / Recupera el juicio."
+  },
+  {
+    "id": 941,
+    "primary": "Let's call it a day.",
+    "meaning": "오늘은 이만 마칩시다.",
+    "similar": [
+      "Let's stop working for now.",
+      "Finish up for today.",
+      "End the shift.",
+      "Close up shop.",
+      "Wrap it up."
+    ],
+    "example": "A: We've been at this for ten hours. My brain is officially fried.\nB: Honestly? Let's call it a day. We can finish this in the morning.\nA: I'm all for it. I'm literally seeing spots at this point.\nB: Facts. Everyone go home, get some rest, and we'll regroup then.\nA: Sounds like a plan. Safe travels everyone!\nB: Peace out! See you tomorrow.",
+    "japanese": "今日（きょう）はここまで。／切（き）り上（あ）げよう。",
+    "chinese": "今天就到这儿吧 (Jīntiān jiù dào zhèr ba) / 散会 (Sànhuì)",
+    "spanish": "Por hoy ya está bien. / Dejémoslo por hoy."
+  },
+  {
+    "id": 942,
+    "primary": "Act your age.",
+    "meaning": "나잇값 좀 하세요.",
+    "similar": [
+      "Be mature.",
+      "Stop being childish.",
+      "Grow up.",
+      "Behave properly.",
+      "Conduct yourself as an adult."
+    ],
+    "example": "A: Did you see him throwing a tantrum in the middle of the store?\nB: Yeah, it was so embarrassing. Honestly? He needs to act his age.\nA: For real. You're thirty-five, not five. Calm down.\nB: Some people just never learn how to regulate their emotions.\nA: It's honestly just sad to watch.\nB: Facts. Maturity is clearly not inherited.",
+    "japanese": "年相応（としそうおう）に振（ふ）る舞（ま）いなよ。／大人（おとな）げないよ。",
+    "chinese": "成熟点儿 (Chéngshú diǎnr) / 干点大人的事儿 (Gàn diǎn dàrén de shìr)",
+    "spanish": "Compórtate como un adulto. / A ver si maduras."
+  },
+  {
+    "id": 943,
+    "primary": "It went over my head.",
+    "meaning": "이해가 안 됐어요.",
+    "similar": [
+      "I didn't understand it.",
+      "It was too complex for me.",
+      "I missed the point.",
+      "It was beyond my comprehension.",
+      "I'm confused."
+    ],
+    "example": "A: Did you understand the technical part of the presentation?\nB: Not at all. Honestly? Most of it just went over my head.\nA: I feel you. Those charts were incredibly confusing.\nB: For real. I'm gonna have to ask for a simplified summary later.\nA: Same. I don't think anyone in that room actually followed along.\nB: Facts. They really need to work on their communication skills.",
+    "japanese": "理解（りかい）できなかった。／難（むずか）しすぎた。",
+    "chinese": "没听懂 (Méi tīng dǒng) / 深奥了点 (Shēn'ào le diǎn)",
+    "spanish": "No me he enterado de nada. / Se me escapa."
+  },
+  {
+    "id": 944,
+    "primary": "Are you open today?",
+    "meaning": "오늘 영업해요?",
+    "similar": [
+      "Are you guys serving?",
+      "Is the shop open?",
+      "Business hours today?",
+      "Are you closed?",
+      "Can I come in?"
+    ],
+    "example": "A: (Calling) Hi, are you open today?\nB: Yes, until 9 PM.\nA: Do I need a reservation?\nB: Walk-ins are fine.\nA: Great, see you in ten.\nB: We'll be here.",
+    "japanese": "今日（きょう）やってますか？／営業（えいぎょう）してますか？",
+    "chinese": "今天开门吗? (Jīntiān kāimén ma?) / 营业吗? (Yíngyè ma?)",
+    "spanish": "¿Abrís hoy? / ¿Estáis abiertos?"
+  },
+  {
+    "id": 945,
+    "primary": "Don't make a big deal.",
+    "meaning": "호들갑 떨지 마세요.",
+    "similar": [
+      "Don't overreact.",
+      "Keep it low key.",
+      "Stay calm.",
+      "Don't exaggerate.",
+      "Relax."
+    ],
+    "example": "A: I can't believe I spilled a tiny bit of coffee on my shirt!\nB: Look, it's barely noticeable. Don't make a big deal out of it.\nA: But I have an important meeting in twenty minutes!\nB: Just dab it with some water, it'll be fine. No one's gonna be staring at your chest.\nA: Alright, alright. I'm just overthinking it.\nB: Facts. Just focus on your presentation instead.",
+    "japanese": "大騒（おおさわ）ぎしないで。／大（おお）げさにしないで。",
+    "chinese": "别小题大做 (Bié xiǎotídàzuò) / 别大惊小怪的 (Bié dàjīngxiǎoguài de)",
+    "spanish": "No hagas un mundo de ello. / No le des tanta importancia."
+  },
+  {
+    "id": 946,
+    "primary": "In a nutshell.",
+    "meaning": "한마디로 말하면요.",
+    "similar": [
+      "Briefly put.",
+      "To summarize.",
+      "In short.",
+      "Essentially.",
+      "To make a long story short."
+    ],
+    "example": "A: Can you explain the whole situation with the merger?\nB: Well, in a nutshell, we're combining two teams to save on costs.\nA: So are there gonna be layoffs then?\nB: That's the part we're still figuring out, but hopefully not.\nA: I see. Thanks for clarify it so clearly.\nB: No problem. I'll keep you posted as I hear more.",
+    "japanese": "一言（ひとこと）で言（い）えば／要（よう）するに",
+    "chinese": "简而言之 (Jiǎn'éryánzhī) / 概括地说 (Gàikuò de shuō)",
+    "spanish": "En resumidas cuentas. / Total, que..."
+  },
+  {
+    "id": 947,
+    "primary": "Don't spill the beans.",
+    "meaning": "비밀을 누설하지 마세요.",
+    "similar": [
+      "Don't tell the secret.",
+      "Keep it a surprise.",
+      "Stay quiet about it.",
+      "Don't ruin the surprise.",
+      "Keep it under wraps."
+    ],
+    "example": "A: We're throwing a surprise party for him this Friday.\nB: Ooh, I love surprises! I'll definitely be there.\nA: Just whatever you do, don't spill the beans! He has no idea.\nB: My lips are sealed. I'm actually really good at keeping secrets.\nA: Good to hear. We want this to be a total shock.\nB: Bet. He's gonna be so hyped.",
+    "japanese": "秘密（ひみつ）をもらさないでね。／バラさないでね。",
+    "chinese": "别走漏风声 (Bié zǒulòu fēngshēng) / 守口如瓶 (Shǒukǒurúpíng)",
+    "spanish": "No te vayas de la lengua. / No sueltes prenda."
+  },
+  {
+    "id": 948,
+    "primary": "Are you guys open?",
+    "meaning": "지금 장사해요?",
+    "similar": [
+      "Still open?",
+      "Taking orders?",
+      "Open for business?",
+      "Can we sit?",
+      "Kitchen open?"
+    ],
+    "example": "A: Hey, are you guys open?\nB: We close in 5 minutes.\nA: Can we just get takeout?\nB: Kitchen is closed, sorry.\nA: Man, we're starving.\nB: Try the pizza place next door.",
+    "japanese": "営業（えいぎょう）してますか？／まだやってる？",
+    "chinese": "你们开业吗? (Nǐmen kāiyè ma?) / 营业中吗? (Yíngyèzhōng ma?)",
+    "spanish": "¿Estáis abiertos? / ¿Seguís atendiendo?"
+  },
+  {
+    "id": 949,
+    "primary": "I'm going to keep my eyes peeled.",
+    "meaning": "잘 살필게요.",
+    "similar": [
+      "I'll be on the lookout.",
+      "I'll watch closely.",
+      "I'll stay alert.",
+      "I'll keep a sharp eye out.",
+      "I'll be scanning for it."
+    ],
+    "example": "A: I lost my keys somewhere near the park. Have you seen them?\nB: Haven't seen them yet, but I'm going to keep my eyes peeled for you.\nA: Thanks, man. They've got a little green keychain on them.\nB: Got it. I'll hit you up as soon as I spot anything.\nA: I really appreciate the help. I'm so stressed right now.\nB: Chill, we'll find them. Stay positive.",
+    "japanese": "目（め）を光（ひか）らせておくよ。／注意（ちゅうい）して見（み）ておくよ。",
+    "chinese": "我会留意观察的 (Wǒ huì liúyì guānchá de) / 睁大眼睛找 (Zhēngdà yǎnjīng zhǎo)",
+    "spanish": "Estaré atento. / No le quitaré ojo."
+  },
+  {
+    "id": 950,
+    "primary": "I'm right behind you.",
+    "meaning": "내가 뒤에서 응원할게.",
+    "similar": [
+      "I support you.",
+      "I'm here for you.",
+      "I've got your back.",
+      "I'm with you all the way.",
+      "Count on my support."
+    ],
+    "example": "A: I'm finally gonna ask for that promotion this afternoon.\nB: Go for it! Honestly, I'm right behind you 100%.\nA: Thanks. I'm still a little nervous about how they'll react.\nB: You've earned it, so just be confident and state your case.\nA: Your support really means a lot to me. Fingers crossed!\nB: You'll kill it. Let's celebrate after work either way.",
+    "japanese": "応援（おうえん）してるよ。／バックアップするよ。",
+    "chinese": "我挺你 (Wǒ tǐng nǐ) / 我在你身后支持你 (Wǒ zài nǐ shēnhòu zhīchí nǐ)",
+    "spanish": "Te apoyo en todo. / Estoy contigo a muerte."
+  },
+  {
+    "id": 951,
+    "primary": "There you go again.",
+    "meaning": "또 시작이네.",
+    "similar": [
+      "Here we go again.",
+      "You're doing it again.",
+      "Same old story.",
+      "Typical of you.",
+      "Not this again."
+    ],
+    "example": "A: I'm just saying, maybe if you cleaned up more occasionally...\nB: Ugh, there you go again. Can we please just have one meal without an argument?\nA: I'm just trying to have a reasonable conversation about the house!\nB: Your timing is always the worst though. Let's just eat.\nA: Fine, but we're talking about this later tonight.\nB: Great. Looking forward to it already.",
+    "japanese": "また始（はじ）まった。／またそれ？",
+    "chinese": "又来了 (Yòu lái le) / 老调重弹 (Lǎodiàochòngtán)",
+    "spanish": "Ya estamos otra vez. / Otra vez con lo mismo."
+  },
+  {
+    "id": 952,
+    "primary": "Figures.",
+    "meaning": "그러면 그렇지. 그럴 줄 알았어.",
+    "similar": [
+      "Makes sense",
+      "Not surprised",
+      "Typical",
+      "Expected that",
+      "Of course"
+    ],
+    "example": "A: He cancelled again.\nB: Figures.\nA: He always has an excuse.\nB: He's unreliable, stop inviting him.\nA: I keep hoping he'll change.\nB: Figures you'd say that.",
+    "japanese": "やっぱりね。／そう来（く）ると重（おも）った。",
+    "chinese": "我就知道 (Wǒ jiù zhīdào) / 意料之中 (Yìliào zhī zhōng)",
+    "spanish": "Me lo imaginaba. / No me extraña."
+  },
+  {
+    "id": 953,
+    "primary": "Duh",
+    "meaning": "당연하지.",
+    "similar": [
+      "Obvi",
+      "No brainer",
+      "Obviously",
+      "Hello?",
+      "You think?"
+    ],
+    "example": "A: Is it cold outside?\nB: It's snowing. Duh.\nA: I didn't look out the window.\nB: Check your weather app then.\nA: You don't have to be mean.\nB: I'm just freezing, sorry.",
+    "japanese": "当（あ）たり前（まえ）でしょ。／見（み）ればわかるでしょ。",
+    "chinese": "废话 (Fèihuà) / 那还用说 (Nà hái yòng shuō)",
+    "spanish": "Pues claro. / Obvio."
+  },
+  {
+    "id": 954,
+    "primary": "Stop bugging me.",
+    "meaning": "나 좀 괴롭히지 마세요.",
+    "similar": [
+      "Leave me alone.",
+      "Quit annoying me.",
+      "Stop bothering me.",
+      "Go away.",
+      "Give it a rest."
+    ],
+    "example": "A: Are you done with the report yet? How about now? Now?\nB: Honestly? Stop bugging me! I told you I'll have it by 5 PM.\nA: I just wanted to make sure we're on track.\nB: Your constant questions are actually making me slower. Chill out.\nA: Alright, alright. I'll leave you alone for now.\nB: Thank you. I really need to focus.",
+    "japanese": "構（かま）わないで。／うざいからやめて。",
+    "chinese": "别烦我 (Bié fán wǒ) / 别缠着我 (Bié chánzhe wǒ)",
+    "spanish": "Deja de darme la lata. / No me rayes más."
+  },
+  {
+    "id": 955,
+    "primary": "I've been there before.",
+    "meaning": "나도 그런 적이 있어요.",
+    "similar": [
+      "I've experienced that.",
+      "I know exactly how you feel.",
+      "I've been in that situation.",
+      "Same here.",
+      "I've had that happen too."
+    ],
+    "example": "A: I feel so embarrassed for tripping in front of everyone.\nB: Don't even worry about it. I've been there before, trust me.\nA: Everyone probably thinks I'm such a klutz now.\nB: In three minutes, they'll have forgotten all about it. Stay chill.\nA: I hope so. It was just so public, you know?\nB: Facts. But honestly, most people are too busy with their own stuff to care.",
+    "japanese": "私（わたし）も経験（けいけん）あるよ。／わかる、その気持（きも）ち。",
+    "chinese": "我也经历过 (Wǒ yě jīnglì guò) / 感同身受 (Gǎntóngshēnshòu)",
+    "spanish": "Ya he pasado por eso. / Sé lo que es."
+  },
+  {
+    "id": 956,
+    "primary": "We're working with a skeleton crew.",
+    "meaning": "최소 인원으로 운영 중이에요.",
+    "similar": [
+      "We're understaffed.",
+      "Minimum staffing only.",
+      "We're short-handed.",
+      "Only a few people are here.",
+      "Bare minimum team."
+    ],
+    "example": "A: Why is service taking so long at the restaurant today?\nB: Honestly? We're working with a skeleton crew because of the flu going around.\nA: Oh, that makes sense. I apologize for being impatient.\nB: No worries. We're doing our best with what we've got.\nA: I'll just be patient then. I'm in no rush anyway.\nB: I appreciate the understanding. Your food should be out soon.",
+    "japanese": "人手不足（ひとでぶそく）なんです。／ギリギリの人数（にんずう）でやってます。",
+    "chinese": "人手严重不足 (Rénshǒu yánzhòng bùzú) / 只有几个核心人员 (Zhǐyǒu jǐ gè héxīn rényuán)",
+    "spanish": "Estamos en cuadro. / Somos cuatro gatos hoy."
+  },
+  {
+    "id": 957,
+    "primary": "That's the thing.",
+    "meaning": "그게 문제예요.",
+    "similar": [
+      "That's the issue.",
+      "That's the point.",
+      "Here's the catch.",
+      "Exactly my point.",
+      "That's what I'm saying."
+    ],
+    "example": "A: Why don't we just use the new software for the project?\nB: That's the thing... it's not compatible with our current systems.\nA: Oh... I didn't realize that was an issue.\nB: Yeah, we'd have to upgrade everything, which costs a fortune.\nA: Well, that's a huge hurdle then.\nB: Facts. We're gonna have to stick with the old way for now.",
+    "japanese": "そこが問題（もんだい）なんだよ。／それがねえ...",
+    "chinese": "问题就在这儿 (Wèntí jiù zài zhèr) / 关键就在这儿 (Guānjiàn jiù zài zhèr)",
+    "spanish": "Ese es el tema. / Ahí está la cosa."
+  },
+  {
+    "id": 958,
+    "primary": "Intriguing",
+    "meaning": "흥미로운",
+    "similar": [
+      "interesting",
+      "captivating",
+      "curious",
+      "engaging",
+      "compelling"
+    ],
+    "example": "A: I found this book very intriguing.\nB: What's it about?\nA: Time travel and coffee.\nB: Weird combo.\nA: But it works somehow.\nB: Might borrow it after you.",
+    "japanese": "興味深（きょうみぶか）いね。／面白（おもしろ）いね。",
+    "chinese": "很有趣 (Hěn yǒuqu) / 挺勾人的 (Tǐng gōurén de)",
+    "spanish": "Intrigante. / Curioso."
+  },
+  {
+    "id": 959,
+    "primary": "It happens all the time.",
+    "meaning": "늘 있는 일이에요.",
+    "similar": [
+      "It's a regular occurrence.",
+      "It's a common thing.",
+      "It's nothing new.",
+      "That's typical.",
+      "It's always happening."
+    ],
+    "example": "A: My phone just ran out of battery right when I needed it most.\nB: Don't even stress. It happens all the time to the best of us.\nA: It's just so frustrating! I was in the middle of a call.\nB: Next time just keep a portable charger with you. Game changer.\nA: You're right. I'm just gonna go plug it in now.\nB: Better late than never. I'll wait for you to come back online.",
+    "japanese": "よくあることだよ。／日常茶飯事（にちじょうさはんじ）だよ。",
+    "chinese": "司空见惯了 (Sīkōngjiànguàn le) / 经常发生 (Jīngcháng fāshēng)",
+    "spanish": "Pasa a cada rato. / Es el pan de cada día."
+  },
+  {
+    "id": 960,
+    "primary": "There is no smoking gun.",
+    "meaning": "결정적인 증거가 없어요.",
+    "similar": [
+      "There's no definitive proof.",
+      "The evidence is inconclusive.",
+      "Nothing that proves it for sure.",
+      "No clear evidence found.",
+      "It's all purely circumstantial."
+    ],
+    "example": "A: I'm pretty sure he stole the idea, but I can't prove it.\nB: That's the problem. There is no smoking gun, so it's your word against his.\nA: It's so frustrating! I know it's my concept.\nB: I believe you, but without some kind of paper trail, it's tough.\nA: I'll start keeping better notes and records from now on.\nB: Smart move. Protect yourself for next time.",
+    "japanese": "決定打（けっていだ）がないね。／確証（かくしょう）がないね。",
+    "chinese": "没有铁证 (Méiyǒu tiězhèng) / 证据不足 (Zhèngjù bùzú)",
+    "spanish": "No hay pruebas contundentes. / No hay nada definitivo."
+  },
+  {
+    "id": 961,
+    "primary": "I'm salty.",
+    "meaning": "삐졌어요 (까칠해졌어요).",
+    "similar": [
+      "I'm annoyed.",
+      "I'm bitter about it.",
+      "I'm in a bad mood.",
+      "I'm holding a small grudge.",
+      "I'm feeling petty."
+    ],
+    "example": "A: Why are you being so quiet? Are you still mad about the game?\nB: Honestly? Yeah, I'm salty because we should've won that one easily.\nA: It was a close game, though! You played really well.\nB: That doesn't matter if we didn't get the W. Let's just go home.\nA: Alright, alright. Don't be such a sore loser.\nB: Whatever. I'll be over it tomorrow morning.",
+    "japanese": "イライラしてるんだ。／不機嫌（ふきげん）なんだ。",
+    "chinese": "我有点不爽 (Wǒ yǒudiǎn bùshuǎng) / 闹别扭呢 (Nào bièniu ne)",
+    "spanish": "Estoy picado. / Estoy molesto."
+  },
+  {
+    "id": 962,
+    "primary": "You don't want to know.",
+    "meaning": "알면 다쳐요.",
+    "similar": [
+      "Trust me, don't ask.",
+      "Better left unsaid.",
+      "You're better off not knowing.",
+      "It's too complicated to explain.",
+      "Believe me, you don't wanna hear it."
+    ],
+    "example": "A: How was your meeting with the scary boss today?\nB: Look, you don't even want to know. It was a total disaster.\nA: Was it really that bad? Did they mention the budget thing?\nB: Just stop asking. I'm trying to erase the last hour from my memory.\nA: Alright, alright. I'll stop bugging you. Let's just grab a drink.\nB: Best idea you've had all day. Let's go.",
+    "japanese": "知（し）らない方（ほう）がいいよ。／聞（き）かない方（ほう）が身（み）のためだよ。",
+    "chinese": "你还是别知道的好 (Nǐ háishì bié zhīdào de hǎo) / 说来话长，别打听了 (Shuō lái huà cháng, bié dǎting le)",
+    "spanish": "Mejor no quieras saberlo. / No preguntes."
+  },
+  {
+    "id": 963,
+    "primary": "Fascinating",
+    "meaning": "매혹적인",
+    "similar": [
+      "amazing",
+      "very interesting",
+      "mind-bending",
+      "enthralling",
+      "gripping"
+    ],
+    "example": "A: Did you watch that documentary?\nB: Yeah, the cult one? Fascinating.\nA: I couldn't look away.\nB: People are so easily manipulated.\nA: Scary but true.\nB: Totally fascinating psychology.",
+    "japanese": "魅力的（みりょくてき）だね。／引（ひ）き込（こ）まれるね。",
+    "chinese": "非常迷人 (Fēicháng mírén) / 太引人入胜了 (Tài yǐnrénrùshèng le)",
+    "spanish": "Fascinante. / Increíble."
+  },
+  {
+    "id": 964,
+    "primary": "I got stuck in traffic.",
+    "meaning": "차가 막혔어요.",
+    "similar": [
+      "The traffic was terrible.",
+      "I was held up in traffic.",
+      "Traffic was a gridlock.",
+      "It was a parking lot out there.",
+      "Delays everywhere on the road."
+    ],
+    "example": "A: You're finally here! We were about to start without you.\nB: My bad, I got stuck in traffic on the BQE for like forty minutes.\nA: That road is literally always a nightmare. I hate it.\nB: For real. I should've just taken the train, it would've been way faster.\nA: Well, you're here now. Let's get down to business.\nB: Facts. I'm ready to go.",
+    "japanese": "渋滞（じゅうたい）にはまった。／道（みち）が混（こ）んでて。",
+    "chinese": "堵车了 (Dǔchē le) / 被堵在路上了 (Bèi dǔ zài lùshàng le)",
+    "spanish": "Me pilló un atasco. / Me quedé atrapado en el tráfico."
+  },
+  {
+    "id": 965,
+    "primary": "It's a different kettle of fish.",
+    "meaning": "그건 전혀 별개의 문제예요.",
+    "similar": [
+      "It's a separate issue.",
+      "It's a whole other thing.",
+      "That's incomparable.",
+      "Completely different situation.",
+      "Apples and oranges."
+    ],
+    "example": "A: So if you can code in Python, you can definitely handle Java too, right?\nB: Not really. It's a different kettle of fish entirely, man.\nA: I thought they were both just coding languages, though.\nB: The concepts are similar, but the syntax and rules are totally unique.\nA: I see. So it's not as simple as I thought then.\nB: Facts. I'm basically starting from square one with Java.",
+    "japanese": "全（まった）く別問題（べつもんだい）だよ。／話（はなし）が別（べつ）だよ。",
+    "chinese": "那是两码事 (Nà shì liǎng mǎ shì) / 截然不同 (Jiérán bùtóng)",
+    "spanish": "Eso es harina de otro costal. / Eso ya es otra historia."
+  },
+  {
+    "id": 966,
+    "primary": "Thought-provoking",
+    "meaning": "생각을 자극하는",
+    "similar": [
+      "deep",
+      "insightful",
+      "profound",
+      "inspiring",
+      "makes you think"
+    ],
+    "example": "A: That lecture was thought-provoking.\nB: My brain hurts now.\nA: It challenged my whole perspective.\nB: I just zoned out halfway.\nA: You missed the best part.\nB: I'll read the notes later.",
+    "japanese": "考（かんが）えさせられるね。／示唆（しさ）に富（と）んでるね。",
+    "chinese": "发人深省 (Fārénshēnxǐng) / 引发思考 (Yǐnfā sīkǎo)",
+    "spanish": "Da que pensar. / Te hace reflexionar."
+  },
+  {
+    "id": 967,
+    "primary": "I give you my word.",
+    "meaning": "약속할게요.",
+    "similar": [
+      "I promise.",
+      "You have my guarantee.",
+      "I'm telling the truth.",
+      "I swear.",
+      "You can trust me on this."
+    ],
+    "example": "A: Are you sure you'll have the report ready by Monday morning?\nB: 100%. I give you my word, it'll be in your inbox by 9 AM.\nA: Good looks. I really need it for that client meeting.\nB: Don't even worry about it. I'm finishing it up tonight.\nA: I appreciate that focus. You're a lifesaver.\nB: Facts. I never break my word once it's given.",
+    "japanese": "約束（やくそく）するよ。／誓（ちか）うよ。",
+    "chinese": "我向你保证 (Wǒ xiàng nǐ bǎozhèng) / 我说话算数 (Wǒ shuōhuà suànshù)",
+    "spanish": "Te doy mi palabra. / Te lo prometo."
+  },
+  {
+    "id": 968,
+    "primary": "It's a long story.",
+    "meaning": "사연이 많아요.",
+    "similar": [
+      "It's complicated.",
+      "There's a lot to explain.",
+      "I don't have time to get into it.",
+      "It's a whole thing.",
+      "Briefly said, but not really."
+    ],
+    "example": "A: How did you end up moving from Brooklyn to Queens?\nB: Man, it's a long story. A lot of stuff happened all at once.\nA: Was it because of the rent hike or something else?\nB: That was part of it, but there were some personal factors too.\nA: I feel you. Moving is always a huge headache anyway.\nB: For real. I'll tell you the details over drinks sometime.",
+    "japanese": "話（はなし）せば長（なが）くなるよ。／いろいろあってね。",
+    "chinese": "说来话长 (Shuō lái huà cháng) / 一言难尽 (Yīyánnánjìn)",
+    "spanish": "Es una larga historia. / Tiene mucha miga."
+  },
+  {
+    "id": 969,
+    "primary": "We've got to break the mold.",
+    "meaning": "관습을 깨야 해요.",
+    "similar": [
+      "We need to be innovative.",
+      "Time to change things up.",
+      "Let's do something different.",
+      "We've gotta think outside the box.",
+      "Let's challenge the status quo."
+    ],
+    "example": "A: Everyone else is doing the same basic marketing strategy.\nB: Exactly. We've got to break the mold and try something bold.\nA: What if we did a pop-up event in the middle of Times Square?\nB: Now that's what I'm talking about! That would definitely get attention.\nA: It's risky, but I think it could really pay off.\nB: Facts. Innovation always comes with a bit of risk.",
+    "japanese": "型（かた）を破（やぶ）らなきゃ。／新（あたら）しいことをしなきゃ。",
+    "chinese": "得打破常规 (Děi dǎpò chángguī) / 另辟蹊径 (Lìngpìxījìng)",
+    "spanish": "Hay que romper moldes. / Tenemos que innovar."
+  },
+  {
+    "id": 970,
+    "primary": "That's what I'm talking about!",
+    "meaning": "바로 그거예요!",
+    "similar": [
+      "I totally agree!",
+      "Exactly!",
+      "That's perfect!",
+      "You nailed it!",
+      "I'm so down for that!"
+    ],
+    "example": "A: Yo, I just got us front-row seats for the Knicks game!\nB: That's what I'm talking about! Let's go! You're a legend.\nA: It took forever to score them, but honestly? Totally worth it.\nB: For real! I've been wanting to see them live all season.\nA: Me too. We're gonna have the best time.\nB: Best day ever. No cap.",
+    "japanese": "さすがだね！／そうこなくっちゃ！",
+    "chinese": "这就对了! (Zhè jiù duì le!) / 正是我要说的! (Zhèngshì wǒ yào shuō de!)",
+    "spanish": "¡A eso me refiero! / ¡Así se habla!"
+  },
+  {
+    "id": 971,
+    "primary": "The damage is done.",
+    "meaning": "이미 엎질러진 물이에요.",
+    "similar": [
+      "It's too late now.",
+      "The harm has occurred.",
+      "There's no going back.",
+      "What's done is done.",
+      "The situation is irreversible."
+    ],
+    "example": "A: I really should've checked that email before I sent it.\nB: Honestly? The damage is done now. The client already saw it.\nA: Do you think they'll be mad about the typo?\nB: It wasn't just a typo, but hopefully they're in a good mood.\nA: I'm just gonna go hide in my office for a bit.\nB: Chill. Just apologize and move on. No use dwelling on it.",
+    "japanese": "もう手遅（ておく）れだよ。／覆（くつがえ）水（すい）盆（ぼん）に返（かえ）らずだよ。",
+    "chinese": "木已成舟 (Mùyǐchéngzhōu) / 无法挽回了 (Wúfǎ wǎnhuí le)",
+    "spanish": "El mal ya está hecho. / Ya no tiene remedio."
+  },
+  {
+    "id": 972,
+    "primary": "I can't sit still.",
+    "meaning": "가만히 못 있겠어요.",
+    "similar": [
+      "I'm feeling restless.",
+      "I have too much energy.",
+      "I'm anxious to move.",
+      "I can't stay in one place.",
+      "I'm fidgety."
+    ],
+    "example": "A: You've been pacing around the room for ten minutes.\nB: I know, I'm just so nervous about the interview results. I can't sit still.\nA: Try to take some deep breaths and relax a little.\nB: I'm trying, but my heart is racing. I just want to know already.\nA: I feel you. The waiting is always the hardest part.\nB: For real. I'm literally about to lose my mind.",
+    "japanese": "じっとしてられない。／落（お）ち着（つ）かない。",
+    "chinese": "坐不住 (Zuò bù zhù) / 闲不下来 (Xián bù xiàlái)",
+    "spanish": "No puedo estar quieto. / Me subo por las paredes."
+  },
+  {
+    "id": 973,
+    "primary": "It's better than nothing.",
+    "meaning": "없는 것보다 낫죠.",
+    "similar": [
+      "It's better than zero.",
+      "At least it's something.",
+      "Could be worse.",
+      "It's a start.",
+      "I'll take it."
+    ],
+    "example": "A: I only got a five percent discount on these shoes.\nB: Hey, it's better than nothing. Rent is expensive anyway.\nA: True, every little bit helps when you live in this city.\nB: For real. I'm always looking for ways to save a few bucks.\nA: Same. I should probably start cooking more at home instead of getting takeout.\nB: Facts. That's a real game changer for the wallet.",
+    "japanese": "ないよりマシだよ。／ゼロよりはいい。",
+    "chinese": "总比没有强 (Zǒng bǐ méiyǒu qiáng) / 聊胜于无 (Liáoshèngyúwú)",
+    "spanish": "Mejor eso que nada. / Algo es algo."
+  },
+  {
+    "id": 974,
+    "primary": "We go way back",
+    "meaning": "우린 오래전부터 알던 사이야.",
+    "similar": [
+      "known him forever",
+      "old friends",
+      "childhood buds",
+      "history together",
+      "long-time pals"
+    ],
+    "example": "A: How do you know Mike?\nB: Oh, we go way back.\nA: High school?\nB: Kindergarten actually.\nA: That's wild.\nB: Yeah, seen him through everything.",
+    "japanese": "古（ふる）い付（つ）き合（あ）いなんだ。／昔（むかし）からの知（し）り合（あ）いでね。",
+    "chinese": "我们是老相识了 (Wǒmen shì lǎoxiāngshí le) / 老交情了 (Lǎojiāoqing le)",
+    "spanish": "Nos conocemos de hace mil años. / Somos viejos amigos."
+  },
+  {
+    "id": 975,
+    "primary": "Stay focused.",
+    "meaning": "집중하세요.",
+    "similar": [
+      "Keep your eyes on the prize.",
+      "Don't get distracted.",
+      "Concentrate.",
+      "Stay on task.",
+      "Maintain your focus."
+    ],
+    "example": "A: I'm so tempted to check my socials right now.\nB: Look, stay focused! We only have twenty minutes to finish this project.\nA: You're right. I'll just leave my phone in my bag for now.\nB: Smart move. Let's knock this out so we can actually enjoy the night.\nA: Bet. I'm locked in now.\nB: That's what I like to hear. Let's get it.",
+    "japanese": "気（き）を散（ち）らさないで。／集中（しゅうちゅう）して。",
+    "chinese": "保持专注 (Bǎochí zhuānzhù) / 别分心 (Bié fēnxīn)",
+    "spanish": "Céntrate. / No te despistes."
+  },
+  {
+    "id": 976,
+    "primary": "He was quite high maintenance.",
+    "meaning": "그는 손이 많이 가는 스타일이에요.",
+    "similar": [
+      "He required a lot of attention.",
+      "He's difficult to please.",
+      "He's very demanding.",
+      "He's a lot of work.",
+      "He's needy."
+    ],
+    "example": "A: How did that date go with the guy you met on the app?\nB: Honestly? He was quite high maintenance. Constant texting and complaining.\nA: Oh no, that's a huge red flag for me.\nB: For real. I just want someone who's chill and can go with the flow.\nA: I feel you. Life is too stressful for all that extra drama.\nB: Facts. I'm definitely not seeing him again.",
+    "japanese": "彼（かれ）は手（て）がかかるよ。／扱（あつか）いにくいよ。",
+    "chinese": "他挺难伺候的 (Tā tǐng nán cìhou de) / 事情真多 (Shìqing zhēn duō)",
+    "spanish": "Era muy exigente. / Daba mucha guerra."
+  },
+  {
+    "id": 977,
+    "primary": "I went cold turkey.",
+    "meaning": "단번에 끊었어요.",
+    "similar": [
+      "I stopped abruptly.",
+      "I quit immediately.",
+      "I gave it up for good.",
+      "No gradual decrease, just stopped.",
+      "I cut it out completely."
+    ],
+    "example": "A: Wait, I haven't seen you with a vape in like a month.\nB: Yeah, I finally went cold turkey. Best decision I ever made.\nA: Was it hard? I heard the first few days are the worst.\nB: It was brutal, honestly. But it gets easier after the first week.\nA: Respect. That takes a lot of willpower.\nB: Facts. I'm just glad I'm finally free from it.",
+    "japanese": "きっぱりやめたよ。／スパッと断（た）ち切（き）ったよ。",
+    "chinese": "彻底戒了 (Chèdǐ jiè le) / 说断就断了 (Shuō duàn jiù duàn le)",
+    "spanish": "Lo dejé de golpe. / Corté por lo sano."
+  },
+  {
+    "id": 978,
+    "primary": "It takes me back",
+    "meaning": "옛날 생각 나게 해.",
+    "similar": [
+      "nostalgic",
+      "blast from the past",
+      "reminds me of the old days",
+      "throwback",
+      "memory lane"
+    ],
+    "example": "A: Listen to this song.\nB: Wow, it takes me back.\nA: To the college days?\nB: Yeah, cheap beer and bad decisions.\nA: Good times though.\nB: The best times.",
+    "japanese": "懐（なつ）かしいね。／昔（むかし）を思（おも）い出（だ）すね。",
+    "chinese": "勾起了我的回忆 (Gōu qǐ le wǒ de huíyì) / 让人怀念 (Ràng rén huáiniàn)",
+    "spanish": "Me trae recuerdos. / Qué nostalgia."
+  },
+  {
+    "id": 979,
+    "primary": "Get with the program.",
+    "meaning": "상황 파악 좀 하세요.",
+    "similar": [
+      "Catch up.",
+      "Understand the situation.",
+      "Realize what's happening.",
+      "Follow the plan.",
+      "Wake up to reality."
+    ],
+    "example": "A: Wait, why are we all wearing black today? I missed the memo.\nB: Seriously? Get with the program! It's because the boss's pet passed away.\nA: Oh snap... I feel so awkward in this bright yellow shirt now.\nB: Yeah, you definitely stick out like a sore thumb. Go change.\nA: My bad, I'll be back in ten. Is everyone really that upset?\nB: For real. Just keep it low key when you get back.",
+    "japanese": "状況（じょうきょう）を理解（りかい）しろよ。／空気（くうき）読（よ）めよ。",
+    "chinese": "跟上节奏 (Gēnshàng jiézòu) / 搞清楚状况 (Gǎo qīngchu zhuàngkuàng)",
+    "spanish": "Ubícate. / Ponte las pilas."
+  },
+  {
+    "id": 980,
+    "primary": "Give me a ballpark figure.",
+    "meaning": "대략적인 수치를 알려주세요.",
+    "similar": [
+      "Give me a rough estimate.",
+      "Approximate it for me.",
+      "What's the general range?",
+      "Give me a guess.",
+      "Give me a ballpark estimate."
+    ],
+    "example": "A: How much is it gonna cost to fix this whole kitchen?\nB: Look, I can't give you the exact price yet, but I can give you a ballpark figure.\nA: Alright, that works for now. Just so I can plan my budget.\nB: I'd say you're looking at around five to seven thousand dollars.\nA: That's a lot, but honestly? It could've been worse.\nB: Facts. I'll get you the detailed quote by tomorrow morning.",
+    "japanese": "ざっくりでいいから教（おし）えて。／大体（だいたい）の数字（すうじ）でいいよ。",
+    "chinese": "给个大概数字 (Gěi gè dàgài shùzì) / 大约是多少 (Dàyuē shì duōshǎo)",
+    "spanish": "Dame una cifra aproximada. / Dime algo a ojo."
+  },
+  {
+    "id": 981,
+    "primary": "What's your best guess?",
+    "meaning": "대충 짐작해보면 어때요?",
+    "similar": [
+      "What do you think is likely?",
+      "What's your estimation?",
+      "What's your initial thought?",
+      "Give me your best prediction.",
+      "What's your gut feeling?"
+    ],
+    "example": "A: Which team do you think is gonna win the championship this year?\nB: Honestly? My best guess is the Celtics. They've been playing crazy good.\nA: I don't know, the Warriors are looking pretty solid too.\nB: True, but the Celtics' defense is just on another level right now.\nA: We'll see. It's gonna be a wild season for sure.\nB: Facts. I'm just looking forward to the playoffs.",
+    "japanese": "どう思（おも）う？／当（あ）ててみて。",
+    "chinese": "你觉得大概是多少? (Nǐ juéde dàgài shì duōshǎo?) / 凭直觉猜猜看 (Píng zhíjué cāicai kàn)",
+    "spanish": "¿Qué te dice tu instinto? / ¿Qué calculas tú?"
+  },
+  {
+    "id": 982,
+    "primary": "It's a pain in the neck.",
+    "meaning": "정말 성가셔요.",
+    "similar": [
+      "It's annoying.",
+      "It's a nuisance.",
+      "It's bothersome.",
+      "I can't stand it.",
+      "It's a real hassle."
+    ],
+    "example": "A: The elevator in my building is broken again. I have to walk up six floors.\nB: Ugh, that's such a pain in the neck. Especially with groceries!\nA: For real. It's the third time this month. I'm about to call the super.\nB: You should! You pay too much rent for that kind of service.\nA: Facts. It's getting really old, really fast.\nB: Hopefully they fix it for good this time.",
+    "japanese": "面倒（めんどう）くさいなあ。／厄介（やっかい）だなあ。",
+    "chinese": "真烦人 (Zhēn fánrén) / 挺麻烦的 (Tǐng máfan de)",
+    "spanish": "Es un dolor de cabeza. / Es un engorro."
+  },
+  {
+    "id": 983,
+    "primary": "It keeps me on my toes.",
+    "meaning": "긴장을 늦출 수 없게 해요.",
+    "similar": [
+      "It keeps me alert.",
+      "It keeps me focused.",
+      "I'm always ready.",
+      "It motivates me to stay sharp.",
+      "It's a constant challenge."
+    ],
+    "example": "A: How do you handle working three jobs at once?\nB: It's a lot, but honestly, it keeps me on my toes. I'm never bored.\nA: Respect. I think I'd just be exhausted all the time.\nB: It's all about managing your energy, you know? And plenty of coffee.\nA: Facts. Whatever works for you though.\nB: Definitely. Keeps life interesting for sure.",
+    "japanese": "気（き）が抜（ぬ）けないよ。／緊張感（きんちょうかん）があるよ。",
+    "chinese": "让我不敢松懈 (Ràng wǒ bùgǎn sōngxiè) / 保持警觉 (Bǎochí jǐngjué)",
+    "spanish": "Me mantiene alerta. / No me deja relajarme."
+  },
+  {
+    "id": 984,
+    "primary": "It blows me away.",
+    "meaning": "정말 놀라워요.",
+    "similar": [
+      "I'm amazed.",
+      "It's incredible.",
+      "I'm stunned.",
+      "It's mind-blowing.",
+      "It takes my breath away."
+    ],
+    "example": "A: Did you see that new art installation at the MoMA?\nB: Yeah, and honestly? It blows me away every time I look at it.\nA: The scale of it is just so impressive, right?\nB: 100%. I can't even imagine how much work went into creating that.\nA: I'm definitely going back to see it again next week.\nB: Same. It's a real masterpiece, no cap.",
+    "japanese": "感動（かんどう）したよ。／圧倒（あっとう）された。",
+    "chinese": "太震撼了 (Tài zhènhàn le) / 让我佩服得五体投地 (Ràng wǒ pèifú de wǔtǐtóudì)",
+    "spanish": "Me deja alucinado. / Es una pasada."
+  },
+  {
+    "id": 985,
+    "primary": "I'm susceptible to it.",
+    "meaning": "저는 거기에 약해요.",
+    "similar": [
+      "I'm vulnerable to it.",
+      "I'm easily affected by it.",
+      "It's my weakness.",
+      "I'm prone to it.",
+      "I lack resistance to it."
+    ],
+    "example": "A: Are you okay with spicy food? We're going to that Thai spot tonight.\nB: Honestly? I'm pretty susceptible to it. Even mild stuff makes me cry.\nA: Oh no! We can definitely go somewhere else then.\nB: Nah, don't worry about it! I'll just order something plain.\nA: You sure? I don't want you to be miserable the whole time.\nB: Facts. Maybe let's just do ramen instead. It's safer.",
+    "japanese": "それに弱（よわ）いんだ。／影響（えいきょう）受（う）けやすいんだ。",
+    "chinese": "我容易受这个影响 (Wǒ róngyì shòu zhège yǐngxiǎng) / 这是我的软肋 (Zhè shì wǒ de ruǎnlèi)",
+    "spanish": "Tengo debilidad por ello. / Caigo fácil en eso."
+  },
+  {
+    "id": 986,
+    "primary": "I'll level with you.",
+    "meaning": "솔직히 털어놓을게요.",
+    "similar": [
+      "I'll be honest with you.",
+      "I'm gonna tell it like it is.",
+      "No more secrets.",
+      "Let's be real for a second.",
+      "I'll give you the truth."
+    ],
+    "example": "A: Do you think I actually have a shot at getting into that program?\nB: Look, I'll level with you. It's incredibly competitive and your GPA is a bit low.\nA: I appreciate the honesty. I just wanted to know what I'm up against.\nB: You still have a chance if you write a crazy good essay though.\nA: I'll definitely put in the work. Thanks for not sugarcoating it.\nB: Any time. Real talk is always better.",
+    "japanese": "正直（しょうじき）に言（い）うと／ぶっちゃけ",
+    "chinese": "我跟你实话实说吧 (Wǒ gēn nǐ shíhuàshíshuō ba) / 打开天窗说亮话 (Dǎkāitiānchuāng shuō liànghuà)",
+    "spanish": "Te seré sincero. / Te voy a hablar claro."
+  },
+  {
+    "id": 987,
+    "primary": "They had it coming.",
+    "meaning": "자업자득이에요.",
+    "similar": [
+      "They deserved it.",
+      "It was bound to happen to them.",
+      "Justice was served.",
+      "They brought it on themselves.",
+      "They're finally facing the consequences."
+    ],
+    "example": "A: Did you hear that Mark got fired for lying on his timesheet?\nB: Honestly? He had it coming. Everyone knew he was faking his hours.\nA: It's still pretty crazy though. He'd been there for years.\nB: For real, but you can't just keep doing that and expect to get away with it forever.\nA: Facts. It was only a matter of time before they caught him.\nB: Exactly. Play stupid games, win stupid prizes.",
+    "japanese": "自業自得（じごうじとく）だよ。／身（み）から出（で）た錆（さび）だよ。",
+    "chinese": "他那是活该 (Tā nà shì huógāi) / 咎由自取 (Jiùyóuzìqǔ)",
+    "spanish": "Se lo buscaron. / Se lo merecían."
+  },
+  {
+    "id": 988,
+    "primary": "I'll spare you the details.",
+    "meaning": "자세한 설명은 생략할게요.",
+    "similar": [
+      "I won't bore you with specifics.",
+      "Let's skip the small stuff.",
+      "Long story short.",
+      "I'll keep it brief.",
+      "We can skip the particulars."
+    ],
+    "example": "A: How did your car end up in the river, anyway?\nB: Man, it's a long story and honestly? I'll spare you the details. It was embarrassing.\nA: I'm just glad you're okay! That looks like it was intense.\nB: It was. I'm just trying to move on and forget about the whole thing.\nA: I feel you. Let me know if you need a ride anywhere.\nB: Thanks, fam. I really appreciate the help.",
+    "japanese": "詳細（しょうさい）は省（はぶ）くけど。／こまかいことは言（い）わないけど。",
+    "chinese": "细节就不说了 (Xìjié jiù bù shuō le) / 长话短说 (Chánghuà duǎnshuō)",
+    "spanish": "Te ahorro los detalles. / No te aburro con los detalles."
+  },
+  {
+    "id": 989,
+    "primary": "Bad news travels fast.",
+    "meaning": "나쁜 소식은 빨리 퍼져요.",
+    "similar": [
+      "Gossip spreads quickly.",
+      "Rumors catch fire fast.",
+      "Negativity gets around.",
+      "People are quick to share bad news.",
+      "Ill tidings gain ground quickly."
+    ],
+    "example": "A: I literally just got dumped an hour ago, how did everyone already know?\nB: You know what they say—bad news travels fast in this small town.\nA: It's honestly so frustrating. I just wanted some peace and quiet.\nB: For real. Everyone's already texting me asking for the 'tea'.\nA: Just tell them I'm not talking about it. I'm going off the grid for a bit.\nB: Facts. I'll handle the nosy neighbors for you.",
+    "japanese": "悪事（あくじ）千里（せんり）を走（はし）るだね。／悪（わる）い噂（うわさ）はすぐ広（ひろ）まるね。",
+    "chinese": "好事不出门，坏事传千里 (Hǎoshì bù chūmén, huàishì chuán qiānlǐ) / 消息传得真快 (Xiāoxi chuán de zhēn kuài)",
+    "spanish": "Las malas noticias vuelan. / Lo malo se sabe rápido."
+  },
+  {
+    "id": 990,
+    "primary": "Why the long face?",
+    "meaning": "왜 울상이에요?",
+    "similar": [
+      "Why so sad?",
+      "What's bothering you?",
+      "Why are you looking down?",
+      "Everything okay?",
+      "You look like you've seen a ghost."
+    ],
+    "example": "A: Yo, why the long face? You're usually so hype on Fridays.\nB: I just found out my favorite lunch spot is closing down for good.\nA: Oh no! That sucks. They had the best sandwiches in the neighborhood.\nB: For real. I don't know what I'm gonna do now.\nA: Don't worry, we'll find a new spot. There's plenty of options around here.\nB: I guess, but it won't be the same.",
+    "japanese": "浮（う）かない顔（かお）してどうしたの？／元気（げんき）ないね。",
+    "chinese": "干嘛垂头丧气的? (Gànmá chuítóusàngqì de?) / 怎么不高兴了? (Zěnme bù gāoxìng le?)",
+    "spanish": "¿Por qué esa cara larga? / ¿Qué te pasa?"
+  },
+  {
+    "id": 991,
+    "primary": "What's the occasion?",
+    "meaning": "무슨 특별한 날인가요?",
+    "similar": [
+      "What are we celebrating?",
+      "What's going on?",
+      "Why all the fuss?",
+      "Is there a special event today?",
+      "What's the big deal?"
+    ],
+    "example": "A: Wow, everyone is so dressed up today! What's the occasion?\nB: It's the company's tenth anniversary! Didn't you see the email?\nA: Oh snap... I completely missed it. I'm just in my regular jeans.\nB: Haha, it's all good. The celebration doesn't start till 3 PM anyway.\nA: I might have to run home and change really quick.\nB: You better! The boss is definitely checking attendance today.",
+    "japanese": "何（なに）かあったの？／何（なん）の祝（いわ）い？",
+    "chinese": "今天是什么日子? (Jīntiān shì shénme rìzi?) / 有什么喜事吗? (Yǒu shénme xǐshì ma?)",
+    "spanish": "¿Qué celebramos? / ¿A qué viene esto?"
+  },
+  {
+    "id": 992,
+    "primary": "What's the matter?",
+    "meaning": "무슨 일이에요?",
+    "similar": [
+      "What's wrong?",
+      "Is everything okay?",
+      "What happened?",
+      "Tell me what's bothering you.",
+      "Is there a problem?"
+    ],
+    "example": "A: You've been staring at that wall for ten minutes. What's the matter?\nB: I'm just worrying about my presentation tomorrow. I feel so unprepared.\nA: Come on, you've been working on it all week! You'll be fine.\nB: I hope so. I just hate public speaking so much.\nA: You've got this. Let's go over your slides one more time.\nB: Thanks, fam. That would actually help a lot.",
+    "japanese": "どうしたの？／何か問題（もんだい）でも？",
+    "chinese": "怎么了? (Zěnme le?) / 出什么事了? (Chū shénme shì le?)",
+    "spanish": "¿Qué pasa? / ¿Cuál es el problema?"
+  },
+  {
+    "id": 993,
+    "primary": "He had a blast.",
+    "meaning": "아주 즐거운 시간을 보냈어요.",
+    "similar": [
+      "He had so much fun.",
+      "He really enjoyed himself.",
+      "He had a great time.",
+      "He was having the time of his life.",
+      "He was thrilled with the experience."
+    ],
+    "example": "A: How was your nephew's birthday party at the arcade?\nB: It was awesome! Honestly, he had a blast and didn't want to leave.\nA: That's classic. Kids and video games are a perfect match.\nB: For real. He even won one of those giant plushies from the crane machine.\nA: No way! Those things are notoriously impossible to beat.\nB: Facts. He was flexing on everyone all afternoon.",
+    "japanese": "彼（かれ）は楽（たの）しんでたよ。／大（おお）はしゃぎだったよ。",
+    "chinese": "他玩得很开心 (Tā wán de hěn kāixīn) / 他尽兴了 (Tā jìnxìng le)",
+    "spanish": "Se lo pasó bomba. / Disfrutó como un enano."
+  },
+  {
+    "id": 994,
+    "primary": "Fill out this form",
+    "meaning": "이 양식 작성해주세요.",
+    "similar": [
+      "complete the paperwork",
+      "sign here",
+      "fill in the blanks",
+      "do the docs",
+      "enter your info"
+    ],
+    "example": "A: I'm here for my appointment.\nB: Please fill out this form.\nA: I did it online already.\nB: We need a physical copy.\nA: Seriously? Okay.\nB: Just the highlighted parts.",
+    "japanese": "この用紙（ようし）に記入（きにゅう）してください。／これに書（か）いて。",
+    "chinese": "填一下这张表 (Tián yīxià zhè zhāng biǎo) / 把表填了 (Bǎ biǎo tián le)",
+    "spanish": "Rellena este formulario. / Completa esto."
+  },
+  {
+    "id": 995,
+    "primary": "It doesn't ring a bell",
+    "meaning": "기억이 안 나.",
+    "similar": [
+      "don't recall",
+      "draw a blank",
+      "unfamiliar",
+      "no memory of it",
+      "drawing a blank"
+    ],
+    "example": "A: Do you know a guy named Steve?\nB: Doesn't ring a bell.\nA: Tall, red hair?\nB: Still nothing.\nA: Maybe I got the name wrong.\nB: Probably. I know a Dave.",
+    "japanese": "聞（き）き覚（おぼ）えがないな。／ピンとこないな。",
+    "chinese": "没印象 (Méi yìnxìang) / 听起来不耳熟 (Tīng qǐlái bù ěrshú)",
+    "spanish": "No me suena. / Ni idea."
+  },
+  {
+    "id": 996,
+    "primary": "It was put on ice.",
+    "meaning": "보류되었어요.",
+    "similar": [
+      "It was delayed.",
+      "It's on hold.",
+      "The project was suspended.",
+      "It's taking a backseat for now.",
+      "It was postponed indefinitely."
+    ],
+    "example": "A: What's the status of the new app redesign project?\nB: Honestly? It was put on ice because of budget cuts.\nA: Oh snap... after all that work we put into the sketches?\nB: For real. They're focusing on more 'immediate revenue' stuff now.\nA: That's such a bummer. I really thought the new look was dope.\nB: Facts. Hopefully they bring it back next quarter.",
+    "japanese": "保留（ほりゅう）になったよ。／お蔵入（くらい）りになった。",
+    "chinese": "搁置了 (Gēzhì le) / 暂时停工了 (Zànshí tínggōng le)",
+    "spanish": "Lo dejaron en stand by. / Quedó aparcado."
+  },
+  {
+    "id": 997,
+    "primary": "You've lost me.",
+    "meaning": "무슨 말인지 모르겠어요.",
+    "similar": [
+      "I don't follow you.",
+      "I'm confused by what you're saying.",
+      "Could you repeat that?",
+      "I'm not on the same page.",
+      "I'm lost in this conversation."
+    ],
+    "example": "A: So after we optimize the backend, we can parallelize the data fetching layer using asynchronous hooks.\nB: Wait, you've lost me. Can you explain that in plain English for a second?\nA: My bad! Basically, we're making the website load faster by doing two things at once.\nB: Ah, okay. That makes way more sense. Thanks for the clarification.\nA: No sweat. I sometimes get carried away with the technical talk.\nB: For real. I'm more of a visual person anyway.",
+    "japanese": "何（なに）言（い）ってるかわからない。／話（はなし）についてもいけない。",
+    "chinese": "我被你绕晕了 (Wǒ bèi nǐ rào yūn le) / 我没跟上 (Wǒ méi gēnshàng)",
+    "spanish": "Me he perdido. / No te sigo."
+  },
+  {
+    "id": 998,
+    "primary": "I'm on cloud nine.",
+    "meaning": "너무 행복해요.",
+    "similar": [
+      "I'm incredibly happy.",
+      "I'm thrilled.",
+      "I'm Over the moon.",
+      "Life is perfect right now.",
+      "I'm feeling amazing."
+    ],
+    "example": "A: Yo, I just heard you got into your dream grad school! Congrats!\nB: Thanks, fam! I'm honestly on cloud nine right now. I can't believe it.\nA: You worked so hard for this, you definitely deserve it.\nB: For real. All those late nights in the library finally paid off.\nA: We're definitely celebrating this weekend! Drinks are on me.\nB: Say less! I'm so hyped.",
+    "japanese": "最高（さいこう）の気分（きぶん）だよ。／天（てん）にも昇（のぼ）る心地（ここち）だよ。",
+    "chinese": "我太开心了 (Wǒ tài kāixīn le) / 乐坏了 (Lè huài le)",
+    "spanish": "Estoy en una nube. / Estoy que no quepo en mí de gozo."
+  },
+  {
+    "id": 999,
+    "primary": "She was thirsty.",
+    "meaning": "관심을 갈구했어요.",
+    "similar": [
+      "She was seeking attention.",
+      "She was desperate for validation.",
+      "She was being too much.",
+      "She was craving the spotlight.",
+      "She was acting very needy."
+    ],
+    "example": "A: Did you see her posting like fifty stories from the party last night?\nB: Yeah, honestly? She was thirsty for any kind of attention she could get.\nA: It was a little much, don't you think? Everyone was just trying to chill.\nB: For real. Not everything needs to be on the 'gram all the time.\nA: Facts. I just put my phone away and actually enjoyed the vibe.\nB: Smart move. Quality over quantity, always.",
+    "japanese": "彼女（かのじょ）は飢（う）えてたね。／必死（ひっし）だったね（注目（ちゅうもく）に）。",
+    "chinese": "她太渴望关注了 (Tā tài kěwàng guānzhù le) / 表现欲太强 (Biǎoxiànyù tài qiáng)",
+    "spanish": "Buscaba casito. / Estaba desesperada por atención."
+  },
+  {
+    "id": 1000,
+    "primary": "There's nothing to it.",
+    "meaning": "아주 쉬워요.",
+    "similar": [
+      "It's very simple.",
+      "It's easy as pie.",
+      "No big deal.",
+      "It's a breeze.",
+      "Piece of cake."
+    ],
+    "example": "A: Do you think you can show me how to assemble this IKEA desk?\nB: For sure! Look, there's nothing to it once you follow the pictures.\nA: I'm just always terrified I'm gonna have extra screws at the end.\nB: Haha, it happens to the best of us. Just take it slow and you'll be fine.\nA: Alright, let's get down to business then.\nB: Bet. Hand me that Allen wrench.",
+    "japanese": "簡単（かんたん）だよ。／どうってことないよ。",
+    "chinese": "这很简单 (Zhè hěn jiǎndān) / 没什么难的 (Méishénme nán de)",
+    "spanish": "No tiene misterio. / Está chupado."
+  }
+]

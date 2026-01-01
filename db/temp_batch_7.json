@@ -1,0 +1,502 @@
+[
+  {
+    "id": 601,
+    "primary": "I'm not in the mood.",
+    "meaning": "그럴 기분 아냐. (지금 좀 그래)"
+  },
+  {
+    "id": 602,
+    "primary": "I can't help it.",
+    "meaning": "어쩔 수 없어. (나도 나를 못 말려)"
+  },
+  {
+    "id": 603,
+    "primary": "The more, the merrier.",
+    "meaning": "사람이 많을수록 더 즐겁지. (다다익선)"
+  },
+  {
+    "id": 604,
+    "primary": "I'll take care of it.",
+    "meaning": "내가 처리할게. (걱정 마)"
+  },
+  {
+    "id": 605,
+    "primary": "I'm all ears.",
+    "meaning": "경청하고 있어. (말해봐)"
+  },
+  {
+    "id": 606,
+    "primary": "I can't wait.",
+    "meaning": "정말 기대돼! (못 기다리겠어)"
+  },
+  {
+    "id": 607,
+    "primary": "It was a close call.",
+    "meaning": "큰일 날 뻔했어. (아슬아슬했어)"
+  },
+  {
+    "id": 608,
+    "primary": "There you go.",
+    "meaning": "자, 여기 있어. (그렇지, 바로 그거야)"
+  },
+  {
+    "id": 609,
+    "primary": "Barking up the wrong tree",
+    "meaning": "짚어도 한참 잘못 짚었어"
+  },
+  {
+    "id": 610,
+    "primary": "Here we go.",
+    "meaning": "또 시작이네. (자, 해보자구)"
+  },
+  {
+    "id": 611,
+    "primary": "ASAP",
+    "meaning": "가능한 한 빨리. (급해)"
+  },
+  {
+    "id": 612,
+    "primary": "I have no idea.",
+    "meaning": "전혀 모르겠어."
+  },
+  {
+    "id": 613,
+    "primary": "It's not my thing.",
+    "meaning": "내 취향 아냐. (관심 없어)"
+  },
+  {
+    "id": 614,
+    "primary": "Let's get to the point.",
+    "meaning": "본론만 말하자. (요점이 뭐야?)"
+  },
+  {
+    "id": 615,
+    "primary": "I'm running late.",
+    "meaning": "나 늦고 있어. (거의 다 왔어)"
+  },
+  {
+    "id": 616,
+    "primary": "It slipped my mind.",
+    "meaning": "깜빡했어. (잊어버렸네)"
+  },
+  {
+    "id": 617,
+    "primary": "I'm starving.",
+    "meaning": "배고파 죽겠어."
+  },
+  {
+    "id": 618,
+    "primary": "I'm stuffed.",
+    "meaning": "배불러. (더 못 먹겠어)"
+  },
+  {
+    "id": 619,
+    "primary": "Let's grab a bite.",
+    "meaning": "뭐 좀 먹으러 가자."
+  },
+  {
+    "id": 620,
+    "primary": "It’s worth the wait",
+    "meaning": "기다릴 만한 가치가 있어"
+  },
+  {
+    "id": 621,
+    "primary": "Give me a break.",
+    "meaning": "좀 봐줘. (적당히 해, 말도 안 돼)"
+  },
+  {
+    "id": 622,
+    "primary": "Not a chance.",
+    "meaning": "전혀 가망 없어. (어림도 없지)"
+  },
+  {
+    "id": 623,
+    "primary": "It depends.",
+    "meaning": "상황에 따라 달라. (그때그때 달라요)"
+  },
+  {
+    "id": 624,
+    "primary": "You never know.",
+    "meaning": "사람 일은 모르는 거야. (혹시 모르지)"
+  },
+  {
+    "id": 625,
+    "primary": "I'll let you know.",
+    "meaning": "내가 알려줄게. (나중에 말해줄게)"
+  },
+  {
+    "id": 626,
+    "primary": "Hope that helps.",
+    "meaning": "도움이 됐으면 좋겠네."
+  },
+  {
+    "id": 627,
+    "primary": "I appreciate it.",
+    "meaning": "고마워. (정말 감사해)"
+  },
+  {
+    "id": 628,
+    "primary": "That's the plan.",
+    "meaning": "그게 내 계획이야."
+  },
+  {
+    "id": 629,
+    "primary": "Time will tell.",
+    "meaning": "시간이 지나면 알게 되겠지. (두고 보자고)"
+  },
+  {
+    "id": 630,
+    "primary": "It's worth a try.",
+    "meaning": "한번 해볼 만해. (밑져야 본전이지)"
+  },
+  {
+    "id": 631,
+    "primary": "Whole shebang",
+    "meaning": "전부, 모든 것 "
+  },
+  {
+    "id": 632,
+    "primary": "Let's get started.",
+    "meaning": "시작하자! (해치우자구)"
+  },
+  {
+    "id": 633,
+    "primary": "That reminds me...",
+    "meaning": "생각난 건데... (갑자기 떠올랐어)"
+  },
+  {
+    "id": 634,
+    "primary": "I'll get back to you.",
+    "meaning": "나중에 다시 연락할게. (답변을 미룰 때)"
+  },
+  {
+    "id": 635,
+    "primary": "Keep me posted.",
+    "meaning": "계속 상황을 알려줘. (어떻게 되는지 말해줘)"
+  },
+  {
+    "id": 636,
+    "primary": "Let me know.",
+    "meaning": "알려줘. (연락해)"
+  },
+  {
+    "id": 637,
+    "primary": "No doubt about it.",
+    "meaning": "의심의 여지가 없지. (당연하지)"
+  },
+  {
+    "id": 638,
+    "primary": "LOL",
+    "meaning": "ㅋㅋㅋ (크게 웃음)"
+  },
+  {
+    "id": 639,
+    "primary": "OMG",
+    "meaning": "세상에! (놀람)"
+  },
+  {
+    "id": 640,
+    "primary": "BRB",
+    "meaning": "금방 올게."
+  },
+  {
+    "id": 641,
+    "primary": "TTYL",
+    "meaning": "나중에 얘기해."
+  },
+  {
+    "id": 642,
+    "primary": "Nailed it",
+    "meaning": "완벽하게 해냈어"
+  },
+  {
+    "id": 643,
+    "primary": "IDK",
+    "meaning": "몰라."
+  },
+  {
+    "id": 644,
+    "primary": "FYI",
+    "meaning": "참고로 말하자면."
+  },
+  {
+    "id": 645,
+    "primary": "My bad.",
+    "meaning": "내 실수야. (미안해)"
+  },
+  {
+    "id": 646,
+    "primary": "That sucks.",
+    "meaning": "안됐네. (진짜 별로다)"
+  },
+  {
+    "id": 647,
+    "primary": "Cont",
+    "meaning": "계속해서. (이어짐)"
+  },
+  {
+    "id": 648,
+    "primary": "Walk in the park",
+    "meaning": "식은 죽 먹기지. (아주 쉬워)"
+  },
+  {
+    "id": 649,
+    "primary": "Same here.",
+    "meaning": "나도 그래. (동감이야)"
+  },
+  {
+    "id": 650,
+    "primary": "All ears",
+    "meaning": "경청하고 있어"
+  },
+  {
+    "id": 651,
+    "primary": "Chin up",
+    "meaning": "기운 내 / 고개 들어"
+  },
+  {
+    "id": 652,
+    "primary": "Ham-fisted, clumsy ",
+    "meaning": "서투른, 솜씨 없는 "
+  },
+  {
+    "id": 653,
+    "primary": "I stand by it",
+    "meaning": "내 입장은 변함없어"
+  },
+  {
+    "id": 654,
+    "primary": "Cut corners",
+    "meaning": "절차를 생략하다 / 대충 하다"
+  },
+  {
+    "id": 655,
+    "primary": "Don’t bring it up",
+    "meaning": "그 얘기 꺼내지 마"
+  },
+  {
+    "id": 656,
+    "primary": "I am on the edge",
+    "meaning": "매우 초조해 / 벼랑 끝 기분이야"
+  },
+  {
+    "id": 657,
+    "primary": "Walk on the eggshell",
+    "meaning": "눈치를 보다 / 살얼음판을 걷다"
+  },
+  {
+    "id": 658,
+    "primary": "Fizzle out",
+    "meaning": "흐지부지되다 / 식어버리다"
+  },
+  {
+    "id": 659,
+    "primary": "Drift apart",
+    "meaning": "사이가 멀어지다"
+  },
+  {
+    "id": 660,
+    "primary": "You of all people",
+    "meaning": "다른 사람도 아닌 바로 네가"
+  },
+  {
+    "id": 661,
+    "primary": "Way ahead of you",
+    "meaning": "벌써 다 해놨지 / 생각하고 있었어"
+  },
+  {
+    "id": 662,
+    "primary": "What are the odds?",
+    "meaning": "이럴 확률이 얼마나 될까? (세상 참 좁네)"
+  },
+  {
+    "id": 663,
+    "primary": "Respectful of time",
+    "meaning": "시간을 존중하는 / 시간 약속을 잘 지키는"
+  },
+  {
+    "id": 664,
+    "primary": "Scratch that",
+    "meaning": "(방금 한 말) 취소할게 / 아니 잠깐만"
+  },
+  {
+    "id": 665,
+    "primary": "Can’t take a hint",
+    "meaning": "눈치가 없다"
+  },
+  {
+    "id": 666,
+    "primary": "For what it’s worth",
+    "meaning": "보탬이 될지 모르겠지만 / 그냥 하는 말인데"
+  },
+  {
+    "id": 667,
+    "primary": "Snap at",
+    "meaning": "~에게 톡 쏘다 / 성질을 내다"
+  },
+  {
+    "id": 668,
+    "primary": "Put me on the spot",
+    "meaning": "나를 곤란하게 만들다 / 당황하게 하다"
+  },
+  {
+    "id": 669,
+    "primary": "Comfort food",
+    "meaning": "소울 푸드 / 위안이 되는 음식"
+  },
+  {
+    "id": 670,
+    "primary": "It’s on me",
+    "meaning": "내가 낼게 / 내가 살게"
+  },
+  {
+    "id": 671,
+    "primary": "Split the bill",
+    "meaning": "더치페이하다 / 나누어 내다"
+  },
+  {
+    "id": 672,
+    "primary": "Cliquey",
+    "meaning": "끼리끼리 노는 / 배타적인"
+  },
+  {
+    "id": 673,
+    "primary": "cured mackerel",
+    "meaning": "소금이나 식초로 절여 숙성한 고등어"
+  },
+  {
+    "id": 674,
+    "primary": "Sleep in",
+    "meaning": "(의도적으로) 늦잠 자다"
+  },
+  {
+    "id": 675,
+    "primary": "Overslept",
+    "meaning": "(실수로) 늦잠 자다"
+  },
+  {
+    "id": 676,
+    "primary": "Underestimate",
+    "meaning": "과소평가하다"
+  },
+  {
+    "id": 677,
+    "primary": "Gullible",
+    "meaning": "잘 속는 / 귀가 얇은"
+  },
+  {
+    "id": 678,
+    "primary": "Annoying, irritating, pissed off, fed up with ",
+    "meaning": "짜증나는 / 화난 / 질린"
+  },
+  {
+    "id": 679,
+    "primary": "Tick off, salty ",
+    "meaning": "화나게 하다 / (사소한 일에) 삐지다"
+  },
+  {
+    "id": 680,
+    "primary": "Sorry doesn’t cut it",
+    "meaning": "미안하다는 말로는 부족해"
+  },
+  {
+    "id": 681,
+    "primary": "She's all grown up",
+    "meaning": "우리 애가 다 컸다, 이제 숙녀가 되었다"
+  },
+  {
+    "id": 682,
+    "primary": "Take it with a grain of salt",
+    "meaning": "가려서 들어 / 너무 곧이곧대로 믿지 마"
+  },
+  {
+    "id": 683,
+    "primary": "Thinking out loud",
+    "meaning": "그냥 생각을 입 밖으로 꺼내 본 거야"
+  },
+  {
+    "id": 684,
+    "primary": "Ditto",
+    "meaning": "나도 마찬가지야 / 동감이야"
+  },
+  {
+    "id": 685,
+    "primary": "I didn’t sign up for this",
+    "meaning": "이건 내가 기대했던 게 아니야 / 이런 건 줄 몰랐어"
+  },
+  {
+    "id": 686,
+    "primary": "I’m not cut out for",
+    "meaning": "난 ~에 적성이 맞지 않아"
+  },
+  {
+    "id": 687,
+    "primary": "What a bummer",
+    "meaning": "아쉽다 / 안타깝네 / 짜증나네"
+  },
+  {
+    "id": 688,
+    "primary": "Get on my nerve",
+    "meaning": "신경 쓰이게 해 / 거슬리게 해"
+  },
+  {
+    "id": 689,
+    "primary": "Give me some credit",
+    "meaning": "나를 좀 인정해 줘 / 나를 너무 무시하지 마"
+  },
+  {
+    "id": 690,
+    "primary": "Find myself in",
+    "meaning": "어쩌다 보니 ~한 상황에 처하다"
+  },
+  {
+    "id": 691,
+    "primary": "If you ever feel like ~",
+    "meaning": "혹시라도 ~하고 싶어지면"
+  },
+  {
+    "id": 692,
+    "primary": "Keep thing on track",
+    "meaning": "일이 차질 없이 진행되게 하다"
+  },
+  {
+    "id": 693,
+    "primary": "Stop complaining / don't be so dramatic / cry me a river",
+    "meaning": "불평 좀 그만해 / 오버하지 마 / 어디 한번 실컷 짜보시지"
+  },
+  {
+    "id": 694,
+    "primary": "I'll take the heat",
+    "meaning": "내가 총대를 멜게 / 비난은 내가 감수할게"
+  },
+  {
+    "id": 695,
+    "primary": "I'm stuck between A and B.",
+    "meaning": "A와 B 사이에서 고민 중이야"
+  },
+  {
+    "id": 696,
+    "primary": "sleep on it",
+    "meaning": "하룻밤 자면서 생각해 보다"
+  },
+  {
+    "id": 697,
+    "primary": "You are quite bold / You've got some nerve",
+    "meaning": "참 대담하시네 / 배짱도 좋네"
+  },
+  {
+    "id": 698,
+    "primary": "Keep it to yourself / Keep a lid on it",
+    "meaning": "너만 알고 있어 / 비밀로 해 줘"
+  },
+  {
+    "id": 699,
+    "primary": "If you are clued in, you'll get it / If you know, you know ",
+    "meaning": "아는 사람은 다 알지"
+  },
+  {
+    "id": 700,
+    "primary": "I'm just browsing",
+    "meaning": "그냥 둘러보는 중이에요"
+  }
+]
