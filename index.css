@@ -22,7 +22,8 @@ body {
   color: var(--text-main);
   min-height: 100vh;
   overflow-x: hidden;
-  line-height: 1.7; /* Slightly increased for readability */
+  line-height: 1.7;
+  /* Slightly increased for readability */
 }
 
 /* Background Animations */
@@ -71,6 +72,7 @@ body {
   from {
     transform: translate(0, 0) scale(1);
   }
+
   to {
     transform: translate(20px, 40px) scale(1.1);
   }
@@ -91,7 +93,8 @@ body {
 
 h1 {
   font-family: "Playfair Display", serif;
-  font-size: clamp(2.5rem, 10vw, 4.5rem); /* Fluid typography */
+  font-size: clamp(2.5rem, 10vw, 4.5rem);
+  /* Fluid typography */
   line-height: 1.1;
   margin-bottom: 1rem;
   background: var(--accent-gradient);
@@ -114,7 +117,8 @@ h1 {
 
 /* Search Box */
 .search-section {
-  margin-bottom: 1.5rem; /* Reduced to ~1cm gap combined with daily container */
+  margin-bottom: 1.5rem;
+  /* Reduced to ~1cm gap combined with daily container */
 }
 
 .search-box {
@@ -149,7 +153,8 @@ h1 {
 
 #searchInput::placeholder {
   color: rgba(255, 255, 255, 0.5);
-  opacity: 1; /* Firefox default is lower */
+  opacity: 1;
+  /* Firefox default is lower */
 }
 
 .search-icon {
@@ -180,7 +185,8 @@ h1 {
 }
 
 .expression-card {
-  background: rgba(255, 255, 255, 0.05); /* Increased for better contrast */
+  background: rgba(255, 255, 255, 0.05);
+  /* Increased for better contrast */
   border: 1px solid var(--glass-border);
   border-radius: 28px;
   padding: clamp(1.5rem, 5vw, 2.5rem);
@@ -222,7 +228,8 @@ h1 {
 
 .synonym-tag {
   background: rgba(99, 102, 241, 0.15);
-  color: #a5b4fc; /* Lighter color for better readability on dark BG */
+  color: #a5b4fc;
+  /* Lighter color for better readability on dark BG */
   padding: 0.5rem 1rem;
   border-radius: 99px;
   font-size: 0.9rem;
@@ -319,6 +326,7 @@ h1 {
     opacity: 0;
     transform: translateY(10px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -328,7 +336,8 @@ h1 {
 /* Mobile Adjustments */
 @media (max-width: 768px) {
   .container {
-    padding: 1rem 0; /* Zero side padding to strictly maximize width */
+    padding: 1rem 0;
+    /* Zero side padding to strictly maximize width */
     min-height: 100dvh;
     display: flex;
     flex-direction: column;
@@ -336,7 +345,8 @@ h1 {
 
   /* Compact Hero */
   .hero {
-    margin-bottom: 1.5rem; /* Reduced from 2rem */
+    margin-bottom: 1.5rem;
+    /* Reduced from 2rem */
   }
 
   h1 {
@@ -352,8 +362,10 @@ h1 {
 
   /* Compact Search Box */
   .search-section {
-    padding: 0 1rem; /* Compensate for zero container padding */
-    margin-bottom: 3.5rem; /* Increased to approx 1.5cm */
+    padding: 0 1rem;
+    /* Compensate for zero container padding */
+    margin-bottom: 3.5rem;
+    /* Increased to approx 1.5cm */
   }
 
   /* Compact Results Grid */
@@ -364,8 +376,10 @@ h1 {
 
   /* Pull Expression of the Day tight to the top */
   .daily-expression-container {
-    padding: 0 1rem; /* Matched to results-grid logic */
-    margin-top: 0; /* Removed negative margin to increase space */
+    padding: 0 1rem;
+    /* Matched to results-grid logic */
+    margin-top: 0;
+    /* Removed negative margin to increase space */
   }
 
   /* Reduce card padding on mobile to allow wider text content */
@@ -375,10 +389,13 @@ h1 {
 
   /* Compact Daily Header to remove visual gap */
   .daily-header {
-    font-size: 1.35rem; /* Slightly larger as requested */
-    margin-bottom: 0.75rem; /* Slightly increased gap */
+    font-size: 1.35rem;
+    /* Slightly larger as requested */
+    margin-bottom: 0.75rem;
+    /* Slightly increased gap */
     gap: 0.5rem;
-    justify-content: center; /* Center align on mobile */
+    justify-content: center;
+    /* Center align on mobile */
   }
 
   .daily-header svg {
@@ -399,6 +416,17 @@ h1 {
     flex-direction: column;
     align-items: center;
     gap: 0.5rem;
+  }
+
+  /* Optimize loading/progress visibility on small screens */
+  .loading-state {
+    padding: 2rem 1rem;
+    /* Reduced from 4rem */
+  }
+
+  .progress-container {
+    margin-top: 1rem;
+    padding: 0;
   }
 
   .example-text {
@@ -441,7 +469,8 @@ h1 {
 
 /* Footer Styling */
 footer {
-  margin-top: auto; /* Pushes footer to bottom in flex container */
+  margin-top: auto;
+  /* Pushes footer to bottom in flex container */
   padding: 2rem 1rem;
   text-align: center;
   border-top: 1px solid var(--glass-border);
@@ -509,12 +538,15 @@ footer a:hover::after {
 }
 
 .example-text {
-  font-size: 1rem; /* Better readability */
+  font-size: 1rem;
+  /* Better readability */
   color: #e2e8f0;
   line-height: 1.8;
   font-family: inherit;
-  white-space: pre-line; /* Naturally handles newlines without needing br styling */
-  text-align: left; /* Ensure dialogue is always left-aligned, overriding any parent centering */
+  white-space: pre-line;
+  /* Naturally handles newlines without needing br styling */
+  text-align: left;
+  /* Ensure dialogue is always left-aligned, overriding any parent centering */
 }
 
 /* Removed problematic br styling that caused unnecessary breaks */
@@ -576,7 +608,8 @@ input[type="text"],
 input[type="search"] {
   -webkit-appearance: none;
   appearance: none;
-  border-radius: 0; /* Reset for Safari */
+  border-radius: 0;
+  /* Reset for Safari */
 }
 
 /* Force border radius on our specific search input that was reset above */
@@ -605,11 +638,14 @@ input[type="search"] {
 .lang-label {
   font-family: "Outfit", sans-serif;
   font-weight: 600;
-  font-size: 0.75rem; /* Smaller, tag-like */
-  color: var(--text-secondary); /* Muted color */
+  font-size: 0.75rem;
+  /* Smaller, tag-like */
+  color: var(--text-secondary);
+  /* Muted color */
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  min-width: 80px; /* Align text nicely */
+  min-width: 80px;
+  /* Align text nicely */
   flex-shrink: 0;
 }
 

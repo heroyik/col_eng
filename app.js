@@ -81,6 +81,9 @@ async function fetchAllExpressions(forceUpdate = false) {
       const totalCount = countSnapshot.data().count;
       console.log(`Total records to fetch: ${totalCount}`);
 
+      // Update UI with initial 0% progress
+      updateProgress(0, totalCount);
+
       expressions = [];
       let lastVisible = null;
       const BATCH_SIZE = 50;
