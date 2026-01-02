@@ -47,6 +47,23 @@ To provide a superior user experience with standard Firestore (which has limited
 
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
+- Python 3.8+ (for administrative scripts).
+
+### Python Environment (venv) Setup
+
+1. Run the setup script to create the virtual environment:
+
+   ```bash
+   ./setup_venv.sh
+   ```
+
+2. Activate the virtual environment:
+
+   ```bash
+   source .venv/bin/activate
+   ```
+
+3. (Optional) Install dependencies if a `requirements.txt` is provided in the future.
 
 ### Schema Requirements
 
