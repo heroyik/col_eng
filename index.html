@@ -85,7 +85,13 @@
 
         <div id="loadingState" class="loading-state hidden">
           <div class="spinner"></div>
-          <p>Searching the database...</p>
+          <p id="loadingMessage">Searching the database...</p>
+          <div id="progressContainer" class="progress-container hidden">
+            <div class="progress-track">
+              <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <p id="progressText" class="progress-text"></p>
+          </div>
         </div>
 
         <div id="initialState" class="empty-state">

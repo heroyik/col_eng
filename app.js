@@ -8,6 +8,8 @@ import {
   getDocs,
   limit,
   orderBy,
+  getCountFromServer,
+  startAfter,
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 // Firebase configuration
@@ -35,6 +37,10 @@ const CACHE_DATE_KEY = "col_eng_last_fetch_date";
 const searchInput = document.getElementById("searchInput");
 const resultsContainer = document.getElementById("resultsContainer");
 const loadingState = document.getElementById("loadingState");
+const loadingMessage = document.getElementById("loadingMessage");
+const progressContainer = document.getElementById("progressContainer");
+const progressBar = document.getElementById("progressBar");
+const progressText = document.getElementById("progressText");
 const initialState = document.getElementById("initialState");
 const noResultsState = document.getElementById("noResultsState");
 const resultCount = document.getElementById("resultCount");
@@ -54,7 +60,7 @@ async function fetchAllExpressions(forceUpdate = false) {
   try {
     const now = new Date();
     const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
-    
+
     const cachedData = localStorage.getItem(CACHE_KEY);
     const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
 
@@ -64,20 +70,41 @@ async function fetchAllExpressions(forceUpdate = false) {
     } else {
       if (forceUpdate) {
         console.log("Forced update triggered. Fetching fresh data from Firestore...");
-        renderLoading(true);
+        renderLoading(true, "Refreshing database...");
       } else {
         console.log("Cache expired or missing. Fetching from Firestore...");
+        renderLoading(true, "Loading expressions...");
       }
 
-      const q = query(expressionsRef, orderBy("primary", "asc"));
-      const querySnapshot = await getDocs(q);
-      
+      // 1. Get total count for progress reporting
+      const countSnapshot = await getCountFromServer(expressionsRef);
+      const totalCount = countSnapshot.data().count;
+      console.log(`Total records to fetch: ${totalCount}`);
+
       expressions = [];
-      querySnapshot.forEach((doc) => {
-        // Firestore data inherently contains the new fields if they exist in the document
-        // spread operator ...doc.data() will include japanese, chinese, vietnamese, spanish
-        expressions.push({ id: doc.id, ...doc.data() });
-      });
+      let lastVisible = null;
+      const BATCH_SIZE = 50;
+
+      while (expressions.length < totalCount) {
+        let q;
+        if (lastVisible) {
+          q = query(expressionsRef, orderBy("primary", "asc"), startAfter(lastVisible), limit(BATCH_SIZE));
+        } else {
+          q = query(expressionsRef, orderBy("primary", "asc"), limit(BATCH_SIZE));
+        }
+
+        const querySnapshot = await getDocs(q);
+        if (querySnapshot.empty) break;
+
+        querySnapshot.forEach((doc) => {
+          expressions.push({ id: doc.id, ...doc.data() });
+        });
+
+        lastVisible = querySnapshot.docs[querySnapshot.docs.length - 1];
+
+        // Update Progress UI
+        updateProgress(expressions.length, totalCount);
+      }
 
       if (expressions.length > 0) {
         // Update cache
@@ -102,7 +129,17 @@ async function fetchAllExpressions(forceUpdate = false) {
     console.error("Error fetching expressions:", error);
     renderErrorState(error);
   } finally {
-    if (forceUpdate) renderLoading(false);
+    renderLoading(false);
+  }
+}
+
+function updateProgress(current, total) {
+  const percentage = Math.round((current / total) * 100);
+  progressBar.style.width = `${percentage}%`;
+  progressText.textContent = `${current} / ${total} expressions loaded (${percentage}%)`;
+
+  if (current > 0) {
+    progressContainer.classList.remove("hidden");
   }
 }
 
@@ -158,7 +195,7 @@ function performSearch(searchTerm) {
       // User didn't explicitly ask for search in translations, but it might be useful. 
       // Staying strict to requirement: "User did not ask for search update, only display."
       // So I will stick to existing search logic for now to avoid scope creep and I/O implications (though strictly local).
-      
+
       return inPrimary || inMeaning || inSimilar || inExample;
     });
 
@@ -178,7 +215,7 @@ function createExpressionCardHTML(item) {
     { lang: 'Spanish', value: item.spanish }
   ].filter(t => t.value); // Only show if translation exists
 
-  const translationBlock = translations.length > 0 
+  const translationBlock = translations.length > 0
     ? `
       <div class="translation-container">
         ${translations.map(t => `
@@ -188,43 +225,40 @@ function createExpressionCardHTML(item) {
           </div>
         `).join('')}
       </div>
-    ` 
+    `
     : '';
 
   return `
         <article class="expression-card">
             <div class="card-header">
                 <h3 class="text">${item.primary}</h3>
-                ${
-                  item.meaning
-                    ? `<span class="meaning">${item.meaning}</span>`
-                    : ""
-                }
+                ${item.meaning
+      ? `<span class="meaning">${item.meaning}</span>`
+      : ""
+    }
             </div>
-            ${
-              item.similar && Array.isArray(item.similar)
-                ? `
+            ${item.similar && Array.isArray(item.similar)
+      ? `
                 <div class="synonyms-list">
                     ${item.similar
-                      .map((syn) => `<span class="synonym-tag">${syn}</span>`)
-                      .join("")}
+        .map((syn) => `<span class="synonym-tag">${syn}</span>`)
+        .join("")}
                 </div>
             `
-                : ""
-            }
-            ${
-              item.example
-                ? `
+      : ""
+    }
+            ${item.example
+      ? `
                 <div class="example-box">
                     <span class="example-label">Example Usage</span>
                     <p class="example-text">${highlightKeywords(item.example, [
-                      item.primary,
-                      ...(item.similar || []),
-                    ])}</p>
+        item.primary,
+        ...(item.similar || []),
+      ])}</p>
                 </div>
             `
-                : ""
-            }
+      : ""
+    }
             ${translationBlock}
         </article>
     `;
@@ -274,13 +308,19 @@ function highlightKeywords(text, keywords) {
   return processedText.replace(pattern, '<span class="highlight">$1</span>');
 }
 
-function renderLoading(isLoading) {
+function renderLoading(isLoading, message = "Searching the database...") {
   if (isLoading) {
+    loadingMessage.textContent = message;
     loadingState.classList.remove("hidden");
     initialState.classList.add("hidden");
     noResultsState.classList.add("hidden");
     resultCount.classList.add("hidden");
     resultsContainer.innerHTML = "";
+
+    // Reset progress UI
+    progressBar.style.width = "0%";
+    progressText.textContent = "";
+    progressContainer.classList.add("hidden");
   } else {
     loadingState.classList.add("hidden");
   }
@@ -295,7 +335,7 @@ function renderEmptyState() {
   if (expressions.length > 0) {
     const cacheDate = localStorage.getItem(CACHE_DATE_KEY);
     let displayDate = "";
-    
+
     if (cacheDate) {
       // Convert YYYY-MM-DD to YYYY/MM/DD for display
       displayDate = cacheDate.replace(/-/g, "/");
