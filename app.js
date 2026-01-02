@@ -10,6 +10,9 @@ import {
   orderBy,
   getCountFromServer,
   startAfter,
+  enableIndexedDbPersistence, // Added for persistence
+  getDocsFromCache,          // Added to load local data efficiently
+  getDocsFromServer,         // Added for explicit server sync
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 // Firebase configuration
@@ -26,11 +29,25 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+
+// Enable Firestore Persistence (IndexedDB)
+// This is much more efficient than localStorage for 40k+ records
+enableIndexedDbPersistence(db).catch((err) => {
+  if (err.code === 'failed-precondition') {
+    // Multiple tabs open, persistence can only be enabled in one tab at a time.
+    console.warn("Persistence failed: Multiple tabs open");
+  } else if (err.code === 'unimplemented') {
+    // The current browser does not support all of the features required to enable persistence
+    console.warn("Persistence failed: Browser not supported");
+  }
+});
+
 const expressionsRef = collection(db, "EnglishExpressions");
 
 // Cache Configuration
-const CACHE_KEY = "col_eng_expressions";
+// We'll keep last_fetch_date in localStorage, but data stays in Firestore's IndexedDB
 const CACHE_DATE_KEY = "col_eng_last_fetch_date";
+const LOCAL_ID_KEY = "col_eng_last_id"; // Store the last fetched ID for delta sync
 
 
 
@@ -55,73 +72,95 @@ let expressions = [];
 let dailyExpression = null;
 let debounceTimer;
 
-// Fetch expressions with caching
+// Fetch expressions with persistence and delta-sync logic
 async function fetchAllExpressions(forceUpdate = false) {
   try {
     const now = new Date();
     const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
-
-    const cachedData = localStorage.getItem(CACHE_KEY);
     const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
 
-    if (!forceUpdate && cachedData && cachedDate === today) {
-      expressions = JSON.parse(cachedData);
-      console.log(`Loaded ${expressions.length} expressions from cache (Date: ${cachedDate}).`);
-    } else {
-      if (forceUpdate) {
-        console.log("Forced update triggered. Fetching fresh data from Firestore...");
-        renderLoading(true, "Refreshing database...");
-      } else {
-        console.log("Cache expired or missing. Fetching from Firestore...");
-        renderLoading(true, "Loading expressions...");
-      }
-
-      // 1. Get total count for progress reporting
-      const countSnapshot = await getCountFromServer(expressionsRef);
-      const totalCount = countSnapshot.data().count;
-      console.log(`Total records to fetch: ${totalCount}`);
-
-      // Update UI with initial 0% progress
-      updateProgress(0, totalCount);
-
-      expressions = [];
-      let lastVisible = null;
-      const BATCH_SIZE = 50;
-
-      while (expressions.length < totalCount) {
-        let q;
-        if (lastVisible) {
-          q = query(expressionsRef, orderBy("primary", "asc"), startAfter(lastVisible), limit(BATCH_SIZE));
-        } else {
-          q = query(expressionsRef, orderBy("primary", "asc"), limit(BATCH_SIZE));
-        }
-
-        const querySnapshot = await getDocs(q);
-        if (querySnapshot.empty) break;
-
-        querySnapshot.forEach((doc) => {
-          expressions.push({ id: doc.id, ...doc.data() });
-        });
-
-        lastVisible = querySnapshot.docs[querySnapshot.docs.length - 1];
-
-        // Update Progress UI
-        updateProgress(expressions.length, totalCount);
-      }
-
-      if (expressions.length > 0) {
-        // Update cache
-        localStorage.setItem(CACHE_KEY, JSON.stringify(expressions));
-        localStorage.setItem(CACHE_DATE_KEY, today);
-        console.log(`Fetched and cached ${expressions.length} expressions.`);
+    // 1. Initial Load: Load everything from local cache first (instant)
+    if (expressions.length === 0) {
+      console.log("Loading initial data from local cache...");
+      const localQ = query(expressionsRef, orderBy("id", "asc"));
+      const localSnapshot = await getDocsFromCache(localQ).catch(() => null);
+      
+      if (localSnapshot && !localSnapshot.empty) {
+        expressions = [];
+        localSnapshot.forEach(doc => expressions.push({ id: doc.id, ...doc.data() }));
+        console.log(`Loaded ${expressions.length} expressions from local cache.`);
       }
     }
 
-    // Always pick a random expression from the available list
+    // 2. Decide if we need to sync with server
+    // If not forced and already synced today, we stop here
+    if (!forceUpdate && expressions.length > 0 && cachedDate === today) {
+      console.log("Database is up to date for today.");
+    } else {
+      if (forceUpdate) {
+        console.log("Forced update triggered. Checking for new data...");
+        renderLoading(true, "Checking for updates...");
+      } else {
+        console.log("Cache expired or missing. Syncing with Firestore...");
+        renderLoading(true, "Syncing database...");
+      }
+
+      // 3. Get total count from server (cheap: 1 read)
+      const countSnapshot = await getCountFromServer(expressionsRef);
+      const totalCount = countSnapshot.data().count;
+      console.log(`Server record count: ${totalCount} (Local: ${expressions.length})`);
+
+      if (expressions.length < totalCount) {
+        // 4. Delta Fetch: Only download missing records
+        // We order by 'id' to find the next batch of data
+        const lastId = expressions.length > 0 
+          ? Math.max(...expressions.map(e => e.id || 0)) 
+          : 0;
+        
+        console.log(`Fetching new records starting from ID > ${lastId}...`);
+        
+        let fetchedCount = 0;
+        let lastDoc = null;
+        const BATCH_SIZE = 100; // Larger batch for initial/bulk sync
+
+        while (expressions.length < totalCount) {
+          let q;
+          if (lastDoc) {
+            q = query(expressionsRef, orderBy("id", "asc"), startAfter(lastDoc), limit(BATCH_SIZE));
+          } else {
+            // First batch of new records
+            q = query(expressionsRef, orderBy("id", "asc"), where("id", ">", lastId), limit(BATCH_SIZE));
+          }
+
+          const querySnapshot = await getDocsFromServer(q);
+          if (querySnapshot.empty) break;
+
+          querySnapshot.forEach((doc) => {
+            const data = doc.data();
+            // Avoid duplicates
+            if (!expressions.some(e => e.id === data.id)) {
+              expressions.push({ id: doc.id, ...data });
+              fetchedCount++;
+            }
+          });
+
+          lastDoc = querySnapshot.docs[querySnapshot.docs.length - 1];
+          updateProgress(expressions.length, totalCount);
+        }
+
+        console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
+      } else {
+        console.log("All records are already present locally. No new data to download.");
+      }
+
+      // Update sync date
+      localStorage.setItem(CACHE_DATE_KEY, today);
+    }
+
+    // Final UI updates
     if (expressions.length > 0) {
       dailyExpression = expressions[Math.floor(Math.random() * expressions.length)];
     }
-
 
     if (expressions.length === 0) {
       console.warn("No expressions found.");
@@ -129,8 +168,13 @@ async function fetchAllExpressions(forceUpdate = false) {
 
     renderEmptyState();
   } catch (error) {
-    console.error("Error fetching expressions:", error);
-    renderErrorState(error);
+    if (error.code === 'failed-precondition' || error.code === 'unavailable') {
+      console.warn("Sync failed (offline or multiple tabs), showing local data only.");
+      renderEmptyState();
+    } else {
+      console.error("Error fetching expressions:", error);
+      renderErrorState(error);
+    }
   } finally {
     renderLoading(false);
   }

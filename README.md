@@ -12,6 +12,7 @@ A premium, high-performance web application designed to search and discover auth
 - **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file, containing only essential fields.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
 - **Improved Download Progress**: A premium, real-time visual progress bar with an immediate "0% feedback" system, ensuring visibility during Firestore synchronization.
+- **Firestore Read Optimization**: Implements **IndexedDB Persistence** and **Delta-Sync** logic. Only new or modified records are fetched from the server, preventing `QUOTA EXCEEDED` errors and reducing daily read counts from 40k+ to nearly zero for existing users.
 - **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, featuring compact loading states to maximize visibility on smaller screens.
 - **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
 - **Smart Deduplication & Curation**: The database is algorithmically curated to maintain zero duplicates and high-quality learning content.
