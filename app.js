@@ -244,7 +244,7 @@ function performSearch(searchTerm) {
 
   if (searchTerm === "*") {
     console.log("Wildcard search triggered");
-    renderResults(expressions);
+    renderAllExpressionsWithProgress();
     return;
   }
 
@@ -381,6 +381,53 @@ function highlightKeywords(text, keywords) {
   );
 
   return processedText.replace(pattern, '<span class="highlight">$1</span>');
+}
+
+function renderAllExpressionsWithProgress() {
+  renderLoading(true, "Loading all expressions...");
+  
+  // Explicitly show progress container since renderLoading hides it by default
+  progressContainer.classList.remove("hidden");
+  
+  const total = expressions.length;
+  const CHUNK_SIZE = 1500; // Updated chunk size for better balance
+  let processed = 0;
+  let accumulatedHTML = "";
+
+  function processChunk() {
+    const chunkEnd = Math.min(processed + CHUNK_SIZE, total);
+    
+    // Build HTML for this chunk
+    for (let i = processed; i < chunkEnd; i++) {
+      accumulatedHTML += createExpressionCardHTML(expressions[i]);
+    }
+
+    processed = chunkEnd;
+    updateProgress(processed, total);
+
+    if (processed < total) {
+      // Yield to main thread to allow UI updates
+      requestAnimationFrame(processChunk);
+    } else {
+      // Rendering complete
+      resultsContainer.innerHTML = accumulatedHTML;
+      
+      const suffix = total === 1 ? "result" : "results";
+      resultCount.textContent = `${total} ${suffix} found`;
+      
+      // Show results and hide loading states
+      resultCount.classList.remove("hidden");
+      resultsContainer.classList.remove("hidden");
+      noResultsState.classList.add("hidden");
+      initialState.classList.add("hidden");
+      loadingState.classList.add("hidden");
+      
+      console.log("Finished rendering all expressions");
+    }
+  }
+
+  // Start the chunked processing
+  requestAnimationFrame(processChunk); // Use RAF for smoother start
 }
 
 function renderLoading(isLoading, message = "Searching the database...") {
