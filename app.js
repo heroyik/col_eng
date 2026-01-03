@@ -384,38 +384,47 @@ function highlightKeywords(text, keywords) {
 }
 
 function renderAllExpressionsWithProgress() {
+  // 1. Reset UI State
   renderLoading(true, "Loading all expressions...");
   
-  // Explicitly show progress container since renderLoading hides it by default
+  // Force display of progress elements immediately
   progressContainer.classList.remove("hidden");
+  progressBar.style.width = "0%";
+  progressText.textContent = `0 / ${expressions.length} loaded (0%)`;
   
   const total = expressions.length;
-  const CHUNK_SIZE = 1500; // Updated chunk size for better balance
+  // Decrease chunk size to ensure UI thread remains responsive (prevent freezing)
+  const CHUNK_SIZE = 100; 
   let processed = 0;
-  let accumulatedHTML = "";
+  
+  // Use an array for performance (faster than repeated string concatenation)
+  let accumulatedChunks = [];
 
   function processChunk() {
     const chunkEnd = Math.min(processed + CHUNK_SIZE, total);
     
     // Build HTML for this chunk
     for (let i = processed; i < chunkEnd; i++) {
-      accumulatedHTML += createExpressionCardHTML(expressions[i]);
+        accumulatedChunks.push(createExpressionCardHTML(expressions[i]));
     }
 
     processed = chunkEnd;
+    
+    // Update Progress UI
     updateProgress(processed, total);
 
     if (processed < total) {
-      // Yield to main thread to allow UI updates
-      requestAnimationFrame(processChunk);
+      // Use setTimeout(..., 0) to yield to the event loop, ensuring the browser has a chance to paint the progress bar update.
+      // requestAnimationFrame can sometimes stack up if processing time varies.
+      setTimeout(processChunk, 0);
     } else {
-      // Rendering complete
-      resultsContainer.innerHTML = accumulatedHTML;
+      // Rendering complete: Join all chunks and inject
+      resultsContainer.innerHTML = accumulatedChunks.join("");
       
       const suffix = total === 1 ? "result" : "results";
       resultCount.textContent = `${total} ${suffix} found`;
       
-      // Show results and hide loading states
+      // Update UI states
       resultCount.classList.remove("hidden");
       resultsContainer.classList.remove("hidden");
       noResultsState.classList.add("hidden");
@@ -426,8 +435,8 @@ function renderAllExpressionsWithProgress() {
     }
   }
 
-  // Start the chunked processing
-  requestAnimationFrame(processChunk); // Use RAF for smoother start
+  // Start processing after a brief delay to allow the "Loading" UI to render first
+  setTimeout(processChunk, 50);
 }
 
 function renderLoading(isLoading, message = "Searching the database...") {
