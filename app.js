@@ -109,15 +109,20 @@ async function fetchAllExpressions(forceUpdate = false) {
       const countSnapshot = await getCountFromServer(expressionsRef);
       const totalCount = countSnapshot.data().count;
       console.log(`Server record count: ${totalCount} (Local: ${expressions.length})`);
+      
+      // Update progress immediately so the bar appears
+      updateProgress(expressions.length, totalCount);
 
       if (expressions.length < totalCount) {
         // 4. Delta Fetch: Only download missing records
-        // We order by 'id' to find the next batch of data
-        const lastId = expressions.length > 0 
-          ? Math.max(...expressions.map(e => e.id || 0)) 
-          : 0;
+        // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
+        const lastId = expressions.reduce((max, e) => Math.max(max, e.id || 0), 0);
+        
+        // Performance Improvement: Use a Set for O(1) lookups instead of O(N) .some()
+        const existingIds = new Set(expressions.map(e => e.id));
         
         console.log(`Fetching new records starting from ID > ${lastId}...`);
+        console.time('SyncDuration');
         
         let fetchedCount = 0;
         let lastDoc = null;
@@ -137,9 +142,10 @@ async function fetchAllExpressions(forceUpdate = false) {
 
           querySnapshot.forEach((doc) => {
             const data = doc.data();
-            // Avoid duplicates
-            if (!expressions.some(e => e.id === data.id)) {
+            // Performance Improvement: O(1) duplicate check
+            if (!existingIds.has(data.id)) {
               expressions.push({ id: doc.id, ...data });
+              existingIds.add(data.id);
               fetchedCount++;
             }
           });
@@ -148,6 +154,7 @@ async function fetchAllExpressions(forceUpdate = false) {
           updateProgress(expressions.length, totalCount);
         }
 
+        console.timeEnd('SyncDuration');
         console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
       } else {
         console.log("All records are already present locally. No new data to download.");
