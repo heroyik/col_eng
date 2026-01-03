@@ -49,3 +49,13 @@ To provide a superior user experience with standard Firestore (which has limited
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
 
+## 📂 Project Structure
+
+- `app.js`: Main application logic.
+- `index.html`: Entry point of the web app.
+- `index.css`: Styling for the application.
+- `public/`: Assets and public files.
+- `temp/`: Temporary scripts, JSON data batches, and logs.
+- `firebase.json`: Firebase configuration.
+- `firestore.rules` & `firestore.indexes.json`: Security rules and index configuration.
+
