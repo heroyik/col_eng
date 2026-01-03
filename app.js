@@ -125,10 +125,11 @@ async function fetchAllExpressions(forceUpdate = false) {
         console.time('SyncDuration');
         
         let fetchedCount = 0;
+        let processedCount = expressions.length;
         let lastDoc = null;
-        const BATCH_SIZE = 100; // Larger batch for initial/bulk sync
+        const BATCH_SIZE = 500; // Increased BATCH_SIZE for faster sync
 
-        while (expressions.length < totalCount) {
+        while (true) {
           let q;
           if (lastDoc) {
             q = query(expressionsRef, orderBy("id", "asc"), startAfter(lastDoc), limit(BATCH_SIZE));
@@ -138,10 +139,14 @@ async function fetchAllExpressions(forceUpdate = false) {
           }
 
           const querySnapshot = await getDocsFromServer(q);
-          if (querySnapshot.empty) break;
+          if (querySnapshot.empty) {
+            console.log("No more new records to fetch.");
+            break;
+          }
 
           querySnapshot.forEach((doc) => {
             const data = doc.data();
+            processedCount++; 
             // Performance Improvement: O(1) duplicate check
             if (!existingIds.has(data.id)) {
               expressions.push({ id: doc.id, ...data });
@@ -151,14 +156,20 @@ async function fetchAllExpressions(forceUpdate = false) {
           });
 
           lastDoc = querySnapshot.docs[querySnapshot.docs.length - 1];
-          updateProgress(expressions.length, totalCount);
+          // Update progress based on processed records from server to show continuous progress
+          updateProgress(Math.min(processedCount, totalCount), totalCount);
+          
+          console.log(`Synced batch: ${processedCount}/${totalCount}...`);
         }
 
         console.timeEnd('SyncDuration');
-        console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
+        console.log(`Delta sync complete. Fetched ${fetchedCount} new records (Processed ${processedCount}).`);
       } else {
         console.log("All records are already present locally. No new data to download.");
       }
+
+      // Update progress to 100% just in case of rounding or small mismatches
+      updateProgress(totalCount, totalCount);
 
       // Update sync date
       localStorage.setItem(CACHE_DATE_KEY, today);
