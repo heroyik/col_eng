@@ -116,7 +116,7 @@ async function fetchAllExpressions(forceUpdate = false) {
       if (expressions.length < totalCount) {
         // 4. Delta Fetch: Only download missing records
         // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
-        const lastId = expressions.reduce((max, e) => Math.max(max, e.id || 0), 0);
+        let lastId = expressions.reduce((max, e) => Math.max(max, e.id || 0), 0);
         
         // Performance Improvement: Use a Set for O(1) lookups instead of O(N) .some()
         const existingIds = new Set(expressions.map(e => e.id));
@@ -130,13 +130,13 @@ async function fetchAllExpressions(forceUpdate = false) {
         const BATCH_SIZE = 500; // Increased BATCH_SIZE for faster sync
 
         while (true) {
-          let q;
-          if (lastDoc) {
-            q = query(expressionsRef, orderBy("id", "asc"), startAfter(lastDoc), limit(BATCH_SIZE));
-          } else {
-            // First batch of new records
-            q = query(expressionsRef, orderBy("id", "asc"), where("id", ">", lastId), limit(BATCH_SIZE));
-          }
+          // Always use value-based cursor for consistency across browsers (Safari fix)
+          const q = query(
+            expressionsRef, 
+            orderBy("id", "asc"), 
+            where("id", ">", lastId), 
+            limit(BATCH_SIZE)
+          );
 
           const querySnapshot = await getDocsFromServer(q);
           if (querySnapshot.empty) {
@@ -144,9 +144,17 @@ async function fetchAllExpressions(forceUpdate = false) {
             break;
           }
 
+          let batchMaxId = lastId;
+
           querySnapshot.forEach((doc) => {
             const data = doc.data();
             processedCount++; 
+            
+            // Track the maximum ID seen in this batch to update the cursor for the next loop
+            if (data.id > batchMaxId) {
+              batchMaxId = data.id;
+            }
+
             // Performance Improvement: O(1) duplicate check
             if (!existingIds.has(data.id)) {
               expressions.push({ id: doc.id, ...data });
@@ -155,11 +163,13 @@ async function fetchAllExpressions(forceUpdate = false) {
             }
           });
 
-          lastDoc = querySnapshot.docs[querySnapshot.docs.length - 1];
+          // Update cursor for next iteration
+          lastId = batchMaxId;
+          
           // Update progress based on processed records from server to show continuous progress
           updateProgress(Math.min(processedCount, totalCount), totalCount);
           
-          console.log(`Synced batch: ${processedCount}/${totalCount}...`);
+          console.log(`Synced batch: ${processedCount}/${totalCount}... (Last ID: ${lastId})`);
         }
 
         console.timeEnd('SyncDuration');
