@@ -122,7 +122,12 @@ async function fetchAllExpressions(forceUpdate = false) {
       if (expressions.length < totalCount) {
         // 4. Delta Fetch: Only download missing records
         // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
-        let lastId = expressions.reduce((max, e) => Math.max(max, e.id || 0), 0);
+        // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
+        // Defensive: Parse to Number to handle any legacy string IDs safely
+        let lastId = expressions.reduce((max, e) => {
+          const numericId = Number(e.id);
+          return isNaN(numericId) ? max : Math.max(max, numericId);
+        }, 0);
         
         // Performance Improvement: Use a Set for O(1) lookups instead of O(N) .some()
         const existingIds = new Set(expressions.map(e => e.id));
@@ -237,6 +242,10 @@ function renderErrorState(error) {
     console.error("Firestore offline or unreachable.");
   } else if (error.code === "permission-denied") {
     console.error("Firestore permission denied.");
+  } else if (error.code === "resource-exhausted") {
+    console.error("Firestore quota exceeded (429). Please wait for the daily reset.");
+  } else {
+    console.error("Detailed Error:", error);
   }
 }
 
@@ -497,6 +506,7 @@ function renderLoading(isLoading, message = "Searching the database...") {
   if (isLoading) {
     loadingMessage.textContent = message;
     loadingState.classList.remove("hidden");
+    errorState.classList.add("hidden"); // Hide error if we start loading again
     initialState.classList.add("hidden");
     noResultsState.classList.add("hidden");
     resultCount.classList.add("hidden");
@@ -515,6 +525,7 @@ function renderEmptyState() {
   resultsContainer.innerHTML = "";
   resultsContainer.classList.add("hidden"); // Hide container to remove gap
   loadingState.classList.add("hidden");
+  errorState.classList.add("hidden"); // Hide error on success
   noResultsState.classList.add("hidden");
 
   if (expressions.length > 0) {
