@@ -127,7 +127,6 @@ async function fetchAllExpressions(forceUpdate = false) {
       if (metadataDoc.exists()) {
         const metadata = metadataDoc.data();
         const serverTotal = metadata.totalCount;
-        const serverUpdateEpoch = metadata.lastUpdatedAt?.toMillis() || 0;
         
         // Check if we already have everything
         if (!forceUpdate && expressions.length === serverTotal) {
@@ -141,83 +140,62 @@ async function fetchAllExpressions(forceUpdate = false) {
         updateProgress(expressions.length, serverTotal);
 
         if (expressions.length < serverTotal) {
-           // Proceed to Delta Fetch (Logic below...)
-           const totalCount = serverTotal;
-        // 4. Delta Fetch: Only download missing records
-        // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
-        // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
-        // Defensive: Parse to Number to handle any legacy string IDs safely
-        let lastId = expressions.reduce((max, e) => {
-          const numericId = Number(e.id);
-          return isNaN(numericId) ? max : Math.max(max, numericId);
-        }, 0);
-        
-        // Performance Improvement: Use a Set for O(1) lookups instead of O(N) .some()
-        const existingIds = new Set(expressions.map(e => e.id));
-        
-        console.log(`Fetching new records starting from ID > ${lastId}...`);
-        console.time('SyncDuration');
-        
-        let fetchedCount = 0;
-        let processedCount = expressions.length;
-        let lastDoc = null;
-        const BATCH_SIZE = 500; // Increased BATCH_SIZE for faster sync
+          // 5. Delta Fetch: Only download missing records
+          let lastId = expressions.reduce((max, e) => {
+            const numericId = Number(e.id);
+            return isNaN(numericId) ? max : Math.max(max, numericId);
+          }, 0);
+          
+          const existingIds = new Set(expressions.map(e => e.id));
+          console.log(`Fetching new records starting from ID > ${lastId}...`);
+          console.time('SyncDuration');
+          
+          let fetchedCount = 0;
+          let processedCount = expressions.length;
+          const BATCH_SIZE = 500;
 
-        while (true) {
-          // Always use value-based cursor for consistency across browsers (Safari fix)
-          const q = query(
-            expressionsRef, 
-            orderBy("id", "asc"), 
-            where("id", ">", lastId), 
-            limit(BATCH_SIZE)
-          );
+          while (true) {
+            const q = query(
+              expressionsRef, 
+              orderBy("id", "asc"), 
+              where("id", ">", lastId), 
+              limit(BATCH_SIZE)
+            );
 
-          const querySnapshot = await getDocsFromServer(q);
-          if (querySnapshot.empty) {
-            console.log("No more new records to fetch.");
-            break;
+            const querySnapshot = await getDocsFromServer(q);
+            if (querySnapshot.empty) break;
+
+            let batchMaxId = lastId;
+            querySnapshot.forEach((doc) => {
+              const data = doc.data();
+              processedCount++; 
+              if (data.id > batchMaxId) batchMaxId = data.id;
+
+              if (!existingIds.has(data.id)) {
+                expressions.push({ docId: doc.id, ...data });
+                existingIds.add(data.id);
+                fetchedCount++;
+              }
+            });
+
+            lastId = batchMaxId;
+            updateProgress(Math.min(processedCount, serverTotal), serverTotal);
+            console.log(`Synced batch: ${processedCount}/${serverTotal}... (Last ID: ${lastId})`);
           }
 
-          let batchMaxId = lastId;
-
-          querySnapshot.forEach((doc) => {
-            const data = doc.data();
-            processedCount++; 
-            
-            // Track the maximum ID seen in this batch to update the cursor for the next loop
-            if (data.id > batchMaxId) {
-              batchMaxId = data.id;
-            }
-
-            // Performance Improvement: O(1) duplicate check
-            if (!existingIds.has(data.id)) {
-              // Store docId separately to avoid shadowing numeric id
-              expressions.push({ docId: doc.id, ...data });
-              existingIds.add(data.id);
-              fetchedCount++;
-            }
-          });
-
-          // Update cursor for next iteration
-          lastId = batchMaxId;
-          
-          // Update progress based on processed records from server to show continuous progress
-          updateProgress(Math.min(processedCount, totalCount), totalCount);
-          
-          console.log(`Synced batch: ${processedCount}/${totalCount}... (Last ID: ${lastId})`);
+          console.timeEnd('SyncDuration');
+          console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
+          updateProgress(serverTotal, serverTotal);
+        } else {
+          console.log("All records are already present locally.");
+          updateProgress(serverTotal, serverTotal);
         }
 
-        console.timeEnd('SyncDuration');
-        console.log(`Delta sync complete. Fetched ${fetchedCount} new records (Processed ${processedCount}).`);
+        // Update sync date
+        localStorage.setItem(CACHE_DATE_KEY, today);
       } else {
-        console.log("All records are already present locally. No new data to download.");
+        console.warn("Metadata document missing. Proceeding with existing expressions.");
       }
-
-      // Update progress to 100% just in case of rounding or small mismatches
-      updateProgress(totalCount, totalCount);
-
-      // Update sync date
-      localStorage.setItem(CACHE_DATE_KEY, today);
     }
 
     // Final UI updates
