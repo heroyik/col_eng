@@ -3,7 +3,8 @@ import os
 import sys
 
 def get_batch(start, end):
-    f_path = r'c:\Users\heroy\COL_ENG\db\20260101_COL_ENG_1484_backupjson'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    f_path = os.path.join(script_dir, '20260101_COL_ENG_1484_backupjson')
     with open(f_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     batch = data[start:end]

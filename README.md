@@ -11,7 +11,9 @@ A premium, high-performance web application designed to search and discover auth
 - **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
 - **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file, containing only essential fields.
 - **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
-- **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, eliminating scroll fatigue.
+- **Improved Download Progress**: A premium, real-time visual progress bar with an immediate "0% feedback" system, ensuring visibility during Firestore synchronization.
+- **Firestore Read Optimization**: Implements **IndexedDB Persistence** and **Delta-Sync** logic. Only new or modified records are fetched from the server, preventing `QUOTA EXCEEDED` errors and reducing daily read counts from 40k+ to nearly zero for existing users.
+- **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, featuring compact loading states to maximize visibility on smaller screens.
 - **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
 - **Smart Deduplication & Curation**: The database is algorithmically curated to maintain zero duplicates and high-quality learning content.
 - **Standardized Data Schema**: Every document is mapped with a consistent `expression_XXXX` ID and an internal `id` field for superior administration.
@@ -47,32 +49,13 @@ To provide a superior user experience with standard Firestore (which has limited
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
 
-### Schema Requirements
+## 📂 Project Structure
 
-- `id` (number): Standardized incrementing ID.
-- `primary` (string): The main English expression.
-- `meaning` (string): The meaning or translation (Korean).
-- `spanish` (string): Two colloquial Spanish variations separated by " / ".
-- `chinese` (string): Colloquial Chinese translations (HSK 4 level) with Pinyin.
-- `vietnamese` (string): Trendy/Colloquial Vietnamese translations (OPIC IM2 level).
-- `japanese` (string): Natural Japanese colloquialisms.
-- `similar` (array): A list of 5 modern/trendy synonyms.
-- `example` (string): A standardized 6-line A/B conversation demonstrating natural usage.
+- `app.js`: Main application logic.
+- `index.html`: Entry point of the web app.
+- `index.css`: Styling for the application.
+- `public/`: Assets and public files.
+- `temp/`: Temporary scripts, JSON data batches, and logs.
+- `firebase.json`: Firebase configuration.
+- `firestore.rules` & `firestore.indexes.json`: Security rules and index configuration.
 
-## 🛡️ Data Integrity & Administration
-
-This project employs a suite of custom Node.js scripts for professional database management:
-
-- **[upload_to_firestore.js](file:///c:/Users/heroy/COL_ENG/upload_to_firestore.js)**: High-performance uploader using **Firestore Batch Overwrite** logic to maximize I/O efficiency and overcome quota limits during mass re-population.
-- **[export_expressions.js](file:///c:/Users/heroy/COL_ENG/sources/export_expressions.js)**: Optimized Firestore export using `.select()` for high-speed, selective field backups.
-- **Batch Upload**: REST API-based uploader for efficient handling of large datasets within quota limits.
-- **Smart Deduplication**: Custom algorithm to detect and remove near-match duplicates using Levenshtein distance analysis.
-
-## 📄 License
-
-MIT License - feel free to use and modify for your own projects!
-
-## 📧 Contact & Maintenance
-
-This project is maintained by **heroyik**.
-For inquiries, please contact: [heroyik@gmail.com](mailto:heroyik@gmail.com)

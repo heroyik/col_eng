@@ -9,6 +9,12 @@ import {
   doc,
   getDoc,
   limit,
+  orderBy,
+  getCountFromServer,
+  startAfter,
+  enableIndexedDbPersistence, // Added for persistence
+  getDocsFromCache,          // Added to load local data efficiently
+  getDocsFromServer,         // Added for explicit server sync
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 // Firebase configuration
@@ -25,17 +31,35 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+
+// Enable Firestore Persistence (IndexedDB)
+// This is much more efficient than localStorage for 40k+ records
+enableIndexedDbPersistence(db).catch((err) => {
+  if (err.code === 'failed-precondition') {
+    // Multiple tabs open, persistence can only be enabled in one tab at a time.
+    console.warn("Persistence failed: Multiple tabs open");
+  } else if (err.code === 'unimplemented') {
+    // The current browser does not support all of the features required to enable persistence
+    console.warn("Persistence failed: Browser not supported");
+  }
+});
+
 const expressionsRef = collection(db, "EnglishExpressions");
 
 // Cache Configuration
-const CACHE_KEY = "col_eng_expressions";
+// We'll keep last_fetch_date in localStorage, but data stays in Firestore's IndexedDB
 const CACHE_DATE_KEY = "col_eng_last_fetch_date";
+const LOCAL_ID_KEY = "col_eng_last_id"; // Store the last fetched ID for delta sync
 
 
 
 const searchInput = document.getElementById("searchInput");
 const resultsContainer = document.getElementById("resultsContainer");
 const loadingState = document.getElementById("loadingState");
+const loadingMessage = document.getElementById("loadingMessage");
+const progressContainer = document.getElementById("progressContainer");
+const progressBar = document.getElementById("progressBar");
+const progressText = document.getElementById("progressText");
 const initialState = document.getElementById("initialState");
 const noResultsState = document.getElementById("noResultsState");
 const resultCount = document.getElementById("resultCount");
@@ -50,59 +74,123 @@ let expressions = [];
 let dailyExpression = null;
 let debounceTimer;
 
-// Fetch expressions with caching
+// Fetch expressions with persistence and delta-sync logic
 async function fetchAllExpressions(forceUpdate = false) {
   try {
     const now = new Date();
     const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
-    
-    const cachedData = localStorage.getItem(CACHE_KEY);
     const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
 
-    if (!forceUpdate && cachedData && cachedDate === today) {
-      expressions = JSON.parse(cachedData);
-      console.log(`Loaded ${expressions.length} expressions from cache (Date: ${cachedDate}).`);
-    } else {
-      if (forceUpdate) {
-        console.log("Forced update triggered. Fetching fresh data from Firestore...");
-        renderLoading(true);
-      } else {
-        console.log("Cache expired or missing. Fetching from Firestore...");
-      }
-
-    // Removed orderBy to ensure data loads even if indexes are missing
-      // const q = query(expressionsRef, orderBy("primary", "asc"));
-      // const querySnapshot = await getDocs(q);
-      const querySnapshot = await getDocs(expressionsRef);
-      console.log('Query executed. Size:', querySnapshot.size);
-
-      expressions = [];
-      querySnapshot.forEach((doc) => {
-        // Firestore data inherently contains the new fields if they exist in the document
-        // spread operator ...doc.data() will include japanese, chinese, vietnamese, spanish
-        expressions.push({ id: doc.id, ...doc.data() });
-      });
-
-      // Sort client-side to be robust
-      expressions.sort((a, b) => {
-        const textA = a.primary ? a.primary.toUpperCase() : "";
-        const textB = b.primary ? b.primary.toUpperCase() : "";
-        return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
-      });
-
-      if (expressions.length > 0) {
-        // Update cache
-        localStorage.setItem(CACHE_KEY, JSON.stringify(expressions));
-        localStorage.setItem(CACHE_DATE_KEY, today);
-        console.log(`Fetched and cached ${expressions.length} expressions.`);
+    // 1. Initial Load: Load everything from local cache first (instant)
+    if (expressions.length === 0) {
+      console.log("Loading initial data from local cache...");
+      const localQ = query(expressionsRef, orderBy("id", "asc"));
+      const localSnapshot = await getDocsFromCache(localQ).catch(() => null);
+      
+      if (localSnapshot && !localSnapshot.empty) {
+        expressions = [];
+        localSnapshot.forEach(doc => expressions.push({ id: doc.id, ...doc.data() }));
+        console.log(`Loaded ${expressions.length} expressions from local cache.`);
       }
     }
 
-    // Always pick a random expression from the available list
+    // 2. Decide if we need to sync with server
+    // If not forced and already synced today, we stop here
+    if (!forceUpdate && expressions.length > 0 && cachedDate === today) {
+      console.log("Database is up to date for today.");
+    } else {
+      if (forceUpdate) {
+        console.log("Forced update triggered. Checking for new data...");
+        renderLoading(true, "Checking for updates...");
+      } else {
+        console.log("Cache expired or missing. Syncing with Firestore...");
+        renderLoading(true, "Syncing database...");
+      }
+
+      // 3. Get total count from server (cheap: 1 read)
+      const countSnapshot = await getCountFromServer(expressionsRef);
+      const totalCount = countSnapshot.data().count;
+      console.log(`Server record count: ${totalCount} (Local: ${expressions.length})`);
+      
+      // Update progress immediately so the bar appears
+      updateProgress(expressions.length, totalCount);
+
+      if (expressions.length < totalCount) {
+        // 4. Delta Fetch: Only download missing records
+        // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
+        let lastId = expressions.reduce((max, e) => Math.max(max, e.id || 0), 0);
+        
+        // Performance Improvement: Use a Set for O(1) lookups instead of O(N) .some()
+        const existingIds = new Set(expressions.map(e => e.id));
+        
+        console.log(`Fetching new records starting from ID > ${lastId}...`);
+        console.time('SyncDuration');
+        
+        let fetchedCount = 0;
+        let processedCount = expressions.length;
+        let lastDoc = null;
+        const BATCH_SIZE = 500; // Increased BATCH_SIZE for faster sync
+
+        while (true) {
+          // Always use value-based cursor for consistency across browsers (Safari fix)
+          const q = query(
+            expressionsRef, 
+            orderBy("id", "asc"), 
+            where("id", ">", lastId), 
+            limit(BATCH_SIZE)
+          );
+
+          const querySnapshot = await getDocsFromServer(q);
+          if (querySnapshot.empty) {
+            console.log("No more new records to fetch.");
+            break;
+          }
+
+          let batchMaxId = lastId;
+
+          querySnapshot.forEach((doc) => {
+            const data = doc.data();
+            processedCount++; 
+            
+            // Track the maximum ID seen in this batch to update the cursor for the next loop
+            if (data.id > batchMaxId) {
+              batchMaxId = data.id;
+            }
+
+            // Performance Improvement: O(1) duplicate check
+            if (!existingIds.has(data.id)) {
+              expressions.push({ id: doc.id, ...data });
+              existingIds.add(data.id);
+              fetchedCount++;
+            }
+          });
+
+          // Update cursor for next iteration
+          lastId = batchMaxId;
+          
+          // Update progress based on processed records from server to show continuous progress
+          updateProgress(Math.min(processedCount, totalCount), totalCount);
+          
+          console.log(`Synced batch: ${processedCount}/${totalCount}... (Last ID: ${lastId})`);
+        }
+
+        console.timeEnd('SyncDuration');
+        console.log(`Delta sync complete. Fetched ${fetchedCount} new records (Processed ${processedCount}).`);
+      } else {
+        console.log("All records are already present locally. No new data to download.");
+      }
+
+      // Update progress to 100% just in case of rounding or small mismatches
+      updateProgress(totalCount, totalCount);
+
+      // Update sync date
+      localStorage.setItem(CACHE_DATE_KEY, today);
+    }
+
+    // Final UI updates
     if (expressions.length > 0) {
       dailyExpression = expressions[Math.floor(Math.random() * expressions.length)];
     }
-
 
     if (expressions.length === 0) {
       console.warn("No expressions found.");
@@ -110,10 +198,25 @@ async function fetchAllExpressions(forceUpdate = false) {
 
     renderEmptyState();
   } catch (error) {
-    console.error("Error fetching expressions:", error);
-    renderErrorState(error);
+    if (error.code === 'failed-precondition' || error.code === 'unavailable') {
+      console.warn("Sync failed (offline or multiple tabs), showing local data only.");
+      renderEmptyState();
+    } else {
+      console.error("Error fetching expressions:", error);
+      renderErrorState(error);
+    }
   } finally {
-    if (forceUpdate) renderLoading(false);
+    renderLoading(false);
+  }
+}
+
+function updateProgress(current, total) {
+  const percentage = Math.round((current / total) * 100);
+  progressBar.style.width = `${percentage}%`;
+  progressText.textContent = `${current} / ${total} expressions loaded (${percentage}%)`;
+
+  if (current > 0) {
+    progressContainer.classList.remove("hidden");
   }
 }
 
@@ -190,7 +293,7 @@ function performSearch(searchTerm) {
 
   if (searchTerm === "*") {
     console.log("Wildcard search triggered");
-    renderResults(expressions);
+    renderAllExpressionsWithProgress();
     return;
   }
 
@@ -216,7 +319,7 @@ function performSearch(searchTerm) {
       // User didn't explicitly ask for search in translations, but it might be useful. 
       // Staying strict to requirement: "User did not ask for search update, only display."
       // So I will stick to existing search logic for now to avoid scope creep and I/O implications (though strictly local).
-      
+
       return inPrimary || inMeaning || inSimilar || inExample;
     });
 
@@ -236,7 +339,7 @@ function createExpressionCardHTML(item) {
     { lang: 'Spanish', value: item.spanish }
   ].filter(t => t.value); // Only show if translation exists
 
-  const translationBlock = translations.length > 0 
+  const translationBlock = translations.length > 0
     ? `
       <div class="translation-container">
         ${translations.map(t => `
@@ -246,43 +349,40 @@ function createExpressionCardHTML(item) {
           </div>
         `).join('')}
       </div>
-    ` 
+    `
     : '';
 
   return `
         <article class="expression-card">
             <div class="card-header">
                 <h3 class="text">${item.primary}</h3>
-                ${
-                  item.meaning
-                    ? `<span class="meaning">${item.meaning}</span>`
-                    : ""
-                }
+                ${item.meaning
+      ? `<span class="meaning">${item.meaning}</span>`
+      : ""
+    }
             </div>
-            ${
-              item.similar && Array.isArray(item.similar)
-                ? `
+            ${item.similar && Array.isArray(item.similar)
+      ? `
                 <div class="synonyms-list">
                     ${item.similar
-                      .map((syn) => `<span class="synonym-tag">${syn}</span>`)
-                      .join("")}
+        .map((syn) => `<span class="synonym-tag">${syn}</span>`)
+        .join("")}
                 </div>
             `
-                : ""
-            }
-            ${
-              item.example
-                ? `
+      : ""
+    }
+            ${item.example
+      ? `
                 <div class="example-box">
                     <span class="example-label">Example Usage</span>
                     <p class="example-text">${highlightKeywords(item.example, [
-                      item.primary,
-                      ...(item.similar || []),
-                    ])}</p>
+        item.primary,
+        ...(item.similar || []),
+      ])}</p>
                 </div>
             `
-                : ""
-            }
+      : ""
+    }
             ${translationBlock}
         </article>
     `;
@@ -332,13 +432,75 @@ function highlightKeywords(text, keywords) {
   return processedText.replace(pattern, '<span class="highlight">$1</span>');
 }
 
-function renderLoading(isLoading) {
+function renderAllExpressionsWithProgress() {
+  // 1. Reset UI State
+  renderLoading(true, "Loading all expressions...");
+  
+  // Force display of progress elements immediately
+  progressContainer.classList.remove("hidden");
+  progressBar.style.width = "0%";
+  progressText.textContent = `0 / ${expressions.length} loaded (0%)`;
+  
+  const total = expressions.length;
+  // Decrease chunk size to ensure UI thread remains responsive (prevent freezing)
+  const CHUNK_SIZE = 100; 
+  let processed = 0;
+  
+  // Use an array for performance (faster than repeated string concatenation)
+  let accumulatedChunks = [];
+
+  function processChunk() {
+    const chunkEnd = Math.min(processed + CHUNK_SIZE, total);
+    
+    // Build HTML for this chunk
+    for (let i = processed; i < chunkEnd; i++) {
+        accumulatedChunks.push(createExpressionCardHTML(expressions[i]));
+    }
+
+    processed = chunkEnd;
+    
+    // Update Progress UI
+    updateProgress(processed, total);
+
+    if (processed < total) {
+      // Use setTimeout(..., 0) to yield to the event loop, ensuring the browser has a chance to paint the progress bar update.
+      // requestAnimationFrame can sometimes stack up if processing time varies.
+      setTimeout(processChunk, 0);
+    } else {
+      // Rendering complete: Join all chunks and inject
+      resultsContainer.innerHTML = accumulatedChunks.join("");
+      
+      const suffix = total === 1 ? "result" : "results";
+      resultCount.textContent = `${total} ${suffix} found`;
+      
+      // Update UI states
+      resultCount.classList.remove("hidden");
+      resultsContainer.classList.remove("hidden");
+      noResultsState.classList.add("hidden");
+      initialState.classList.add("hidden");
+      loadingState.classList.add("hidden");
+      
+      console.log("Finished rendering all expressions");
+    }
+  }
+
+  // Start processing after a brief delay to allow the "Loading" UI to render first
+  setTimeout(processChunk, 50);
+}
+
+function renderLoading(isLoading, message = "Searching the database...") {
   if (isLoading) {
+    loadingMessage.textContent = message;
     loadingState.classList.remove("hidden");
     initialState.classList.add("hidden");
     noResultsState.classList.add("hidden");
     resultCount.classList.add("hidden");
     resultsContainer.innerHTML = "";
+
+    // Reset progress UI
+    progressBar.style.width = "0%";
+    progressText.textContent = "";
+    progressContainer.classList.add("hidden");
   } else {
     loadingState.classList.add("hidden");
   }
@@ -353,7 +515,7 @@ function renderEmptyState() {
   if (expressions.length > 0) {
     const cacheDate = localStorage.getItem(CACHE_DATE_KEY);
     let displayDate = "";
-    
+
     if (cacheDate) {
       // Convert YYYY-MM-DD to YYYY/MM/DD for display
       displayDate = cacheDate.replace(/-/g, "/");
