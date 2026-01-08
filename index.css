@@ -152,6 +152,12 @@ h1 {
   opacity: 1; /* Firefox default is lower */
 }
 
+.success-message {
+  color: #34d399 !important; /* Green-400 equivalent for visibility on dark */
+  font-weight: bold !important;
+  text-align: center;
+}
+
 .search-icon {
   position: absolute;
   left: 1.5rem;

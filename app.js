@@ -6,8 +6,9 @@ import {
   query,
   where,
   getDocs,
+  doc,
+  getDoc,
   limit,
-  orderBy,
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 // Firebase configuration
@@ -69,14 +70,24 @@ async function fetchAllExpressions(forceUpdate = false) {
         console.log("Cache expired or missing. Fetching from Firestore...");
       }
 
-      const q = query(expressionsRef, orderBy("primary", "asc"));
-      const querySnapshot = await getDocs(q);
-      
+    // Removed orderBy to ensure data loads even if indexes are missing
+      // const q = query(expressionsRef, orderBy("primary", "asc"));
+      // const querySnapshot = await getDocs(q);
+      const querySnapshot = await getDocs(expressionsRef);
+      console.log('Query executed. Size:', querySnapshot.size);
+
       expressions = [];
       querySnapshot.forEach((doc) => {
         // Firestore data inherently contains the new fields if they exist in the document
         // spread operator ...doc.data() will include japanese, chinese, vietnamese, spanish
         expressions.push({ id: doc.id, ...doc.data() });
+      });
+
+      // Sort client-side to be robust
+      expressions.sort((a, b) => {
+        const textA = a.primary ? a.primary.toUpperCase() : "";
+        const textB = b.primary ? b.primary.toUpperCase() : "";
+        return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
       });
 
       if (expressions.length > 0) {
@@ -126,7 +137,54 @@ function performSearch(searchTerm) {
   if (searchTerm.toLowerCase() === "forcedownload") {
     console.log("Forced download command detected.");
     searchInput.value = ""; // Clear input
-    fetchAllExpressions(true); // Trigger forced update
+    
+    // Disable input while downloading
+    searchInput.disabled = true;
+    searchInput.placeholder = "Downloading data...";
+
+    fetchAllExpressions(true).then(() => {
+        // Re-enable input
+        searchInput.disabled = false;
+        
+        if (expressions.length > 0) {
+            // Show inline success message
+            const now = new Date();
+            const yyyy = now.getFullYear();
+            const mm = String(now.getMonth() + 1).padStart(2, '0');
+            const dd = String(now.getDate()).padStart(2, '0');
+            const hh = String(now.getHours()).padStart(2, '0');
+            const min = String(now.getMinutes()).padStart(2, '0');
+            const dateString = `${yyyy}${mm}${dd} ${hh}:${min}`;
+            
+            searchInput.value = `${dateString} Totally ${expressions.length} expressions downloaded!`;
+            searchInput.classList.add("success-message");
+            
+            // Revert after 3 seconds or on focus
+            const revertInput = () => {
+                // Check if value matches our time-based pattern roughly or starts with date
+                if (searchInput.value.includes("expressions downloaded!")) {
+                   searchInput.value = "";
+                }
+                searchInput.classList.remove("success-message");
+                searchInput.placeholder = "Type '*' to view all saved expressions";
+                searchInput.removeEventListener("focus", revertInput);
+                searchInput.removeEventListener("input", revertInput);
+            };
+
+            setTimeout(revertInput, 4000);
+            searchInput.addEventListener("focus", revertInput);
+            searchInput.addEventListener("input", revertInput);
+
+        } else {
+             // Show inline empty message - reusing success style but maybe different text
+            searchInput.value = "Download complete but no expressions found.";
+            searchInput.classList.add("success-message"); // keep consistent style for system msg
+            setTimeout(() => {
+                searchInput.value = ""; 
+                searchInput.classList.remove("success-message");
+            }, 4000);
+        }
+    }); 
     return;
   }
 

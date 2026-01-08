@@ -106,7 +106,17 @@
       </p>
     </footer>
 
+    <script>
+      window.onerror = function (msg, url, line, col, error) {
+        console.error("Global Error (HTML):", msg, url, line, col, error);
+        const errDiv = document.createElement("div");
+        errDiv.style.color = "red";
+        errDiv.style.padding = "10px";
+        errDiv.innerText = "Error: " + msg;
+        document.body.prepend(errDiv);
+      };
+    </script>
     <!-- Firebase SDKs -->
-    <script type="module" src="app.js?v=20251231.4"></script>
+    <script type="module" src="app.js?v=20251231.5"></script>
   </body>
 </html>
