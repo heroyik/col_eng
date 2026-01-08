@@ -2,36 +2,22 @@
 
 A premium, high-performance web application designed to search and discover authentic English colloquial expressions. Built with a modern "glassmorphism" aesthetic and powered by Firebase Firestore.
 
-## ✨ Features
+## 📂 Project Structure
 
-- **Expression of the Day**: A premium, daily-changing expression featured prominently on the home screen to encourage unparalleled discovery.
-- **Vast Database**: A rich database of **1,483 expressions**, curated for real-world utility and high-frequency usage in NYC and professional settings.
-- **NYC-Style Content**: Every expression is enriched with 5 modern, trendy synonyms and a standardized **6-line realistic A/B dialogue example**, reflecting current NYC slang (e.g., "deadass", "no cap", "facts", "brick").
-- **Multilingual Colloquial Support**: All 1,483 records are rigorously enriched with colloquial translations in **Spanish**, **Chinese** (HSK 4 Standard), **Vietnamese** (OPIC IM2 Standard), and **Japanese** (OPIC AL level), capturing specific cultural nuances and trendy expressions (e.g., "Es pan comido", "没毛病", "Đỉnh của chóp").
-- **Premium UI/UX**: Featuring a sleek glassmorphism design with dynamic background animations and fluid transitions.
-- **Enriched Data Export**: A high-performance export feature that allows users to download the local cache as a cleaned `YYYYMMDD_COL_ENG_XXX.json` file, containing only essential fields.
-- **Enhanced Search**: Instant search with client-side filtering that checks across titles, meanings, synonyms, and example conversations.
-- **Improved Download Progress**: A premium, real-time visual progress bar with an immediate "0% feedback" system, ensuring visibility during Firestore synchronization.
-- **Firestore Read Optimization**: Implements **IndexedDB Persistence** and **Delta-Sync** logic. Only new or modified records are fetched from the server, preventing `QUOTA EXCEEDED` errors and reducing daily read counts from 40k+ to nearly zero for existing users.
-- **Mobile-First Layout**: Fully optimized for mobile with a "one-screen" philosophy, featuring compact loading states to maximize visibility on smaller screens.
-- **Keyword Highlighting**: Automatically highlights the primary expression and its synonyms within usage examples for better focus.
-- **Smart Deduplication & Curation**: The database is algorithmically curated to maintain zero duplicates and high-quality learning content.
-- **Standardized Data Schema**: Every document is mapped with a consistent `expression_XXXX` ID and an internal `id` field for superior administration.
+- `app.js`: Main application logic.
+- `index.html`: Entry point of the web app.
+- `index.css`: Styling for the application.
+- `public/`: Assets and public files.
+- `temp/`: Temporary scripts, JSON data batches, and logs.
+- `firebase.json`: Firebase configuration.
+- `firestore.rules` & `firestore.indexes.json`: Security rules and index configuration.
 
-## 📊 Datasets
+## 💠 Quota Optimization
 
-The application utilizes several specialized datasets for a comprehensive learning experience:
-
-- **Full Enriched Collection**: 1,483 high-frequency expressions, enriched with colloquial meanings, realistic A/B dialogues, and **multilingual support** (Korean, Spanish, Chinese, Vietnamese, Japanese).
-- **NY Colloquial 2025**: Specialized dataset focusing on the latest NYC and SNS-driven slang.
-- **OPIC AL Prep**: Expressions specifically curated for achieving Advanced Low level in English proficiency tests.
-
-## 🛠️ Technology Stack
-
-- **Frontend**: Vanilla HTML5, CSS3 (Custom Design System with -webkit prefixes for glassmorphism)
-- **Logic**: JavaScript (ES6+ Modules)
-- **Backend/Database**: Firebase Firestore
-- **Hosting**: Firebase Hosting / Netlify
+To ensure high reliability and minimize costs, the application implements:
+- **Metadata-based Sync**: Instead of scanning thousands of records, the app reads a single `SystemMetadata/sync` document to detect updates. This reduces "initial check" read operations by 99%+.
+- **Automatic Quota Cooldown**: If a `429 Resource Exhausted` error is encountered, the app automatically enters a **2-hour cooldown**, during which it relies exclusively on the local IndexedDB cache.
+- **Optimized Search**: All search operations are performed client-side on the cached dataset, incurring zero Firestore read costs during browsing.
 
 ## 🔍 Search Logic & UI Architecture
 
@@ -49,13 +35,15 @@ To provide a superior user experience with standard Firestore (which has limited
 - A Firebase project with Firestore enabled.
 - A collection named `EnglishExpressions` in your Firestore database.
 
-## 📂 Project Structure
+## ✨ Features
 
-- `app.js`: Main application logic.
-- `index.html`: Entry point of the web app.
-- `index.css`: Styling for the application.
-- `public/`: Assets and public files.
-- `temp/`: Temporary scripts, JSON data batches, and logs.
-- `firebase.json`: Firebase configuration.
-- `firestore.rules` & `firestore.indexes.json`: Security rules and index configuration.
+- **Expression of the Day**: A random expression is featured daily to encourage learning.
+- **Multi-language Support**: Displays translations in Japanese, Chinese, Vietnamese, and Spanish when available.
+- **Offline Capable**: Uses IndexedDB for persistence, creating a seamless offline experience after the initial sync.
+- **Data Export**: Users can download the entire dataset as a JSON file directly from the UI.
 
+## 🤝 Credits
+
+Maintained by [heroyik@gmail.com](mailto:heroyik@gmail.com).
+
+Based on the investment strategy and learning tools designed by nIcK.
