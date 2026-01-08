@@ -89,7 +89,11 @@ async function fetchAllExpressions(forceUpdate = false) {
       
       if (localSnapshot && !localSnapshot.empty) {
         expressions = [];
-        localSnapshot.forEach(doc => expressions.push({ id: doc.id, ...doc.data() }));
+        localSnapshot.forEach(doc => {
+          const data = doc.data();
+          // Use docId for the Firestore document ID to avoid overwriting the numeric id
+          expressions.push({ docId: doc.id, ...data });
+        });
         console.log(`Loaded ${expressions.length} expressions from local cache.`);
       }
     }
@@ -159,7 +163,8 @@ async function fetchAllExpressions(forceUpdate = false) {
 
             // Performance Improvement: O(1) duplicate check
             if (!existingIds.has(data.id)) {
-              expressions.push({ id: doc.id, ...data });
+              // Store docId separately to avoid shadowing numeric id
+              expressions.push({ docId: doc.id, ...data });
               existingIds.add(data.id);
               fetchedCount++;
             }
