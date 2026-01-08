@@ -85,6 +85,17 @@ async function uploadData() {
         await new Promise(resolve => setTimeout(resolve, 500));
     }
 
+    // New: Update Metadata Document
+    console.log('Updating sync metadata...');
+    const now = new Date();
+    const metadataRef = db.collection('SystemMetadata').doc('sync');
+    await metadataRef.set({
+        totalCount: count,
+        lastUpdatedAt: admin.firestore.Timestamp.fromDate(now),
+        version: `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`
+    });
+    console.log('Metadata updated successfully.');
+
     console.log('Upload completed successfully!');
 }
 

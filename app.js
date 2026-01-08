@@ -50,6 +50,7 @@ const expressionsRef = collection(db, "EnglishExpressions");
 // We'll keep last_fetch_date in localStorage, but data stays in Firestore's IndexedDB
 const CACHE_DATE_KEY = "col_eng_last_fetch_date";
 const LOCAL_ID_KEY = "col_eng_last_id"; // Store the last fetched ID for delta sync
+const COOLDOWN_KEY = "col_eng_cooldown_until";
 
 
 
@@ -98,8 +99,16 @@ async function fetchAllExpressions(forceUpdate = false) {
       }
     }
 
-    // 2. Decide if we need to sync with server
-    // If not forced and already synced today, we stop here
+    // 2. Cooldown Check: If hit 429 recently, skip server check
+    const cooldownUntil = localStorage.getItem(COOLDOWN_KEY);
+    if (cooldownUntil && Date.now() < parseInt(cooldownUntil)) {
+      const remainingMin = Math.ceil((parseInt(cooldownUntil) - Date.now()) / 60000);
+      console.warn(`Sync is in cooldown due to previous quota limit. ${remainingMin}m remaining.`);
+      renderEmptyState();
+      return;
+    }
+
+    // 3. Decide if we need to sync with server
     if (!forceUpdate && expressions.length > 0 && cachedDate === today) {
       console.log("Database is up to date for today.");
     } else {
@@ -111,15 +120,29 @@ async function fetchAllExpressions(forceUpdate = false) {
         renderLoading(true, "Syncing database...");
       }
 
-      // 3. Get total count from server (cheap: 1 read)
-      const countSnapshot = await getCountFromServer(expressionsRef);
-      const totalCount = countSnapshot.data().count;
-      console.log(`Server record count: ${totalCount} (Local: ${expressions.length})`);
+      // 4. Metadata-based Sync Check (Highly efficient: 1 read)
+      console.log("Fetching sync metadata...");
+      const metadataDoc = await getDoc(doc(db, "SystemMetadata", "sync"));
       
-      // Update progress immediately so the bar appears
-      updateProgress(expressions.length, totalCount);
+      if (metadataDoc.exists()) {
+        const metadata = metadataDoc.data();
+        const serverTotal = metadata.totalCount;
+        const serverUpdateEpoch = metadata.lastUpdatedAt?.toMillis() || 0;
+        
+        // Check if we already have everything
+        if (!forceUpdate && expressions.length === serverTotal) {
+           console.log("Local data matches server metadata. Sync skipped.");
+           localStorage.setItem(CACHE_DATE_KEY, today);
+           renderEmptyState();
+           return;
+        }
+        
+        console.log(`Server record count: ${serverTotal} (Local: ${expressions.length})`);
+        updateProgress(expressions.length, serverTotal);
 
-      if (expressions.length < totalCount) {
+        if (expressions.length < serverTotal) {
+           // Proceed to Delta Fetch (Logic below...)
+           const totalCount = serverTotal;
         // 4. Delta Fetch: Only download missing records
         // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
         // Performance Improvement: Use reduce to avoid stack overflow with Math.max on large arrays
@@ -211,6 +234,11 @@ async function fetchAllExpressions(forceUpdate = false) {
     if (error.code === 'failed-precondition' || error.code === 'unavailable') {
       console.warn("Sync failed (offline or multiple tabs), showing local data only.");
       renderEmptyState();
+    } else if (error.code === 'resource-exhausted') {
+      console.error("Quota exceeded (429). Entering 2-hour cooldown...");
+      const cooldownUntil = Date.now() + (2 * 60 * 60 * 1000);
+      localStorage.setItem(COOLDOWN_KEY, cooldownUntil.toString());
+      renderErrorState(error);
     } else {
       console.error("Error fetching expressions:", error);
       renderErrorState(error);
@@ -251,7 +279,12 @@ function renderErrorState(error) {
 
 // Search function
 function performSearch(searchTerm) {
-  if (searchTerm.toLowerCase() === "forcedownload") {
+    // Quota Awareness Warning
+    if (!confirm("This will re-download the entire database, which uses significant Firestore quota. Proceed?")) {
+      searchInput.value = "";
+      return;
+    }
+
     console.log("Forced download command detected.");
     searchInput.value = ""; // Clear input
     
