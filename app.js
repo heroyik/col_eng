@@ -279,6 +279,9 @@ function renderErrorState(error) {
 
 // Search function
 function performSearch(searchTerm) {
+  const lowerSearch = searchTerm.toLowerCase();
+
+  if (lowerSearch === "forcedownload") {
     // Quota Awareness Warning
     if (!confirm("This will re-download the entire database, which uses significant Firestore quota. Proceed?")) {
       searchInput.value = "";
@@ -352,8 +355,6 @@ function performSearch(searchTerm) {
   renderLoading(true);
 
   try {
-    const lowerSearch = searchTerm.toLowerCase();
-
     // Filter logic: Search in 'primary', 'meaning', 'similar' (synonyms), and 'example'
     const results = expressions.filter((item) => {
       const inPrimary = item.primary?.toLowerCase().includes(lowerSearch);
