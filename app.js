@@ -260,12 +260,6 @@ function performSearch(searchTerm) {
   const lowerSearch = searchTerm.toLowerCase();
 
   if (lowerSearch === "forcedownload") {
-    // Quota Awareness Warning
-    if (!confirm("This will re-download the entire database, which uses significant Firestore quota. Proceed?")) {
-      searchInput.value = "";
-      return;
-    }
-
     console.log("Forced download command detected.");
     searchInput.value = ""; // Clear input
     
