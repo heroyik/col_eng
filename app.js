@@ -87,7 +87,7 @@ async function fetchAllExpressions(forceUpdate = false) {
       console.log("Loading initial data from local cache...");
       const localQ = query(expressionsRef, orderBy("id", "asc"));
       const localSnapshot = await getDocsFromCache(localQ).catch(() => null);
-      
+
       if (localSnapshot && !localSnapshot.empty) {
         expressions = [];
         localSnapshot.forEach(doc => {
@@ -96,6 +96,32 @@ async function fetchAllExpressions(forceUpdate = false) {
           expressions.push({ docId: doc.id, ...data });
         });
         console.log(`Loaded ${expressions.length} expressions from local cache.`);
+      }
+    }
+
+    // 1.5. Static Bundle Fallback: If persistent cache is empty, load static JSON
+    if (expressions.length === 0) {
+      console.log("Cache empty. Attempting to load static initial_data.json...");
+      try {
+        const response = await fetch('initial_data.json');
+        if (response.ok) {
+          const jsonData = await response.json();
+          if (Array.isArray(jsonData) && jsonData.length > 0) {
+            expressions = jsonData.map(item => ({
+              // Fallback docId, though delta sync uses numeric 'id'
+              docId: item.docId || `static_${item.id}`,
+              ...item
+            }));
+            console.log(`Loaded ${expressions.length} expressions from static bundle.`);
+
+            // Allow UI to render immediately with this data
+            updateProgress(expressions.length, expressions.length + 500); // Temporary estimated total
+          }
+        } else {
+          console.warn("Static bundle request failed:", response.status);
+        }
+      } catch (e) {
+        console.warn("Could not load initial_data.json:", e);
       }
     }
 
@@ -123,19 +149,19 @@ async function fetchAllExpressions(forceUpdate = false) {
       // 4. Metadata-based Sync Check (Highly efficient: 1 read)
       console.log("Fetching sync metadata...");
       const metadataDoc = await getDoc(doc(db, "SystemMetadata", "sync"));
-      
+
       if (metadataDoc.exists()) {
         const metadata = metadataDoc.data();
         const serverTotal = metadata.totalCount;
-        
+
         // Check if we already have everything
         if (!forceUpdate && expressions.length === serverTotal) {
-           console.log("Local data matches server metadata. Sync skipped.");
-           localStorage.setItem(CACHE_DATE_KEY, today);
-           renderEmptyState();
-           return;
+          console.log("Local data matches server metadata. Sync skipped.");
+          localStorage.setItem(CACHE_DATE_KEY, today);
+          renderEmptyState();
+          return;
         }
-        
+
         console.log(`Server record count: ${serverTotal} (Local: ${expressions.length})`);
         updateProgress(expressions.length, serverTotal);
 
@@ -145,20 +171,20 @@ async function fetchAllExpressions(forceUpdate = false) {
             const numericId = Number(e.id);
             return isNaN(numericId) ? max : Math.max(max, numericId);
           }, 0);
-          
+
           const existingIds = new Set(expressions.map(e => e.id));
           console.log(`Fetching new records starting from ID > ${lastId}...`);
           console.time('SyncDuration');
-          
+
           let fetchedCount = 0;
           let processedCount = expressions.length;
           const BATCH_SIZE = 500;
 
           while (true) {
             const q = query(
-              expressionsRef, 
-              orderBy("id", "asc"), 
-              where("id", ">", lastId), 
+              expressionsRef,
+              orderBy("id", "asc"),
+              where("id", ">", lastId),
               limit(BATCH_SIZE)
             );
 
@@ -168,7 +194,7 @@ async function fetchAllExpressions(forceUpdate = false) {
             let batchMaxId = lastId;
             querySnapshot.forEach((doc) => {
               const data = doc.data();
-              processedCount++; 
+              processedCount++;
               if (data.id > batchMaxId) batchMaxId = data.id;
 
               if (!existingIds.has(data.id)) {
@@ -262,54 +288,54 @@ function performSearch(searchTerm) {
   if (lowerSearch === "forcedownload") {
     console.log("Forced download command detected.");
     searchInput.value = ""; // Clear input
-    
+
     // Disable input while downloading
     searchInput.disabled = true;
     searchInput.placeholder = "Downloading data...";
 
     fetchAllExpressions(true).then(() => {
-        // Re-enable input
-        searchInput.disabled = false;
-        
-        if (expressions.length > 0) {
-            // Show inline success message
-            const now = new Date();
-            const yyyy = now.getFullYear();
-            const mm = String(now.getMonth() + 1).padStart(2, '0');
-            const dd = String(now.getDate()).padStart(2, '0');
-            const hh = String(now.getHours()).padStart(2, '0');
-            const min = String(now.getMinutes()).padStart(2, '0');
-            const dateString = `${yyyy}${mm}${dd} ${hh}:${min}`;
-            
-            searchInput.value = `${dateString} Totally ${expressions.length} expressions downloaded!`;
-            searchInput.classList.add("success-message");
-            
-            // Revert after 3 seconds or on focus
-            const revertInput = () => {
-                // Check if value matches our time-based pattern roughly or starts with date
-                if (searchInput.value.includes("expressions downloaded!")) {
-                   searchInput.value = "";
-                }
-                searchInput.classList.remove("success-message");
-                searchInput.placeholder = "Type '*' to view all saved expressions";
-                searchInput.removeEventListener("focus", revertInput);
-                searchInput.removeEventListener("input", revertInput);
-            };
+      // Re-enable input
+      searchInput.disabled = false;
 
-            setTimeout(revertInput, 4000);
-            searchInput.addEventListener("focus", revertInput);
-            searchInput.addEventListener("input", revertInput);
+      if (expressions.length > 0) {
+        // Show inline success message
+        const now = new Date();
+        const yyyy = now.getFullYear();
+        const mm = String(now.getMonth() + 1).padStart(2, '0');
+        const dd = String(now.getDate()).padStart(2, '0');
+        const hh = String(now.getHours()).padStart(2, '0');
+        const min = String(now.getMinutes()).padStart(2, '0');
+        const dateString = `${yyyy}${mm}${dd} ${hh}:${min}`;
 
-        } else {
-             // Show inline empty message - reusing success style but maybe different text
-            searchInput.value = "Download complete but no expressions found.";
-            searchInput.classList.add("success-message"); // keep consistent style for system msg
-            setTimeout(() => {
-                searchInput.value = ""; 
-                searchInput.classList.remove("success-message");
-            }, 4000);
-        }
-    }); 
+        searchInput.value = `${dateString} Totally ${expressions.length} expressions downloaded!`;
+        searchInput.classList.add("success-message");
+
+        // Revert after 3 seconds or on focus
+        const revertInput = () => {
+          // Check if value matches our time-based pattern roughly or starts with date
+          if (searchInput.value.includes("expressions downloaded!")) {
+            searchInput.value = "";
+          }
+          searchInput.classList.remove("success-message");
+          searchInput.placeholder = "Type '*' to view all saved expressions";
+          searchInput.removeEventListener("focus", revertInput);
+          searchInput.removeEventListener("input", revertInput);
+        };
+
+        setTimeout(revertInput, 4000);
+        searchInput.addEventListener("focus", revertInput);
+        searchInput.addEventListener("input", revertInput);
+
+      } else {
+        // Show inline empty message - reusing success style but maybe different text
+        searchInput.value = "Download complete but no expressions found.";
+        searchInput.classList.add("success-message"); // keep consistent style for system msg
+        setTimeout(() => {
+          searchInput.value = "";
+          searchInput.classList.remove("success-message");
+        }, 4000);
+      }
+    });
     return;
   }
 
@@ -455,30 +481,30 @@ function highlightKeywords(text, keywords) {
 function renderAllExpressionsWithProgress() {
   // 1. Reset UI State
   renderLoading(true, "Loading all expressions...");
-  
+
   // Force display of progress elements immediately
   progressContainer.classList.remove("hidden");
   progressBar.style.width = "0%";
   progressText.textContent = `0 / ${expressions.length} loaded (0%)`;
-  
+
   const total = expressions.length;
   // Decrease chunk size to ensure UI thread remains responsive (prevent freezing)
-  const CHUNK_SIZE = 100; 
+  const CHUNK_SIZE = 100;
   let processed = 0;
-  
+
   // Use an array for performance (faster than repeated string concatenation)
   let accumulatedChunks = [];
 
   function processChunk() {
     const chunkEnd = Math.min(processed + CHUNK_SIZE, total);
-    
+
     // Build HTML for this chunk
     for (let i = processed; i < chunkEnd; i++) {
-        accumulatedChunks.push(createExpressionCardHTML(expressions[i]));
+      accumulatedChunks.push(createExpressionCardHTML(expressions[i]));
     }
 
     processed = chunkEnd;
-    
+
     // Update Progress UI
     updateProgress(processed, total);
 
@@ -489,17 +515,17 @@ function renderAllExpressionsWithProgress() {
     } else {
       // Rendering complete: Join all chunks and inject
       resultsContainer.innerHTML = accumulatedChunks.join("");
-      
+
       const suffix = total === 1 ? "result" : "results";
       resultCount.textContent = `${total} ${suffix} found`;
-      
+
       // Update UI states
       resultCount.classList.remove("hidden");
       resultsContainer.classList.remove("hidden");
       noResultsState.classList.add("hidden");
       initialState.classList.add("hidden");
       loadingState.classList.add("hidden");
-      
+
       console.log("Finished rendering all expressions");
     }
   }
