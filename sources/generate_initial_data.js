@@ -40,7 +40,7 @@ async function generateInitialData() {
 
         console.log(`Fetched ${expressions.length} expressions.`);
 
-        const outputPath = path.join(__dirname, '../public/initial_data.json');
+        const outputPath = path.join(__dirname, '../initial_data.json');
         fs.writeFileSync(outputPath, JSON.stringify(expressions, null, 2)); // Prettified for debug, can be minified later if needed
 
         console.log(`Successfully generated ${outputPath}`);

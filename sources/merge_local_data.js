@@ -70,6 +70,6 @@ const sortedItems = Array.from(mergedMap.values()).sort((a, b) => a.id - b.id);
 
 console.log(`Final count: ${sortedItems.length} items.`);
 
-const outputPath = path.join(__dirname, '../public/initial_data.json');
+const outputPath = path.join(__dirname, '../initial_data.json');
 fs.writeFileSync(outputPath, JSON.stringify(sortedItems, null, 2));
 console.log(`Written to ${outputPath}`);
