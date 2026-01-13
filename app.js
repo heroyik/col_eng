@@ -1,4 +1,4 @@
-const APP_VERSION = "2026.01.13.4"; // Universal Aggressive Reset
+const APP_VERSION = "2026.01.13.5"; // Removed manual reset button UI
 console.info(`COL_ENG App Version: ${APP_VERSION}`);
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import {
