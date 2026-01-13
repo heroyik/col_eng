@@ -16,6 +16,8 @@ import {
   enableIndexedDbPersistence, // Added for persistence
   getDocsFromCache,          // Added to load local data efficiently
   getDocsFromServer,         // Added for explicit server sync
+  terminate,                // Needed to clear persistence
+  clearPersistence,          // Needed to wipe browser cache
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 // Firebase configuration
@@ -91,8 +93,18 @@ async function fetchAllExpressions(forceUpdate = false) {
       localStorage.removeItem(CACHE_DATE_KEY);
       localStorage.removeItem(LOCAL_ID_KEY);
       localStorage.setItem(VERSION_KEY, APP_VERSION);
-      // We don't wipe the IndexedDB directly here as it's managed by Firestore SDK,
-      // but clearing metadata keys will trigger a fresh fetch fallback or sync.
+
+      // Force clear Firestore's internal IndexedDB
+      try {
+        await terminate(db);
+        await clearPersistence(db);
+        console.log("Firestore persistence cleared successfully.");
+        // Reload to re-initialize Firestore and load fresh initial_data.json
+        window.location.reload();
+        return;
+      } catch (e) {
+        console.error("Failed to clear persistence:", e);
+      }
     }
 
     // 1. Initial Load: Load everything from local cache first (instant)
