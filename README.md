@@ -25,19 +25,28 @@ To ensure high reliability and minimize costs, the application implements a **Hy
 4. **Automatic Quota Cooldown**: If a `429 Resource Exhausted` error is encountered, the app automatically enters a **2-hour cooldown**, relying on local IndexedDB and the static bundle.
 5. **Optimized Search**: All search operations are performed client-side on the cached dataset.
 
-## 🛠️ Data Maintenance
+### 🛠️ Data Maintenance & Backup
 
-To keep the static bootstrap data up to date:
+To keep the static bootstrap data up to date and maintain backups:
 
-1. **Generate Full Snapshot**: When your Firestore quota is available, run:
+1. **Backup from Firestore**: Run the following to download the current production data:
+
+   ```bash
+   node download_data.mjs
+   ```
+
+   This script fetches all records in throttled batches to avoid quota issues and saves them with the current date (e.g., `2026-01-13_fixed.json`).
+
+2. **Generate Full Snapshot (Legacy)**:
 
    ```bash
    node sources/generate_initial_data.js
    ```
 
-   This will update the root `initial_data.json` with all records from the `EnglishExpressions` collection.
+3. **Deploy**: Update `initial_data.json` if needed, then commit and push to GitHub.
 
-2. **Deploy**: Commit and push the updated `initial_data.json` to GitHub.
+> [!NOTE]
+> On 2026-01-13, a comprehensive typo check was performed, and 10 records (including ID 28, 41, 44, etc.) were corrected directly in Firestore to fix apostrophe issues and grammatical errors.
 
 ## 🔍 Search Logic & UI Architecture
 

@@ -3,6 +3,7 @@ node_modules/
 
 # Security - Firebase Admin SDK Keys
 *-firebase-adminsdk-*.json
+2026-01-13.json
 service-account.json
 *.pem
 *.key

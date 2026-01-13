@@ -1,4 +1,5 @@
-console.info("COL_ENG App Version: 20251231.4");
+const APP_VERSION = "2026.01.13.1"; // Updated with typo corrections and sync
+console.info(`COL_ENG App Version: ${APP_VERSION}`);
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import {
   getFirestore,
@@ -51,6 +52,7 @@ const expressionsRef = collection(db, "EnglishExpressions");
 const CACHE_DATE_KEY = "col_eng_last_fetch_date";
 const LOCAL_ID_KEY = "col_eng_last_id"; // Store the last fetched ID for delta sync
 const COOLDOWN_KEY = "col_eng_cooldown_until";
+const VERSION_KEY = "col_eng_app_version";
 
 
 
@@ -81,6 +83,17 @@ async function fetchAllExpressions(forceUpdate = false) {
     const now = new Date();
     const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
     const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
+    const cachedVersion = localStorage.getItem(VERSION_KEY);
+
+    // 0. Version Check: If app version changed, clear previous cache to force reload
+    if (cachedVersion !== APP_VERSION) {
+      console.warn("App version mismatch. Clearing local cache for fresh sync...");
+      localStorage.removeItem(CACHE_DATE_KEY);
+      localStorage.removeItem(LOCAL_ID_KEY);
+      localStorage.setItem(VERSION_KEY, APP_VERSION);
+      // We don't wipe the IndexedDB directly here as it's managed by Firestore SDK,
+      // but clearing metadata keys will trigger a fresh fetch fallback or sync.
+    }
 
     // 1. Initial Load: Load everything from local cache first (instant)
     if (expressions.length === 0) {
