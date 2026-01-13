@@ -1,4 +1,4 @@
-const APP_VERSION = "2026.01.13.1"; // Updated with typo corrections and sync
+const APP_VERSION = "2026.01.13.3"; // Cache-busting and Hard Reset button
 console.info(`COL_ENG App Version: ${APP_VERSION}`);
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import {
@@ -128,7 +128,7 @@ async function fetchAllExpressions(forceUpdate = false) {
     if (expressions.length === 0) {
       console.log("Cache empty. Attempting to load static initial_data.json...");
       try {
-        const response = await fetch('initial_data.json');
+        const response = await fetch(`initial_data.json?t=${Date.now()}`);
         if (response.ok) {
           const jsonData = await response.json();
           if (Array.isArray(jsonData) && jsonData.length > 0) {
@@ -697,3 +697,17 @@ function downloadCacheData() {
 
 // Initial Fetch
 fetchAllExpressions();
+// Export for HTML button
+window.hardReset = async function () {
+  if (confirm("This will clear all local cache and refresh everything. Proceed?")) {
+    console.warn("Hard Reset triggered...");
+    localStorage.removeItem(CACHE_DATE_KEY);
+    localStorage.removeItem(LOCAL_ID_KEY);
+    localStorage.removeItem(VERSION_KEY);
+    try {
+      await terminate(db).catch(() => { });
+      await clearIndexedDbPersistence(db).catch(() => { });
+    } catch (e) { }
+    window.location.href = window.location.pathname + "?t=" + Date.now();
+  }
+};
