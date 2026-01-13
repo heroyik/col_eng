@@ -1,4 +1,4 @@
-const APP_VERSION = "2026.01.13.3"; // Cache-busting and Hard Reset button
+const APP_VERSION = "2026.01.13.4"; // Universal Aggressive Reset
 console.info(`COL_ENG App Version: ${APP_VERSION}`);
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import {
@@ -87,23 +87,44 @@ async function fetchAllExpressions(forceUpdate = false) {
     const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
     const cachedVersion = localStorage.getItem(VERSION_KEY);
 
-    // 0. Version Check: If app version changed, clear previous cache to force reload
+    // 0. Version Check: If app version changed, clear EVERYTHING
     if (cachedVersion !== APP_VERSION) {
-      console.warn("App version mismatch. Clearing local cache for fresh sync...");
+      console.warn("App version mismatch. Performing aggressive universal reset...");
+
+      // Clear all possible Storage metadata
       localStorage.removeItem(CACHE_DATE_KEY);
       localStorage.removeItem(LOCAL_ID_KEY);
       localStorage.setItem(VERSION_KEY, APP_VERSION);
 
-      // Force clear Firestore's internal IndexedDB
+      // 1. Unregister any Service Workers (Aggressive)
+      if ('serviceWorker' in navigator) {
+        const registrations = await navigator.serviceWorker.getRegistrations();
+        for (const registration of registrations) {
+          await registration.unregister();
+          console.log("Service Worker unregistered.");
+        }
+      }
+
+      // 2. Clear Cache Storage API (Aggressive)
+      if ('caches' in window) {
+        const cacheNames = await caches.keys();
+        for (const name of cacheNames) {
+          await caches.delete(name);
+          console.log(`CacheStorage [${name}] deleted.`);
+        }
+      }
+
+      // 3. Clear Firestore's internal IndexedDB
       try {
-        await terminate(db).catch(e => console.warn("Terminate check:", e));
+        await terminate(db).catch(() => { });
         await clearIndexedDbPersistence(db);
-        console.log("Firestore persistence cleared successfully.");
-        // Reload to re-initialize Firestore and load fresh initial_data.json
-        window.location.reload();
+        console.log("Firestore persistence cleared.");
+
+        // Final Reload with cache-busting parameter
+        window.location.href = window.location.pathname + "?v=" + Date.now();
         return;
       } catch (e) {
-        console.error("Failed to clear persistence:", e);
+        console.error("Reset failed:", e);
       }
     }
 
@@ -378,7 +399,7 @@ function performSearch(searchTerm) {
   renderLoading(true);
 
   try {
-    // Filter logic: Search in 'primary', 'meaning', 'similar' (synonyms), and 'example'
+    // Filter logic: Search in 'primary', 'meaning', 'similar', and 'example'
     const results = expressions.filter((item) => {
       const inPrimary = item.primary?.toLowerCase().includes(lowerSearch);
       const inMeaning = item.meaning?.toLowerCase().includes(lowerSearch);
@@ -697,17 +718,31 @@ function downloadCacheData() {
 
 // Initial Fetch
 fetchAllExpressions();
-// Export for HTML button
 window.hardReset = async function () {
-  if (confirm("This will clear all local cache and refresh everything. Proceed?")) {
-    console.warn("Hard Reset triggered...");
-    localStorage.removeItem(CACHE_DATE_KEY);
-    localStorage.removeItem(LOCAL_ID_KEY);
-    localStorage.removeItem(VERSION_KEY);
+  if (confirm("This will clear all local cache, service workers, and refresh everything. Proceed?")) {
+    console.warn("Hard Reset triggered manually...");
+
+    // Clear Meta
+    localStorage.clear();
+    sessionStorage.clear();
+
+    // Clear SW & CacheStorage
+    if ('serviceWorker' in navigator) {
+      const regs = await navigator.serviceWorker.getRegistrations();
+      for (let r of regs) await r.unregister();
+    }
+    if ('caches' in window) {
+      const keys = await caches.keys();
+      for (let k of keys) await caches.delete(k);
+    }
+
+    // Clear Firestore
     try {
       await terminate(db).catch(() => { });
       await clearIndexedDbPersistence(db).catch(() => { });
     } catch (e) { }
-    window.location.href = window.location.pathname + "?t=" + Date.now();
+
+    // Hard refresh
+    window.location.href = window.location.pathname + "?full_reset=" + Date.now();
   }
 };
