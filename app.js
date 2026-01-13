@@ -17,7 +17,7 @@ import {
   getDocsFromCache,          // Added to load local data efficiently
   getDocsFromServer,         // Added for explicit server sync
   terminate,                // Needed to clear persistence
-  clearPersistence,          // Needed to wipe browser cache
+  clearIndexedDbPersistence, // Correct functional name for v9/v10
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 // Firebase configuration
@@ -96,8 +96,8 @@ async function fetchAllExpressions(forceUpdate = false) {
 
       // Force clear Firestore's internal IndexedDB
       try {
-        await terminate(db);
-        await clearPersistence(db);
+        await terminate(db).catch(e => console.warn("Terminate check:", e));
+        await clearIndexedDbPersistence(db);
         console.log("Firestore persistence cleared successfully.");
         // Reload to re-initialize Firestore and load fresh initial_data.json
         window.location.reload();

@@ -1,128 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>English Colloquial Search</title>
-    <link rel="stylesheet" href="index.css?v=20251231.4" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Playfair+Display:wght@700&display=swap"
-      rel="stylesheet"
-    />
-  </head>
-  <body>
-    <div class="background-blobs">
-      <div class="blob blob-1"></div>
-      <div class="blob blob-2"></div>
-      <div class="blob blob-3"></div>
-    </div>
 
-    <main class="container">
-      <header class="hero">
-        <h1>Colloquial <span class="accent">English</span></h1>
-        <p class="subtitle">
-          Search and discover authentic English expressions used in NYC.
-        </p>
-      </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English Colloquial Search</title>
+  <link rel="stylesheet" href="index.css?v=20251231.4" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Playfair+Display:wght@700&display=swap"
+    rel="stylesheet" />
+</head>
 
-      <section class="search-section">
-        <div class="search-box">
-          <input
-            type="text"
-            id="searchInput"
-            placeholder="Type '*' to view all saved expressions"
-            autocomplete="off"
-          />
-          <div class="search-icon">
-            <svg
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <circle cx="11" cy="11" r="8"></circle>
-              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-            </svg>
-          </div>
-        </div>
-      </section>
+<body>
+  <div class="background-blobs">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
 
-      <section class="results-section">
-        <div id="resultCount" class="result-count hidden"></div>
-        <div id="resultsContainer" class="results-grid hidden">
-          <!-- Result cards will be injected here -->
-        </div>
-
-        <!-- Static State Messages -->
-        <div id="errorState" class="error-state hidden">
-          <div class="error-icon">
-            <svg
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <circle cx="12" cy="12" r="10"></circle>
-              <line x1="12" y1="8" x2="12" y2="12"></line>
-              <line x1="12" y1="16" x2="12.01" y2="16"></line>
-            </svg>
-          </div>
-          <h3>Connection Issue</h3>
-          <p>
-            Unable to load expressions. Please check your internet connection or
-            try refreshing the page.
-          </p>
-          <button onclick="window.location.reload()" class="retry-btn">
-            Try Again
-          </button>
-        </div>
-
-        <div id="loadingState" class="loading-state hidden">
-          <div class="spinner"></div>
-          <p id="loadingMessage">Searching the database...</p>
-          <div id="progressContainer" class="progress-container hidden">
-            <div class="progress-track">
-              <div id="progressBar" class="progress-bar"></div>
-            </div>
-            <p id="progressText" class="progress-text"></p>
-          </div>
-        </div>
-
-        <div id="initialState" class="empty-state">
-          <div id="dailyExpressionContainer"></div>
-          <p id="initialStateMessage">Type something to start searching!</p>
-          <div id="statsDisplay" class="stats-text"></div>
-        </div>
-
-        <div id="noResultsState" class="empty-state hidden">
-          <p>No matching expressions found. Try a different keyword!</p>
-        </div>
-      </section>
-    </main>
-
-    <footer>
-      <p>
-        Maintained by <a href="mailto:heroyik@gmail.com">heroyik@gmail.com</a>
+  <main class="container">
+    <header class="hero">
+      <h1>Colloquial <span class="accent">English</span></h1>
+      <p class="subtitle">
+        Search and discover authentic English expressions used in NYC.
       </p>
-    </footer>
+    </header>
 
-    <script>
-      window.onerror = function (msg, url, line, col, error) {
-        console.error("Global Error (HTML):", msg, url, line, col, error);
-        const errDiv = document.createElement("div");
-        errDiv.style.color = "red";
-        errDiv.style.padding = "10px";
-        errDiv.innerText = "Error: " + msg;
-        document.body.prepend(errDiv);
-      };
-    </script>
-    <!-- Firebase SDKs -->
-    <script type="module" src="app.js?v=20260113.1"></script>
-  </body>
+    <section class="search-section">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Type '*' to view all saved expressions" autocomplete="off" />
+        <div class="search-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <section class="results-section">
+      <div id="resultCount" class="result-count hidden"></div>
+      <div id="resultsContainer" class="results-grid hidden">
+        <!-- Result cards will be injected here -->
+      </div>
+
+      <!-- Static State Messages -->
+      <div id="errorState" class="error-state hidden">
+        <div class="error-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="12" y1="8" x2="12" y2="12"></line>
+            <line x1="12" y1="16" x2="12.01" y2="16"></line>
+          </svg>
+        </div>
+        <h3>Connection Issue</h3>
+        <p>
+          Unable to load expressions. Please check your internet connection or
+          try refreshing the page.
+        </p>
+        <button onclick="window.location.reload()" class="retry-btn">
+          Try Again
+        </button>
+      </div>
+
+      <div id="loadingState" class="loading-state hidden">
+        <div class="spinner"></div>
+        <p id="loadingMessage">Searching the database...</p>
+        <div id="progressContainer" class="progress-container hidden">
+          <div class="progress-track">
+            <div id="progressBar" class="progress-bar"></div>
+          </div>
+          <p id="progressText" class="progress-text"></p>
+        </div>
+      </div>
+
+      <div id="initialState" class="empty-state">
+        <div id="dailyExpressionContainer"></div>
+        <p id="initialStateMessage">Type something to start searching!</p>
+        <div id="statsDisplay" class="stats-text"></div>
+      </div>
+
+      <div id="noResultsState" class="empty-state hidden">
+        <p>No matching expressions found. Try a different keyword!</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Maintained by <a href="mailto:heroyik@gmail.com">heroyik@gmail.com</a>
+    </p>
+  </footer>
+
+  <script>
+    window.onerror = function (msg, url, line, col, error) {
+      console.error("Global Error (HTML):", msg, url, line, col, error);
+      const errDiv = document.createElement("div");
+      errDiv.style.color = "red";
+      errDiv.style.padding = "10px";
+      errDiv.innerText = "Error: " + msg;
+      document.body.prepend(errDiv);
+    };
+  </script>
+  <!-- Firebase SDKs -->
+  <script type="module" src="app.js?v=20260113.2"></script>
+</body>
+
 </html>
