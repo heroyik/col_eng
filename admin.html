@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Colloquial English Intake</title>
+  <link rel="stylesheet" href="admin.css?v=20260113.1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Playfair+Display:wght@700&display=swap"
+    rel="stylesheet" />
+</head>
+
+<body>
+  <div class="background-blobs">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <main class="container">
+    <header class="hero">
+      <p class="eyebrow">Firestore Intake</p>
+      <h1>Add a <span class="accent">New Expression</span></h1>
+      <p class="subtitle">
+        Enter a primary English expression, check for existing matches, generate fields, and save to Firestore.
+      </p>
+    </header>
+
+    <section class="panel-grid">
+      <div class="panel-card">
+        <h2>1) Primary Expression</h2>
+        <label class="field">
+          <span>Primary (English)</span>
+          <input id="primaryInput" type="text" placeholder="Type an English expression" autocomplete="off" />
+        </label>
+        <div class="button-row">
+          <button id="checkBtn" class="btn">Check Database</button>
+          <button id="generateBtn" class="btn btn-accent" disabled>Generate JSON</button>
+        </div>
+        <p id="matchMessage" class="status-text"></p>
+      </div>
+
+      <div class="panel-card">
+        <h2>2) LLM Settings</h2>
+        <label class="field">
+          <span>OpenAI API Key</span>
+          <input id="apiKeyInput" type="password" placeholder="sk-..." autocomplete="off" />
+        </label>
+        <label class="field">
+          <span>Model</span>
+          <input id="modelInput" type="text" value="gpt-4.1-mini" />
+        </label>
+        <label class="field">
+          <span>Temperature</span>
+          <input id="temperatureInput" type="number" min="0" max="1" step="0.1" value="0.4" />
+        </label>
+        <p class="hint">
+          Your API key stays in this browser session only. Change the model if you want a different engine.
+        </p>
+      </div>
+
+      <div class="panel-card">
+        <h2>3) Status</h2>
+        <div id="statusBox" class="status-box">
+          <div class="status-line">Waiting for input.</div>
+        </div>
+        <div class="progress-wrapper">
+          <div class="progress-track">
+            <div id="progressBar" class="progress-bar"></div>
+          </div>
+          <p id="progressText" class="progress-text"></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel-card output-card">
+      <h2>4) Generated JSON</h2>
+      <textarea id="jsonOutput" rows="14" placeholder="Generated JSON will appear here"></textarea>
+      <div class="button-row">
+        <button id="validateBtn" class="btn btn-ghost">Validate JSON</button>
+        <button id="saveBtn" class="btn btn-accent" disabled>Save to Firestore</button>
+      </div>
+      <p id="saveMessage" class="status-text"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Maintained by <a href="mailto:heroyik@gmail.com">heroyik@gmail.com</a>
+    </p>
+  </footer>
+
+  <script>
+    window.onerror = function (msg, url, line, col, error) {
+      console.error("Global Error (HTML):", msg, url, line, col, error);
+      const errDiv = document.createElement("div");
+      errDiv.style.color = "red";
+      errDiv.style.padding = "10px";
+      errDiv.innerText = "Error: " + msg;
+      document.body.prepend(errDiv);
+    };
+  </script>
+  <script type="module" src="admin.js?v=20260113.1"></script>
+</body>
+
+</html>
