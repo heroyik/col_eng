@@ -12,6 +12,13 @@ import {
   getDocs,
   addDoc,
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
+import {
+  getAuth,
+  GoogleAuthProvider,
+  signInWithPopup,
+  signOut,
+  onAuthStateChanged,
+} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
 const firebaseConfig = {
   projectId: "engdb-11b7f",
@@ -26,6 +33,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const expressionsRef = collection(db, "EnglishExpressions");
+const auth = getAuth(app);
 
 const primaryInput = document.getElementById("primaryInput");
 const checkBtn = document.getElementById("checkBtn");
@@ -41,16 +49,22 @@ const jsonOutput = document.getElementById("jsonOutput");
 const validateBtn = document.getElementById("validateBtn");
 const saveBtn = document.getElementById("saveBtn");
 const saveMessage = document.getElementById("saveMessage");
+const signInBtn = document.getElementById("signInBtn");
+const signOutBtn = document.getElementById("signOutBtn");
+const authStatus = document.getElementById("authStatus");
 
 const SESSION_KEY = "col_eng_gemini_key";
 const ESTIMATED_TOTAL = 40000;
 const BATCH_SIZE = 500;
+const ADMIN_EMAIL = "heroyik@gmail.com";
 
 const state = {
   primaries: [],
   primariesLoaded: false,
   primariesPromise: null,
 };
+
+let isAuthorized = false;
 
 apiKeyInput.value = sessionStorage.getItem(SESSION_KEY) || "";
 apiKeyInput.addEventListener("input", () => {
@@ -62,6 +76,75 @@ function setStatusMessage(el, message, type) {
   el.classList.remove("success", "error", "warning");
   if (type) {
     el.classList.add(type);
+  }
+}
+
+function setUiEnabled(enabled) {
+  const controls = [
+    primaryInput,
+    checkBtn,
+    generateBtn,
+    apiKeyInput,
+    modelInput,
+    temperatureInput,
+    jsonOutput,
+    validateBtn,
+    saveBtn,
+  ];
+  controls.forEach((el) => {
+    if (!el) {
+      return;
+    }
+    if (el === generateBtn || el === saveBtn) {
+      el.disabled = !enabled || el.disabled;
+      return;
+    }
+    el.disabled = !enabled;
+  });
+}
+
+function updateAuthUi(user) {
+  if (!user) {
+    isAuthorized = false;
+    setStatusMessage(authStatus, "Please sign in to continue.", "warning");
+    signInBtn.disabled = false;
+    signOutBtn.disabled = true;
+    setUiEnabled(false);
+    return;
+  }
+
+  if (user.email !== ADMIN_EMAIL) {
+    isAuthorized = false;
+    setStatusMessage(authStatus, "Access denied. Use heroyik@gmail.com.", "error");
+    signInBtn.disabled = true;
+    signOutBtn.disabled = false;
+    setUiEnabled(false);
+    return;
+  }
+
+  isAuthorized = true;
+  setStatusMessage(authStatus, `Signed in as ${user.email}.`, "success");
+  signInBtn.disabled = true;
+  signOutBtn.disabled = false;
+  setUiEnabled(true);
+}
+
+async function handleSignIn() {
+  try {
+    const provider = new GoogleAuthProvider();
+    await signInWithPopup(auth, provider);
+  } catch (error) {
+    console.error(error);
+    setStatusMessage(authStatus, "Google sign-in failed.", "error");
+  }
+}
+
+async function handleSignOut() {
+  try {
+    await signOut(auth);
+  } catch (error) {
+    console.error(error);
+    setStatusMessage(authStatus, "Sign-out failed.", "error");
   }
 }
 
@@ -344,6 +427,10 @@ async function callGemini({ apiKey, model, temperature, prompt }) {
 }
 
 async function handleCheck() {
+  if (!isAuthorized) {
+    setStatusMessage(matchMessage, "Please sign in with the admin account first.", "warning");
+    return;
+  }
   const primary = primaryInput.value.trim();
   setStatusMessage(matchMessage, "", "");
   setStatusMessage(saveMessage, "", "");
@@ -374,6 +461,10 @@ async function handleCheck() {
 }
 
 async function handleGenerate() {
+  if (!isAuthorized) {
+    setStatusMessage(matchMessage, "Please sign in with the admin account first.", "warning");
+    return;
+  }
   const primary = primaryInput.value.trim();
   const apiKey = apiKeyInput.value.trim();
   const model = modelInput.value.trim();
@@ -440,6 +531,10 @@ async function handleGenerate() {
 }
 
 function handleValidate() {
+  if (!isAuthorized) {
+    setStatusMessage(saveMessage, "Please sign in with the admin account first.", "warning");
+    return;
+  }
   const primary = primaryInput.value.trim();
   if (!jsonOutput.value.trim()) {
     setStatusMessage(saveMessage, "JSON is empty.", "warning");
@@ -477,6 +572,10 @@ async function fetchNextId() {
 }
 
 async function handleSave() {
+  if (!isAuthorized) {
+    setStatusMessage(saveMessage, "Please sign in with the admin account first.", "warning");
+    return;
+  }
   const primary = primaryInput.value.trim();
   if (!primary) {
     setStatusMessage(saveMessage, "Primary expression is required.", "warning");
@@ -522,3 +621,9 @@ checkBtn.addEventListener("click", handleCheck);
 generateBtn.addEventListener("click", handleGenerate);
 validateBtn.addEventListener("click", handleValidate);
 saveBtn.addEventListener("click", handleSave);
+signInBtn.addEventListener("click", handleSignIn);
+signOutBtn.addEventListener("click", handleSignOut);
+
+onAuthStateChanged(auth, (user) => {
+  updateAuthUi(user);
+});
