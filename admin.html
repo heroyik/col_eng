@@ -32,7 +32,7 @@
     <section class="panel-grid">
       <div class="panel-card auth-card">
         <h2>0) Admin Access</h2>
-        <p class="hint">Sign in with Google. Only heroyik@gmail.com is allowed.</p>
+        <p class="hint">Sign in with Google.</p>
         <div class="button-row">
           <button id="signInBtn" class="btn btn-accent">Sign in with Google</button>
           <button id="signOutBtn" class="btn btn-ghost" disabled>Sign out</button>
@@ -56,20 +56,22 @@
       <div class="panel-card">
         <h2>2) LLM Settings</h2>
         <label class="field">
-          <span>Google AI Studio API Key</span>
-          <input id="apiKeyInput" type="password" placeholder="AIza..." autocomplete="off" />
-        </label>
-        <label class="field">
           <span>Model</span>
-          <input id="modelInput" type="text" value="gemini-3-flash" />
+          <select id="modelInput">
+            <option value="gemini-3-flash">gemini-3-flash</option>
+            <option value="gemini-3-pro">gemini-3-pro</option>
+            <option value="gemini-3">gemini-3</option>
+          </select>
         </label>
         <label class="field">
           <span>Temperature</span>
           <input id="temperatureInput" type="number" min="0" max="1" step="0.1" value="0.4" />
         </label>
-        <p class="hint">
-          Your API key stays in this browser session only. Change the model if you want a different engine.
-        </p>
+        <label class="field">
+          <span>Manual API Key (Fallback)</span>
+          <input id="apiKeyInput" type="password" placeholder="Paste your API key here" autocomplete="off" />
+        </label>
+        <p id="apiKeyStatus" class="hint"></p>
       </div>
 
       <div class="panel-card">
@@ -113,6 +115,7 @@
       document.body.prepend(errDiv);
     };
   </script>
+  <script src="config.js?v=20260113.1"></script>
   <script type="module" src="admin.js?v=20260113.1"></script>
 </body>
 

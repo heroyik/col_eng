@@ -38,7 +38,6 @@ const auth = getAuth(app);
 const primaryInput = document.getElementById("primaryInput");
 const checkBtn = document.getElementById("checkBtn");
 const generateBtn = document.getElementById("generateBtn");
-const apiKeyInput = document.getElementById("apiKeyInput");
 const modelInput = document.getElementById("modelInput");
 const temperatureInput = document.getElementById("temperatureInput");
 const statusBox = document.getElementById("statusBox");
@@ -49,14 +48,18 @@ const jsonOutput = document.getElementById("jsonOutput");
 const validateBtn = document.getElementById("validateBtn");
 const saveBtn = document.getElementById("saveBtn");
 const saveMessage = document.getElementById("saveMessage");
+const apiKeyStatus = document.getElementById("apiKeyStatus");
 const signInBtn = document.getElementById("signInBtn");
 const signOutBtn = document.getElementById("signOutBtn");
 const authStatus = document.getElementById("authStatus");
 
-const SESSION_KEY = "col_eng_gemini_key";
 const ESTIMATED_TOTAL = 40000;
 const BATCH_SIZE = 500;
 const ADMIN_EMAIL = "heroyik@gmail.com";
+const CONFIG_KEY = "COL_ENG_CONFIG";
+const STORAGE_KEY = "GEMINI_API_KEY";
+
+let API_KEY = window[CONFIG_KEY]?.GEMINI_API_KEY || localStorage.getItem(STORAGE_KEY) || "";
 
 const state = {
   primaries: [],
@@ -66,10 +69,21 @@ const state = {
 
 let isAuthorized = false;
 
-apiKeyInput.value = sessionStorage.getItem(SESSION_KEY) || "";
-apiKeyInput.addEventListener("input", () => {
-  sessionStorage.setItem(SESSION_KEY, apiKeyInput.value.trim());
-});
+function updateApiKeyStatus() {
+  if (!apiKeyStatus) return;
+  if (window[CONFIG_KEY]?.GEMINI_API_KEY) {
+    apiKeyStatus.textContent = "API key loaded from GitHub environment config.";
+    apiKeyStatus.className = "hint success";
+  } else if (localStorage.getItem(STORAGE_KEY)) {
+    apiKeyStatus.textContent = "API key loaded from local storage.";
+    apiKeyStatus.className = "hint success";
+  } else {
+    apiKeyStatus.textContent = "API key missing. Enter it below or set in GitHub Secrets.";
+    apiKeyStatus.className = "hint error";
+  }
+}
+
+updateApiKeyStatus();
 
 function setStatusMessage(el, message, type) {
   el.textContent = message;
@@ -84,7 +98,6 @@ function setUiEnabled(enabled) {
     primaryInput,
     checkBtn,
     generateBtn,
-    apiKeyInput,
     modelInput,
     temperatureInput,
     jsonOutput,
@@ -115,7 +128,11 @@ function updateAuthUi(user) {
 
   if (user.email !== ADMIN_EMAIL) {
     isAuthorized = false;
-    setStatusMessage(authStatus, "Access denied. Use heroyik@gmail.com.", "error");
+    setStatusMessage(
+      authStatus,
+      "Access denied. Use heroyik@gmail.com.",
+      "error"
+    );
     signInBtn.disabled = true;
     signOutBtn.disabled = false;
     setUiEnabled(false);
@@ -201,11 +218,7 @@ function levenshtein(a, b) {
     v1[0] = i + 1;
     for (let j = 0; j < blen; j += 1) {
       const cost = a[i] === b[j] ? 0 : 1;
-      v1[j + 1] = Math.min(
-        v1[j] + 1,
-        v0[j + 1] + 1,
-        v0[j] + cost
-      );
+      v1[j + 1] = Math.min(v1[j] + 1, v0[j + 1] + 1, v0[j] + cost);
     }
     for (let j = 0; j <= blen; j += 1) {
       v0[j] = v1[j];
@@ -307,10 +320,16 @@ function extractResponseText(data) {
     return "";
   }
   const candidate = data.candidates[0];
-  if (!candidate || !candidate.content || !Array.isArray(candidate.content.parts)) {
+  if (
+    !candidate ||
+    !candidate.content ||
+    !Array.isArray(candidate.content.parts)
+  ) {
     return "";
   }
-  const textPart = candidate.content.parts.find((part) => typeof part.text === "string");
+  const textPart = candidate.content.parts.find(
+    (part) => typeof part.text === "string"
+  );
   return textPart ? textPart.text : "";
 }
 
@@ -347,22 +366,31 @@ function validatePayload(payload, primary) {
     errors.push("example must be a string with 6 lines.");
   } else {
     const lines = payload.example.split("\n").filter((line) => line.trim());
-    const validLines = lines.length === 6 && lines.every((line) => /^(A:|B:)/.test(line));
+    const validLines =
+      lines.length === 6 && lines.every((line) => /^(A:|B:)/.test(line));
     if (!validLines) {
       errors.push("example must have 6 lines starting with A: or B:.");
     }
   }
   if (!payload.japanese || typeof payload.japanese !== "string") {
-    errors.push("japanese must be a string with 2 expressions separated by ' / '.");
+    errors.push(
+      "japanese must be a string with 2 expressions separated by ' / '."
+    );
   }
   if (!payload.chinese || typeof payload.chinese !== "string") {
-    errors.push("chinese must be a string with 2 expressions separated by ' / '.");
+    errors.push(
+      "chinese must be a string with 2 expressions separated by ' / '."
+    );
   }
   if (!payload.spanish || typeof payload.spanish !== "string") {
-    errors.push("spanish must be a string with 2 expressions separated by ' / '.");
+    errors.push(
+      "spanish must be a string with 2 expressions separated by ' / '."
+    );
   }
   if (!payload.vietnamese || typeof payload.vietnamese !== "string") {
-    errors.push("vietnamese must be a string with 3 expressions separated by ' / '.");
+    errors.push(
+      "vietnamese must be a string with 3 expressions separated by ' / '."
+    );
   }
 
   const slashCheck = [
@@ -376,7 +404,9 @@ function validatePayload(payload, primary) {
     if (payload[field] && typeof payload[field] === "string") {
       const parts = payload[field].split(" / ");
       if (parts.length !== count) {
-        errors.push(`${field} must contain ${count} expressions separated by ' / '.`);
+        errors.push(
+          `${field} must contain ${count} expressions separated by ' / '.`
+        );
       }
     }
   });
@@ -428,7 +458,11 @@ async function callGemini({ apiKey, model, temperature, prompt }) {
 
 async function handleCheck() {
   if (!isAuthorized) {
-    setStatusMessage(matchMessage, "Please sign in with the admin account first.", "warning");
+    setStatusMessage(
+      matchMessage,
+      "Please sign in with the admin account first.",
+      "warning"
+    );
     return;
   }
   const primary = primaryInput.value.trim();
@@ -439,7 +473,11 @@ async function handleCheck() {
   generateBtn.disabled = true;
 
   if (!primary) {
-    setStatusMessage(matchMessage, "Please enter a primary expression.", "warning");
+    setStatusMessage(
+      matchMessage,
+      "Please enter a primary expression.",
+      "warning"
+    );
     return;
   }
 
@@ -447,11 +485,19 @@ async function handleCheck() {
     await loadPrimaries();
     const match = findSimilarMatch(primary);
     if (match) {
-      setStatusMessage(matchMessage, "A similar expression already exists.", "warning");
+      setStatusMessage(
+        matchMessage,
+        "A similar expression already exists.",
+        "warning"
+      );
       appendStatusLine(`Similar match found: "${match}"`);
       return;
     }
-    setStatusMessage(matchMessage, "No similar expression found. You can generate JSON now.", "success");
+    setStatusMessage(
+      matchMessage,
+      "No similar expression found. You can generate JSON now.",
+      "success"
+    );
     generateBtn.disabled = false;
   } catch (error) {
     console.error(error);
@@ -462,22 +508,34 @@ async function handleCheck() {
 
 async function handleGenerate() {
   if (!isAuthorized) {
-    setStatusMessage(matchMessage, "Please sign in with the admin account first.", "warning");
+    setStatusMessage(
+      matchMessage,
+      "Please sign in with the admin account first.",
+      "warning"
+    );
     return;
   }
   const primary = primaryInput.value.trim();
-  const apiKey = apiKeyInput.value.trim();
-  const model = modelInput.value.trim();
+  const apiKey = API_KEY;
+  const model = modelInput.value;
   const temperature = Number(temperatureInput.value);
 
   setStatusMessage(saveMessage, "", "");
 
   if (!primary) {
-    setStatusMessage(matchMessage, "Please enter a primary expression.", "warning");
+    setStatusMessage(
+      matchMessage,
+      "Please enter a primary expression.",
+      "warning"
+    );
     return;
   }
   if (!apiKey) {
-    setStatusMessage(matchMessage, "Enter your Google AI Studio API key first.", "warning");
+    setStatusMessage(
+      matchMessage,
+      "Google AI Studio API key is missing.",
+      "warning"
+    );
     return;
   }
   if (!model) {
@@ -489,7 +547,11 @@ async function handleGenerate() {
     await loadPrimaries();
     const match = findSimilarMatch(primary);
     if (match) {
-      setStatusMessage(matchMessage, "A similar expression already exists.", "warning");
+      setStatusMessage(
+        matchMessage,
+        "A similar expression already exists.",
+        "warning"
+      );
       appendStatusLine(`Similar match found: "${match}"`);
       return;
     }
@@ -501,7 +563,10 @@ async function handleGenerate() {
     const rawText = await callGemini({ apiKey, model, temperature, prompt });
     const payload = parseJsonPayload(rawText);
 
-    const reviewPrompt = buildReviewPrompt(primary, JSON.stringify(payload, null, 2));
+    const reviewPrompt = buildReviewPrompt(
+      primary,
+      JSON.stringify(payload, null, 2)
+    );
     appendStatusLine("Running consistency review...");
     const reviewedText = await callGemini({
       apiKey,
@@ -515,10 +580,18 @@ async function handleGenerate() {
 
     const errors = validatePayload(reviewedPayload, primary);
     if (errors.length > 0) {
-      setStatusMessage(matchMessage, `Generated JSON needs edits: ${errors.join(" ")}`, "warning");
+      setStatusMessage(
+        matchMessage,
+        `Generated JSON needs edits: ${errors.join(" ")}`,
+        "warning"
+      );
       saveBtn.disabled = true;
     } else {
-      setStatusMessage(matchMessage, "Generation complete. JSON looks valid.", "success");
+      setStatusMessage(
+        matchMessage,
+        "Generation complete. JSON looks valid.",
+        "success"
+      );
       saveBtn.disabled = false;
     }
   } catch (error) {
@@ -532,7 +605,11 @@ async function handleGenerate() {
 
 function handleValidate() {
   if (!isAuthorized) {
-    setStatusMessage(saveMessage, "Please sign in with the admin account first.", "warning");
+    setStatusMessage(
+      saveMessage,
+      "Please sign in with the admin account first.",
+      "warning"
+    );
     return;
   }
   const primary = primaryInput.value.trim();
@@ -545,7 +622,11 @@ function handleValidate() {
     const payload = JSON.parse(jsonOutput.value);
     const errors = validatePayload(payload, primary);
     if (errors.length > 0) {
-      setStatusMessage(saveMessage, `Validation issues: ${errors.join(" ")}`, "warning");
+      setStatusMessage(
+        saveMessage,
+        `Validation issues: ${errors.join(" ")}`,
+        "warning"
+      );
       saveBtn.disabled = true;
       return;
     }
@@ -573,7 +654,11 @@ async function fetchNextId() {
 
 async function handleSave() {
   if (!isAuthorized) {
-    setStatusMessage(saveMessage, "Please sign in with the admin account first.", "warning");
+    setStatusMessage(
+      saveMessage,
+      "Please sign in with the admin account first.",
+      "warning"
+    );
     return;
   }
   const primary = primaryInput.value.trim();
@@ -586,7 +671,11 @@ async function handleSave() {
     const payload = JSON.parse(jsonOutput.value);
     const errors = validatePayload(payload, primary);
     if (errors.length > 0) {
-      setStatusMessage(saveMessage, `Fix JSON before saving: ${errors.join(" ")}`, "warning");
+      setStatusMessage(
+        saveMessage,
+        `Fix JSON before saving: ${errors.join(" ")}`,
+        "warning"
+      );
       saveBtn.disabled = true;
       return;
     }
@@ -615,6 +704,21 @@ async function handleSave() {
     setStatusMessage(saveMessage, "Save failed.", "error");
     appendStatusLine(`Save error: ${error.message}`);
   }
+}
+
+function saveApiKey(key) {
+  const trimmed = key.trim();
+  if (trimmed) {
+    localStorage.setItem(STORAGE_KEY, trimmed);
+    API_KEY = trimmed;
+    updateApiKeyStatus();
+    appendStatusLine("API key saved to local storage.");
+  }
+}
+
+const apiKeyInput = document.getElementById("apiKeyInput");
+if (apiKeyInput) {
+  apiKeyInput.addEventListener("change", (e) => saveApiKey(e.target.value));
 }
 
 checkBtn.addEventListener("click", handleCheck);

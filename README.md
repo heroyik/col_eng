@@ -2,6 +2,9 @@
 
 A premium, high-performance web application designed to search and discover authentic English colloquial expressions. Built with a modern "glassmorphism" aesthetic and powered by Firebase Firestore.
 
+> [!NOTE]
+> Latest Update (2026-01-15): Enhanced API key security with GitHub Actions secret injection and added a manual fallback UI in the admin panel.
+
 ## 📂 Project Structure
 
 - `app.js`: Main application logic.
@@ -62,6 +65,24 @@ This app uses a refined client-side filtering strategy for performance:
 - **Multi-language Support**: Japanese, Chinese, Vietnamese, and Spanish.
 - **Offline Capable**: Works fully offline after the first load.
 - **Data Export**: Download the entire dataset as JSON from the UI.
+
+## 🔐 Security & Configuration
+
+The application uses Google AI Studio (Gemini) API keys for generating expressions. You can configure this in two ways:
+
+1.  **GitHub Secrets (Recommended for Production)**:
+    -   Go to your repository **Settings** > **Secrets and variables** > **Actions**.
+    -   Add a new repository secret named `GEMINI_API_KEY`.
+    -   The GitHub Action will automatically inject this key into the application on every deployment.
+2.  **Local Storage (For Maintenance)**:
+    -   Open the `admin.html` page.
+    -   Enter your API key in the **Manual API Key** field.
+    -   The key will be saved securely in your browser's local storage and used as a fallback if the GitHub Secret is not available.
+
+## 🛠️ Maintenance Scripts
+
+- `githero.sh`: Script to install or update dependencies. Ensure you have `GITHUB_TOKEN` set in your environment if needed.
+- `download_data.mjs`: Fetches production data from Firestore.
 
 ## 🤝 Credits
 
