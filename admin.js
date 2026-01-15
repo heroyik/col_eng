@@ -42,7 +42,7 @@ const validateBtn = document.getElementById("validateBtn");
 const saveBtn = document.getElementById("saveBtn");
 const saveMessage = document.getElementById("saveMessage");
 
-const SESSION_KEY = "col_eng_openai_key";
+const SESSION_KEY = "col_eng_gemini_key";
 const ESTIMATED_TOTAL = 40000;
 const BATCH_SIZE = 500;
 
@@ -220,26 +220,15 @@ function findSimilarMatch(input) {
 }
 
 function extractResponseText(data) {
-  if (typeof data.output_text === "string") {
-    return data.output_text;
-  }
-  if (!Array.isArray(data.output)) {
+  if (!data || !Array.isArray(data.candidates) || data.candidates.length === 0) {
     return "";
   }
-  for (const item of data.output) {
-    if (!Array.isArray(item.content)) {
-      continue;
-    }
-    for (const part of item.content) {
-      if (part.type === "output_text" && typeof part.text === "string") {
-        return part.text;
-      }
-      if (typeof part.text === "string") {
-        return part.text;
-      }
-    }
+  const candidate = data.candidates[0];
+  if (!candidate || !candidate.content || !Array.isArray(candidate.content.parts)) {
+    return "";
   }
-  return "";
+  const textPart = candidate.content.parts.find((part) => typeof part.text === "string");
+  return textPart ? textPart.text : "";
 }
 
 function extractJson(text) {
@@ -320,39 +309,36 @@ function buildReviewPrompt(primary, jsonText) {
   return `Review the JSON for the primary expression below. Fix any field that does not match the meaning or intent of the primary. Return JSON only.\n\nPrimary: "${primary}"\n\nJSON:\n${jsonText}`;
 }
 
-async function callOpenAI({ apiKey, model, temperature, prompt }) {
-  const response = await fetch("https://api.openai.com/v1/responses", {
+async function callGemini({ apiKey, model, temperature, prompt }) {
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+  const response = await fetch(endpoint, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
-      model,
-      temperature,
-      max_output_tokens: 900,
-      input: [
-        {
-          role: "system",
-          content: "You are a precise assistant that only outputs valid JSON.",
-        },
+      contents: [
         {
           role: "user",
-          content: prompt,
+          parts: [{ text: prompt }],
         },
       ],
+      generationConfig: {
+        temperature,
+        maxOutputTokens: 900,
+      },
     }),
   });
 
   if (!response.ok) {
     const errorText = await response.text();
-    throw new Error(`OpenAI request failed: ${response.status} ${errorText}`);
+    throw new Error(`Gemini request failed: ${response.status} ${errorText}`);
   }
 
   const data = await response.json();
   const text = extractResponseText(data);
   if (!text) {
-    throw new Error("OpenAI response was empty.");
+    throw new Error("Gemini response was empty.");
   }
   return text;
 }
@@ -400,7 +386,7 @@ async function handleGenerate() {
     return;
   }
   if (!apiKey) {
-    setStatusMessage(matchMessage, "Enter your OpenAI API key first.", "warning");
+    setStatusMessage(matchMessage, "Enter your Google AI Studio API key first.", "warning");
     return;
   }
   if (!model) {
@@ -418,15 +404,15 @@ async function handleGenerate() {
     }
 
     generateBtn.disabled = true;
-    appendStatusLine("Generating JSON with OpenAI...");
+    appendStatusLine("Generating JSON with Gemini...");
 
     const prompt = buildGenerationPrompt(primary);
-    const rawText = await callOpenAI({ apiKey, model, temperature, prompt });
+    const rawText = await callGemini({ apiKey, model, temperature, prompt });
     const payload = parseJsonPayload(rawText);
 
     const reviewPrompt = buildReviewPrompt(primary, JSON.stringify(payload, null, 2));
     appendStatusLine("Running consistency review...");
-    const reviewedText = await callOpenAI({
+    const reviewedText = await callGemini({
       apiKey,
       model,
       temperature: Math.max(0.2, temperature - 0.2),
