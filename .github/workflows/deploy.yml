@@ -36,7 +36,7 @@ jobs:
           };" > env_config.js
           echo "Created env_config.js with secret injection."
           ls -la # Debug: List files to verify env_config.js exists
-          rm .gitignore # Hack: Determine if gitignore is blocking upload
+          rm -rf .git .gitignore # Hack: Ensure ignored files are uploaded by removing git metadata
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
