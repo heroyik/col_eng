@@ -1,4 +1,4 @@
-const APP_VERSION = "20260117.08";
+const APP_VERSION = "20260117.09";
 console.info(`COL_ENG Intake App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
@@ -737,15 +737,22 @@ function handleValidate() {
 async function fetchNextId() {
   const q = query(expressionsRef, orderBy("id", "desc"), limit(1));
   const snapshot = await getDocs(q);
+  
+  // Static bundle has 1483 records. We must continue from there.
+  const MIN_START_ID = 1484;
+
   if (snapshot.empty) {
-    return 1;
+    return MIN_START_ID;
   }
   const data = snapshot.docs[0].data();
   const lastId = Number(data.id);
+  
   if (Number.isNaN(lastId)) {
     return Date.now();
   }
-  return lastId + 1;
+  
+  // Ensure we never generate an ID that overlaps with the static bundle
+  return Math.max(lastId + 1, MIN_START_ID);
 }
 
 async function handleSave() {
