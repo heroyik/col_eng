@@ -515,7 +515,7 @@ async function handleGenerate() {
     return;
   }
   const primary = primaryInput.value.trim();
-  const apiKey = API_KEY;
+  const apiKey = window[CONFIG_KEY]?.GEMINI_API_KEY || localStorage.getItem(STORAGE_KEY) || "";
   const model = modelInput.value;
   const temperature = Number(temperatureInput.value);
 
@@ -530,6 +530,11 @@ async function handleGenerate() {
     return;
   }
   if (!apiKey) {
+    setStatusMessage(
+      matchMessage,
+      "Google AI Studio API key is missing. For local testing, set GEMINI_API_KEY in config.js or localStorage.",
+      "warning"
+    );
     return;
   }
   if (!model) {
