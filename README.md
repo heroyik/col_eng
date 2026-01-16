@@ -67,15 +67,19 @@ This app uses a refined client-side filtering strategy for performance:
 - **Data Export**: Download the entire dataset as JSON from the UI.
 
 ## 🔐 Security & Configuration
-
-The application uses Google AI Studio (Gemini) API keys for generating expressions. You can configure this in two ways:
-
-1.  **GitHub Secrets (Recommended for Production)**:
-    -   Go to your repository **Settings** > **Secrets and variables** > **Actions**.
-    -   Add a new repository secret named `GEMINI_API_KEY`.
-    -   The GitHub Action will automatically inject this key into the application on every deployment.
-2.  **Developer Storage (Optional)**:
-    -   While the UI input has been removed for security, developers can still manually set the key in local storage (`localStorage.setItem('GEMINI_API_KEY', 'your-key')`) for testing without a full deployment.
+ 
+The application prioritizes security by separating sensitive configuration from the codebase.
+ 
+### 1. API Key Management (`config.js`)
+- **Configuration File**: All Firebase and API configurations are managed in `config.js`.
+- **Dynamic Loading**: `app.js` and `admin.js` dynamically load settings from `window.COL_ENG_CONFIG`.
+- **Restriction Required**: Since the API Key is visible in client-side code, it **MUST** be restricted in the Google Cloud Console:
+    - **Application restrictions**: Limit to `https://your-domain.github.io/*` and `http://localhost/*`.
+    - **API restrictions**: Limit to `Identity Toolkit API`, `Cloud Firestore API`, and `Firebase AI Logic API`.
+ 
+### 2. Vertex AI Integration
+- **Gemini 3 Pro**: The app uses Vertex AI for Firebase to access premium models without exposing direct API keys.
+- **App Check**: Integrated with Firebase App Check for additional security.
 
 ## 🛠️ Maintenance Scripts
 
