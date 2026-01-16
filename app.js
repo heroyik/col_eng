@@ -1,4 +1,4 @@
-const APP_VERSION = "20260117.06";
+const APP_VERSION = "20260117.07";
 console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
@@ -263,7 +263,7 @@ async function fetchAllExpressions(forceUpdate = false) {
              console.log("All records present (based on count).");
         }
       } else {
-         console.warn("Could not determine server total. Skipping sync.");
+         console.log("Server reports 0 records. Assuming database is empty or new.");
       }
     }
 
