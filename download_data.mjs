@@ -4,7 +4,7 @@ const PROJECT_ID = 'engdb-11b7f';
 const COLLECTION = 'EnglishExpressions';
 const BATCH_SIZE = 500;
 const DELAY_MS = 2000;
-const OUTPUT_FILE = '2026-01-13_fixed.json';
+const OUTPUT_FILE = 'initial_data.json';
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 

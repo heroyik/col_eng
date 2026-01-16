@@ -1,7 +1,7 @@
-const APP_VERSION = "2026.01.16.6";
-console.info(`COL_ENG Intake App Version: ${APP_VERSION}`);
+const APP_VERSION = "2026.01.16.19";
+console.info(`COL_ENG Intake App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
 import {
   getFirestore,
   collection,
@@ -10,15 +10,22 @@ import {
   limit,
   startAfter,
   getDocs,
-  addDoc,
-} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
+  setDoc,
+  doc,
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
 import {
+  getAuth,
+  GoogleAuthProvider,
+  signInWithPopup,
+  signOut,
   onAuthStateChanged,
-} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js";
 import {
   getVertexAI,
   getGenerativeModel,
-} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-vertexai-preview.js";
+  HarmCategory,
+  HarmBlockThreshold,
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-vertexai.js";
 
 const firebaseConfig = {
   projectId: "engdb-11b7f",
@@ -34,7 +41,7 @@ const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const expressionsRef = collection(db, "EnglishExpressions");
 const auth = getAuth(app);
-const vertexAI = getVertexAI(app);
+const vertexAI = getVertexAI(app, { location: "global" });
 
 const primaryInput = document.getElementById("primaryInput");
 const checkBtn = document.getElementById("checkBtn");
@@ -355,13 +362,25 @@ function extractResponseText(data) {
 }
 
 function extractJson(text) {
-  // Support accidental markdown wrap
-  const jsonMatch = text.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) {
-    console.error("No JSON block found in text:", text);
-    throw new Error("No JSON object found in response. Raw response: " + (text.slice(0, 100) || "empty"));
+  if (!text) throw new Error("Received empty response from model.");
+  const trimmed = text.trim();
+  
+  // Try to find the first '{' and last '}'
+  const startIdx = trimmed.indexOf("{");
+  const endIdx = trimmed.lastIndexOf("}");
+  
+  if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
+    return trimmed.slice(startIdx, endIdx + 1);
   }
-  return jsonMatch[0];
+  
+  // If no closing brace, but starts with one, try to close it (for preview resilience)
+  if (startIdx !== -1 && endIdx === -1) {
+    console.warn("Truncated JSON detected. Attempting to close it.");
+    return trimmed.slice(startIdx) + '\n  "truncated": true\n}';
+  }
+
+  console.error("No JSON block found in text:", text);
+  throw new Error("No JSON object found in response. Raw response: " + (text.slice(0, 100) || "empty"));
 }
 
 function parseJsonPayload(rawText) {
@@ -384,14 +403,24 @@ function validatePayload(payload, primary) {
   if (!Array.isArray(payload.similar) || payload.similar.length !== 5) {
     errors.push("similar must be an array with 5 items.");
   }
-  if (!payload.example || typeof payload.example !== "string") {
-    errors.push("example must be a string with 6 lines.");
+  if (!payload.example) {
+    errors.push("example field is missing.");
   } else {
-    const lines = payload.example.split("\n").filter((line) => line.trim());
-    const validLines =
-      lines.length === 6 && lines.every((line) => /^(A:|B:)/.test(line));
-    if (!validLines) {
-      errors.push("example must have 6 lines starting with A: or B:.");
+    let lines = [];
+    if (Array.isArray(payload.example)) {
+      lines = payload.example.map((l) => l.trim()).filter((l) => l);
+    } else if (typeof payload.example === "string") {
+      lines = payload.example.split("\n").map((l) => l.trim()).filter((l) => l);
+    } else {
+      errors.push("example must be a string or an array of strings.");
+    }
+
+    if (lines.length > 0) {
+      const validLines =
+        lines.length === 6 && lines.every((line) => /^(A:|B:)/.test(line));
+      if (!validLines) {
+        errors.push("example must have 6 lines starting with A: or B:.");
+      }
     }
   }
   if (!payload.japanese || typeof payload.japanese !== "string") {
@@ -477,6 +506,49 @@ async function callGemini({ apiKey, model, temperature, prompt }) {
     throw new Error("Gemini response was empty.");
   }
   return text;
+}
+
+async function callVertexAI({ model, temperature, prompt }) {
+  console.log("Calling Vertex AI for model:", model);
+  const generativeModel = getGenerativeModel(vertexAI, { 
+    model,
+    generationConfig: {
+      temperature,
+      maxOutputTokens: 4096,
+      response_mime_type: "application/json"
+    },
+    safetySettings: [
+      { category: HarmCategory.HATE_SPEECH, threshold: HarmBlockThreshold.BLOCK_NONE },
+      { category: HarmCategory.SEXUALLY_EXPLICIT, threshold: HarmBlockThreshold.BLOCK_NONE },
+      { category: HarmCategory.HARASSMENT, threshold: HarmBlockThreshold.BLOCK_NONE },
+      { category: HarmCategory.DANGEROUS_CONTENT, threshold: HarmBlockThreshold.BLOCK_NONE },
+    ]
+  });
+
+  try {
+    const result = await generativeModel.generateContent(prompt);
+    const response = await result.response;
+    
+    // Log full response for debugging
+    console.log("Vertex AI Debug Response:", response);
+    
+    const candidate = response.candidates && response.candidates[0];
+    if (candidate) {
+      console.log("Finish Reason:", candidate.finishReason);
+    }
+    
+    if (!response.candidates || response.candidates.length === 0) {
+      console.error("Vertex AI returned no candidates.");
+      throw new Error("No candidates returned from model.");
+    }
+
+    const text = response.text();
+    console.log("Vertex AI Raw Text Length:", text.length);
+    return text;
+  } catch (err) {
+    console.error("Vertex AI Call Error:", err);
+    throw err;
+  }
 }
 
 async function handleCheck() {
@@ -606,6 +678,9 @@ async function handleGenerate() {
     }
     
     console.log("Gemini raw response length:", rawText?.length);
+    if (!rawText || rawText.length === 0) {
+      throw new Error("Primary generation returned an empty response.");
+    }
     const payload = parseJsonPayload(rawText);
 
     const reviewPrompt = buildReviewPrompt(
@@ -616,23 +691,34 @@ async function handleGenerate() {
     console.log("Calling Gemini for review...");
     
     let reviewRawText;
-    if (useVertex) {
-      reviewRawText = await callVertexAI({ 
-        model, 
-        temperature: Math.max(0.2, temperature - 0.2), 
-        prompt: reviewPrompt 
-      });
-    } else {
-      reviewRawText = await callGemini({ 
-        apiKey, 
-        model, 
-        temperature: Math.max(0.2, temperature - 0.2), 
-        prompt: reviewPrompt 
-      });
+    try {
+      if (useVertex) {
+        reviewRawText = await callVertexAI({ 
+          model, 
+          temperature: Math.max(0.1, temperature - 0.2), 
+          prompt: reviewPrompt 
+        });
+      } else {
+        reviewRawText = await callGemini({ 
+          apiKey, 
+          model, 
+          temperature: Math.max(0.1, temperature - 0.2), 
+          prompt: reviewPrompt 
+        });
+      }
+      console.log("Gemini review response length:", reviewRawText?.length);
+    } catch (err) {
+      console.warn("Consistency review failed:", err);
+      appendStatusLine("Consistency review failed. Using initial result.");
+      reviewRawText = ""; // Fallback
     }
-    console.log("Gemini review response length:", reviewRawText?.length);
 
-    const reviewedPayload = parseJsonPayload(reviewRawText);
+    let reviewedPayload;
+    if (reviewRawText && reviewRawText.length > 0) {
+      reviewedPayload = parseJsonPayload(reviewRawText);
+    } else {
+      reviewedPayload = payload;
+    }
     jsonOutput.value = JSON.stringify(reviewedPayload, null, 2);
 
     const errors = validatePayload(reviewedPayload, primary);
@@ -752,9 +838,11 @@ async function handleSave() {
       vietnamese: payload.vietnamese,
     };
 
-    await addDoc(expressionsRef, record);
-    appendStatusLine(`Saved to Firestore with id ${nextId}.`);
-    setStatusMessage(saveMessage, "Saved successfully.", "success");
+    const paddedId = String(nextId).padStart(4, "0");
+    await setDoc(doc(expressionsRef, `expression_${paddedId}`), record);
+    appendStatusLine(`Saved to Firestore successfully with ID [expression_${paddedId}].`);
+    appendStatusLine(`데이터 동기화가 필요합니다. 입력창에 'forcedownload'를 입력하거나 Antigravity에게 'sync'를 요청하세요.`);
+    setStatusMessage(saveMessage, "Sync Required: Type 'forcedownload' to sync.", "success");
     saveBtn.disabled = true;
 
     state.primaries.push({ raw: primary, normalized: normalizeText(primary) });
