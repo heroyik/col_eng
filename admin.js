@@ -27,10 +27,10 @@ import {
   HarmBlockThreshold,
 } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-vertexai.js";
 
-// Firebase configuration from config.js
+// Firebase configuration from env_config.js
 const firebaseConfig = window.COL_ENG_CONFIG?.FIREBASE_CONFIG;
 if (!firebaseConfig) {
-  console.error("Firebase configuration missing! Make sure config.js is loaded.");
+  console.error("Firebase configuration missing! Make sure env_config.js is loaded.");
 }
 
 const app = initializeApp(firebaseConfig);
@@ -657,9 +657,6 @@ async function handleGenerate() {
         temperature: Math.max(0.1, temperature - 0.2), 
         prompt: reviewPrompt 
       });
-          temperature: Math.max(0.1, temperature - 0.2), 
-          prompt: reviewPrompt 
-        });
       }
       console.log("Gemini review response length:", reviewRawText?.length);
     } catch (err) {
