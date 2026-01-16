@@ -1,4 +1,4 @@
-const APP_VERSION = "20260117.05";
+const APP_VERSION = "20260117.06";
 console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
@@ -42,14 +42,14 @@ let debounceTimer;
 
 // DOM Elements
 const searchInput = document.getElementById("searchInput");
-const resultsContainer = document.getElementById("results");
+const resultsContainer = document.getElementById("resultsContainer"); // Fixed ID
 const loadingState = document.getElementById("loadingState");
 const loadingMessage = document.getElementById("loadingMessage");
 const errorState = document.getElementById("errorState");
 const noResultsState = document.getElementById("noResultsState");
 const initialState = document.getElementById("initialState");
 const resultCount = document.getElementById("resultCount");
-const dailyExpressionContainer = document.getElementById("dailyExpression");
+const dailyExpressionContainer = document.getElementById("dailyExpressionContainer"); // Fixed ID
 const initialStateMessage = document.getElementById("initialStateMessage");
 const statsDisplay = document.getElementById("statsDisplay");
 const progressContainer = document.getElementById("progressContainer");
