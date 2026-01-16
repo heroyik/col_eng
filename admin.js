@@ -1,4 +1,4 @@
-const APP_VERSION = "2026.01.13.1";
+const APP_VERSION = "2026.01.16.6";
 console.info(`COL_ENG Intake App Version: ${APP_VERSION}`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
@@ -13,12 +13,12 @@ import {
   addDoc,
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 import {
-  getAuth,
-  GoogleAuthProvider,
-  signInWithPopup,
-  signOut,
   onAuthStateChanged,
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+import {
+  getVertexAI,
+  getGenerativeModel,
+} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-vertexai-preview.js";
 
 const firebaseConfig = {
   projectId: "engdb-11b7f",
@@ -34,6 +34,7 @@ const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const expressionsRef = collection(db, "EnglishExpressions");
 const auth = getAuth(app);
+const vertexAI = getVertexAI(app);
 
 const primaryInput = document.getElementById("primaryInput");
 const checkBtn = document.getElementById("checkBtn");
@@ -59,7 +60,18 @@ const ADMIN_EMAIL = "heroyik@gmail.com";
 const CONFIG_KEY = "COL_ENG_CONFIG";
 const STORAGE_KEY = "GEMINI_API_KEY";
 
-let API_KEY = window[CONFIG_KEY]?.GEMINI_API_KEY || localStorage.getItem(STORAGE_KEY) || "";
+function getApiKey() {
+  const windowKey = window[CONFIG_KEY]?.GEMINI_API_KEY;
+  const storageKey = localStorage.getItem(STORAGE_KEY);
+  console.log("API Key Trace:", { 
+    fromWindow: !!windowKey, 
+    fromStorage: !!storageKey,
+    searchKey: STORAGE_KEY 
+  });
+  return windowKey || storageKey || "";
+}
+
+let API_KEY = getApiKey();
 
 const state = {
   primaries: [],
@@ -71,6 +83,7 @@ let isAuthorized = false;
 
 function updateApiKeyStatus() {
   if (!apiKeyStatus) return;
+  const currentKey = getApiKey();
   if (window[CONFIG_KEY]?.GEMINI_API_KEY) {
     apiKeyStatus.textContent = "API key loaded from GitHub Secrets.";
     apiKeyStatus.className = "hint success";
@@ -78,8 +91,8 @@ function updateApiKeyStatus() {
     apiKeyStatus.textContent = "API key loaded from developer storage.";
     apiKeyStatus.className = "hint success";
   } else {
-    apiKeyStatus.textContent = "";
-    apiKeyStatus.className = "hint";
+    apiKeyStatus.textContent = "API key missing. Check console for trace.";
+    apiKeyStatus.className = "hint warning";
   }
 }
 
@@ -327,19 +340,28 @@ function extractResponseText(data) {
   ) {
     return "";
   }
+  if (candidate.finishReason && candidate.finishReason !== "STOP") {
+    console.warn("Gemini Finish Reason:", candidate.finishReason);
+    if (candidate.safetyRatings) {
+      console.warn("Safety Ratings:", candidate.safetyRatings);
+    }
+  }
   const textPart = candidate.content.parts.find(
     (part) => typeof part.text === "string"
   );
-  return textPart ? textPart.text : "";
+  const text = textPart ? textPart.text : "";
+  console.log("Gemini Raw Text (truncated):", text.slice(0, 200) + (text.length > 200 ? "..." : ""));
+  return text;
 }
 
 function extractJson(text) {
-  const start = text.indexOf("{");
-  const end = text.lastIndexOf("}");
-  if (start === -1 || end === -1 || start >= end) {
-    throw new Error("No JSON object found in response.");
+  // Support accidental markdown wrap
+  const jsonMatch = text.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    console.error("No JSON block found in text:", text);
+    throw new Error("No JSON object found in response. Raw response: " + (text.slice(0, 100) || "empty"));
   }
-  return text.slice(start, end + 1);
+  return jsonMatch[0];
 }
 
 function parseJsonPayload(rawText) {
@@ -438,7 +460,8 @@ async function callGemini({ apiKey, model, temperature, prompt }) {
       ],
       generationConfig: {
         temperature,
-        maxOutputTokens: 900,
+        maxOutputTokens: 1500,
+        response_mime_type: "application/json"
       },
     }),
   });
@@ -506,7 +529,9 @@ async function handleCheck() {
 }
 
 async function handleGenerate() {
+  console.log("handleGenerate started");
   if (!isAuthorized) {
+    console.warn("Not authorized");
     setStatusMessage(
       matchMessage,
       "Please sign in with the admin account first.",
@@ -515,10 +540,11 @@ async function handleGenerate() {
     return;
   }
   const primary = primaryInput.value.trim();
-  const apiKey = window[CONFIG_KEY]?.GEMINI_API_KEY || localStorage.getItem(STORAGE_KEY) || "";
+  const apiKey = getApiKey();
   const model = modelInput.value;
   const temperature = Number(temperatureInput.value);
 
+  console.log("Input parameters:", { primary, hasApiKey: !!apiKey, model, temperature });
   setStatusMessage(saveMessage, "", "");
 
   if (!primary) {
@@ -530,6 +556,7 @@ async function handleGenerate() {
     return;
   }
   if (!apiKey) {
+    console.warn("API key missing");
     setStatusMessage(
       matchMessage,
       "Google AI Studio API key is missing. For local testing, set GEMINI_API_KEY in config.js or localStorage.",
@@ -543,9 +570,11 @@ async function handleGenerate() {
   }
 
   try {
+    console.log("Loading primaries...");
     await loadPrimaries();
     const match = findSimilarMatch(primary);
     if (match) {
+      console.log("Match found:", match);
       setStatusMessage(
         matchMessage,
         `A similar expression already exists: "${match}"`,
@@ -554,11 +583,29 @@ async function handleGenerate() {
       return;
     }
 
-    generateBtn.disabled = true;
-    appendStatusLine("Generating JSON with Gemini...");
+    const isVertexModel = model.includes("pro") || model.includes("preview");
+    const useVertex = isVertexModel && isAuthorized;
+    
+    if (useVertex) {
+      appendStatusLine(`Using Gemini 3 Pro (Vertex AI / Account: ${ADMIN_EMAIL})`);
+    } else {
+      if (!apiKey) {
+        console.warn("API key missing for non-Vertex model");
+        setStatusMessage(matchMessage, "API key missing for this model.", "warning");
+        return;
+      }
+      appendStatusLine(`Using ${model} (Gemini API Key)`);
+    }
 
     const prompt = buildGenerationPrompt(primary);
-    const rawText = await callGemini({ apiKey, model, temperature, prompt });
+    let rawText;
+    if (useVertex) {
+      rawText = await callVertexAI({ model, temperature, prompt });
+    } else {
+      rawText = await callGemini({ apiKey, model, temperature, prompt });
+    }
+    
+    console.log("Gemini raw response length:", rawText?.length);
     const payload = parseJsonPayload(rawText);
 
     const reviewPrompt = buildReviewPrompt(
@@ -566,18 +613,31 @@ async function handleGenerate() {
       JSON.stringify(payload, null, 2)
     );
     appendStatusLine("Running consistency review...");
-    const reviewedText = await callGemini({
-      apiKey,
-      model,
-      temperature: Math.max(0.2, temperature - 0.2),
-      prompt: reviewPrompt,
-    });
+    console.log("Calling Gemini for review...");
+    
+    let reviewRawText;
+    if (useVertex) {
+      reviewRawText = await callVertexAI({ 
+        model, 
+        temperature: Math.max(0.2, temperature - 0.2), 
+        prompt: reviewPrompt 
+      });
+    } else {
+      reviewRawText = await callGemini({ 
+        apiKey, 
+        model, 
+        temperature: Math.max(0.2, temperature - 0.2), 
+        prompt: reviewPrompt 
+      });
+    }
+    console.log("Gemini review response length:", reviewRawText?.length);
 
-    const reviewedPayload = parseJsonPayload(reviewedText);
+    const reviewedPayload = parseJsonPayload(reviewRawText);
     jsonOutput.value = JSON.stringify(reviewedPayload, null, 2);
 
     const errors = validatePayload(reviewedPayload, primary);
     if (errors.length > 0) {
+      console.warn("Validation errors:", errors);
       setStatusMessage(
         matchMessage,
         `Generated JSON needs edits: ${errors.join(" ")}`,
@@ -585,6 +645,7 @@ async function handleGenerate() {
       );
       saveBtn.disabled = true;
     } else {
+      console.log("Generation and review successful");
       setStatusMessage(
         matchMessage,
         "Generation complete. JSON looks valid.",
@@ -593,8 +654,8 @@ async function handleGenerate() {
       saveBtn.disabled = false;
     }
   } catch (error) {
-    console.error(error);
-    setStatusMessage(matchMessage, error.message, "error");
+    console.error("handleGenerate error:", error);
+    setStatusMessage(matchMessage, `Error: ${error.message}`, "error");
     appendStatusLine(`Error: ${error.message}`);
   } finally {
     generateBtn.disabled = false;
