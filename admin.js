@@ -61,20 +61,20 @@ const ESTIMATED_TOTAL = 40000;
 const BATCH_SIZE = 500;
 const ADMIN_EMAIL = "heroyik@gmail.com";
 const CONFIG_KEY = "COL_ENG_CONFIG";
-const STORAGE_KEY = "GEMINI_API_KEY";
+// const STORAGE_KEY = "GEMINI_API_KEY"; // DEPRECATED
 
-function getApiKey() {
-  const windowKey = window[CONFIG_KEY]?.GEMINI_API_KEY;
-  const storageKey = localStorage.getItem(STORAGE_KEY);
-  console.log("API Key Trace:", { 
-    fromWindow: !!windowKey, 
-    fromStorage: !!storageKey,
-    searchKey: STORAGE_KEY 
-  });
-  return windowKey || storageKey || "";
-}
-
-let API_KEY = getApiKey();
+// function getApiKey() {
+//   const windowKey = window[CONFIG_KEY]?.GEMINI_API_KEY;
+//   const storageKey = localStorage.getItem(STORAGE_KEY);
+//   console.log("API Key Trace:", { 
+//     fromWindow: !!windowKey, 
+//     fromStorage: !!storageKey,
+//     searchKey: STORAGE_KEY 
+//   });
+//   return windowKey || storageKey || "";
+// }
+//
+// let API_KEY = getApiKey();
 
 const state = {
   primaries: [],
@@ -86,15 +86,14 @@ let isAuthorized = false;
 
 function updateApiKeyStatus() {
   if (!apiKeyStatus) return;
-  const currentKey = getApiKey();
-  if (window[CONFIG_KEY]?.GEMINI_API_KEY) {
-    apiKeyStatus.textContent = "API key loaded from GitHub Secrets.";
-    apiKeyStatus.className = "hint success";
-  } else if (localStorage.getItem(STORAGE_KEY)) {
-    apiKeyStatus.textContent = "API key loaded from developer storage.";
+  // Legacy API Key check removed.
+  // We now rely on Firebase Auth + Vertex AI SDK.
+  
+  if (isAuthorized) {
+    apiKeyStatus.textContent = "Authorized for Vertex AI.";
     apiKeyStatus.className = "hint success";
   } else {
-    apiKeyStatus.textContent = "API key missing. Check console for trace.";
+    apiKeyStatus.textContent = "Sign in required for generation.";
     apiKeyStatus.className = "hint warning";
   }
 }
@@ -600,38 +599,23 @@ async function handleGenerate() {
   console.log("handleGenerate started");
   if (!isAuthorized) {
     console.warn("Not authorized");
-    setStatusMessage(
-      matchMessage,
-      "Please sign in with the admin account first.",
-      "warning"
-    );
+    setStatusMessage(matchMessage, "Please sign in with the admin account first.", "warning");
     return;
   }
   const primary = primaryInput.value.trim();
-  const apiKey = getApiKey();
+  // const apiKey = getApiKey(); // REMOVED
   const model = modelInput.value;
   const temperature = Number(temperatureInput.value);
 
-  console.log("Input parameters:", { primary, hasApiKey: !!apiKey, model, temperature });
+  console.log("Input parameters:", { primary, isAuthorized, model, temperature });
   setStatusMessage(saveMessage, "", "");
 
   if (!primary) {
-    setStatusMessage(
-      matchMessage,
-      "Please enter a primary expression.",
-      "warning"
-    );
+    setStatusMessage(matchMessage, "Please enter a primary expression.", "warning");
     return;
   }
-  if (!apiKey) {
-    console.warn("API key missing");
-    setStatusMessage(
-      matchMessage,
-      "Google AI Studio API key is missing. For local testing, set GEMINI_API_KEY in config.js or localStorage.",
-      "warning"
-    );
-    return;
-  }
+  
+  // Checking model
   if (!model) {
     setStatusMessage(matchMessage, "Model is required.", "warning");
     return;
@@ -643,35 +627,17 @@ async function handleGenerate() {
     const match = findSimilarMatch(primary);
     if (match) {
       console.log("Match found:", match);
-      setStatusMessage(
-        matchMessage,
-        `A similar expression already exists: "${match}"`,
-        "warning"
-      );
+      setStatusMessage(matchMessage, `A similar expression already exists: "${match}"`, "warning");
       return;
     }
 
-    const isVertexModel = model.includes("pro") || model.includes("preview");
-    const useVertex = isVertexModel && isAuthorized;
-    
-    if (useVertex) {
-      appendStatusLine(`Using Gemini 3 Pro (Vertex AI / Account: ${ADMIN_EMAIL})`);
-    } else {
-      if (!apiKey) {
-        console.warn("API key missing for non-Vertex model");
-        setStatusMessage(matchMessage, "API key missing for this model.", "warning");
-        return;
-      }
-      appendStatusLine(`Using ${model} (Gemini API Key)`);
-    }
+    appendStatusLine(`Using ${model} (Vertex AI / Account: ${ADMIN_EMAIL})`);
 
     const prompt = buildGenerationPrompt(primary);
     let rawText;
-    if (useVertex) {
-      rawText = await callVertexAI({ model, temperature, prompt });
-    } else {
-      rawText = await callGemini({ apiKey, model, temperature, prompt });
-    }
+    
+    // Always use Vertex AI
+    rawText = await callVertexAI({ model, temperature, prompt });
     
     console.log("Gemini raw response length:", rawText?.length);
     if (!rawText || rawText.length === 0) {
@@ -679,25 +645,18 @@ async function handleGenerate() {
     }
     const payload = parseJsonPayload(rawText);
 
-    const reviewPrompt = buildReviewPrompt(
-      primary,
-      JSON.stringify(payload, null, 2)
-    );
+    const reviewPrompt = buildReviewPrompt(primary, JSON.stringify(payload, null, 2));
     appendStatusLine("Running consistency review...");
     console.log("Calling Gemini for review...");
     
     let reviewRawText;
     try {
-      if (useVertex) {
-        reviewRawText = await callVertexAI({ 
-          model, 
-          temperature: Math.max(0.1, temperature - 0.2), 
-          prompt: reviewPrompt 
-        });
-      } else {
-        reviewRawText = await callGemini({ 
-          apiKey, 
-          model, 
+      // Always use Vertex AI
+      reviewRawText = await callVertexAI({ 
+        model, 
+        temperature: Math.max(0.1, temperature - 0.2), 
+        prompt: reviewPrompt 
+      });
           temperature: Math.max(0.1, temperature - 0.2), 
           prompt: reviewPrompt 
         });
