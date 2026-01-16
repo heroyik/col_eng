@@ -1,4 +1,4 @@
-const APP_VERSION = "20260117.00";
+const APP_VERSION = "20260117.02";
 console.info(`COL_ENG Intake App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
@@ -809,6 +809,8 @@ async function handleSave() {
     console.error(error);
     setStatusMessage(saveMessage, "Save failed.", "error");
     appendStatusLine(`Save error: ${error.message}`);
+  } finally {
+    saveBtn.disabled = false;
   }
 }
 

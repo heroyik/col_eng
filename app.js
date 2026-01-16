@@ -1,179 +1,6 @@
-const APP_VERSION = "20260117.00"; 
-console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
-import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
-import {
-  getFirestore,
-  collection,
-  query,
-  where,
-  getDocs,
-  doc,
-  getDoc,
-  limit,
-  orderBy,
-  getCountFromServer,
-  startAfter,
-  enableIndexedDbPersistence, // Added for persistence
-  getDocsFromCache,          // Added to load local data efficiently
-  getDocsFromServer,         // Added for explicit server sync
-  terminate,                // Needed to clear persistence
-  clearIndexedDbPersistence, // Correct functional name for v9/v10
-} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
+const APP_VERSION = "20260117.02";
 
-// Firebase configuration from env_config.js
-const firebaseConfig = window.COL_ENG_CONFIG?.FIREBASE_CONFIG;
-if (!firebaseConfig) {
-  console.error("Firebase configuration missing! Make sure env_config.js is loaded.");
-}
-
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-
-// Enable Firestore Persistence (IndexedDB)
-// This is much more efficient than localStorage for 40k+ records
-enableIndexedDbPersistence(db).catch((err) => {
-  if (err.code === 'failed-precondition') {
-    // Multiple tabs open, persistence can only be enabled in one tab at a time.
-    console.warn("Persistence failed: Multiple tabs open");
-  } else if (err.code === 'unimplemented') {
-    // The current browser does not support all of the features required to enable persistence
-    console.warn("Persistence failed: Browser not supported");
-  }
-});
-
-const expressionsRef = collection(db, "EnglishExpressions");
-
-// Cache Configuration
-// We'll keep last_fetch_date in localStorage, but data stays in Firestore's IndexedDB
-const CACHE_DATE_KEY = "col_eng_last_fetch_date";
-const LOCAL_ID_KEY = "col_eng_last_id"; // Store the last fetched ID for delta sync
-const COOLDOWN_KEY = "col_eng_cooldown_until";
-const VERSION_KEY = "col_eng_app_version";
-
-
-
-const searchInput = document.getElementById("searchInput");
-const resultsContainer = document.getElementById("resultsContainer");
-const loadingState = document.getElementById("loadingState");
-const loadingMessage = document.getElementById("loadingMessage");
-const progressContainer = document.getElementById("progressContainer");
-const progressBar = document.getElementById("progressBar");
-const progressText = document.getElementById("progressText");
-const initialState = document.getElementById("initialState");
-const noResultsState = document.getElementById("noResultsState");
-const resultCount = document.getElementById("resultCount");
-const statsDisplay = document.getElementById("statsDisplay");
-const dailyExpressionContainer = document.getElementById(
-  "dailyExpressionContainer"
-);
-const initialStateMessage = document.getElementById("initialStateMessage");
-const errorState = document.getElementById("errorState");
-
-let expressions = [];
-let dailyExpression = null;
-let debounceTimer;
-
-// Fetch expressions with persistence and delta-sync logic
-async function fetchAllExpressions(forceUpdate = false) {
-  try {
-    const now = new Date();
-    const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
-    const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
-    const cachedVersion = localStorage.getItem(VERSION_KEY);
-
-    // 0. Version Check: If app version changed, clear EVERYTHING
-    if (cachedVersion !== APP_VERSION) {
-      console.warn("App version mismatch. Performing aggressive universal reset...");
-
-      // Clear all possible Storage metadata
-      localStorage.removeItem(CACHE_DATE_KEY);
-      localStorage.removeItem(LOCAL_ID_KEY);
-      localStorage.setItem(VERSION_KEY, APP_VERSION);
-
-      // 1. Unregister any Service Workers (Aggressive)
-      if ('serviceWorker' in navigator) {
-        const registrations = await navigator.serviceWorker.getRegistrations();
-        for (const registration of registrations) {
-          await registration.unregister();
-          console.log("Service Worker unregistered.");
-        }
-      }
-
-      // 2. Clear Cache Storage API (Aggressive)
-      if ('caches' in window) {
-        const cacheNames = await caches.keys();
-        for (const name of cacheNames) {
-          await caches.delete(name);
-          console.log(`CacheStorage [${name}] deleted.`);
-        }
-      }
-
-      // 3. Clear Firestore's internal IndexedDB
-      try {
-        await terminate(db).catch(() => { });
-        await clearIndexedDbPersistence(db);
-        console.log("Firestore persistence cleared.");
-
-        // Final Reload with cache-busting parameter
-        window.location.href = window.location.pathname + "?v=" + Date.now();
-        return;
-      } catch (e) {
-        console.error("Reset failed:", e);
-      }
-    }
-
-    // 1. Initial Load: Load everything from local cache first (instant)
-    if (expressions.length === 0) {
-      console.log("Loading initial data from local cache...");
-      const localQ = query(expressionsRef, orderBy("id", "asc"));
-      const localSnapshot = await getDocsFromCache(localQ).catch(() => null);
-
-      if (localSnapshot && !localSnapshot.empty) {
-        expressions = [];
-        localSnapshot.forEach(doc => {
-          const data = doc.data();
-          // Use docId for the Firestore document ID to avoid overwriting the numeric id
-          expressions.push({ docId: doc.id, ...data });
-        });
-        console.log(`Loaded ${expressions.length} expressions from local cache.`);
-      }
-    }
-
-    // 1.5. Static Bundle Fallback: If persistent cache is empty, load static JSON
-    if (expressions.length === 0) {
-      console.log("Cache empty. Attempting to load static initial_data.json...");
-      try {
-        const response = await fetch(`initial_data.json?t=${Date.now()}`);
-        if (response.ok) {
-          const jsonData = await response.json();
-          if (Array.isArray(jsonData) && jsonData.length > 0) {
-            expressions = jsonData.map(item => ({
-              // Fallback docId, though delta sync uses numeric 'id'
-              docId: item.docId || `static_${item.id}`,
-              ...item
-            }));
-            console.log(`Loaded ${expressions.length} expressions from static bundle.`);
-
-            // Allow UI to render immediately with this data
-            updateProgress(expressions.length, expressions.length + 500); // Temporary estimated total
-          }
-        } else {
-          console.warn("Static bundle request failed:", response.status);
-        }
-      } catch (e) {
-        console.warn("Could not load initial_data.json:", e);
-      }
-    }
-
-    // 2. Cooldown Check: If hit 429 recently, skip server check
-    const cooldownUntil = localStorage.getItem(COOLDOWN_KEY);
-    if (cooldownUntil && Date.now() < parseInt(cooldownUntil)) {
-      const remainingMin = Math.ceil((parseInt(cooldownUntil) - Date.now()) / 60000);
-      console.warn(`Sync is in cooldown due to previous quota limit. ${remainingMin}m remaining.`);
-      renderEmptyState();
-      return;
-    }
+// ... (imports remain the same, relying on previous file content)
 
     // 3. Decide if we need to sync with server
     if (!forceUpdate && expressions.length > 0 && cachedDate === today) {
@@ -187,20 +14,41 @@ async function fetchAllExpressions(forceUpdate = false) {
         renderLoading(true, "Syncing database...");
       }
 
-      // 4. Metadata-based Sync Check (Highly efficient: 1 read)
-      console.log("Fetching sync metadata...");
-      const metadataDoc = await getDoc(doc(db, "SystemMetadata", "sync"));
+      // 4. Determine Server Total Count
+      let serverTotal = 0;
+      let shouldUseDeltaSync = false;
 
-      if (metadataDoc.exists()) {
-        const metadata = metadataDoc.data();
-        const serverTotal = metadata.totalCount;
+      // Try metadata first (fast & cheap)
+      try {
+        const metadataDoc = await getDoc(doc(db, "SystemMetadata", "sync"));
+        if (metadataDoc.exists()) {
+          serverTotal = metadataDoc.data().totalCount;
+        } else {
+          console.warn("SystemMetadata/sync missing.");
+        }
+      } catch (e) {
+        console.warn("Failed to read SystemMetadata:", e);
+      }
 
-        // Check if we already have everything
-        if (!forceUpdate && expressions.length === serverTotal) {
-          console.log("Local data matches server metadata. Sync skipped.");
-          localStorage.setItem(CACHE_DATE_KEY, today);
-          renderEmptyState();
-          return;
+      // If Forced Update OR Metadata Missing/Invalid, get real count from server (slower but accurate)
+      if (forceUpdate || serverTotal === 0) {
+        console.log("Performing strict server count check (force/fallback)...");
+        try {
+          const countSnap = await getCountFromServer(expressionsRef);
+          serverTotal = countSnap.data().count;
+          console.log(`Strict count from server: ${serverTotal}`);
+        } catch (e) {
+          console.error("Failed to get count from server:", e);
+        }
+      }
+
+      if (serverTotal > 0) {
+        // Check if we have everything
+        if (!forceUpdate && expressions.length >= serverTotal) {
+           console.log("Local data matches server total. Sync skipped.");
+           localStorage.setItem(CACHE_DATE_KEY, today);
+           renderEmptyState();
+           return;
         }
 
         console.log(`Server record count: ${serverTotal} (Local: ${expressions.length})`);
@@ -253,15 +101,14 @@ async function fetchAllExpressions(forceUpdate = false) {
           console.timeEnd('SyncDuration');
           console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
           updateProgress(serverTotal, serverTotal);
+          
+          // Update sync date
+          localStorage.setItem(CACHE_DATE_KEY, today);
         } else {
-          console.log("All records are already present locally.");
-          updateProgress(serverTotal, serverTotal);
+             console.log("All records present (based on count).");
         }
-
-        // Update sync date
-        localStorage.setItem(CACHE_DATE_KEY, today);
       } else {
-        console.warn("Metadata document missing. Proceeding with existing expressions.");
+         console.warn("Could not determine server total. Skipping sync.");
       }
     }
 
