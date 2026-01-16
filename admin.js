@@ -530,11 +530,6 @@ async function handleGenerate() {
     return;
   }
   if (!apiKey) {
-    setStatusMessage(
-      matchMessage,
-      "Google AI Studio API key is missing.",
-      "warning"
-    );
     return;
   }
   if (!model) {
