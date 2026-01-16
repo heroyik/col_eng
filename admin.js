@@ -1,4 +1,4 @@
-const APP_VERSION = "20260117.04";
+const APP_VERSION = "20260117.05";
 console.info(`COL_ENG Intake App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
