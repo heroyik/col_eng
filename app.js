@@ -1,6 +1,108 @@
-const APP_VERSION = "20260117.02";
+const APP_VERSION = "20260117.04"; 
+console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 // ... (imports remain the same, relying on previous file content)
+
+// Fetch expressions with persistence and delta-sync logic
+async function fetchAllExpressions(forceUpdate = false) {
+  try {
+    const now = new Date();
+    const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+    const cachedDate = localStorage.getItem(CACHE_DATE_KEY);
+    const cachedVersion = localStorage.getItem(VERSION_KEY);
+
+    // 0. Version Check: If app version changed, clear EVERYTHING
+    if (cachedVersion !== APP_VERSION) {
+      console.warn("App version mismatch. Performing aggressive universal reset...");
+
+      // Clear all possible Storage metadata
+      localStorage.removeItem(CACHE_DATE_KEY);
+      localStorage.removeItem(LOCAL_ID_KEY);
+      localStorage.setItem(VERSION_KEY, APP_VERSION);
+
+      // 1. Unregister any Service Workers (Aggressive)
+      if ('serviceWorker' in navigator) {
+        const registrations = await navigator.serviceWorker.getRegistrations();
+        for (const registration of registrations) {
+          await registration.unregister();
+          console.log("Service Worker unregistered.");
+        }
+      }
+
+      // 2. Clear Cache Storage API (Aggressive)
+      if ('caches' in window) {
+        const cacheNames = await caches.keys();
+        for (const name of cacheNames) {
+          await caches.delete(name);
+          console.log(`CacheStorage [${name}] deleted.`);
+        }
+      }
+
+      // 3. Clear Firestore's internal IndexedDB
+      try {
+        await terminate(db).catch(() => { });
+        await clearIndexedDbPersistence(db);
+        console.log("Firestore persistence cleared.");
+
+        // Final Reload with cache-busting parameter
+        window.location.href = window.location.pathname + "?v=" + Date.now();
+        return;
+      } catch (e) {
+        console.error("Reset failed:", e);
+      }
+    }
+
+    // 1. Initial Load: Load everything from local cache first (instant)
+    if (expressions.length === 0) {
+      console.log("Loading initial data from local cache...");
+      const localQ = query(expressionsRef, orderBy("id", "asc"));
+      const localSnapshot = await getDocsFromCache(localQ).catch(() => null);
+
+      if (localSnapshot && !localSnapshot.empty) {
+        expressions = [];
+        localSnapshot.forEach(doc => {
+          const data = doc.data();
+          // Use docId for the Firestore document ID to avoid overwriting the numeric id
+          expressions.push({ docId: doc.id, ...data });
+        });
+        console.log(`Loaded ${expressions.length} expressions from local cache.`);
+      }
+    }
+
+    // 1.5. Static Bundle Fallback: If persistent cache is empty, load static JSON
+    if (expressions.length === 0) {
+      console.log("Cache empty. Attempting to load static initial_data.json...");
+      try {
+        const response = await fetch(`initial_data.json?t=${Date.now()}`);
+        if (response.ok) {
+          const jsonData = await response.json();
+          if (Array.isArray(jsonData) && jsonData.length > 0) {
+            expressions = jsonData.map(item => ({
+              // Fallback docId, though delta sync uses numeric 'id'
+              docId: item.docId || `static_${item.id}`,
+              ...item
+            }));
+            console.log(`Loaded ${expressions.length} expressions from static bundle.`);
+
+            // Allow UI to render immediately with this data
+            updateProgress(expressions.length, expressions.length + 500); // Temporary estimated total
+          }
+        } else {
+          console.warn("Static bundle request failed:", response.status);
+        }
+      } catch (e) {
+        console.warn("Could not load initial_data.json:", e);
+      }
+    }
+
+    // 2. Cooldown Check: If hit 429 recently, skip server check
+    const cooldownUntil = localStorage.getItem(COOLDOWN_KEY);
+    if (cooldownUntil && Date.now() < parseInt(cooldownUntil)) {
+      const remainingMin = Math.ceil((parseInt(cooldownUntil) - Date.now()) / 60000);
+      console.warn(`Sync is in cooldown due to previous quota limit. ${remainingMin}m remaining.`);
+      renderEmptyState();
+      return;
+    }
 
     // 3. Decide if we need to sync with server
     if (!forceUpdate && expressions.length > 0 && cachedDate === today) {
