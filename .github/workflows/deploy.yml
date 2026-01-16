@@ -21,23 +21,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Inject Config into HTML (Inline)
-        run: |
-          # 1) Define the config content (single line, no newlines to silence sed issues)
-          CONFIG_CONTENT="window.COL_ENG_CONFIG={FIREBASE_CONFIG:{projectId:'engdb-11b7f',appId:'1:221994477836:web:2344c5b5230a266dd4c129',storageBucket:'engdb-11b7f.firebasestorage.app',apiKey:'${{ secrets.FIREBASE_API_KEY }}',authDomain:'engdb-11b7f.firebaseapp.com',messagingSenderId:'221994477836',measurementId:'G-QCHLDW446Y'}};"
-
-          # 2) Replace the script tag in index.html and admin.html
-          # match entire line containing env_config.js and replace it
-          sed -i "s|.*env_config.js.*|<script>${CONFIG_CONTENT}</script>|g" index.html
-          sed -i "s|.*env_config.js.*|<script>${CONFIG_CONTENT}</script>|g" admin.html
-
-          # Debug: Check if replacement happened
-          echo "Checking index.html for COL_ENG_CONFIG..."
-          grep -C 2 "COL_ENG_CONFIG" index.html || echo "WARNING: COL_ENG_CONFIG not found in index.html"
-
-          echo "Injected inline config into HTML files."
-          grep "COL_ENG_CONFIG" index.html # Debug: Verify injection
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

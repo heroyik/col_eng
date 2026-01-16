@@ -7,7 +7,7 @@ node_modules/
 service-account.json
 *.pem
 *.key
-env_config.js
+
 config.js
 
 # System
