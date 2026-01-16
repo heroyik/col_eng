@@ -1,4 +1,4 @@
-const APP_VERSION = "2026.01.16.19"; 
+const APP_VERSION = "2026.01.16.21"; 
 console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
 import {
@@ -20,16 +20,11 @@ import {
   clearIndexedDbPersistence, // Correct functional name for v9/v10
 } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
 
-// Firebase configuration
-const firebaseConfig = {
-  projectId: "engdb-11b7f",
-  appId: "1:221994477836:web:2344c5b5230a266dd4c129",
-  storageBucket: "engdb-11b7f.firebasestorage.app",
-  apiKey: "AIzaSyC-WalCvtgdBIGTUYNhnWjoFoNFAMSUi3M",
-  authDomain: "engdb-11b7f.firebaseapp.com",
-  messagingSenderId: "221994477836",
-  measurementId: "G-QCHLDW446Y",
-};
+// Firebase configuration from config.js
+const firebaseConfig = window.COL_ENG_CONFIG?.FIREBASE_CONFIG;
+if (!firebaseConfig) {
+  console.error("Firebase configuration missing! Make sure config.js is loaded.");
+}
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
