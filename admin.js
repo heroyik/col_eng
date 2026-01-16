@@ -78,8 +78,8 @@ function updateApiKeyStatus() {
     apiKeyStatus.textContent = "API key loaded from developer storage.";
     apiKeyStatus.className = "hint success";
   } else {
-    apiKeyStatus.textContent = "API key missing. Ensure GEMINI_API_KEY is set in GitHub Secrets.";
-    apiKeyStatus.className = "hint error";
+    apiKeyStatus.textContent = "";
+    apiKeyStatus.className = "hint";
   }
 }
 
@@ -487,10 +487,9 @@ async function handleCheck() {
     if (match) {
       setStatusMessage(
         matchMessage,
-        "A similar expression already exists.",
+        `A similar expression already exists: "${match}"`,
         "warning"
       );
-      appendStatusLine(`Similar match found: "${match}"`);
       return;
     }
     setStatusMessage(
@@ -549,10 +548,9 @@ async function handleGenerate() {
     if (match) {
       setStatusMessage(
         matchMessage,
-        "A similar expression already exists.",
+        `A similar expression already exists: "${match}"`,
         "warning"
       );
-      appendStatusLine(`Similar match found: "${match}"`);
       return;
     }
 
