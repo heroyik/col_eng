@@ -28,6 +28,15 @@ To ensure high reliability and minimize costs, the application implements a **Hy
 4. **Automatic Quota Cooldown**: If a `429 Resource Exhausted` error is encountered, the app automatically enters a **2-hour cooldown**, relying on local IndexedDB and the static bundle.
 5. **Optimized Search**: All search operations are performed client-side on the cached dataset.
 
+### 🛠️ Automatic Synchronization & Auto-Reload
+
+To ensure all users see the latest data without manual intervention:
+
+1.  **Smart Versioning**: The app tracks a `APP_VERSION` (e.g., `2026.01.16.21`).
+2.  **Auto-Reload**: When a user visits the site, the app checks if the version has changed. If a new version is detected, it automatically clears all local caches (Service Workers, Cache API, Firestore Persistence) and reloads the page to fetch fresh data.
+3.  **Automatic Data Sync**: Administrators can update `initial_data.json` by running `node download_data.mjs`. This script fetches the latest data from Firestore and updates the static file.
+
+
 ### 🛠️ Data Maintenance & Backup
 
 To keep the static bootstrap data up to date and maintain backups:
