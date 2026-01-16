@@ -105,3 +105,4 @@ Based on the investment strategy and learning tools designed by nIcK.
 - 2026-01-17: Bump to .05 to resolve caching issues
 - 2026-01-17: Fix DOM Element ID mismatch in app.js and bump versions to .06
 - 2026-01-17: Improve empty server state handling in app.js and bump versions to .07
+- 2026-01-17: Implement robust sync logic (query by ID) and bump to .08

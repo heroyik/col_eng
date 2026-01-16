@@ -1,4 +1,4 @@
-const APP_VERSION = "20260117.07";
+const APP_VERSION = "20260117.08";
 console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
@@ -169,62 +169,58 @@ async function fetchAllExpressions(forceUpdate = false) {
         renderLoading(true, "Syncing database...");
       }
 
-      // 4. Determine Server Total Count
-      let serverTotal = 0;
-      let shouldUseDeltaSync = false;
+      // 4. Determine if we need to sync (Robust check: Query for ANY ID > max local ID)
+      let needsSync = false;
+      let lastId = expressions.reduce((max, e) => {
+        const numericId = Number(e.id);
+        return isNaN(numericId) ? max : Math.max(max, numericId);
+      }, 0);
 
-      // Try metadata first (fast & cheap)
       try {
-        const metadataDoc = await getDoc(doc(db, "SystemMetadata", "sync"));
-        if (metadataDoc.exists()) {
-          serverTotal = metadataDoc.data().totalCount;
-        } else {
-          console.warn("SystemMetadata/sync missing.");
-        }
+          if (forceUpdate) console.log("Force update: ignoring count check, looking for new data...");
+          
+          // Check if there is anything newer than our last ID
+          const checkQuery = query(
+            expressionsRef, 
+            where("id", ">", lastId), 
+            limit(1)
+          );
+          
+          // Use server check to guarantee freshness
+          const checkSnapshot = await getDocsFromServer(checkQuery);
+          if (!checkSnapshot.empty) {
+             console.log(`Found new data (ID > ${lastId}). Triggering sync.`);
+             needsSync = true;
+          } else {
+             console.log(`No new data found on server (nothing > ${lastId}).`);
+          }
       } catch (e) {
-        console.warn("Failed to read SystemMetadata:", e);
+          console.error("Failed to check for new data:", e);
       }
 
-      // If Forced Update OR Metadata Missing/Invalid, get real count from server (slower but accurate)
-      if (forceUpdate || serverTotal === 0) {
-        console.log("Performing strict server count check (force/fallback)...");
+      if (needsSync) {
+        // Fetch Server Total for Progress Bar only (optional, don't fail if it fails)
+        let serverTotal = expressions.length; 
         try {
-          const countSnap = await getCountFromServer(expressionsRef);
-          serverTotal = countSnap.data().count;
-          console.log(`Strict count from server: ${serverTotal}`);
-        } catch (e) {
-          console.error("Failed to get count from server:", e);
-        }
-      }
+           const countSnap = await getCountFromServer(expressionsRef);
+           serverTotal = countSnap.data().count;
+           console.log(`Server Total Estimate: ${serverTotal}`);
+        } catch(e) { console.warn("Could not get total count for progress bar", e); }
+        
+        // Use a heuristic for progress if serverTotal is smaller than local (delta-only server)
+        const progressTotal = Math.max(serverTotal, expressions.length + 10); 
+        updateProgress(expressions.length, progressTotal);
 
-      if (serverTotal > 0) {
-        // Check if we have everything
-        if (!forceUpdate && expressions.length >= serverTotal) {
-           console.log("Local data matches server total. Sync skipped.");
-           localStorage.setItem(CACHE_DATE_KEY, today);
-           renderEmptyState();
-           return;
-        }
+        // 5. Delta Fetch: Only download missing records
+        const existingIds = new Set(expressions.map(e => e.id));
+        console.log(`Fetching new records starting from ID > ${lastId}...`);
+        console.time('SyncDuration');
 
-        console.log(`Server record count: ${serverTotal} (Local: ${expressions.length})`);
-        updateProgress(expressions.length, serverTotal);
+        let fetchedCount = 0;
+        let processedCount = expressions.length;
+        const BATCH_SIZE = 500;
 
-        if (expressions.length < serverTotal) {
-          // 5. Delta Fetch: Only download missing records
-          let lastId = expressions.reduce((max, e) => {
-            const numericId = Number(e.id);
-            return isNaN(numericId) ? max : Math.max(max, numericId);
-          }, 0);
-
-          const existingIds = new Set(expressions.map(e => e.id));
-          console.log(`Fetching new records starting from ID > ${lastId}...`);
-          console.time('SyncDuration');
-
-          let fetchedCount = 0;
-          let processedCount = expressions.length;
-          const BATCH_SIZE = 500;
-
-          while (true) {
+        while (true) {
             const q = query(
               expressionsRef,
               orderBy("id", "asc"),
@@ -249,21 +245,22 @@ async function fetchAllExpressions(forceUpdate = false) {
             });
 
             lastId = batchMaxId;
-            updateProgress(Math.min(processedCount, serverTotal), serverTotal);
-            console.log(`Synced batch: ${processedCount}/${serverTotal}... (Last ID: ${lastId})`);
-          }
-
-          console.timeEnd('SyncDuration');
-          console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
-          updateProgress(serverTotal, serverTotal);
-          
-          // Update sync date
-          localStorage.setItem(CACHE_DATE_KEY, today);
-        } else {
-             console.log("All records present (based on count).");
+            updateProgress(Math.min(processedCount, progressTotal), progressTotal);
+            console.log(`Synced batch: ${processedCount}/${progressTotal}... (Last ID: ${lastId})`);
         }
+
+        console.timeEnd('SyncDuration');
+        if (fetchedCount > 0) {
+            console.log(`Delta sync complete. Fetched ${fetchedCount} new records.`);
+            localStorage.setItem(CACHE_DATE_KEY, today);
+        } else {
+            console.log("No actual new records fetched after sync.");
+        }
+        updateProgress(progressTotal, progressTotal);
       } else {
-         console.log("Server reports 0 records. Assuming database is empty or new.");
+         console.log("Database matches local state.");
+         if (!forceUpdate) localStorage.setItem(CACHE_DATE_KEY, today);
+         renderEmptyState();
       }
     }
 
