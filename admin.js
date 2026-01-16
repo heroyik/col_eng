@@ -657,7 +657,6 @@ async function handleGenerate() {
         temperature: Math.max(0.1, temperature - 0.2), 
         prompt: reviewPrompt 
       });
-      }
       console.log("Gemini review response length:", reviewRawText?.length);
     } catch (err) {
       console.warn("Consistency review failed:", err);
