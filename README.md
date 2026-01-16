@@ -74,10 +74,8 @@ The application uses Google AI Studio (Gemini) API keys for generating expressio
     -   Go to your repository **Settings** > **Secrets and variables** > **Actions**.
     -   Add a new repository secret named `GEMINI_API_KEY`.
     -   The GitHub Action will automatically inject this key into the application on every deployment.
-2.  **Local Storage (For Maintenance)**:
-    -   Open the `admin.html` page.
-    -   Enter your API key in the **Manual API Key** field.
-    -   The key will be saved securely in your browser's local storage and used as a fallback if the GitHub Secret is not available.
+2.  **Developer Storage (Optional)**:
+    -   While the UI input has been removed for security, developers can still manually set the key in local storage (`localStorage.setItem('GEMINI_API_KEY', 'your-key')`) for testing without a full deployment.
 
 ## 🛠️ Maintenance Scripts
 

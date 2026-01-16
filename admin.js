@@ -72,13 +72,13 @@ let isAuthorized = false;
 function updateApiKeyStatus() {
   if (!apiKeyStatus) return;
   if (window[CONFIG_KEY]?.GEMINI_API_KEY) {
-    apiKeyStatus.textContent = "API key loaded from GitHub environment config.";
+    apiKeyStatus.textContent = "API key loaded from GitHub Secrets.";
     apiKeyStatus.className = "hint success";
   } else if (localStorage.getItem(STORAGE_KEY)) {
-    apiKeyStatus.textContent = "API key loaded from local storage.";
+    apiKeyStatus.textContent = "API key loaded from developer storage.";
     apiKeyStatus.className = "hint success";
   } else {
-    apiKeyStatus.textContent = "API key missing. Enter it below or set in GitHub Secrets.";
+    apiKeyStatus.textContent = "API key missing. Ensure GEMINI_API_KEY is set in GitHub Secrets.";
     apiKeyStatus.className = "hint error";
   }
 }
@@ -704,21 +704,6 @@ async function handleSave() {
     setStatusMessage(saveMessage, "Save failed.", "error");
     appendStatusLine(`Save error: ${error.message}`);
   }
-}
-
-function saveApiKey(key) {
-  const trimmed = key.trim();
-  if (trimmed) {
-    localStorage.setItem(STORAGE_KEY, trimmed);
-    API_KEY = trimmed;
-    updateApiKeyStatus();
-    appendStatusLine("API key saved to local storage.");
-  }
-}
-
-const apiKeyInput = document.getElementById("apiKeyInput");
-if (apiKeyInput) {
-  apiKeyInput.addEventListener("change", (e) => saveApiKey(e.target.value));
 }
 
 checkBtn.addEventListener("click", handleCheck);
