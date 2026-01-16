@@ -20,10 +20,10 @@ import {
   clearIndexedDbPersistence, // Correct functional name for v9/v10
 } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
 
-// Firebase configuration from config.js
+// Firebase configuration from env_config.js
 const firebaseConfig = window.COL_ENG_CONFIG?.FIREBASE_CONFIG;
 if (!firebaseConfig) {
-  console.error("Firebase configuration missing! Make sure config.js is loaded.");
+  console.error("Firebase configuration missing! Make sure env_config.js is loaded.");
 }
 
 // Initialize Firebase

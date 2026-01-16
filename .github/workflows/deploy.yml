@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create config.js from Secrets
+      - name: Create env_config.js from Secrets
         run: |
           echo "window.COL_ENG_CONFIG = {
             FIREBASE_CONFIG: {
@@ -33,9 +33,9 @@ jobs:
               messagingSenderId: '221994477836',
               measurementId: 'G-QCHLDW446Y'
             }
-          };" > config.js
-          echo "Created config.js with secret injection."
-          ls -la # Debug: List files to verify config.js exists
+          };" > env_config.js
+          echo "Created env_config.js with secret injection."
+          ls -la # Debug: List files to verify env_config.js exists
           rm .gitignore # Hack: Determine if gitignore is blocking upload
 
       - name: Setup Pages
