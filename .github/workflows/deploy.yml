@@ -35,6 +35,8 @@ jobs:
             }
           };" > config.js
           echo "Created config.js with secret injection."
+          ls -la # Debug: List files to verify config.js exists
+          rm .gitignore # Hack: Determine if gitignore is blocking upload
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
