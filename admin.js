@@ -791,6 +791,14 @@ async function handleSave() {
 
     const paddedId = String(nextId).padStart(4, "0");
     await setDoc(doc(expressionsRef, `expression_${paddedId}`), record);
+
+    // Update Metadata for Sync
+    await setDoc(doc(db, "SystemMetadata", "sync"), {
+      totalCount: nextId,
+      lastUpdatedAt: new Date().toISOString()
+    });
+    appendStatusLine("Updated SystemMetadata/sync to trigger client downloads.");
+
     appendStatusLine(`Saved to Firestore successfully with ID [expression_${paddedId}].`);
     appendStatusLine(`데이터 동기화가 필요합니다. 입력창에 'forcedownload'를 입력하거나 Antigravity에게 'sync'를 요청하세요.`);
     setStatusMessage(saveMessage, "Sync Required: Type 'forcedownload' to sync.", "success");
