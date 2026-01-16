@@ -1,7 +1,60 @@
-const APP_VERSION = "20260117.04"; 
+const APP_VERSION = "20260117.04";
 console.info(`COL_ENG App Version: ${APP_VERSION} (Firebase 11.10.0)`);
 
-// ... (imports remain the same, relying on previous file content)
+import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
+import {
+  initializeFirestore,
+  persistentLocalCache,
+  persistentMultipleTabManager,
+  collection,
+  getDocs,
+  getDoc,
+  doc,
+  setDoc,
+  getDocsFromCache,
+  getDocsFromServer,
+  query,
+  orderBy,
+  limit,
+  where,
+  terminate,
+  clearIndexedDbPersistence,
+  getCountFromServer
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
+import { getAuth, signInAnonymously, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js";
+
+const firebaseConfig = window.COL_ENG_CONFIG.FIREBASE_CONFIG;
+const app = initializeApp(firebaseConfig);
+const db = initializeFirestore(app, {
+  localCache: persistentLocalCache({ tabManager: persistentMultipleTabManager() })
+});
+const auth = getAuth(app);
+const expressionsRef = collection(db, "expressions");
+
+const CACHE_DATE_KEY = "col_eng_last_cache_date";
+const VERSION_KEY = "col_eng_app_version";
+const LOCAL_ID_KEY = "col_eng_last_id";
+const COOLDOWN_KEY = "col_eng_quota_cooldown";
+
+let expressions = [];
+let dailyExpression = null;
+let debounceTimer;
+
+// DOM Elements
+const searchInput = document.getElementById("searchInput");
+const resultsContainer = document.getElementById("results");
+const loadingState = document.getElementById("loadingState");
+const loadingMessage = document.getElementById("loadingMessage");
+const errorState = document.getElementById("errorState");
+const noResultsState = document.getElementById("noResultsState");
+const initialState = document.getElementById("initialState");
+const resultCount = document.getElementById("resultCount");
+const dailyExpressionContainer = document.getElementById("dailyExpression");
+const initialStateMessage = document.getElementById("initialStateMessage");
+const statsDisplay = document.getElementById("statsDisplay");
+const progressContainer = document.getElementById("progressContainer");
+const progressBar = document.getElementById("progressBar");
+const progressText = document.getElementById("progressText");
 
 // Fetch expressions with persistence and delta-sync logic
 async function fetchAllExpressions(forceUpdate = false) {
