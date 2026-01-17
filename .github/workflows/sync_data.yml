@@ -1,0 +1,65 @@
+name: Sync Data from Firestore
+
+on:
+  repository_dispatch:
+    types: [sync_data]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Install Dependencies
+        run: |
+          npm install
+
+      - name: Fetch Data from Firestore
+        run: |
+          node download_data.mjs
+        env:
+          PROJECT_ID: "engdb-11b7f"
+
+      - name: Update App Version and Cache Busting
+        run: |
+          NEW_VERSION=$(date +'%Y%m%d.%H%M')
+          sed -i "s/const APP_VERSION = \".*\";/const APP_VERSION = \"$NEW_VERSION\";/" app.js
+          sed -i "s/const APP_VERSION = \".*\";/const APP_VERSION = \"$NEW_VERSION\";/" admin.js
+          echo "Updated APP_VERSION to $NEW_VERSION"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add initial_data.json app.js admin.js
+          git commit -m "Auto-sync Firestore data and update version [skip ci]" || echo "No changes to commit"
+          git push origin master
+
+      - name: Update Firestore Metadata Version
+        run: |
+          # Use a small node script to update Firestore version doc
+          echo "const { initializeApp } = require('firebase-admin/app');
+          const { getFirestore } = require('firebase-admin/firestore');
+          initializeApp({ projectId: 'engdb-11b7f' });
+          const db = getFirestore();
+          db.collection('metadata').doc('current_config').set({ version: '$(date +'%Y%m%d.%H%M')' }, { merge: true })
+            .then(() => console.log('Firestore metadata version updated'))
+            .catch(e => console.error(e));" > update_version.js
+
+          # Install firebase-admin if not present (usually fast)
+          npm install firebase-admin
+          node update_version.js
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}

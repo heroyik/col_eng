@@ -28,13 +28,30 @@ To ensure high reliability and minimize costs, the application implements a **Hy
 4. **Automatic Quota Cooldown**: If a `429 Resource Exhausted` error is encountered, the app automatically enters a **2-hour cooldown**, relying on local IndexedDB and the static bundle.
 5. **Optimized Search**: All search operations are performed client-side on the cached dataset.
 
-### 🛠️ Automatic Synchronization & Auto-Reload
+### 🛠️ Automated Synchronization & Real-time Cache-Busting
 
-To ensure all users see the latest data without manual intervention:
+The app now features a fully automated data synchronization pipeline:
 
-1.  **Smart Versioning**: The app tracks a `APP_VERSION` (e.g., `2026.01.16.21`).
-2.  **Auto-Reload**: When a user visits the site, the app checks if the version has changed. If a new version is detected, it automatically clears all local caches (Service Workers, Cache API, Firestore Persistence) and reloads the page to fetch fresh data.
-3.  **Automatic Data Sync**: Administrators can update `initial_data.json` by running `node download_data.mjs`. This script fetches the latest data from Firestore and updates the static file.
+1. **Change Detection**: Firebase Cloud Functions listen to changes in the `EnglishExpressions` collection.
+2. **Automated Build**: Cloud Functions trigger a GitHub Action (`sync_data.yml`) via `repository_dispatch`.
+3. **Data Extraction**: The GitHub Action runs `download_data.mjs` to rebuild `initial_data.json` and increments `APP_VERSION` in `app.js` and `admin.js`.
+4. **Real-time Notification**: `app.js` uses a real-time Firestore listener on `metadata/current_config` to detect the new `APP_VERSION`.
+5. **Instant Sync**: All connected clients (Mobile/PC) receive a prompt to refresh, ensuring cache consistency across all devices.
+
+#### 🔐 Setup Requirement: `GITHUB_TOKEN` & GitHub Secrets
+To enable the Cloud Function to trigger GitHub Actions and for the Action to update Firestore metadata, you must:
+
+1.  **Set Firebase Secret**:
+    ```powershell
+    npx firebase-tools login
+    npx firebase-tools functions:secrets:set GITHUB_TOKEN
+    ```
+2.  **Set GitHub Secret**: 
+    - Go to your GitHub Repo **Settings > Secrets and variables > Actions**.
+    - Add a new repository secret: **`FIREBASE_SERVICE_ACCOUNT_KEY`**.
+    - Value: Your Firebase Service Account JSON (found in Firebase Console > Project Settings > Service Accounts).
+
+*(Enter your GitHub PAT with `repo` and `workflow` scopes when prompted for GITHUB_TOKEN.)*
 
 
 ### 🛠️ Data Maintenance & Backup
@@ -107,3 +124,6 @@ Based on the investment strategy and learning tools designed by nIcK.
 - 2026-01-17: Improve empty server state handling in app.js and bump versions to .07
 - 2026-01-17: Implement robust sync logic (query by ID) and bump to .08
 - 2026-01-17: Fix Admin ID generation to start from 1484 to avoid conflict with static bundle (v.09)
+- 2026-01-17: Implement Firebase Cloud Functions for Firestore-GitHub sync
+- 2026-01-17: Implement GitHub Actions for automated static data rebuilding
+- 2026-01-17: Add real-time version listening for cross-device cache synchronization

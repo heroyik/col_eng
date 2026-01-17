@@ -19,7 +19,8 @@ import {
   where,
   terminate,
   clearIndexedDbPersistence,
-  getCountFromServer
+  getCountFromServer,
+  onSnapshot
 } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
 import { getAuth, signInAnonymously, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js";
 
@@ -712,6 +713,52 @@ function downloadCacheData() {
 
 // Initial Fetch
 fetchAllExpressions();
+
+// Real-time Version Listener for Cache Synchronization
+function setupVersionListener() {
+  const metadataRef = doc(db, "metadata", "current_config");
+  onSnapshot(metadataRef, (docSnap) => {
+    if (docSnap.exists()) {
+      const data = docSnap.data();
+      const serverVersion = data.version;
+      
+      if (serverVersion && serverVersion !== APP_VERSION) {
+        console.warn(`New version detected: ${serverVersion}. Current: ${APP_VERSION}`);
+        // Delay slightly for GitHub Pages to catch up if it was a build trigger
+        setTimeout(() => {
+          // Setting the key will trigger the reload in fetchAllExpressions on next check
+          // but we can also trigger it manually here if we want immediate action.
+          if (confirm("New data is available. Refresh to sync?")) {
+            window.hardResetManual();
+          }
+        }, 1000);
+      }
+    }
+  });
+}
+
+// Separate manual hard reset that doesn't use confirm if not needed, 
+// or just keep existing hardReset.
+window.hardResetManual = async function() {
+    localStorage.clear();
+    sessionStorage.clear();
+    if ('serviceWorker' in navigator) {
+      const regs = await navigator.serviceWorker.getRegistrations();
+      for (let r of regs) await r.unregister();
+    }
+    if ('caches' in window) {
+      const keys = await caches.keys();
+      for (let k of keys) await caches.delete(k);
+    }
+    try {
+      await terminate(db).catch(() => { });
+      await clearIndexedDbPersistence(db).catch(() => { });
+    } catch (e) { }
+    window.location.href = window.location.pathname + "?v=" + Date.now();
+};
+
+setupVersionListener();
+
 window.hardReset = async function () {
   if (confirm("This will clear all local cache, service workers, and refresh everything. Proceed?")) {
     console.warn("Hard Reset triggered manually...");
