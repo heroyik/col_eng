@@ -25208,5 +25208,90 @@
     "chinese": "别跟我顶嘴 (Bié gēn wǒ dǐngzuǐ) / 别跟我耍嘴皮子 (Bié gēn wǒ shuǎ zuǐpízi)",
     "spanish": "No me contestes mal. / No me repliques.",
     "vietnamese": "Đừng có thái độ với tôi / Bớt trả treo đi"
+  },
+  {
+    "id": 1484,
+    "primary": "brainrot",
+    "meaning": "뇌가 썩는 느낌 (도파민 중독으로 멍청해지는 기분)",
+    "similar": [
+      "My brain is turning to mush.",
+      "I'm losing brain cells.",
+      "My brain is fried.",
+      "This is mind-numbing.",
+      "I feel lobotomized."
+    ],
+    "example": "",
+    "japanese": "脳(のう)みそが溶(と)けそう / 頭(あたま)がバグる",
+    "chinese": "降智 (jiàngzhì) / 变傻 (biàn shǎ)",
+    "spanish": "Se me está friendo el cerebro / Siento que pierdo neuronas",
+    "vietnamese": "Nhũn não / Hại não / Mất não"
+  },
+  {
+    "id": 1485,
+    "primary": "rizz",
+    "meaning": "이성을 꼬시는 능력 (플러팅 스킬)",
+    "similar": [
+      "Got game",
+      "Smooth operator",
+      "Spitting game",
+      "Charisma",
+      "Sauce"
+    ],
+    "example": "",
+    "japanese": "口説(くど)き上手(じょうず) / モテる",
+    "chinese": "会撩 (huì liáo) / 魅力 (mèi lì)",
+    "spanish": "Tener labia / Ser un ligón",
+    "vietnamese": "Sát gái / Dẻo mồm / Thả thính"
+  },
+  {
+    "id": 1486,
+    "primary": "I need to vent",
+    "meaning": "나 하소연 좀 해야겠어",
+    "similar": [
+      "I gotta get this off my chest",
+      "I need to blow off some steam",
+      "Let me rant for a sec",
+      "I need to air this out",
+      "Just gotta let it all out"
+    ],
+    "example": "",
+    "japanese": "愚痴(ぐち)をこぼしたい / ストレス発散(はっさん)したい",
+    "chinese": "我需要发泄一下 (Wǒ xūyào fāxiè yīxià) / 我想吐槽一下 (Wǒ xiǎng tǔcáo yīxià)",
+    "spanish": "Necesito desahogarme / Tengo que sacar todo esto afuera",
+    "vietnamese": "Tôi cần xả stress / Tôi muốn than thở một chút / Để tôi nói cho nhẹ lòng"
+  },
+  {
+    "id": 1487,
+    "primary": "crash out",
+    "meaning": "급발진하다 / 눈이 돌아가다 (화나서 이성을 잃고 난동을 부리다)",
+    "similar": [
+      "spazz out",
+      "bug out",
+      "lose it",
+      "pop off",
+      "go ballistic"
+    ],
+    "example": "",
+    "japanese": "ブチ切(ギ)れる / 暴(あば)れ出(だ)す",
+    "chinese": "发飙 (fā biāo) / 炸毛 (zhà máo)",
+    "spanish": "perder la cabeza / volverse loco",
+    "vietnamese": "nổi điên / mất kiểm soát / nổi đóa"
+  },
+  {
+    "id": 1488,
+    "primary": "You do you",
+    "meaning": "너 좋을 대로 해 / 니 맘대로 해",
+    "similar": [
+      "Do your thing",
+      "Whatever floats your boat",
+      "Suit yourself",
+      "It's your call",
+      "To each their own"
+    ],
+    "example": "A: I think I'm gonna start putting ketchup on my tacos.\nB: Yo, that sounds absolutely disgusting.\nA: Don't knock it 'til you try it. It adds a nice tang.\nB: Nah, I'm good. That's a culinary crime in this city.\nA: Whatever, more for me then.\nB: Hey, you do you, man. Just don't make me watch.",
+    "japanese": "好(す)きにすればいい / 自分(じぶん)らしくあれ",
+    "chinese": "随你便 (suí nǐ biàn) / 你开心就好 (nǐ kāixīn jiù hǎo)",
+    "spanish": "Tú a lo tuyo / Allá tú",
+    "vietnamese": "Tùy bạn thôi / Thích gì làm nấy / Cứ làm theo ý bạn"
   }
 ]
