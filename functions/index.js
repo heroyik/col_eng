@@ -2,7 +2,11 @@ const { onDocumentWritten } = require("firebase-functions/v2/firestore");
 const axios = require("axios");
 const { logger } = require("firebase-functions");
 
-exports.synctogithub = onDocumentWritten("EnglishExpressions/{docId}", async (event) => {
+exports.synctogithub = onDocumentWritten({
+    document: "EnglishExpressions/{docId}",
+    region: "asia-northeast3",
+    secrets: ["GITHUB_TOKEN"]
+}, async (event) => {
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
     const REPO_OWNER = 'heroyik';
     const REPO_NAME = 'col_eng';
