@@ -10199,23 +10199,6 @@
     "vietnamese": "Đang hóng đây / Rửa tai ngồi nghe"
   },
   {
-    "id": 606,
-    "primary": "I can't wait.",
-    "meaning": "정말 기대돼! (못 기다리겠어)",
-    "similar": [
-      "So hyped.",
-      "Can't wait!",
-      "Stoked.",
-      "Buzzing.",
-      "Ready for it."
-    ],
-    "example": "A: The new season of that show drops tomorrow night.\nB: I can't wait, deadass! I've been waiting for a whole year.\nA: No cap, the trailer looked insane.\nB: For real, I'm ordering pizza and staying in all night.\nA: Facts, that's the only way to watch it.\nB: Word.",
-    "japanese": "待（ま）ちきれないよ。／楽（たの）しみ！",
-    "chinese": "我等不及了 (Wǒ děngbují le)",
-    "spanish": "No veo la hora / Me muero de ganas",
-    "vietnamese": "Hóng quá đi / Mong chờ mòn mỏi luôn"
-  },
-  {
     "id": 607,
     "primary": "It was a close call.",
     "meaning": "큰일 날 뻔했어. (아슬아슬했어)",
