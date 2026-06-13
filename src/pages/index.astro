@@ -1,0 +1,19 @@
+---
+import SearchApp from "../components/search/SearchApp";
+import "../styles/global.css";
+import { assetBaseUrl } from "../lib/paths";
+
+const assetBase = assetBaseUrl();
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>English Colloquial Search</title>
+    <link rel="icon" href={`${assetBase}favicon.svg`} type="image/svg+xml" />
+  </head>
+  <body>
+    <SearchApp client:only="react" />
+  </body>
+</html>

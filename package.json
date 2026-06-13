@@ -1,8 +1,30 @@
 {
+  "name": "col_eng",
+  "version": "2.0.11",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "node scripts/validate-public-firebase-env.mjs && astro build",
+    "preview": "astro preview",
+    "test:smoke": "playwright test"
+  },
   "dependencies": {
+    "@astrojs/react": "^4.4.2",
+    "@google-cloud/vertexai": "^1.12.0",
+    "@use-gesture/react": "^10.3.1",
+    "astro": "^5.16.4",
+    "firebase": "^12.14.0",
     "firebase-admin": "^13.6.0",
+    "framer-motion": "^12.40.0",
     "openai": "^6.15.0",
     "pdf-parse": "^2.4.5",
-    "pdfjs-dist": "^5.4.449"
+    "pdfjs-dist": "^5.4.449",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
   }
 }

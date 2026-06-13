@@ -1,0 +1,55 @@
+default:
+  tags:
+    - local
+
+stages:
+  - deploy
+
+pipeline_check:
+  stage: deploy
+  script:
+    - echo "CI pipeline config is valid"
+  rules:
+    - when: always
+
+pages:
+  image: node:22-alpine
+  stage: deploy
+  variables:
+    DEPLOY_PROVIDER: "gitlab"
+    PUBLIC_SITE_URL: "https://heroyik.gitlab.io"
+    PUBLIC_BASE_PATH: "/col_eng"
+  script:
+    - npm ci
+    - node --experimental-strip-types --test tests/unit/*.test.mts
+    - npm run build
+    - touch dist/.nojekyll
+  pages:
+    publish: dist
+  artifacts:
+    paths:
+      - dist
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      changes:
+      - .gitlab-ci.yml
+      - package.json
+      - package-lock.json
+      - pnpm-lock.yaml
+      - yarn.lock
+      - bun.lockb
+      - next.config.*
+      - vite.config.*
+      - astro.config.*
+      - src/**/*
+      - app/**/*
+      - pages/**/*
+      - components/**/*
+      - lib/**/*
+      - public/**/*
+      - assets/**/*
+      - data/**/*
+      - index.html
+      - "*.html"
+      - "*.css"
+      - "*.js"

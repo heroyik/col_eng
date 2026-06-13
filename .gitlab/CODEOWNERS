@@ -1,0 +1,15 @@
+# GitLab Code Owners
+
+* @heroyik
+
+README.md @heroyik
+CHANGELOG.md @heroyik
+CONTRIBUTING.md @heroyik
+SECURITY.md @heroyik
+LICENSE @heroyik
+
+src/lib/firebase.ts @heroyik
+src/lib/admin.ts @heroyik
+src/lib/sync.ts @heroyik
+firestore.rules @heroyik
+.gitlab-ci.yml @heroyik
