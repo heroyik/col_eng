@@ -9689,23 +9689,6 @@
     "vietnamese": "Ý tôi là... / Tức là..."
   },
   {
-    "id": 574,
-    "primary": "I guess so.",
-    "meaning": "그런 것 같아. (약간의 확신이 부족할 때)",
-    "similar": [
-      "Suppose so.",
-      "Probably.",
-      "Likely.",
-      "If you say so.",
-      "Seems that way."
-    ],
-    "example": "A: Is the new restaurant open yet?\nB: I guess so. I saw people going in earlier, deadass.\nA: No cap? Let's go check it out.\nB: For real, I'm down for a quick snack.\nA: Say less, I'm starving.\nB: Bet.",
-    "japanese": "多（たぶん）そうだと思う。／そんな感（かん）じかな。",
-    "chinese": "大概是吧 (Dàgài shì ba) / 我猜也是 (Wǒ cāi yěshì)",
-    "spanish": "Supongo que sí / Imagino",
-    "vietnamese": "Chắc vậy / Đoán thế"
-  },
-  {
     "id": 575,
     "primary": "I'm fine with that.",
     "meaning": "난 상관없어, 좋아. (동의할 때)",
@@ -11404,23 +11387,6 @@
     "chinese": "睡过头了 (Shuì guòtóu le)",
     "spanish": "Me quedé dormido / Se me pegaron las sábanas",
     "vietnamese": "Ngủ quên"
-  },
-  {
-    "id": 676,
-    "primary": "Underestimate",
-    "meaning": "과소평가하다",
-    "similar": [
-      "1. Sell someone short",
-      "2. Misjudge",
-      "3. Overlook",
-      "4. Play down",
-      "5. Undervalue"
-    ],
-    "example": "A: This hike looks way harder than the map said. \nB: We definitely underestimated the trail. \nA: I thought it would be a breeze. \nB: We shouldn't misjudge the steepness next time. \nA: My legs are already starting to hurt. \nB: Let's not sell the distance short; it's a long way.",
-    "japanese": "見（み）くびる／過小評価（かしょうひょうか）する",
-    "chinese": "低估 (Dīgū) / 小看 (Xiǎokàn)",
-    "spanish": "Subestimar / Menospreciar",
-    "vietnamese": "Coi thường / Đánh giá thấp"
   },
   {
     "id": 677,
