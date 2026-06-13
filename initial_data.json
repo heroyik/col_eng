@@ -7106,23 +7106,6 @@
     "vietnamese": "Đồng bọn / Kẻ tòng phạm"
   },
   {
-    "id": 419,
-    "primary": "Visit someone",
-    "meaning": "면회 가다. (병문안 가다)",
-    "similar": [
-      "Pay a visit.",
-      "Call on.",
-      "Drop by.",
-      "Check in on.",
-      "See someone."
-    ],
-    "example": "A: Where are you going?\nB: To visit someone in the hospital.\nA: Nothing serious?\nB: Just a broken leg.\nA: Sign the cast for me.\nB: Will do.",
-    "japanese": "お見舞（みま）いに行（い）く。／顔（かお）を見（み）に行（い）く。",
-    "chinese": "拜访某人 (Bàifǎng mǒurén) / 串门 (Chuànmén)",
-    "spanish": "Visitar a alguien / Ir a ver a alguien",
-    "vietnamese": "Thăm nuôi / Đi thăm bệnh"
-  },
-  {
     "id": 420,
     "primary": "I don't have it on me",
     "meaning": "지금 안 가지고 있어. (수중에 없어)",
