@@ -8942,23 +8942,6 @@
     "vietnamese": "Ở đây món nào ngon? / Quán này có gì đặc sắc?"
   },
   {
-    "id": 528,
-    "primary": "plot charts",
-    "meaning": "차트를 그리다. (데이터를 시각화하다)",
-    "similar": [
-      "Create graphs.",
-      "Visualize data.",
-      "Map it out.",
-      "Draw a chart.",
-      "Graphing."
-    ],
-    "example": "A: Yo, can you plot these charts for the meeting?\nB: Facts, I'll have them ready in like 10 minutes.\nA: Preciate it, the client really needs to see the growth trends.\nB: For real, I'll make them look extra fly, no cap.\nA: Say less, I know you got that design touch.\nB: You already know, I'm on it.",
-    "japanese": "グラフを作成する / チャートを描画する",
-    "chinese": "绘制图表 (Huìzhì túbiǎo)",
-    "spanish": "Hacer gráficos / Trazar gráficas",
-    "vietnamese": "Vẽ biểu đồ / Lập đồ thị"
-  },
-  {
     "id": 529,
     "primary": "install packages",
     "meaning": "패키지를 설치하다. (소프트웨어나 라이브러리 추가)",
