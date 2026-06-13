@@ -26398,5 +26398,22 @@
     "chinese": "我完蛋了 (wǒ wán dàn le) / 我死了 (wǒ sǐ le)",
     "spanish": "Ya valí / Estoy muerto",
     "vietnamese": "Tôi tiêu rồi / Chết tôi rồi"
+  },
+  {
+    "id": 1562,
+    "primary": "sell someone short",
+    "meaning": "과소평가하다, 얕보다",
+    "similar": [
+      "underestimate someone",
+      "undervalue someone",
+      "look down on someone",
+      "play down someone",
+      "take someone for granted"
+    ],
+    "example": "A: I don't think Jerry can handle this project.\nB: Don't sell him short; he has a lot of hidden talents.\nA: Really? He always seems so quiet and passive.\nB: Trust me, he's incredibly smart when he gets going.\nA: Alright, I'll give him a chance to lead.\nB: You won't regret it, he will surprise you.",
+    "japanese": "軽んじる (かろんじる) / 過小評価する (かしょうひょうかする)",
+    "chinese": "看不起 (kàn bu qǐ) / 低估 (dīgū)",
+    "spanish": "subestimar a alguien / menospreciar a alguien",
+    "vietnamese": "đánh giá thấp ai đó / coi thường ai đó"
   }
 ]
