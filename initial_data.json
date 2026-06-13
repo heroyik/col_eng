@@ -12715,23 +12715,6 @@
     "vietnamese": "Việc gì quan trọng làm trước / Đầu tiên là..."
   },
   {
-    "id": 756,
-    "primary": "best friend",
-    "meaning": "가장 친한 친구, 평생 가는 절친",
-    "similar": [
-      "ride-or-die",
-      "day one",
-      "bestie",
-      "main squeeze",
-      "partner in crime"
-    ],
-    "example": "A: She's been my best friend since pre-K.\nB: That's a long time to know someone.\nA: We're practically sisters at this point.\nB: Does she know all your secrets?\nA: Every single one. She's my ride-or-die.\nB: Those are the ones you keep.",
-    "japanese": "親友（しんゆう）／マブダチ",
-    "chinese": "至交 (Zhìjiāo) / 死党 (Sǐdǎng)",
-    "spanish": "Mejor amigo / Colega del alma",
-    "vietnamese": "Bạn chí cốt / Cạ cứng"
-  },
-  {
     "id": 757,
     "primary": "Off day",
     "meaning": "잘 안 풀리는 날 / 컨디션 난조인 날",
