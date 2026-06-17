@@ -1,6 +1,6 @@
 # Colloquial English
 
-Version 2.0.12
+Version 2.0.13
 
 Colloquial English is an Astro, React, TypeScript, and Firebase web app for learning authentic English expressions used in New York City. The app is built around a daily expression, fast phrase search, spaced review, Google account options, optional cloud sync, and an admin intake workflow for adding new expressions to Firestore.
 
@@ -710,6 +710,11 @@ If the symptom returns, check:
 - Safari private browsing or storage restrictions, although those should now degrade gracefully.
 
 ## Version History
+
+### 2.0.13
+
+- Added a static `index.html` at the repository root to solve 404 errors on GitHub Pages when served directly from the branch root.
+- Bumped app version to `2.0.13`.
 
 ### 2.0.12
 

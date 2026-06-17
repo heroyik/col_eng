@@ -4,6 +4,12 @@ All notable changes to Colloquial English are documented here.
 
 This project follows semantic versioning for app releases.
 
+## 2.0.13 - 2026-06-17
+
+### Added
+
+- Created a static `index.html` at the repository root to resolve 404 errors on GitHub Pages when served directly from the branch root.
+
 ## 2.0.12 - 2026-06-17
 
 ### Added
