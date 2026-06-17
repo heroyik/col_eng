@@ -4,6 +4,13 @@ All notable changes to Colloquial English are documented here.
 
 This project follows semantic versioning for app releases.
 
+## 2.0.12 - 2026-06-17
+
+### Added
+
+- Added a redirect landing page for GitHub Pages (under `DEPLOY_PROVIDER=github`) that redirects to the new GitLab Pages URL (`https://heroyik.gitlab.io/col_eng/`) after 10 seconds or instantly on button click.
+- Updated build-time Firebase validation to bypass checks for GitHub-targeted redirect builds.
+
 ## 2.0.11 - 2026-06-13
 
 ### Fixed

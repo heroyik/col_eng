@@ -1,6 +1,6 @@
 # Colloquial English
 
-Version 2.0.10
+Version 2.0.12
 
 Colloquial English is an Astro, React, TypeScript, and Firebase web app for learning authentic English expressions used in New York City. The app is built around a daily expression, fast phrase search, spaced review, Google account options, optional cloud sync, and an admin intake workflow for adding new expressions to Firestore.
 
@@ -710,6 +710,19 @@ If the symptom returns, check:
 - Safari private browsing or storage restrictions, although those should now degrade gracefully.
 
 ## Version History
+
+### 2.0.12
+
+- Added a redirect landing page for GitHub Pages (under `DEPLOY_PROVIDER=github`) that redirects to the new GitLab Pages URL (`https://heroyik.gitlab.io/col_eng/`) after 10 seconds or instantly on button click.
+- Updated build-time Firebase validation to bypass checks for GitHub-targeted redirect builds.
+- Bumped app version to `2.0.12`.
+
+### 2.0.11
+
+- Fixed Review tab not scrolling on mobile due to `touch-action: none` on study cards.
+- Refined swipe gesture handling for mobile: horizontal swipes rate the card, vertical swipes scroll the page naturally.
+- Changed card touch-action to `manipulation` to remove 300ms tap delay.
+- Bumped app version to `2.0.11`.
 
 ### 2.0.10
 

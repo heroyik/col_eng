@@ -23,6 +23,12 @@ for (const file of [".env", ".env.local"]) {
   }
 }
 
+const deployProvider = process.env.DEPLOY_PROVIDER ?? "gitlab";
+if (deployProvider === "github") {
+  console.log("[firebase-env] Bypassing Firebase env validation for GitHub Pages redirect build");
+  process.exit(0);
+}
+
 const missing = requiredEnvKeys.filter((key) => !(process.env[key] || localEnv[key]));
 
 if (missing.length > 0) {
